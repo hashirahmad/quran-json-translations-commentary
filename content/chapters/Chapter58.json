@@ -1,0 +1,950 @@
+[
+    {
+        "ch": 58,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.[4171]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                },
+                {
+                    "ref": "4171",
+                    "note": "<p><strong>Commentary:</strong></p><p>See 1:1.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 5531,
+                "topic": "Customs of: Arabs",
+                "verses": "5:104, 2:179, 3:162, 6:137-142, 7:74, 9:37, 11:57, 11:80, 16:60, 33:5, 53:10"
+            },
+            {
+                "id": 11044,
+                "topic": "Marriage: cohabitation in, <i>Nikah</i>",
+                "verses": "2:224, 2:188, 2:222, 2:223, 2:225-238, 4:20-26, 4:128, 5:6, 7:190, 16:73, 23:6-7, 24:33-34, 30:22, 33:5, 65:2-8"
+            },
+            {
+                "id": 17192,
+                "topic": "Spouse: <i>Zauj</i>: mate",
+                "verses": "2:26, 4:2, 2:36, 2:103, 2:231, 2:233, 2:235, 2:241, 4:13, 4:21, 7:20, 7:190, 13:39, 16:73, 20:118, 21:91, 23:6-7, 24:7, 25:75, 26:167, 30:22, 33:5, 33:7, 33:29, 33:38, 33:53, 33:60, 36:57, 39:7, 60:12, 64:15, 66:2, 66:4, 66:6"
+            },
+            {
+                "id": 19010,
+                "topic": "Zihar",
+                "verses": "33:5"
+            }
+        ],
+        "ar": "قَدۡ سَمِعَ  اللّٰہُ  قَوۡلَ  الَّتِیۡ تُجَادِلُکَ فِیۡ زَوۡجِہَا وَ تَشۡتَکِیۡۤ  اِلَی اللّٰہِ ٭ۖ وَ اللّٰہُ یَسۡمَعُ  تَحَاوُرَکُمَا ؕ اِنَّ اللّٰہَ  سَمِیۡعٌۢ بَصِیۡرٌ ﴿۲﴾  ",
+        "ur": "یقیناً سن لی ہے اللہ نے اس کی بات جو اپنے خاوند کے بارہ میں تجھ سے بحث کرتی اور اللہ سے شکایت کر رہی تھی جبکہ اللہ تم دونوں کی گفتگو سن رہا تھا۔ یقیناً اللہ ہمیشہ سننے والا (اور) گہری نظر رکھنے والا ہے۔",
+        "v5": {
+            "text": "Allah has indeed heard the speech of her who pleads with thee concerning her husband, and complains unto Allah. And Allah has heard your dialogue. Verily, Allah is All-Hearing, All-Seeing.[4172]",
+            "notes": [
+                {
+                    "ref": "4172",
+                    "note": "<p><strong>Commentary:</strong></p><p>The reference in the verse seems to be to Khaulah, wife of Aus bin Samit and daughter of Tha‘labah. She had become separated from her husband because the latter had called her \"mother,\" the exact words used by him being, \"thou art to me as the back of my mother.\" According to an old Arab custom all conjugal relations ceased between a man and his wife when he used these words about her. The unfortunate woman could neither demand divorce in order to contract a second marriage, nor could she enjoy conjugal rights. She remained uncared for. Khaulah came to the Holy Prophet and complained to him of the awkward situation in which she was placed, and sought his advice and help in the matter. The Holy Prophetpleaded his inability to do anything for her, as it was his wont not to give a decision in matters of this nature, unless he was guided by revelation. The revelation came, and the custom of <i>Zihar</i> was declared unlawful.</p><p>Incidentally, the verse shows that God hears the prayers and plaints of even the weakest of His servants.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 2995,
+                "topic": "Attributes of Allah: Al-‘Afw (The Effacer of sins)",
+                "verses": "4:150, 4:44, 4:100, 22:61"
+            },
+            {
+                "id": 3176,
+                "topic": "Attributes of Allah: Al-Ghafur (Most Forgiving)",
+                "verses": "22:61, 2:174, 2:183, 2:193, 2:200, 2:219, 2:226, 2:227, 2:236, 4:24, 4:44, 4:97, 4:100-101, 5:99, 8:70, 9:5, 16:111, 17:26, 17:45, 18:59, 25:7, 25:71, 33:6, 33:25, 33:51, 33:74, 34:16, 35:35, 35:42, 41:33, 42:6, 42:24, 48:15, 60:8, 60:13, 64:15, 85:15"
+            },
+            {
+                "id": 7359,
+                "topic": "Falsehood: <i>Batil</i>: <i>Zur</i>",
+                "verses": "17:82, 22:31"
+            },
+            {
+                "id": 11044,
+                "topic": "Marriage: cohabitation in, <i>Nikah</i>",
+                "verses": "2:224, 2:188, 2:222, 2:223, 2:225-238, 4:20-26, 4:128, 5:6, 7:190, 16:73, 23:6-7, 24:33-34, 30:22, 33:5, 65:2-8"
+            },
+            {
+                "id": 18789,
+                "topic": "Wives: separation of",
+                "verses": "30:22, 65:2-8, 2:227, 2:230, 2:235, 2:241, 4:20, 60:12"
+            },
+            {
+                "id": 19010,
+                "topic": "Zihar",
+                "verses": "33:5"
+            }
+        ],
+        "ar": "اَلَّذِیۡنَ یُظٰہِرُوۡنَ مِنۡکُمۡ مِّنۡ  نِّسَآئِہِمۡ مَّا ہُنَّ  اُمَّہٰتِہِمۡ ؕ اِنۡ  اُمَّہٰتُہُمۡ  اِلَّا الّٰٓیِٴۡ  وَلَدۡنَہُمۡ ؕ وَ اِنَّہُمۡ  لَیَقُوۡلُوۡنَ مُنۡکَرًا مِّنَ الۡقَوۡلِ وَ زُوۡرًا ؕ وَ اِنَّ اللّٰہَ لَعَفُوٌّ غَفُوۡرٌ ﴿۳﴾ ",
+        "ur": "تم میں سے جو لوگ اپنی بیویوں کو ماں کہہ دیتے ہیں ، وہ ان کی مائیں نہیں ہو سکتیں، ان کی مائیں تو وہی ہیں جنہوں نے ان کو جنم دیا۔ اور یقیناً وہ ایک سخت ناپسندیدہ اور جھوٹی بات کہتے ہیں۔ اور اللہ یقیناً بہت درگزر کرنے والا (اور) بہت بخشنے والا ہے۔",
+        "v5": {
+            "text": "[b]Those among you who seek to put away their wives by calling them mothers—they do not thereby become their mothers; their mothers are only those who gave them birth; and they certainly utter words that are manifestly evil and untrue; but surely Allah is the Effacer of sins, Most Forgiving.[4173]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "33:5"
+                },
+                {
+                    "ref": "4173",
+                    "note": "<p><strong>Commentary:</strong></p><p><i>Zihar</i> or calling ones wife \"mother\" has been declared here a heinous sin. For a somewhat detailed note see 33:5.</p><p>The words لعفو غفور mean that God in His great mercy has made allowance for man’s weakness and that He is always ready to forgive his lapses, provided he comes to God with a penitent heart and makes amends.</p><p>The verse has redeemed a right which through a cruel custom was denied to women and thus has raised them to the status to which they were entitled.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 2989,
+                "topic": "Atonement: by expiation, <i>Fidyah</i>",
+                "verses": "3:3, 5:90, 2:185, 2:197, 5:46, 5:96"
+            },
+            {
+                "id": 4930,
+                "topic": "Captives: <i>Asir</i>",
+                "verses": "8:68-69, 2:86, 2:178, 4:25, 5:90, 8:71, 9:60, 33:27, 47:5, 76:9, 90:14"
+            },
+            {
+                "id": 11044,
+                "topic": "Marriage: cohabitation in, <i>Nikah</i>",
+                "verses": "2:224, 2:188, 2:222, 2:223, 2:225-238, 4:20-26, 4:128, 5:6, 7:190, 16:73, 23:6-7, 24:33-34, 30:22, 33:5, 65:2-8"
+            },
+            {
+                "id": 18789,
+                "topic": "Wives: separation of",
+                "verses": "30:22, 65:2-8, 2:227, 2:230, 2:235, 2:241, 4:20, 60:12"
+            },
+            {
+                "id": 19010,
+                "topic": "Zihar",
+                "verses": "33:5"
+            }
+        ],
+        "ar": "وَ الَّذِیۡنَ یُظٰہِرُوۡنَ مِنۡ نِّسَآئِہِمۡ ثُمَّ یَعُوۡدُوۡنَ لِمَا قَالُوۡا فَتَحۡرِیۡرُ  رَقَبَۃٍ  مِّنۡ قَبۡلِ  اَنۡ یَّتَمَآسَّا ؕ ذٰلِکُمۡ تُوۡعَظُوۡنَ بِہٖ ؕ وَ اللّٰہُ  بِمَا تَعۡمَلُوۡنَ  خَبِیۡرٌ ﴿۴﴾ ",
+        "ur": "اور وہ لوگ جو اپنی بیویوں کو ماں کہہ دیتے ہیں، پھر جو کہتے ہیں اس سے رجوع کر لیتے ہیں، تو پیشتر اس کے کہ وہ دونوں ایک دوسرے کو چھوئیں ایک گردن کا آزاد کرنا ہے۔ یہ وہ ہے جس کی تمہیں نصیحت کی جاتی ہے اور اللہ جو تم کرتے ہو اُس سے ہمیشہ باخبر رہتا ہے۔",
+        "v5": {
+            "text": "<i>As to</i> those who call their wives mothers, and then would go back on what they have said, <i>the penalty for it</i> is the freeing of a slave before they touch each other. This is what you are admonished with. And Allah is Well-Aware of what you do.[4174]",
+            "notes": [
+                {
+                    "ref": "4174",
+                    "note": "<p><strong>Commentary:</strong></p><p>The words \"they go back on what they have said,\" may signify that after calling their wives \"mothers\" they seek to re-establish conjugal relations with them. Or the words may mean that after having once called their wives \"mothers\" they repeat what they have said. According to this meaning, it is deliberate repetition of the obnoxious words and not their casual or inadvertent utterance that renders the utterer liable to the punishment prescribed in this and the following verse.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 1785,
+                "topic": "Allah: <i>Hududullah</i>, limits set by",
+                "verses": "2:188, 2:230-231, 4:12-15, 9:112, 65:2"
+            },
+            {
+                "id": 2989,
+                "topic": "Atonement: by expiation, <i>Fidyah</i>",
+                "verses": "3:3, 5:90, 2:185, 2:197, 5:46, 5:96"
+            },
+            {
+                "id": 7552,
+                "topic": "Fidyah: Expiation",
+                "verses": "2:197, 4:93, 5:90, 5:96"
+            },
+            {
+                "id": 11044,
+                "topic": "Marriage: cohabitation in, <i>Nikah</i>",
+                "verses": "2:224, 2:188, 2:222, 2:223, 2:225-238, 4:20-26, 4:128, 5:6, 7:190, 16:73, 23:6-7, 24:33-34, 30:22, 33:5, 65:2-8"
+            },
+            {
+                "id": 19010,
+                "topic": "Zihar",
+                "verses": "33:5"
+            }
+        ],
+        "ar": "فَمَنۡ  لَّمۡ یَجِدۡ فَصِیَامُ شَہۡرَیۡنِ مُتَتَابِعَیۡنِ مِنۡ قَبۡلِ اَنۡ یَّتَمَآسَّا ۚ فَمَنۡ لَّمۡ  یَسۡتَطِعۡ  فَاِطۡعَامُ سِتِّیۡنَ مِسۡکِیۡنًا ؕ ذٰلِکَ لِتُؤۡمِنُوۡا بِاللّٰہِ وَ رَسُوۡلِہٖ ؕ  وَ تِلۡکَ حُدُوۡدُ اللّٰہِ ؕ وَ لِلۡکٰفِرِیۡنَ  عَذَابٌ  اَلِیۡمٌ ﴿۵﴾ ",
+        "ur": "پس جو (اُس کی) استطاعت نہ پائے تو مسلسل دو مہینے کے روزے رکھنا ہے پیشتر اس کے کہ وہ دونوں ایک دوسرے کو چھوئیں۔ پس جو (اِس کی بھی) استطاعت نہ رکھتا ہو تو ساٹھ مسکینوں کو کھانا کھلانا ہے۔ یہ اس لئے ہے کہ تمہیں اللہ اور اس کے رسول کی طرف سے طمانیت نصیب ہو۔یہ اللہ کی حدود ہیں اور کافروں کے لئے بہت ہی دردناک عذاب (مقدر) ہے۔",
+        "v5": {
+            "text": "But whoso does not find <i>a</i> <i>slave</i>, he must fast for two successive months, before they touch each other. And whoso is not able to do so, must feed sixty poor people. This <i>is so prescribed</i>, that you may <i>truly</i> believe in Allah and His Messenger. And these are the limits <i>prescribed</i> by Allah; and for the disbelievers is a painful punishment.[4175]",
+            "notes": [
+                {
+                    "ref": "4175",
+                    "note": "<p><strong>Commentary:</strong></p><p>The drastic punishment mentioned in these verses indicates the extreme seriousness of the crime of calling one’s wife \"mother.\" The relationship with \"mother\" is too sacred to be trifled with. The expression لتؤمنوا باللّٰه و رسوله means, you may learn to obey the commandments of Allah and his Messenger.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 41,
+                "topic": "Abasement: of opponents of Allah and His Messengers",
+                "verses": "9:63, 58:21"
+            },
+            {
+                "id": 2411,
+                "topic": "Allah: those who oppose, His Messengers...",
+                "verses": "2:99, 9:63, 58:21"
+            },
+            {
+                "id": 9915,
+                "topic": "Jews: of Arabia",
+                "verses": "59:3-6, 2:86, 2:95-96, 2:103, 2:105, 2:109, 2:146, 3:113-115, 3:184, 4:52, 5:65, 5:83, 17:61, 17:86, 22:41, 33:10, 33:16, 33:27, 33:61-62, 46:30, 48:16, 60:14, 72:2"
+            },
+            {
+                "id": 11044,
+                "topic": "Marriage: cohabitation in, <i>Nikah</i>",
+                "verses": "2:224, 2:188, 2:222, 2:223, 2:225-238, 4:20-26, 4:128, 5:6, 7:190, 16:73, 23:6-7, 24:33-34, 30:22, 33:5, 65:2-8"
+            },
+            {
+                "id": 16703,
+                "topic": "Signs: Messengers bring",
+                "verses": "2:130, 2:88, 2:93, 2:100, 2:254, 3:102, 3:184, 6:131, 7:36, 9:70, 10:14, 16:44-45, 17:102, 23:46, 30:10, 35:26, 57:26, 62:3, 65:12"
+            },
+            {
+                "id": 19010,
+                "topic": "Zihar",
+                "verses": "33:5"
+            }
+        ],
+        "ar": "اِنَّ  الَّذِیۡنَ یُحَآدُّوۡنَ اللّٰہَ  وَ رَسُوۡلَہٗ کُبِتُوۡا کَمَا کُبِتَ الَّذِیۡنَ مِنۡ  قَبۡلِہِمۡ وَ قَدۡ اَنۡزَلۡنَاۤ  اٰیٰتٍۭ بَیِّنٰتٍ ؕ وَ لِلۡکٰفِرِیۡنَ عَذَابٌ  مُّہِیۡنٌ ۚ﴿۶﴾ ",
+        "ur": "یقیناً وہ لوگ جو اللہ اور اس کے رسول کی مخالفت کرتے ہیں حالانکہ ہم کھلے کھلے نشانات نازل کرچکے ہیں، وہ اسی طرح ہلاک کردیئے جائیں گے جیسے ان سے پہلے لوگ ہلاک کردیئے گئے اور کافروں کے لئے ایک بہت رُسواکُن عذاب (مقدر) ہے۔",
+        "v5": {
+            "text": "[a]Those who oppose Allah and His Messenger will surely be abased even as those before them were abased; and We have already sent down clear Signs.[b] And the disbelievers will have a humiliating punishment.[4176]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "9:63."
+                },
+                {
+                    "ref": "b",
+                    "note": "22:17; 24:35; 57:10."
+                },
+                {
+                    "ref": "4176",
+                    "note": "<p><strong>Important Words:</strong></p><p>کبتوا (will be abused). کبته means, he threw him down prostrate. کبت اللّٰه الکافر means, God prostrated the disbeliever, and deprived him of what he desired, or disappointed him, or caused him to fail in attaining his desire; he routed him or put him to flight; he turned him away or averted him; he abused; debased him, rendered him vile, despicable or ignominious. (Aqrab)</p><p><strong>Commentary:</strong></p><p>Calling one’s wife \"mother\" is tantamount to opposing God—so hideous is the offence. Befittingly the subject of opposition to truth by the Jews and hypocrites is introduced in this verse.</p><p>The words \"and We have sent clear signs,\" show that Divine punishment overtakes the sinners after their sins have been fully established and their guilt brought home to them.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 532,
+                "topic": "Accountability: <i>Hisab</i>: Allah calls to account",
+                "verses": "2:226, 2:285, 3:31, 4:41, 6:63, 17:37, 18:50, 19:85, 21:48, 24:40, 28:62, 28:85, 33:6, 37:128, 41:18, 42:23, 56:87, 65:9, 68:40, 75:3, 83:6, 88:27, 99:8-9, 102:9"
+            },
+            {
+                "id": 3393,
+                "topic": "Attributes of Allah: Al-Muhsi (The Counter, Recorder)",
+                "verses": "78:30, 18:50"
+            },
+            {
+                "id": 10814,
+                "topic": "Man: held accountable",
+                "verses": "6:165, 17:15, 17:72, 24:25, 36:66, 41:21, 69:20, 69:26, 75:15"
+            },
+            {
+                "id": 10876,
+                "topic": "Man: not immortal",
+                "verses": "21:35-36, 2:29, 3:186, 20:56, 22:8, 23:101, 29:58, 36:69, 36:79, 37:59-60, 40:12, 50:19-20, 55:27-28, 71:19"
+            },
+            {
+                "id": 18725,
+                "topic": "Witness: Allah bears witness",
+                "verses": "4:136, 3:82, 2:205, 3:19, 4:80, 4:167, 10:30, 13:44, 17:97, 29:53, 33:56, 34:48, 41:54, 46:9, 48:29, 59:12, 63:2, 85:10"
+            }
+        ],
+        "ar": "یَوۡمَ یَبۡعَثُہُمُ اللّٰہُ جَمِیۡعًا فَیُنَبِّئُہُمۡ بِمَا عَمِلُوۡا ؕ اَحۡصٰہُ  اللّٰہُ وَ نَسُوۡہُ ؕ وَ اللّٰہُ عَلٰی کُلِّ  شَیۡءٍ شَہِیۡدٌ ٪﴿۷﴾ ",
+        "ur": "جس دن اللہ ان کو ایک جمعیّت کے طور پر اٹھائے گا پھر انہیں اس کی خبر دے گا جو وہ کیا کرتے تھے۔ اللہ نے اس (عمل) کا شمار رکھا ہوا ہے جبکہ وہ اسے بھول چکے ہیں۔ اور اللہ ہر چیز پر گواہ ہے۔",
+        "v5": {
+            "text": "<i>On</i> the day when Allah will raise them all together, He will inform them of what they did. Allah has kept account of it, while they forgot it. And Allah is Witness over all things.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 58,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 1885,
+                "topic": "Allah: knowledge encompasses everything",
+                "verses": "2:256, 4:127, 6:4, 6:60, 10:62, 20:8, 20:111, 21:29, 27:75, 28:70, 34:3-4, 35:39, 50:17, 67:14"
+            },
+            {
+                "id": 5221,
+                "topic": "Conferences",
+                "verses": "4:115"
+            },
+            {
+                "id": 5281,
+                "topic": "Consultation: <i>Shura</i>",
+                "verses": "3:160, 2:234, 42:39, 58:13, 58:14"
+            },
+            {
+                "id": 6954,
+                "topic": "Earth: <i>Al-Ard</i>: Allah knows the secrets of the",
+                "verses": "10:62, 2:34, 3:6, 3:30, 5:98, 6:60, 17:56, 18:27, 22:71, 25:7, 27:66, 34:3-4, 39:47, 49:17, 57:5, 64:5"
+            },
+            {
+                "id": 11906,
+                "topic": "Moral Traits: secret plotting",
+                "verses": "4:82, 52:43, 52:47"
+            },
+            {
+                "id": 12865,
+                "topic": "Najwa: meetings",
+                "verses": "4:115, 17:48, 20:63, 21:4, 43:81"
+            }
+        ],
+        "ar": "اَلَمۡ  تَرَ اَنَّ اللّٰہَ یَعۡلَمُ مَا فِی السَّمٰوٰتِ وَ مَا فِی الۡاَرۡضِ ؕ مَا یَکُوۡنُ مِنۡ نَّجۡوٰی ثَلٰثَۃٍ  اِلَّا ہُوَ  رَابِعُہُمۡ وَ لَا خَمۡسَۃٍ  اِلَّا ہُوَ سَادِسُہُمۡ وَ لَاۤ  اَدۡنٰی مِنۡ ذٰلِکَ وَ لَاۤ اَکۡثَرَ  اِلَّا ہُوَ مَعَہُمۡ  اَیۡنَ مَا کَانُوۡا ۚ ثُمَّ  یُنَبِّئُہُمۡ بِمَا عَمِلُوۡا یَوۡمَ  الۡقِیٰمَۃِ ؕ اِنَّ اللّٰہَ بِکُلِّ  شَیۡءٍ عَلِیۡمٌ ﴿۸﴾ ",
+        "ur": " کیا تو نے دیکھا نہیں کہ اللہ اُسے جانتا ہے جو آسمانوں میں اور جو زمین میں ہے؟ کوئی تین خفیہ مشورہ نہیں کرتے مگر وہ اُن کا چوتھا ہوتا ہے اور نہ ہی کوئی پانچ ایسے ہوتے ہیں مگر وہ اُن کا چھٹا ہوتا ہے اور نہ اس سے کم اور نہ زیادہ مگر وہ ان کے ساتھ ہوتا ہے جہاں کہیں بھی وہ ہوں۔ پھر وہ انہیں قیامت کے دن اس کی خبر دے گا جو وہ کرتے رہے۔ یقیناً اللہ ہر چیز کا خوب علم رکھتا ہے۔",
+        "v5": {
+            "text": "Dost thou not see that Allah knows all that is in the heavens and all that is in the earth? There is no secret counsel of three, but He is their fourth, nor of five, but He is their sixth, nor of less than that, nor of more, but He is with them wheresoever they may be. Then on the Day of Resurrection He will inform them of what they did. Surely, Allah knows all things well.[4177]",
+            "notes": [
+                {
+                    "ref": "4177",
+                    "note": "<p><strong>Commentary:</strong></p><p>The subject which was only indirectly introduced in v. 6 has been elaborated in this and the next few verses. The present verse refers to the secret plots and conspiracies against Islam of the Jews and hypocrites of Medina. It condemns this evil practice and warns them that their plots are not hidden from God. He has sent the Holy Prophet and He is his Guardian and Protector, and their conspiracies would do him no harm. They are further warned that they would be punished for their wicked designs. The expulsion of the three Jewish tribes from Medina was the result of their repeated acts of defection and infidelity and of their secret plots against Islam and against the life of the Holy Prophet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 5221,
+                "topic": "Conferences",
+                "verses": "4:115"
+            },
+            {
+                "id": 5281,
+                "topic": "Consultation: <i>Shura</i>",
+                "verses": "3:160, 2:234, 42:39, 58:13, 58:14"
+            },
+            {
+                "id": 6620,
+                "topic": "Disobedience: <i>‘Isyan, Fusuq</i>",
+                "verses": "2:35, 2:198, 2:283, 4:35, 5:4, 7:23, 7:125, 20:123, 23:108, 26:50, 49:8"
+            },
+            {
+                "id": 8155,
+                "topic": "Greetings",
+                "verses": "4:87, 4:95, 10:11, 14:24, 19:63, 24:62, 25:76, 33:45, 36:59"
+            },
+            {
+                "id": 11906,
+                "topic": "Moral Traits: secret plotting",
+                "verses": "4:82, 52:43, 52:47"
+            },
+            {
+                "id": 12865,
+                "topic": "Najwa: meetings",
+                "verses": "4:115, 17:48, 20:63, 21:4, 43:81"
+            },
+            {
+                "id": 16766,
+                "topic": "Sin: <i>Dhanb</i>: avoid",
+                "verses": "2:220, 2:189, 2:277, 4:21, 4:26, 5:3, 5:63-64, 53:33"
+            },
+            {
+                "id": 17808,
+                "topic": "Transgression: <i>Tagha</i>, <i>‘Udwan</i>",
+                "verses": "2:16, 2:195, 2:198, 4:31, 4:154, 4:161, 5:3, 5:40, 5:63, 5:65, 5:69, 6:111, 6:147, 7:34, 7:187, 10:12, 16:91, 17:61, 18:81, 19:70, 23:76, 25:22, 37:31, 51:54, 53:53, 67:22, 69:6, 89:12"
+            }
+        ],
+        "ar": "اَلَمۡ تَرَ اِلَی الَّذِیۡنَ نُہُوۡا عَنِ النَّجۡوٰی ثُمَّ یَعُوۡدُوۡنَ لِمَا نُہُوۡا عَنۡہُ وَ یَتَنٰجَوۡنَ بِالۡاِثۡمِ وَ الۡعُدۡوَانِ وَ مَعۡصِیَتِ الرَّسُوۡلِ ۫ وَ اِذَا جَآءُوۡکَ حَیَّوۡکَ بِمَا لَمۡ یُحَیِّکَ بِہِ اللّٰہُ ۙ وَ یَقُوۡلُوۡنَ  فِیۡۤ  اَنۡفُسِہِمۡ لَوۡ  لَا یُعَذِّبُنَا اللّٰہُ  بِمَا نَقُوۡلُ ؕ حَسۡبُہُمۡ  جَہَنَّمُ ۚ یَصۡلَوۡنَہَا ۚ فَبِئۡسَ الۡمَصِیۡرُ ﴿۹﴾ ",
+        "ur": "کیا تُونے اُن کی طرف نظر نہیں دوڑائی جنہیں خفیہ مشوروں سے منع کیا گیا مگر وہ پھر وہی کچھ کرنے لگے جس سے ان کو منع کیا گیا تھا؟ اور وہ گناہ، سرکشی اور رسول کی نافرمانی کے متعلق باہم خفیہ مشورے کرتے ہیں۔ اور جب وہ تیرے پاس آتے ہیں تو وہ اس طریق پر تجھ سے خیرسگالی کا اظہار کرتے ہیں جس طریق پر اللہ نے تجھ پر سلام نہیں بھیجا اور وہ اپنے دلوں میں کہتے ہیں کہ اللہ ہمیں اس پر عذاب کیوں نہیں دیتا جو ہم کہتے ہیں، ان (سے نپٹنے) کو جہنّم کافی ہوگی۔ وہ اس میں داخل ہوں گے۔ پس کیا ہی بُرا ٹھکانا ہے۔",
+        "v5": {
+            "text": "Hast thou not seen those who were forbidden <i>to hold</i> secret counsels and again return to what they were forbidden, and confer in secret for sin and transgression and disobedience to the Messenger? And when they come to thee, they greet thee with <i>a greeting with</i> which Allah has not greeted thee;[a] but among themselves they say, ‘Why does not Allah punish us for what we say?’ Sufficient for them is Hell, wherein they will burn; and a most evil destination it is![4178]",
+            "notes": [
+                {
+                    "ref": "4178",
+                    "note": "<p><strong>Commentary:</strong></p><p>The words, \"they greet thee with which Allah has not greeted thee,\" may either mean that they go beyond proper limits in hypocritically praising thee, or that they invoke death and destruction upon thee. The words seem to refer to the evil practice of some of the Jews of Medina that when they came to see the Holy Prophet they, with a little twist of the tongue, would invoke curses upon him by saying السام علیک i.e. death to thee; instead of saluting him with the usual السلام علیک i.e. peace be upon thee (Bukhari). See also 2:105.</p>"
+                },
+                {
+                    "ref": "a",
+                    "note": "2:105; 4:47."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 650,
+                "topic": "Administration",
+                "verses": "4:59-60, 17:34, 24:63, 49:10"
+            },
+            {
+                "id": 1461,
+                "topic": "Allah: enjoins good, forbids evil",
+                "verses": "9:112, 2:45, 2:178, 3:105, 3:111, 3:115, 5:3, 9:71, 22:42, 31:18"
+            },
+            {
+                "id": 5221,
+                "topic": "Conferences",
+                "verses": "4:115"
+            },
+            {
+                "id": 5281,
+                "topic": "Consultation: <i>Shura</i>",
+                "verses": "3:160, 2:234, 42:39, 58:13, 58:14"
+            },
+            {
+                "id": 6620,
+                "topic": "Disobedience: <i>‘Isyan, Fusuq</i>",
+                "verses": "2:35, 2:198, 2:283, 4:35, 5:4, 7:23, 7:125, 20:123, 23:108, 26:50, 49:8"
+            },
+            {
+                "id": 11906,
+                "topic": "Moral Traits: secret plotting",
+                "verses": "4:82, 52:43, 52:47"
+            },
+            {
+                "id": 12865,
+                "topic": "Najwa: meetings",
+                "verses": "4:115, 17:48, 20:63, 21:4, 43:81"
+            },
+            {
+                "id": 13928,
+                "topic": "Piety",
+                "verses": "2:178, 2:45, 2:190, 3:93, 5:3, 9:108"
+            },
+            {
+                "id": 15799,
+                "topic": "Righteous: <i>Salihin</i>: duty of",
+                "verses": "22:38, 6:70"
+            },
+            {
+                "id": 16766,
+                "topic": "Sin: <i>Dhanb</i>: avoid",
+                "verses": "2:220, 2:189, 2:277, 4:21, 4:26, 5:3, 5:63-64, 53:33"
+            },
+            {
+                "id": 17529,
+                "topic": "Taqwa: fear of God",
+                "verses": "2:3, 2:190, 2:197-198, 2:204, 2:213, 2:224, 2:232, 2:234, 2:238, 2:279, 2:283-284, 3:16, 3:51, 3:77, 3:103, 3:131, 3:201, 4:2, 4:10, 4:132, 5:3, 5:5, 5:8-9, 5:12, 5:36, 5:58, 5:89, 5:94, 5:97, 5:113, 6:70, 6:73, 7:27, 7:36, 7:66, 8:2, 8:70, 9:7, 9:108, 9:109, 11:79, 15:70, 20:133, 22:2, 22:33, 22:38, 26:109, 26:133, 26:185, 33:56, 33:71, 43:64, 47:18, 48:27, 49:4, 49:11, 49:13, 57:29, 59:8, 59:19, 60:12, 65:2, 65:11, 74:57, 78:32, 96:13"
+            },
+            {
+                "id": 17808,
+                "topic": "Transgression: <i>Tagha</i>, <i>‘Udwan</i>",
+                "verses": "2:16, 2:195, 2:198, 4:31, 4:154, 4:161, 5:3, 5:40, 5:63, 5:65, 5:69, 6:111, 6:147, 7:34, 7:187, 10:12, 16:91, 17:61, 18:81, 19:70, 23:76, 25:22, 37:31, 51:54, 53:53, 67:22, 69:6, 89:12"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡۤا  اِذَا تَنَاجَیۡتُمۡ فَلَا تَتَنَاجَوۡا بِالۡاِثۡمِ وَ الۡعُدۡوَانِ وَ مَعۡصِیَتِ الرَّسُوۡلِ وَ تَنَاجَوۡا بِالۡبِرِّ وَ التَّقۡوٰی ؕ وَ اتَّقُوا اللّٰہَ  الَّذِیۡۤ  اِلَیۡہِ تُحۡشَرُوۡنَ ﴿۱۰﴾ ",
+        "ur": "اے وہ لوگو جو ایمان لائے ہو! جب تم باہم خفیہ مشورے کرو تو گناہ، سرکشی اور رسول کی نافرمانی پر مبنی مشورے نہ کیا کرو۔ ہاں نیکی اور تقویٰ کے بارہ میں مشورے کیا کرو اور اللہ سے ڈرو جس کے حضور تم اکٹھے کئے جاؤ گے۔",
+        "v5": {
+            "text": "O ye who believe! when you confer together in secret, confer not for <i>the commission </i><i>of</i> sin and transgression and disobedience to the Messenger, but confer for <i>the attainment </i><i>of</i> virtue and righteousness, and fear Allah unto Whom you shall <i>all</i> be gathered.[4179]",
+            "notes": [
+                {
+                    "ref": "4179",
+                    "note": "<p><strong>Commentary:</strong></p><p>In this and the preceding two verses secret societies such as Freemason Lodges, etc. have been condemned, but the condemnation is not unreserved or unqualified. There may be secret conferences held for good purposes. It is the object or motive of a particu1ar conference that determines its nature. In the present verse the believers have been allowed to hold secret conferences only to promote good and righteous causes.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 5221,
+                "topic": "Conferences",
+                "verses": "4:115"
+            },
+            {
+                "id": 5281,
+                "topic": "Consultation: <i>Shura</i>",
+                "verses": "3:160, 2:234, 42:39, 58:13, 58:14"
+            },
+            {
+                "id": 11906,
+                "topic": "Moral Traits: secret plotting",
+                "verses": "4:82, 52:43, 52:47"
+            },
+            {
+                "id": 12865,
+                "topic": "Najwa: meetings",
+                "verses": "4:115, 17:48, 20:63, 21:4, 43:81"
+            },
+            {
+                "id": 13859,
+                "topic": "Permission: Leave, <i>Idhn</i>: of Allah",
+                "verses": "64:12, 2:98, 2:103, 2:214, 2:222, 2:250, 2:252, 2:256, 3:50, 3:146, 3:153, 3:167, 4:65, 5:17, 5:111, 7:59, 8:67, 10:4, 10:101, 11:106, 13:39, 14:2, 14:12, 14:24, 14:26, 22:66, 33:47, 34:13, 35:33, 42:52, 59:6, 97:5"
+            },
+            {
+                "id": 16263,
+                "topic": "Satan: no power over pious, believers",
+                "verses": "34:22, 15:18, 15:41, 15:43, 16:100-101, 17:66, 37:8"
+            },
+            {
+                "id": 17572,
+                "topic": "Tawakkul ‘Alallah: trust in Allah",
+                "verses": "3:123, 3:160-161, 4:82, 4:133, 4:172, 5:12, 5:24, 7:90, 8:3, 8:50, 8:62, 9:51, 9:129, 10:72, 10:85-86, 11:57, 11:89, 11:124, 12:68, 13:31, 14:12-13, 16:43, 16:100, 25:59, 26:218, 27:80, 29:60, 33:4, 33:49, 39:39, 42:11, 60:5, 64:14, 65:4, 67:30"
+            }
+        ],
+        "ar": "اِنَّمَا  النَّجۡوٰی مِنَ الشَّیۡطٰنِ  لِیَحۡزُنَ الَّذِیۡنَ  اٰمَنُوۡا وَ لَیۡسَ بِضَآرِّہِمۡ شَیۡئًا اِلَّا بِاِذۡنِ اللّٰہِ ؕ وَ عَلَی اللّٰہِ  فَلۡیَتَوَکَّلِ الۡمُؤۡمِنُوۡنَ ﴿۱۱﴾ ",
+        "ur": "خفیہ سازشیں تو صرف شیطان کی طرف سے ہوتی ہیں تاکہ وہ اُن لوگوں کو جو ایمان لائے غم میں مبتلا کردے جبکہ وہ انہیں ذرہ بھر بھی نقصان نہیں پہنچا سکتا مگر اللہ کے اِذن کے ساتھ۔ پس چاہئے کہ مومن اللہ ہی پر توکل کریں۔",
+        "v5": {
+            "text": "<i>Holding of</i> secret counsels <i>for evil purposes</i> is only of Satan, that he may cause grief to those who believe; but it cannot harm them in the least, except by Allah’s leave. And in Allah should the believers put their trust.[4180]",
+            "notes": [
+                {
+                    "ref": "4180",
+                    "note": "<p><strong>Commentary:</strong></p><p>The disbelievers are warned that their secret societies and assemblies would not in any way harm the cause of truth, try as they might.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 12,
+        "v_": 11,
+        "topics": [
+            {
+                "id": 1511,
+                "topic": "Allah: exalts whomsoever He pleases, Rafa‘",
+                "verses": "3:27, 2:254, 3:56, 4:159, 6:166, 7:177, 19:58, 24:37, 40:16, 56:4"
+            },
+            {
+                "id": 5221,
+                "topic": "Conferences",
+                "verses": "4:115"
+            },
+            {
+                "id": 7252,
+                "topic": "Etiquette: regarding assembly",
+                "verses": "24:63, 4:141, 6:69"
+            },
+            {
+                "id": 10186,
+                "topic": "Knowledge: <i>‘Ilm</i>: Allah bestows",
+                "verses": "20:115, 2:248, 12:77, 21:80, 22:55, 28:81, 33:64, 35:29, 39:10, 47:32"
+            },
+            {
+                "id": 10225,
+                "topic": "Knowledge: <i>‘Ilm</i>: and believers",
+                "verses": "4:163, 2:248, 3:8, 6:36, 6:58, 6:98, 6:106, 12:23, 12:56, 12:69, 12:109, 15:76, 16:28, 17:108, 22:55, 28:81, 29:48, 29:50, 30:57, 31:16, 34:7"
+            },
+            {
+                "id": 15338,
+                "topic": "Rank: <i>Darajah</i>: according to deeds",
+                "verses": "3:164, 4:97, 6:84, 6:133, 6:166, 8:5, 12:77, 17:22, 20:76, 43:33, 46:20"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا الَّذِیۡنَ  اٰمَنُوۡۤا  اِذَا  قِیۡلَ  لَکُمۡ تَفَسَّحُوۡا فِی  الۡمَجٰلِسِ فَافۡسَحُوۡا یَفۡسَحِ اللّٰہُ  لَکُمۡ ۚ وَ  اِذَا قِیۡلَ انۡشُزُوۡا فَانۡشُزُوۡا یَرۡفَعِ اللّٰہُ  الَّذِیۡنَ اٰمَنُوۡا مِنۡکُمۡ ۙ وَ الَّذِیۡنَ  اُوۡتُوا  الۡعِلۡمَ دَرَجٰتٍ ؕ وَ اللّٰہُ  بِمَا تَعۡمَلُوۡنَ خَبِیۡرٌ ﴿۱۲﴾ ",
+        "ur": "اے لوگو جو ایمان لائے ہو! جب تمہیں یہ کہا جائے کہ مجلسوں میں (دوسروں کے لئے) جگہ کھلی کردیا کرو تو کھلی کردیا کرو، اللہ تمہیں کشادگی عطا کرے گا۔ اور جب کہا جائے کہ اُٹھ جاؤ تو اُٹھ جایا کرو۔ اللہ ان لوگوں کے درجات بلند کرے گا جو تم میں سے ایمان لائے ہیں اور خصوصاً ان کے جن کو علم عطا کیا گیا ہے اور اللہ اُس سے جو تم کرتے ہو ہمیشہ باخبر رہتا ہے۔",
+        "v5": {
+            "text": "O ye who believe! when it is said to you, ‘Make room!’ in <i>your</i> assemblies, then do make room; Allah will make ample room for you. And when it is said, ‘Rise up!’ then rise up;[a] Allah will raise those who believe from among you, and those to whom knowledge is given, to degrees <i>of rank</i>. And Allah is Well-Aware of what you do.[4181]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "4:159; 7:177."
+                },
+                {
+                    "ref": "4181",
+                    "note": "<p><strong>Commentary:</strong></p><p>As in the preceding verses the subject of holding an assembly was dealt with, it was in the fitness of things that the ethics and etiquette of an assemblage should also be pointed out and this has been done in the present verse.</p><p>The commandment contained in the verse is of a general nature but it may also have special application for a particular assembly in which the Holy Prophet was present.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 13,
+        "v_": 12,
+        "topics": [
+            {
+                "id": 2512,
+                "topic": "Alms: <i>Sadaqah</i>: for the Holy Prophet<sup>(sa)</sup>",
+                "verses": null
+            },
+            {
+                "id": 5282,
+                "topic": "Consultation: <i>Shura</i>",
+                "verses": "3:160, 2:234, 42:39, 58:8-11, 58:14"
+            },
+            {
+                "id": 12413,
+                "topic": "Muhammad<sup>(sa)</sup>: consultation with",
+                "verses": "3:160"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا  الَّذِیۡنَ  اٰمَنُوۡۤا  اِذَا  نَاجَیۡتُمُ الرَّسُوۡلَ  فَقَدِّمُوۡا بَیۡنَ یَدَیۡ نَجۡوٰٮکُمۡ صَدَقَۃً ؕ ذٰلِکَ خَیۡرٌ لَّکُمۡ وَ اَطۡہَرُ ؕ فَاِنۡ لَّمۡ تَجِدُوۡا فَاِنَّ اللّٰہَ  غَفُوۡرٌ  رَّحِیۡمٌ ﴿۱۳﴾ ",
+        "ur": "اے لوگو جو ایمان لائے ہو! جب تم رسول سے (کوئی ذاتی) مشورہ کرنا چاہو تو اپنے مشورہ سے پہلے صدقہ دیا کرو۔ یہ بات تمہارے لئے بہتر اور زیادہ پاکیزہ ہے۔ پس اگر تم (اپنے پاس) کچھ نہ پاؤ تو یقیناً اللہ بہت بخشنے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "O ye who believe! when you consult the Messenger in private, give alms before your consultation. That is better for you and purer. But if you find not <i>anything to give</i>, then Allah is Most Forgiving, Merciful.[4182]",
+            "notes": [
+                {
+                    "ref": "4182",
+                    "note": "<p><strong>Commentary:</strong></p><p>The believers have been enjoined, in this verse, to have due regard for the precious time of the Holy Prophet and as a compensation for taking his time to spend some money in charity before going to him for consultation.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 14,
+        "v_": 13,
+        "topics": [
+            {
+                "id": 1484,
+                "topic": "Allah: enjoins prayer, <i>Zakat</i>, charity...",
+                "verses": "5:13, 2:44, 2:84, 2:111, 2:178, 2:278, 4:163, 5:56, 9:5, 9:11, 9:18, 9:71, 19:32, 19:56, 21:74, 22:42, 22:79, 24:38, 24:57, 27:4, 31:5, 33:34, 73:21, 98:6"
+            },
+            {
+                "id": 2109,
+                "topic": "Allah: obey and His Messenger",
+                "verses": "4:60, 3:33, 3:133, 4:14, 4:81, 5:93, 8:2, 8:21, 8:47, 24:53, 24:55, 33:72, 47:34, 48:18"
+            },
+            {
+                "id": 3328,
+                "topic": "Attributes of Allah: Al-Khabir (All-Aware)",
+                "verses": "6:104, 2:272, 4:36, 4:136, 5:9, 6:19, 6:74, 11:2, 17:18, 17:31, 22:64, 31:17, 33:35, 35:15, 35:32, 42:28, 49:14, 57:11, 59:19, 63:12, 64:9, 66:4, 67:15, 100:12"
+            },
+            {
+                "id": 5283,
+                "topic": "Consultation: <i>Shura</i>",
+                "verses": "3:160, 2:234, 42:39, 58:8-11, 58:13"
+            },
+            {
+                "id": 12413,
+                "topic": "Muhammad<sup>(sa)</sup>: consultation with",
+                "verses": "3:160"
+            },
+            {
+                "id": 13226,
+                "topic": "Obey: Allah, Messenger",
+                "verses": "24:48-55, 3:21, 3:33, 3:51, 3:133, 4:14, 4:60, 4:65, 4:70, 4:81, 5:93, 8:2, 8:21, 8:47, 24:57, 26:108-109, 26:127, 26:145, 26:164, 26:180, 33:34, 33:36-37, 33:72, 43:64, 47:34, 48:18, 64:13, 64:17"
+            },
+            {
+                "id": 19000,
+                "topic": "Zakat",
+                "verses": "9:60, 2:44, 2:84, 2:111, 2:178, 2:278, 4:163, 5:13, 5:56, 7:157, 9:11, 9:18, 9:71, 19:32, 19:56, 21:74, 22:42, 22:79, 23:2-5, 24:38, 24:57, 27:4, 30:40, 31:5, 33:34, 41:8, 73:21, 98:6"
+            }
+        ],
+        "ar": "ءَاَشۡفَقۡتُمۡ  اَنۡ  تُقَدِّمُوۡا بَیۡنَ یَدَیۡ نَجۡوٰٮکُمۡ صَدَقٰتٍ ؕ فَاِذۡ لَمۡ تَفۡعَلُوۡا وَ تَابَ اللّٰہُ  عَلَیۡکُمۡ فَاَقِیۡمُوا الصَّلٰوۃَ وَ اٰتُوا الزَّکٰوۃَ  وَ اَطِیۡعُوا اللّٰہَ  وَ رَسُوۡلَہٗ ؕ وَ اللّٰہُ  خَبِیۡرٌۢ  بِمَا تَعۡمَلُوۡنَ ﴿٪۱۴﴾ ",
+        "ur": "کیا تم (اس بات سے) ڈر گئے ہو کہ اپنے (ذاتی) مشوروں سے پہلے صدقات دیا کرو۔ پس جب تم ایسا نہ کرسکو جبکہ اللہ نے تمہاری توبہ قبول کرلی ہے تو نماز کو قائم کرو اور زکوٰۃ دو اور اللہ اور اس کے رسول کی اطاعت کرو۔ اوراللہ اُس سے ہمیشہ باخبر رہتا ہے جو تم کرتے ہو۔",
+        "v5": {
+            "text": "Are you afraid of giving alms before your consultation? So, when you do not do so and Allah has been merciful to you, then observe Prayer and pay the Zakah and obey Allah and His Messenger. And Allah is Well-Aware of what you do.[4183]",
+            "notes": [
+                {
+                    "ref": "4183",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse shows that the commandment about the giving of alms before seeking the Holy Prophet’s consultation is not obligatory but optional, though its observance is preferable. The verse further signifies that the apprehension of the Companions of the Holy Prophet was whether they had given enough in alms to have complied with God’s commandment.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 15,
+        "v_": 14,
+        "topics": [
+            {
+                "id": 7357,
+                "topic": "Falsehood: <i>Batil</i>: who believe in",
+                "verses": "17:82, 29:53, 7:140, 21:30, 22:63, 29:68, 45:28, 47:4"
+            },
+            {
+                "id": 10474,
+                "topic": "Lie: <i>Ifk</i>, <i>Kidhb</i>, fabrication",
+                "verses": "24:12-13, 3:76, 3:79, 3:95, 4:51, 5:104, 6:22, 6:94, 6:145, 7:38, 10:18, 10:61, 10:70, 11:19, 16:117, 18:16, 25:5, 29:18, 29:69, 34:44, 37:87, 37:152, 46:12, 46:29, 61:8"
+            }
+        ],
+        "ar": "اَلَمۡ  تَرَ  اِلَی الَّذِیۡنَ تَوَلَّوۡا قَوۡمًا غَضِبَ اللّٰہُ عَلَیۡہِمۡ ؕ مَا ہُمۡ مِّنۡکُمۡ وَ لَا مِنۡہُمۡ ۙ وَ  یَحۡلِفُوۡنَ عَلَی الۡکَذِبِ وَ  ہُمۡ یَعۡلَمُوۡنَ ﴿۱۵﴾ ",
+        "ur": "کیا تو نے ان کی طرف نظر نہیں دوڑائی جنہوں نے ایسے لوگوں کو دوست بنایا جن پر اللہ ناراض ہوا؟ یہ لوگ نہ تمہارے ہیں نہ اُن کے، اور جھوٹ پر قسمیں کھاتے ہیں جبکہ وہ جانتے ہیں۔",
+        "v5": {
+            "text": "Hast thou not seen those who take for friends a people with whom Allah is wroth?[a] They are neither of you nor of them, and they swear to falsehood knowingly.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "60:14."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 16,
+        "v_": 15,
+        "topics": [
+            {
+                "id": 463,
+                "topic": "Actions: <i>A‘mal</i>: punishment for evil",
+                "verses": "27:91, 10:28, 29:56, 30:42, 32:15, 39:49, 41:28, 101:9-10"
+            }
+        ],
+        "ar": "اَعَدَّ اللّٰہُ  لَہُمۡ عَذَابًا شَدِیۡدًا ؕ اِنَّہُمۡ سَآءَ  مَا  کَانُوۡا یَعۡمَلُوۡنَ ﴿۱۶﴾ ",
+        "ur": "اُن کے لئے اللہ نے سخت عذاب تیار کر رکھا ہے یقیناً بہت ہی بُرا ہے جو وہ کرتے رہے ہیں۔",
+        "v5": {
+            "text": "Allah has prepared for them a severe punishment. Evil indeed is that which they used to do.[4184]",
+            "notes": [
+                {
+                    "ref": "4184",
+                    "note": "<p><strong>Commentary:</strong></p><p>The words \"with whom Allah is wroth\" refer particularly to the Jews and hypocrites of Medina but they also possess a general application.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 17,
+        "v_": 16,
+        "topics": [
+            {
+                "id": 13165,
+                "topic": "Oaths: <i>yamin</i>: of disbelievers, hypocrites, idolaters",
+                "verses": "4:63, 5:54, 6:110, 9:42, 9:56, 9:62, 9:95, 9:96, 9:107, 12:74, 16:39, 24:54, 27:50, 30:56, 35:43, 58:19, 63:3, 68:11"
+            },
+            {
+                "id": 18528,
+                "topic": "Way of: <i>Sabil</i>: hindering from the Allah",
+                "verses": "8:37, 3:100, 4:161, 4:168, 7:46, 7:87, 8:48, 9:34, 11:20, 14:4, 16:89, 16:95, 22:26, 47:2, 47:33, 47:35"
+            }
+        ],
+        "ar": "اِتَّخَذُوۡۤا  اَیۡمَانَہُمۡ جُنَّۃً  فَصَدُّوۡا عَنۡ سَبِیۡلِ اللّٰہِ  فَلَہُمۡ عَذَابٌ مُّہِیۡنٌ ﴿۱۷﴾ ",
+        "ur": "انہوں نے اپنی قسموں کو ڈھال بنا لیا ہے۔ پس انہوں نے اللہ کی راہ سے روک رکھا ہے۔ نتیجۃً ان کے لئے رُسواکن عذاب (مقدر) ہے۔",
+        "v5": {
+            "text": "They have made their oaths a shield <i>for their falsehoods,</i> and <i>thereby</i> they seek to turn <i>men</i> away from the path of Allah; for them, therefore, will be an humiliating punishment.[4185]",
+            "notes": [
+                {
+                    "ref": "4185",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means that the hypocrites protest loudly the sincerity of their faith by swearing, and seek to take shelter behind their false oaths.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 18,
+        "v_": 17,
+        "topics": [
+            {
+                "id": 117,
+                "topic": "Abide: <i>Baqa</i>: righteous will in Heaven",
+                "verses": "2:26, 2:83, 3:16, 3:108, 3:137, 3:199, 4:14, 4:58, 4:123, 5:86, 5:120, 7:43, 9:22, 9:72, 9:89, 9:100, 10:27, 11:24, 14:24, 18:4, 18:109, 20:77, 21:103, 23:12, 29:59, 31:10, 43:72, 46:15, 48:6, 57:13, 58:23, 64:10, 65:12, 98:9"
+            },
+            {
+                "id": 5048,
+                "topic": "Children: shall not avail",
+                "verses": "34:38, 3:11, 3:117, 9:69, 60:4"
+            },
+            {
+                "id": 9233,
+                "topic": "Inmates of Fire",
+                "verses": "2:40, 2:82, 2:218, 2:258, 2:276, 3:117, 5:30, 7:37, 7:45, 7:48, 7:51, 10:28, 13:6, 39:9, 40:7, 40:44, 59:21, 64:11, 74:32"
+            },
+            {
+                "id": 18544,
+                "topic": "Wealth: avails naught",
+                "verses": "104:3-5, 3:11, 3:15, 26:89, 34:35-38, 69:29, 92:12, 102:2-9, 111:3"
+            }
+        ],
+        "ar": "لَنۡ  تُغۡنِیَ عَنۡہُمۡ  اَمۡوَالُہُمۡ وَ لَاۤ  اَوۡلَادُہُمۡ مِّنَ اللّٰہِ  شَیۡئًا ؕ اُولٰٓئِکَ اَصۡحٰبُ النَّارِ ؕ ہُمۡ  فِیۡہَا خٰلِدُوۡنَ ﴿۱۸﴾ ",
+        "ur": "ان کے اموال اور ان کی اولاد اللہ کے مقابل پر اُن کے کسی کام نہیں آئیں گے۔ یہی آگ والے لوگ ہیں۔ وہ اس میں لمبا عرصہ رہنے والے ہیں۔",
+        "v5": {
+            "text": "[a]Neither their wealth nor their children will avail them aught against Allah. They are the inmates of the Fire wherein they will abide.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "3:11; 92:12; 111:3."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 19,
+        "v_": 18,
+        "topics": [
+            {
+                "id": 5811,
+                "topic": "Day of Reckoning: <i>Yaumul-Hisab</i>",
+                "verses": "38:17, 14:42, 38:27, 38:54, 39:25, 39:60, 40:28, 46:21, 78:4, 80:37, 83:6, 111:4"
+            },
+            {
+                "id": 13181,
+                "topic": "Oaths: <i>yamin</i>: of disbelievers, hypocrites, idolaters",
+                "verses": "58:17, 4:63, 5:54, 6:110, 9:42, 9:56, 9:62, 9:95, 9:96, 9:107, 12:74, 16:39, 24:54, 27:50, 30:56, 35:43, 63:3, 68:11"
+            }
+        ],
+        "ar": "یَوۡمَ یَبۡعَثُہُمُ اللّٰہُ جَمِیۡعًا فَیَحۡلِفُوۡنَ لَہٗ کَمَا یَحۡلِفُوۡنَ لَکُمۡ وَ یَحۡسَبُوۡنَ اَنَّہُمۡ عَلٰی شَیۡءٍ ؕ اَلَاۤ  اِنَّہُمۡ ہُمُ الۡکٰذِبُوۡنَ ﴿۱۹﴾ ",
+        "ur": "جس دن اللہ ان کو اکٹھا اٹھائے گا تو وہ اُس کے سامنے بھی اُسی طرح قسمیں کھائیں گے جس طرح تمہارے سامنے قَسمیں کھاتے ہیں اور گمان کریں گے کہ وہ کسی موقف پر (قائم) ہیں۔ خبردار ! یہی ہیں جو جھوٹے ہیں۔",
+        "v5": {
+            "text": "<i>On</i> the day when Allah will raise them all together, they will swear to Him even as they swear to you, and they will think that they have something <i>to stand upon</i>. Now, surely it is they who are the liars.[4186]",
+            "notes": [
+                {
+                    "ref": "4186",
+                    "note": "<p><strong>Important Words:</strong></p><p>The verse shows that when a person becomes a habitual or hardened liar, he regards his falsehood as truth. The hypocrites will protest their innocence even before God on the Day of Reckoning.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 20,
+        "v_": 19,
+        "topics": [
+            {
+                "id": 10640,
+                "topic": "Losers: <i>Khasirun</i>",
+                "verses": "2:122, 2:28, 2:65, 3:86, 3:150, 4:120, 5:6, 5:22, 5:31, 5:54, 6:32, 6:141, 7:24, 7:91, 7:93, 7:100, 7:150, 7:179, 8:38, 9:69, 10:46, 10:96, 11:23, 11:48, 12:15, 16:110, 18:104, 21:71, 22:12, 27:6, 29:53, 39:16, 39:64, 39:66, 40:79, 40:86, 41:24, 41:26, 42:46, 45:28, 46:19, 63:10"
+            },
+            {
+                "id": 13692,
+                "topic": "Party: <i>Hizb</i>",
+                "verses": "23:54, 5:57, 30:33"
+            },
+            {
+                "id": 15532,
+                "topic": "Remember: Allah: those who forget to",
+                "verses": "2:153, 26:6, 18:29, 18:102, 20:125, 23:111, 25:19, 25:30, 39:23, 43:37, 53:30, 72:18"
+            },
+            {
+                "id": 16239,
+                "topic": "Satan: leads astray, tempts",
+                "verses": "2:269, 2:170, 4:119-121, 5:92, 6:44, 8:49, 14:23, 15:40, 16:64, 17:65, 17:78, 19:84, 20:121, 25:30, 27:25, 29:39, 31:22"
+            }
+        ],
+        "ar": "اِسۡتَحۡوَذَ  عَلَیۡہِمُ  الشَّیۡطٰنُ  فَاَنۡسٰہُمۡ ذِکۡرَ  اللّٰہِ ؕ اُولٰٓئِکَ حِزۡبُ الشَّیۡطٰنِ ؕ اَلَاۤ  اِنَّ  حِزۡبَ  الشَّیۡطٰنِ ہُمُ  الۡخٰسِرُوۡنَ ﴿۲۰﴾ ",
+        "ur": " شیطان ان پر غالب آگیا۔ پس اُس نے اُنہیں اللہ کا ذکر بھلا دیا۔ یہی شیطان کا گروہ ہیں۔ خبردار! شیطان ہی کا گروہ ہے جو ضرور نقصان اٹھانے والے ہیں۔",
+        "v5": {
+            "text": "Satan has gained mastery over them, and has made them forget the remembrance of Allah. They are Satan’s party. Now surely, it is Satan’s party that are the losers.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 58,
+        "v": 21,
+        "v_": 20,
+        "topics": [
+            {
+                "id": 43,
+                "topic": "Abasement: of opponents of Allah and His Messengers",
+                "verses": "58:6, 9:63"
+            },
+            {
+                "id": 2412,
+                "topic": "Allah: those who oppose, His Messengers...",
+                "verses": "2:99, 9:63, 58:6"
+            }
+        ],
+        "ar": "اِنَّ  الَّذِیۡنَ یُحَآدُّوۡنَ اللّٰہَ وَ رَسُوۡلَہٗۤ اُولٰٓئِکَ فِی  الۡاَذَلِّیۡنَ ﴿۲۱﴾ ",
+        "ur": "یقیناً وہ لوگ جو اللہ اور اس کے رسول کی مخالفت کرتے ہیں یہی انتہائی ذلیل لوگوں میں سے ہیں۔",
+        "v5": {
+            "text": "[b]Certainly those who oppose Allah and His Messenger will be among the lowest.",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "9:63."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 58,
+        "v": 22,
+        "v_": 21,
+        "topics": [
+            {
+                "id": 1768,
+                "topic": "Allah: He, His Messengers will prevail",
+                "verses": "5:57, 37:172-173, 58:23"
+            },
+            {
+                "id": 1805,
+                "topic": "Allah: if so willed, <i>Lau sha’allah</i>",
+                "verses": "10:100, 2:221, 2:254, 4:91, 5:49, 6:36, 6:108, 6:113, 6:138, 6:150, 10:17, 11:119, 12:22, 16:94, 22:15, 22:19, 25:46, 42:9, 76:31, 85:17"
+            },
+            {
+                "id": 3482,
+                "topic": "Attributes of Allah: Al-Qawiyy (The Powerful)",
+                "verses": "33:26, 8:53, 22:41, 22:75, 40:23, 42:20, 51:59, 57:26"
+            },
+            {
+                "id": 4255,
+                "topic": "Believers: <i>Mu’min</i>: Allah’s help for",
+                "verses": "2:215, 2:154, 3:124, 3:127, 9:25, 10:104, 29:11, 30:6, 30:48, 40:52, 61:14, 110:2"
+            },
+            {
+                "id": 6274,
+                "topic": "Decree",
+                "verses": "9:106, 2:110, 2:118, 3:48, 3:146, 4:48, 5:2, 6:3, 8:45, 8:69, 9:118, 10:97, 11:44, 11:61, 11:74, 11:77, 11:83, 11:95, 11:102, 12:22, 13:30, 13:39, 15:5, 15:61, 16:2, 16:34, 19:22, 19:36, 19:72, 19:73, 20:119, 22:5, 27:58, 33:38-39, 34:15, 35:37, 36:39, 36:71, 39:43, 40:69, 40:79, 40:86, 41:13, 48:16, 51:10, 54:13, 57:15, 59:4, 97:2-5"
+            },
+            {
+                "id": 11352,
+                "topic": "Messengers: <i>Rusul</i>: Divine help of",
+                "verses": "40:52, 10:104, 30:48"
+            },
+            {
+                "id": 14054,
+                "topic": "Power: Allah has the",
+                "verses": "2:21, 2:107, 2:166, 3:30, 5:18, 5:121, 6:18, 7:189, 9:39, 10:50, 11:5, 11:67, 18:40, 22:41, 22:75, 33:26, 40:23, 42:20, 51:59, 53:6-7, 57:26"
+            },
+            {
+                "id": 14445,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "30:3-5, 2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 93:2-3, 94:6-7, 99:2-7, 100:10-12"
+            },
+            {
+                "id": 14571,
+                "topic": "Prophets<sup>(as)</sup>: <i>Anbiya’</i>: enemies of",
+                "verses": "19:52, 6:113, 25:32"
+            },
+            {
+                "id": 17938,
+                "topic": "Truth: <i>Haqq</i>",
+                "verses": "2:43, 2:62, 2:147-148, 3:72, 5:117, 10:77, 12:52, 13:18, 19:35, 21:19, 21:111, 42:25, 51:20, 70:25, 77:2-7"
+            }
+        ],
+        "ar": "کَتَبَ اللّٰہُ  لَاَغۡلِبَنَّ  اَنَا وَ  رُسُلِیۡ ؕ اِنَّ اللّٰہَ  قَوِیٌّ عَزِیۡزٌ ﴿۲۲﴾ ",
+        "ur": "اللہ نے لکھ رکھا ہے کہ ضرور مَیں اور میرے رسول غالب آئیں گے۔ یقیناً اللہ بہت طاقتور (اور) کامل غلبہ والا ہے۔",
+        "v5": {
+            "text": "Allah has decreed: ‘Most surely I will prevail, I and My Messengers[c].’ Verily, Allah is Powerful, Mighty.[4187]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "5:57; 10:104; 30:48; 37:172-173; 40:52."
+                },
+                {
+                    "ref": "4187",
+                    "note": "<p><strong>Commentary:</strong></p><p>It is writ large on the face of history that truth has always prevailed against falsehood in the long run. The verse speaks of the invincible faith and conviction which is implanted in the minds of believers about the eventual triumph of their cause.</p>"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,1323 @@
+[
+    {
+        "ch": 47,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.[3788]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                },
+                {
+                    "ref": "3788",
+                    "note": "<p><strong>Commentary:</strong></p><p>See 1:1.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 452,
+                "topic": "Actions: <i>A‘mal</i>: in vain who reject faith",
+                "verses": "47:9-10, 5:6, 7:148, 11:17, 18:104-107, 25:24, 47:33, 49:3"
+            },
+            {
+                "id": 18525,
+                "topic": "Way of: <i>Sabil</i>: hindering from the Allah",
+                "verses": "8:37, 3:100, 4:161, 4:168, 7:46, 7:87, 8:48, 9:34, 11:20, 14:4, 16:89, 16:95, 22:26, 47:33, 47:35, 58:17"
+            }
+        ],
+        "ar": "اَلَّذِیۡنَ  کَفَرُوۡا وَ صَدُّوۡا عَنۡ سَبِیۡلِ اللّٰہِ  اَضَلَّ  اَعۡمَالَہُمۡ ﴿۲﴾ ",
+        "ur": "وہ لوگ جنہوں نے کفر کیا اور اللہ کی راہ سے روکا اس نے ان کے اعمال ضائع کردئیے۔",
+        "v5": {
+            "text": "[b]Those who disbelieve and hinder <i>men</i> from the way of Allah—He renders their works vain.[3789]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "4:168; 16:89."
+                },
+                {
+                    "ref": "3789",
+                    "note": "<p><strong>Commentary:</strong></p><p>Works of disbelievers are rendered vain in that their efforts to arrest the progress of the cause of Truth produce no results. The cause of Truth triumphs and prevails.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 12343,
+                "topic": "Muhammad<sup>(sa)</sup>: and Qur’an",
+                "verses": "16:104, 2:98, 3:145, 10:16, 11:13, 15:88, 16:45, 17:75, 26:193-196, 73:6"
+            },
+            {
+                "id": 12464,
+                "topic": "Muhammad<sup>(sa)</sup>: followers of",
+                "verses": "3:111, 2:144, 3:160, 9:128, 11:113, 26:10, 26:216, 33:7"
+            },
+            {
+                "id": 12671,
+                "topic": "Muhammad<sup>(sa)</sup>: truth of",
+                "verses": "34:45-51, 3:82, 10:17, 11:18, 21:6, 23:70, 36:2-4, 43:87, 69:39-48, 90:4"
+            },
+            {
+                "id": 15870,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 78:32-37, 83:23, 98:8"
+            },
+            {
+                "id": 16812,
+                "topic": "Sin: <i>Dhanb</i>: forgiveness of",
+                "verses": "3:32, 3:136, 3:148, 3:194, 4:18, 4:32, 4:49, 4:111, 4:117, 5:13, 5:66, 6:55, 7:154, 7:157, 12:30, 12:34, 12:88, 12:98, 14:11, 15:57, 18:59, 29:8, 33:71-72, 39:54, 40:56, 42:26, 46:17, 46:32, 47:20, 48:3, 61:13, 64:10, 65:6, 71:5"
+            }
+        ],
+        "ar": "وَ الَّذِیۡنَ  اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ وَ اٰمَنُوۡا بِمَا نُزِّلَ عَلٰی مُحَمَّدٍ وَّ ہُوَ الۡحَقُّ مِنۡ  رَّبِّہِمۡ ۙ کَفَّرَ عَنۡہُمۡ سَیِّاٰتِہِمۡ  وَ اَصۡلَحَ بَالَہُمۡ ﴿۳﴾ ",
+        "ur": "اور وہ لوگ جو ایمان لائے اور نیک اعمال بجالائے اور اس پر ایمان لائے جو محمد پر اتارا گیا، اور وہی ان کے رب کی طرف سے کامل سچائی ہے، اُن کے عیوب کو وہ دور کردے گا اور ان کا حال درست کر دے گا۔",
+        "v5": {
+            "text": "But <i>as for</i> those who believe and do good works and believe in that which has been revealed to Muhammad—and it is the truth from their Lord[c]—He removes from them their sins and sets right their affairs.[3790]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "13:20; 22:55; 34:7."
+                },
+                {
+                    "ref": "3790",
+                    "note": "<p><strong>Important Words:</strong></p><p>بالھم (their affairs) is substantive noun from بال (<i>bala</i>) which means, it (fat) melted or dissolved. البال means, a state, condition or case (12:51). ھو فی البال means: (1) he is in ample and easy circumstances or condition. (2) A thing or affair to which one devotes his special care. They say لیس ھذا من بالی i.e. this is not of the things for which I care. (3) The heart or mind. خطر ببالی means, it occurred to me. (4) Attention. An Arab would say أعطنی بالک i.e. give me thy attention (Lane &amp; Aqrab).</p><p>الحق (truth) means, an established fact which is undeniable; a right, equity or justice; a thing that is decreed; a thing suitable to the requirements of justice; truth; wisdom; what is binding; obligatory, just, proper; right; genuine, authentic, real; prudence (Lane, Aqrab &amp; Mufradat).</p><p><strong>Commentary:</strong></p><p>Because belief in the Holy Prophet, as in all Divine Messengers, is included in the words \"those who believe and do good works,\" the expression \"and believe in what has been revealed to Muhammad\" seems to be redundant. But nothing in the Quran is redundant or superfluous, the expression serves a definite purpose. It removes a possible misconception, that belief in God and belief in life after death alone are the two fundamental articles of Faith (2:63). The verse leaves no doubt about the indispensability of belief in the Holy Prophet by saying that what has been revealed to him is الحق i.e. it is the whole truth and nothing but the truth; it agrees with the requirements of justice, truth and wisdom, and fully meets the exigencies and circumstances of time and the varying human needs, and by it moral lapses of those who believe in him are obliterated, their difficulties removed and their condition progressively bettered.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 2135,
+                "topic": "Allah: parables set forth by, <i>Amthal</i>",
+                "verses": "13:18, 2:18, 2:27, 2:172, 2:262, 2:265, 7:177, 13:36, 14:19, 14:25-27, 14:46, 16:75-77, 16:113, 18:33, 22:74, 24:36, 25:40, 29:42, 29:44, 30:29, 30:59, 36:14, 39:28, 39:30, 43:9, 47:16, 59:22, 62:6, 66:11-12"
+            },
+            {
+                "id": 7356,
+                "topic": "Falsehood: <i>Batil</i>: who believe in",
+                "verses": "17:82, 29:53, 7:140, 21:30, 22:63, 29:68, 45:28, 58:15"
+            }
+        ],
+        "ar": "ذٰلِکَ بِاَنَّ  الَّذِیۡنَ کَفَرُوا اتَّبَعُوا الۡبَاطِلَ وَ اَنَّ  الَّذِیۡنَ اٰمَنُوا اتَّبَعُوا الۡحَقَّ مِنۡ  رَّبِّہِمۡ ؕ کَذٰلِکَ یَضۡرِبُ اللّٰہُ لِلنَّاسِ اَمۡثَالَہُمۡ ﴿۴﴾ ",
+        "ur": "یہ اس لئے ہو گا کہ وہ جنہوں نے کفر کیا انہوں نے جھوٹ کی پیروی کی اور وہ جو ایمان لائے انہوں نے اپنے ربّ کی طرف سے آنے والے حق کی پیروی کی۔ اسی طرح اللہ لوگوں کے سامنے ان کی مثالیں بیان کرتا ہے۔",
+        "v5": {
+            "text": "That is because those who disbelieve follow falsehood while those who believe follow the truth from their Lord. Thus does Allah set forth for men their similitudes.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 47,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 4759,
+                "topic": "Burden",
+                "verses": "6:143, 7:158, 52:41, 65:5, 94:3"
+            },
+            {
+                "id": 4929,
+                "topic": "Captives: <i>Asir</i>",
+                "verses": "8:68-69, 2:86, 2:178, 4:25, 5:90, 8:71, 9:60, 33:27, 58:4, 76:9, 90:14"
+            },
+            {
+                "id": 5272,
+                "topic": "Conscience",
+                "verses": "8:40, 2:194, 3:21, 7:52, 7:89, 14:25, 18:30, 22:39, 22:41, 22:72, 27:63, 50:38, 67:11, 69:40, 75:3"
+            },
+            {
+                "id": 11079,
+                "topic": "Martyrs: <i>Shahid</i>",
+                "verses": "2:155, 3:158, 3:170-172"
+            },
+            {
+                "id": 12406,
+                "topic": "Muhammad<sup>(sa)</sup>: companions of",
+                "verses": "24:38-39, 3:160, 5:23, 7:158, 8:6, 9:100, 9:117, 9:128, 26:220, 33:24, 48:30, 66:9, 77:2-7, 79:2-6, 92:4, 100:2-12"
+            },
+            {
+                "id": 12744,
+                "topic": "Murder",
+                "verses": "17:34, 2:155, 2:179, 3:158, 3:170, 3:196, 4:30, 4:75, 4:93-94, 5:31, 5:33-34, 6:152, 9:111, 17:32, 22:39, 22:59, 25:69, 60:13"
+            },
+            {
+                "id": 13631,
+                "topic": "Paradise: <i>Jannah</i>: rewards of, for the righteous men and women, the martyrs, the <i>muhajirun</i>, the patient, those who fear Allah, the penitent",
+                "verses": "18:32, 2:26, 3:16, 3:134, 3:196, 3:199, 4:14, 4:58, 5:66, 5:120, 7:44, 9:72, 9:100, 9:111, 10:10, 10:27, 11:109, 13:23-25, 13:36, 15:46-49, 16:33, 19:61-63, 21:102-104, 23:2-12, 25:76-77, 26:91, 32:20, 35:33-34, 35:36, 36:26-27, 37:42-50, 39:21, 40:41, 41:31-33, 43:69-74, 46:14-15, 47:16, 48:18, 50:32-36, 52:18-28, 55:47-59, 55:63-79, 56:12-39, 56:89-90, 57:13, 57:22, 59:21, 61:12-13, 66:9, 66:12, 74:40-41, 76:6-7, 76:12-23, 77:42-5, 78:32-37, 82:14, 83:23, 83:26-29, 88:9-17, 89:28-31"
+            },
+            {
+                "id": 14244,
+                "topic": "Prisoners of War: release of favoured",
+                "verses": "4:4, 24:34"
+            },
+            {
+                "id": 14248,
+                "topic": "Prisoners of War: taking of",
+                "verses": "8:68-69"
+            },
+            {
+                "id": 14249,
+                "topic": "Prisoners of War: treatment of",
+                "verses": null
+            },
+            {
+                "id": 16924,
+                "topic": "Slavery: abolition of",
+                "verses": "24:34, 33:51, 90:14"
+            },
+            {
+                "id": 18345,
+                "topic": "War: <i>Qital</i>: conditions for",
+                "verses": "2:191-192, 2:194, 2:218, 4:76, 4:91, 5:34, 8:40, 8:46-47, 8:59, 8:61-62, 8:68-72, 9:5-8, 9:36, 16:127, 22:40-42, 22:61, 47:36, 59:6"
+            }
+        ],
+        "ar": "فَاِذَا  لَقِیۡتُمُ  الَّذِیۡنَ کَفَرُوۡا فَضَرۡبَ الرِّقَابِ ؕ حَتّٰۤی  اِذَاۤ  اَثۡخَنۡتُمُوۡہُمۡ فَشُدُّوا الۡوَثَاقَ ٭ۙ فَاِمَّا مَنًّۢا بَعۡدُ وَ  اِمَّا فِدَآءً  حَتّٰی تَضَعَ  الۡحَرۡبُ اَوۡزَارَہَا ۬ۚ۟ۛ ذٰؔلِکَ ؕۛ وَ لَوۡ  یَشَآءُ  اللّٰہُ  لَانۡتَصَرَ  مِنۡہُمۡ وَ لٰکِنۡ  لِّیَبۡلُوَا۠ بَعۡضَکُمۡ  بِبَعۡضٍ ؕ وَ الَّذِیۡنَ قُتِلُوۡا فِیۡ  سَبِیۡلِ اللّٰہِ  فَلَنۡ یُّضِلَّ  اَعۡمَالَہُمۡ ﴿۵﴾",
+        "ur": " پس جب تم ان لوگوں سے بِھڑ جاؤ جنہوں نے کفر کیا تو گردنوں پر وار کرنا یہاں تک کہ جب تم ان کا بکثرت خون بہالو تو مضبوطی سے بندھن کسو۔ پھر بعد ازاں احسان کے طور پر یا فدیہ لے کر آزاد کرنا یہاں تک کہ جنگ اپنے ہتھیار ڈال دے۔ ایسا ہی ہونا چاہیے۔ اور اگر اللہ چاہتا تو خود ان سے انتقام لیتا لیکن غرض یہ ہے کہ وہ تم میں سے بعض کو بعض کے ذریعہ آزمائے۔ اور وہ لوگ جنہیں اللہ کی راہ میں سخت تکلیف پہنچائی گئی، ان کے اعمال وہ ہرگز ضائع نہیں کرے گا۔",
+        "v5": {
+            "text": "And [a]when you meet <i>in regular battle</i> those who disbelieve, smite <i>their</i> necks; and, when you have overcome them, bind fast the fetters—then afterwards either <i>release them as a</i> favour or <i>by taking</i> ransom—until the war lays down its burdens. That <i>is the ordinance</i>. And if Allah had <i>so</i> pleased, He could have punished them <i>Himself</i>, but <i>He has willed</i> that He may try some of you by others. And those who are killed in the way of Allah—He will never render their works vain.[3791]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "8:46, 68."
+                },
+                {
+                    "ref": "3791",
+                    "note": "<p><strong>Important Words:</strong></p><p>أثخنتموھم (you have overcome them). أثخن is transitive from ثخن (<i>thakhuna</i> or <i>thakhana</i>) which means, it was or became thick or coarse. أثخنه means, he rendered him heavy or languid or enervated; or he overcame him after inflicting many wounds on him. أثخن فی العدو means, he made a great slaughter among the enemy or inflicted heavy wounds upon him. أثخن فی الارض means, he caused much slaughter in the land; or he fought vehemently in the land (Lane &amp; Aqrab).</p><p>انتصر منھم (He would have punished them) is derived from نصر. They say نصرہ اللّٰه علی عدوہ i.e. God helped, aided or assisted him against his enemy or made him victorious. انتصر means, he defended himself against his injurer. انتصر منه means, he exacted his right or due completely from him; he avenged himself upon him; he punished him (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The verse, in a nutshell, lays down some important rules about the ethics of war and its conduct and incidentally deals a death blow to slavery. Briefly these are: (a) When they are engaged in regular battle in the defence of their faith, honour, lives or property, the Muslims are enjoined to fight bravely and relentlessly, giving no quarter, and expecting none from the enemy; and not to flee from the field of battle under lame or weak excuses. They must either win or die. \"He who turns his back to the enemy\", says the Quran, \"draws upon himself the wrath of Allah\" (8:13-17). (b) When war is once started, it should continue till peace is established and freedom of conscience secured (8:40). (c) Prisoners are to be taken from the enemy, only after regular and pitched battle has been fought, and the enemy is decidedly and positively beaten. Thus regular war is declared to be the only reason for taking prisoners for no other cause free men are to be deprived of their liberty. (d) When war is over, prisoners should be released, either as an act of favour, or on taking ransom or by negotiating mutual exchange. They should not be held permanently in captivity or treated as slaves. The Holy Prophet carried this Divine commandment into actual practice by setting at liberty about a hundred families of Banu Mustaliq and several thousand prisoners of Hawazin after both these tribes had been decisively beaten in battle. It was after the Battle of Badr that ransom was accepted for the prisoners who were set free. This was perhaps, because Islam was then in a very weak state. But, on this occasion too, those of them who could not pay their ransom in money but were literate, were required to teach reading and writing to some of the Muslims. The verse thus has struck very effectively at the roots of slavery, abolishing it completely and forever. (Muir, Zurqani &amp; Hisham).</p><p>The words \"And if Allah had so pleased, he could have punished them Himself, but He has willed that He may try some of you by others,\" signify that God possessed the power to punish the enemies of Truth without the instrumentality of Muslims but He got the latter engaged in fighting with disbelievers so that on the one hand their own good qualities of character should have an opportunity to come into play and on the other the bad qualities of disbelievers should become exposed. Perhaps in no other aspect of life was the moral superiority of the Companions of the Holy Prophet so clearly demonstrated as in their treatment of their fallen foes.</p><p>The words \"And those who are killed in the way of Allah—He will never render their works vain,\" mean that the sacrifice of Muslims slain in the field of battle would not be wasted. It was their sacrifice that firmly laid the foundation of a bright future for Islam.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 11079,
+                "topic": "Martyrs: <i>Shahid</i>",
+                "verses": "2:155, 3:158, 3:170-172"
+            },
+            {
+                "id": 12744,
+                "topic": "Murder",
+                "verses": "17:34, 2:155, 2:179, 3:158, 3:170, 3:196, 4:30, 4:75, 4:93-94, 5:31, 5:33-34, 6:152, 9:111, 17:32, 22:39, 22:59, 25:69, 60:13"
+            },
+            {
+                "id": 13631,
+                "topic": "Paradise: <i>Jannah</i>: rewards of, for the righteous men and women, the martyrs, the <i>muhajirun</i>, the patient, those who fear Allah, the penitent",
+                "verses": "18:32, 2:26, 3:16, 3:134, 3:196, 3:199, 4:14, 4:58, 5:66, 5:120, 7:44, 9:72, 9:100, 9:111, 10:10, 10:27, 11:109, 13:23-25, 13:36, 15:46-49, 16:33, 19:61-63, 21:102-104, 23:2-12, 25:76-77, 26:91, 32:20, 35:33-34, 35:36, 36:26-27, 37:42-50, 39:21, 40:41, 41:31-33, 43:69-74, 46:14-15, 47:16, 48:18, 50:32-36, 52:18-28, 55:47-59, 55:63-79, 56:12-39, 56:89-90, 57:13, 57:22, 59:21, 61:12-13, 66:9, 66:12, 74:40-41, 76:6-7, 76:12-23, 77:42-5, 78:32-37, 82:14, 83:23, 83:26-29, 88:9-17, 89:28-31"
+            },
+            {
+                "id": 17309,
+                "topic": "Success: <i>Fauz</i>, <i>Ghalabah</i>",
+                "verses": "23:2, 3:186, 4:14, 4:74, 5:57, 9:1, 9:20, 9:72, 9:89, 9:100, 9:111, 10:10, 24:53, 33:72, 37:61, 39:62, 40:10, 58:23, 59:10, 61:13, 78:32"
+            }
+        ],
+        "ar": "سَیَہۡدِیۡہِمۡ  وَ  یُصۡلِحُ   بَالَہُمۡ ۚ﴿۶﴾ ",
+        "ur": "وہ انہیں ہدایت دے گا اور ان کے حال درست کردے گا۔",
+        "v5": {
+            "text": "He will guide them and improve their condition.[3792]",
+            "notes": [
+                {
+                    "ref": "3792",
+                    "note": "<p><strong>Important Words:</strong></p><p>Since one of the meanings of ھدایة is to follow the right path till one reaches one’s destination and achieves the object of one’s quest (Lane), the verse purports to say that the martyred Muslims have achieved, by their death, the object for which they gave their lives which was to attain God’s pleasure and to make Islam secure and strong.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 11079,
+                "topic": "Martyrs: <i>Shahid</i>",
+                "verses": "2:155, 3:158, 3:170-172"
+            },
+            {
+                "id": 12744,
+                "topic": "Murder",
+                "verses": "17:34, 2:155, 2:179, 3:158, 3:170, 3:196, 4:30, 4:75, 4:93-94, 5:31, 5:33-34, 6:152, 9:111, 17:32, 22:39, 22:59, 25:69, 60:13"
+            },
+            {
+                "id": 13631,
+                "topic": "Paradise: <i>Jannah</i>: rewards of, for the righteous men and women, the martyrs, the <i>muhajirun</i>, the patient, those who fear Allah, the penitent",
+                "verses": "18:32, 2:26, 3:16, 3:134, 3:196, 3:199, 4:14, 4:58, 5:66, 5:120, 7:44, 9:72, 9:100, 9:111, 10:10, 10:27, 11:109, 13:23-25, 13:36, 15:46-49, 16:33, 19:61-63, 21:102-104, 23:2-12, 25:76-77, 26:91, 32:20, 35:33-34, 35:36, 36:26-27, 37:42-50, 39:21, 40:41, 41:31-33, 43:69-74, 46:14-15, 47:16, 48:18, 50:32-36, 52:18-28, 55:47-59, 55:63-79, 56:12-39, 56:89-90, 57:13, 57:22, 59:21, 61:12-13, 66:9, 66:12, 74:40-41, 76:6-7, 76:12-23, 77:42-5, 78:32-37, 82:14, 83:23, 83:26-29, 88:9-17, 89:28-31"
+            }
+        ],
+        "ar": "وَ  یُدۡخِلُہُمُ  الۡجَنَّۃَ  عَرَّفَہَا  لَہُمۡ ﴿۷﴾ ",
+        "ur": "اور انہیں اس جنت میں داخل کرے گا جسے ان کی خاطر اُس نے بہت اعلیٰ بنایا ہے ۔",
+        "v5": {
+            "text": "And [a]admit them into the Garden which He has made known to them.[3793]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "3:196; 9:111."
+                },
+                {
+                    "ref": "3793",
+                    "note": "<p><strong>Important Words:</strong></p><p>عرف (made known) is transitive verb from عرف(‘<i>arafa</i>) which means, he knew it or became acquainted with it; he knew it by means of one of the senses and also by mental perception. عرفه الامر (‘<i>arrafa</i>) means, he acquainted him with the affair. عرف also means, rendering a thing fragrant, and adorning, decorating or embellishing it (Lane).</p><p><strong>Commentary:</strong></p><p>The verse means that the Muslims slain in the way of Allah will be admitted into gardens of Paradise of which they had a foretaste in the present life. They had a foretaste of them in the sense that they enjoyed in their physical form all those spiritual blessings and favours which are mentioned in the Quran as having been promised to them in the next world. Or the verse may signify that Muslims had a spiritual foretaste of \"the Garden\" because they saw with their own eyes promises, made to them in the Quran about Paradise, being fulfilled in this very life.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 8,
+        "v_": 7,
+        "topics": [],
+        "ar": "یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡۤا اِنۡ تَنۡصُرُوا اللّٰہَ یَنۡصُرۡکُمۡ  وَ  یُثَبِّتۡ  اَقۡدَامَکُمۡ ﴿۸﴾ ",
+        "ur": "اے و ہ لوگو جو ایمان لائے ہو! اگر تم اللہ کی مدد کرو تو وہ تمہاری مدد کرے گا اور تمہارے قدموں کو ثبات بخشے گا۔",
+        "v5": {
+            "text": "O ye who believe! if you help <i>the cause of</i> Allah, He will help you and will make your steps firm.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 47,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 446,
+                "topic": "Actions: <i>A‘mal</i>: in vain who reject faith",
+                "verses": "5:6, 7:148, 11:17, 18:104-107, 25:24, 47:2, 47:33, 49:3"
+            }
+        ],
+        "ar": "وَ الَّذِیۡنَ کَفَرُوۡا  فَتَعۡسًا لَّہُمۡ وَ اَضَلَّ اَعۡمَالَہُمۡ ﴿۹﴾ ",
+        "ur": "اور وہ لوگ جنہوں نے کفر کیا پس ہلاکت ہو  اُن پر اور (اللہ نے) اُن کے اعمال کو ضائع کر دیا۔",
+        "v5": {
+            "text": "But <i>as for</i> those who disbelieve, perdition is their <i>lot</i>; and He will make their works vain.[3794]",
+            "notes": [
+                {
+                    "ref": "3794",
+                    "note": "<p><strong>Important Words:</strong></p><p>تعساً (perdition) is inf. noun from تعس (<i>ta’sa</i>) which means, he stumbled and fell upon his face; he missed his proof in litigation and the object of his search in seeking; he became far-removed; he became degraded. تعسه اللّٰه means, God destroyed him; degraded him; made him fall on his face. تعساً له means, may he fall never to rise; may he perish; may ruin cleave to him or may he be degraded. تعس means, ruin, degradation, mischief, evil (Lane &amp; Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 446,
+                "topic": "Actions: <i>A‘mal</i>: in vain who reject faith",
+                "verses": "5:6, 7:148, 11:17, 18:104-107, 25:24, 47:2, 47:33, 49:3"
+            }
+        ],
+        "ar": "ذٰلِکَ بِاَنَّہُمۡ کَرِہُوۡا مَاۤ  اَنۡزَلَ اللّٰہُ فَاَحۡبَطَ اَعۡمَالَہُمۡ ﴿۱۰﴾ ",
+        "ur": "یہ اس وجہ سے تھا کہ جو کچھ اللہ نے اتارا انہوں نے اسے ناپسند کیا۔ پس اُس نے ان کے اعمال ضائع کردئیے۔",
+        "v5": {
+            "text": "That is because they hate what Allah has revealed; so He has made their works futile.[3795]",
+            "notes": [
+                {
+                    "ref": "3795",
+                    "note": "<p><strong>Commentary:</strong></p><p>Three times in the few verses that have gone before is it stated that \"God has made the works of disbelievers vain.\" This signifies that disbelievers had bent all their energies of mind and body, to the achievement of one supreme desire—to see Islam fail and come to naught. But Islam triumphed. It progressed and prospered and the disbelievers failed to have their desire fulfilled.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 2452,
+                "topic": "Allah: travel in the earth..., <i>Siru fil-ard</i>",
+                "verses": "29:21, 3:138, 6:12, 12:110, 22:47, 27:70, 30:10, 30:43, 35:45, 40:22, 40:83"
+            },
+            {
+                "id": 7045,
+                "topic": "Earth: <i>Al-Ard</i>: travel through the",
+                "verses": "3:138, 3:157, 4:102, 6:12, 12:109, 14:39, 22:47, 29:20, 30:10, 30:43, 35:45, 40:22, 40:83, 67:16"
+            },
+            {
+                "id": 17827,
+                "topic": "Travel",
+                "verses": "67:16, 3:46, 3:138, 4:44, 9:2, 9:60, 12:110, 16:15, 17:71, 22:47, 29:21, 73:21"
+            }
+        ],
+        "ar": "اَفَلَمۡ یَسِیۡرُوۡا فِی الۡاَرۡضِ فَیَنۡظُرُوۡا کَیۡفَ کَانَ عَاقِبَۃُ  الَّذِیۡنَ مِنۡ قَبۡلِہِمۡ ؕ دَمَّرَ اللّٰہُ عَلَیۡہِمۡ ۫ وَ لِلۡکٰفِرِیۡنَ اَمۡثَالُہَا ﴿۱۱﴾ ",
+        "ur": "پس کیا وہ زمین میں پھرے نہیں کہ نتیجتاً وہ دیکھ لیتے کہ ان سے پہلے لوگوں کا کیسا انجام تھا۔ اللہ نے ان پر ہلاکت کی مار ڈالی اور (اِن) کافروں سے بھی اُن جیسا ہی سلوک ہوگا ۔",
+        "v5": {
+            "text": "[a]Have they not travelled in the earth and seen what was the end of those who were before them? Allah <i>utterly</i> destroyed them, and for the disbelievers there will be the like thereof.[3796]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "12:110; 22:47; 30:10; 35:45; 40:22."
+                },
+                {
+                    "ref": "3796",
+                    "note": "<p><strong>Commentary:</strong></p><p>As many as fifteen times, the disbelievers of the Holy Prophet have been warned in the Quran to travel in the earth and see the dreadful end to which the disbelievers of former Prophets have come. How can they, the verse warns them, expect to escape a similar fate? The expression أمثالھا shows that Divine punishment will overtake disbelievers in various forms and shapes.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 12,
+        "v_": 11,
+        "topics": [],
+        "ar": "ذٰلِکَ بِاَنَّ اللّٰہَ مَوۡلَی الَّذِیۡنَ اٰمَنُوۡا وَ اَنَّ الۡکٰفِرِیۡنَ لَا  مَوۡلٰی  لَہُمۡ ﴿٪۱۲﴾ ",
+        "ur": "یہ اس لئے ہے کہ اللہ ان لوگوں کا مولیٰ ہوتا ہے جو ایمان لائے ا ور کافروں کا یقیناً کوئی مولیٰ نہیں ہوتا۔",
+        "v5": {
+            "text": "That is because [b]Allah is the Protector of those who believe, and as for the disbelievers, there is no protector for them.",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "3:151; 8:41."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 13,
+        "v_": 12,
+        "topics": [
+            {
+                "id": 184,
+                "topic": "Abode: in Hell, in fire, <i>Ma’wa</i>, <i>Mathwa</i>",
+                "verses": "3:163, 3:152, 3:198, 4:98, 5:73, 6:129, 8:17, 9:73, 9:95, 10:9, 13:19, 16:30, 17:98, 24:58, 25:67, 29:26, 29:69, 39:33, 39:61, 39:73, 40:77, 41:25, 45:35, 57:16, 66:10, 79:40"
+            },
+            {
+                "id": 504,
+                "topic": "Actions: <i>A‘mal</i>: rewarded",
+                "verses": "28:85, 3:196, 4:41, 4:58, 4:174, 5:10, 7:9, 7:44, 9:121, 11:16, 11:112, 16:98, 17:10, 18:3, 18:47, 18:108-9, 19:77, 20:76-77, 22:15, 22:57, 24:39, 29:8, 29:10, 31:9-10, 32:18, 32:20, 33:30, 34:38, 35:8, 35:11, 35:33, 39:36, 41:9, 42:23-24, 42:27, 43:73-74, 45:31, 46:20, 47:36, 48:30, 52:18-21, 65:12, 84:26, 85:12, 95:7, 98:8-9, 99:8, 101:7-8"
+            },
+            {
+                "id": 4949,
+                "topic": "Cattle: <i>An‘am</i>: sinners are like",
+                "verses": "16:67, 25:45, 7:180"
+            },
+            {
+                "id": 13449,
+                "topic": "Paradise: <i>Jannah</i>: believers who do good works will enter",
+                "verses": "2:26, 2:83, 3:199, 4:58, 4:123, 4:125, 7:43, 10:10, 11:24, 14:24, 15:46, 16:31-32, 18:108, 19:61, 19:64, 20:76-77, 22:15, 22:24, 22:57, 25:16, 29:59, 30:16, 31:9, 32:20, 38:50-51, 40:41, 42:23, 44:52-53, 51:16, 54:55, 64:10, 65:12, 68:35, 85:12, 89:29-31, 98:8-9"
+            }
+        ],
+        "ar": "اِنَّ اللّٰہَ یُدۡخِلُ الَّذِیۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ جَنّٰتٍ تَجۡرِیۡ مِنۡ تَحۡتِہَا الۡاَنۡہٰرُ ؕ وَ الَّذِیۡنَ کَفَرُوۡا یَتَمَتَّعُوۡنَ وَ یَاۡکُلُوۡنَ کَمَا تَاۡکُلُ الۡاَنۡعَامُ وَ النَّارُ مَثۡوًی لَّہُمۡ ﴿۱۳﴾ ",
+        "ur": "یقیناً اللہ ان لوگوں کو جو ایمان لائے اور انہوں نے نیک عمل کیے ایسی جنتوں میں داخل کرے گا جن کے دامن میں نہریں بہہ رہی ہوں گی۔ جبکہ وہ لوگ جنہوں نے کفر کیا عارضی فائدہ اٹھارہے ہیں اور وہ اس طرح کھاتے ہیں جیسے مویشی کھاتے ہیں حالانکہ آگ ان کا ٹھکانا ہے۔",
+        "v5": {
+            "text": "Verily, Allah will make those who believe and do good works enter the Gardens underneath which rivers flow;[a] while those who disbelieve enjoy themselves and eat even as the cattle eat, and the Fire will be their resort[b].[3797]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "14:24; 22:24; 29:10."
+                },
+                {
+                    "ref": "b",
+                    "note": "14:31; 15:4; 77:47."
+                },
+                {
+                    "ref": "3797",
+                    "note": "<p><strong>Commentary:</strong></p><p>The believers make use of the things of the world and eat and drink as do the disbelievers, but whereas the former eat to live in order to serve God and man, the latter live to eat, drink, and be merry, and have no nobler objects to pursue. They do not rise above the level of animals as their whole concept of life is materialistic.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 14,
+        "v_": 13,
+        "topics": [
+            {
+                "id": 3443,
+                "topic": "Attributes of Allah: An-Nasir (Helper)",
+                "verses": "4:46, 2:108, 4:174, 8:41, 25:32, 33:18"
+            },
+            {
+                "id": 12630,
+                "topic": "Muhammad<sup>(sa)</sup>: protection of",
+                "verses": "5:68, 8:6, 13:12, 33:2, 52:49, 93:4-5"
+            },
+            {
+                "id": 14408,
+                "topic": "Prophecies in the Holy Qur’an: about: the Holy Prophet<sup>(sa)</sup>",
+                "verses": "28:86, 2:41-42, 2:90, 5:48, 10:72, 17:2, 17:61, 17:81, 38:12, 46:11-13, 54:7-9, 81:24, 89:2-3, 90:5, 92:2-3, 94:5"
+            }
+        ],
+        "ar": "وَ کَاَیِّنۡ مِّنۡ  قَرۡیَۃٍ  ہِیَ اَشَدُّ  قُوَّۃً  مِّنۡ قَرۡیَتِکَ الَّتِیۡۤ  اَخۡرَجَتۡکَ ۚ اَہۡلَکۡنٰہُمۡ فَلَا  نَاصِرَ  لَہُمۡ ﴿۱۴﴾ ",
+        "ur": "اور کتنی ہی بستیاں تھیں جو تیری (اِس) بستی سے زیادہ طاقتور تھیں جس نے تجھے نکال دیا۔ ہم نے ان کو ہلاک کردیا تب کوئی ان کا مددگار نہ نکلا۔",
+        "v5": {
+            "text": "And how many a township, more powerful than thy town which has driven thee out, have We destroyed, and they had no helper![3798]",
+            "notes": [
+                {
+                    "ref": "3798",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse constitutes a mighty prophecy. According to the majority of scholarly opinion it was revealed while the Holy Prophet was on his way from Mecca to Medina, having been driven out of his beloved native place, with a price put on his head. The Prophet was friendless and his cause seemed hopeless. He was hourly in fear of being caught, as Medina was far away and the countryside swarmed with adventurers who sought to bring him dead or alive to get the much-coveted prize. It was at that critical hour that the verse was revealed. It promised a safe journey for the Prophet and the eventual destruction of his enemies.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 15,
+        "v_": 14,
+        "topics": [
+            {
+                "id": 401,
+                "topic": "Actions: <i>A‘mal</i>: appear beautiful",
+                "verses": "27:5, 6:44, 8:49, 16:64, 27:25, 29:39, 35:9, 40:38"
+            }
+        ],
+        "ar": "اَفَمَنۡ کَانَ عَلٰی بَیِّنَۃٍ  مِّنۡ  رَّبِّہٖ  کَمَنۡ زُیِّنَ  لَہٗ  سُوۡٓءُ عَمَلِہٖ  وَ اتَّبَعُوۡۤا اَہۡوَآءَہُمۡ ﴿۱۵﴾ ",
+        "ur": "پس جو اپنے رب کی طرف سے کھلی کھلی ہدایت پر ہوکیا اُس جیسا ہو سکتاہے جسے اس کے برے اعمال اچھے کرکے دکھائے گئے ہوں اور انہوں نے اپنی خواہشات کی پیروی کی ہو؟",
+        "v5": {
+            "text": "Then, [c]is he who <i>takes his stand</i> upon a clear proof from his Lord like those to whom the evil of their deeds is made <i>to look</i> beautiful and who follow their evil inclinations?[3799]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "11:29."
+                },
+                {
+                    "ref": "3799",
+                    "note": "<p><strong>Commentary:</strong></p><p>The preceding verse promised a bright future for Islam and the ultimate destruction of disbelief, at a time when the Prophet’s cause seemed quite hopeless. The verse under comment continues the theme and says that the outcome could not possibly be otherwise as the claim of the Holy Prophet was reinforced and substantiated by incontrovertible heavenly signs while disbelievers had nothing to their credit but wicked deeds and evil desires.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 16,
+        "v_": 15,
+        "topics": [
+            {
+                "id": 147,
+                "topic": "Abide: <i>Baqa</i>: will in Hell",
+                "verses": "2:40, 2:82, 2:163, 2:218, 2:258, 2:276, 3:89, 2:117, 4:15, 4:170, 5:81, 6:129, 7:37, 9:17, 9:63, 9:68, 10:28, 13:6, 16:30, 20:102, 21:100, 23:104, 33:66, 40:77, 43:75, 64:11, 72:24"
+            },
+            {
+                "id": 2136,
+                "topic": "Allah: parables set forth by, <i>Amthal</i>",
+                "verses": "13:18, 2:18, 2:27, 2:172, 2:262, 2:265, 7:177, 13:36, 14:19, 14:25-27, 14:46, 16:75-77, 16:113, 18:33, 22:74, 24:36, 25:40, 29:42, 29:44, 30:29, 30:59, 36:14, 39:28, 39:30, 43:9, 47:4, 59:22, 62:6, 66:11-12"
+            },
+            {
+                "id": 2166,
+                "topic": "Allah: promised forgiveness, reward",
+                "verses": "48:30, 2:269, 3:137, 8:5, 22:51, 24:27, 33:36, 34:5, 35:8, 36:12, 49:4, 67:13"
+            },
+            {
+                "id": 6790,
+                "topic": "Drinks",
+                "verses": "2:61, 2:188, 2:250, 2:260, 6:71, 7:32, 9:19, 10:5, 12:42, 14:17, 15:23, 16:11, 16:67-68, 18:30, 19:27, 23:34, 25:50, 26:80, 35:13, 38:43, 38:52, 52:20, 56:55-56, 56:69, 69:25, 72:17, 76:6, 76:18, 76:22, 77:28, 77:44, 78:25, 83:26, 88:6"
+            },
+            {
+                "id": 7745,
+                "topic": "Forgiveness: <i>‘Afw</i>: Allah grants",
+                "verses": "3:136-137, 2:222, 2:269, 3:133, 4:97, 8:5, 22:51, 24:27, 33:36, 34:5, 35:8, 36:12, 48:30, 49:4, 67:13"
+            },
+            {
+                "id": 7797,
+                "topic": "Forgiveness: <i>‘Afw</i>: promised",
+                "verses": "48:30, 2:269, 3:137, 8:5, 22:51, 24:27, 33:36, 34:5, 35:8, 36:12, 49:4, 67:13"
+            },
+            {
+                "id": 8694,
+                "topic": "Hell: <i>Jahannam</i>: conditions in",
+                "verses": "19:69, 17:98, 3:107, 3:182, 6:71, 8:51, 10:28, 11:107, 14:17, 14:51, 15:45, 16:30, 18:30, 18:101, 19:72, 21:40, 21:101, 22:20-23, 23:105, 25:35, 26:92, 27:91, 32:21, 37:63, 38:58, 39:61, 39:72-73, 40:72-73, 44:44-47, 44:49, 54:49, 55:45, 56:43-45, 56:53-55, 56:94, 67:8, 67:28, 69:33, 69:37, 76:5, 78:25-26, 88:6-8, 102:7"
+            },
+            {
+                "id": 8944,
+                "topic": "Honey: <i>‘Asl</i>",
+                "verses": "16:70, 2:58, 66:2"
+            },
+            {
+                "id": 11181,
+                "topic": "Medicine: healing",
+                "verses": "16:70, 23:52, 28:73"
+            },
+            {
+                "id": 11438,
+                "topic": "Milk: <i>Laban</i>",
+                "verses": "16:67"
+            },
+            {
+                "id": 13390,
+                "topic": "Parable of: garden of righteous",
+                "verses": null
+            },
+            {
+                "id": 13506,
+                "topic": "Paradise: <i>Jannah</i>: description of",
+                "verses": "76:12-23, 2:26, 3:134, 7:43-44, 9:72, 13:25, 13:36, 15:46-49, 16:31-32, 18:32, 18:108-109, 19:62-63, 22:24, 25:17, 25:25, 25:76-77, 29:59, 30:16, 34:38, 35:34-36, 36:56-60, 37:41-50, 38:50-53, 39:21, 39:35, 40:41, 41:32, 42:23-28, 43:71-74, 44:52-56, 50:36, 52:23, 52:24, 52:28, 55:47-78, 56:13-38, 57:22, 65:12, 69:22-25, 76:6-7, 77:42-43, 78:32-37, 83:25-29, 88:11-17"
+            },
+            {
+                "id": 13632,
+                "topic": "Paradise: <i>Jannah</i>: rewards of, for the righteous men and women, the martyrs, the <i>muhajirun</i>, the patient, those who fear Allah, the penitent",
+                "verses": "18:32, 2:26, 3:16, 3:134, 3:196, 3:199, 4:14, 4:58, 5:66, 5:120, 7:44, 9:72, 9:100, 9:111, 10:10, 10:27, 11:109, 13:23-25, 13:36, 15:46-49, 16:33, 19:61-63, 21:102-104, 23:2-12, 25:76-77, 26:91, 32:20, 35:33-34, 35:36, 36:26-27, 37:42-50, 39:21, 40:41, 41:31-33, 43:69-74, 46:14-15, 47:5-7, 48:18, 50:32-36, 52:18-28, 55:47-59, 55:63-79, 56:12-39, 56:89-90, 57:13, 57:22, 59:21, 61:12-13, 66:9, 66:12, 74:40-41, 76:6-7, 76:12-23, 77:42-5, 78:32-37, 82:14, 83:23, 83:26-29, 88:9-17, 89:28-31"
+            },
+            {
+                "id": 14315,
+                "topic": "Promise: of Allah",
+                "verses": "24:56, 2:269, 3:153, 4:96, 5:10, 8:8, 9:72, 9:111, 13:36, 18:49, 19:62, 19:88, 21:102, 21:104-105, 23:36, 25:16-17, 28:62, 30:7, 33:23, 34:31, 38:54, 39:75, 41:31, 46:17, 48:22, 48:30, 50:33, 51:23, 57:11, 85:3"
+            },
+            {
+                "id": 15871,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 78:32-37, 83:23, 98:8"
+            },
+            {
+                "id": 15934,
+                "topic": "River: of Paradise",
+                "verses": "22:24, 3:137, 7:44, 9:72"
+            },
+            {
+                "id": 18456,
+                "topic": "Water: <i>Ma’</i>: as punishment",
+                "verses": "38:58, 6:71, 7:51, 10:5, 14:17, 22:20, 37:68, 40:73, 44:47, 44:49, 56:43, 56:55, 56:94, 78:26"
+            },
+            {
+                "id": 18667,
+                "topic": "Wine",
+                "verses": "2:220, 4:44, 5:91-92"
+            }
+        ],
+        "ar": "مَثَلُ الۡجَنَّۃِ الَّتِیۡ وُعِدَ الۡمُتَّقُوۡنَ ؕ فِیۡہَاۤ اَنۡہٰرٌ  مِّنۡ  مَّآءٍ غَیۡرِ اٰسِنٍ ۚ وَ  اَنۡہٰرٌ مِّنۡ لَّبَنٍ لَّمۡ  یَتَغَیَّرۡ  طَعۡمُہٗ ۚ وَ اَنۡہٰرٌ  مِّنۡ خَمۡرٍ  لَّذَّۃٍ   لِّلشّٰرِبِیۡنَ ۬ۚ وَ اَنۡہٰرٌ مِّنۡ عَسَلٍ مُّصَفًّی ؕ وَ لَہُمۡ  فِیۡہَا مِنۡ کُلِّ الثَّمَرٰتِ وَ مَغۡفِرَۃٌ  مِّنۡ  رَّبِّہِمۡ ؕ  کَمَنۡ ہُوَ خَالِدٌ فِی النَّارِ وَ سُقُوۡا مَآءً حَمِیۡمًا فَقَطَّعَ  اَمۡعَآءَہُمۡ ﴿۱۶﴾ ",
+        "ur": "اُس جنت کی مثال جس کا متقیوں کو وعدہ دیا جاتا ہے (یہ ہے کہ) اُس میں کبھی متعفن نہ ہونے والے پانی کی نہریں ہیں اور دودھ کی نہریں ہیں جس کا مزا متغیر نہیں ہوتا اور شراب کی نہریں ہیں جو پینے والوں کے لئے سراسرلذت ہے۔ اور نہریں ہیں ایسے شہد کی جو خالص ہے۔ اور ان کے لئے اُس میں ہر قسم کے پھل ہوں گے اور ان کے رب کی طرف سے عظیم مغفرت بھی۔ کیا (ایسے لوگ) اُس جیسے ہو سکتے ہیں جو آگ میں لمبے عرصہ تک رہنے والا ہو اور کھولتا ہوا پانی انہیں پلایا جائے پس وہ ان کی انتڑیاں کاٹ کر رکھ دے۔",
+        "v5": {
+            "text": "[a]A description of the Garden promised to the righteous: Therein are rivers of water which corrupts not; and rivers of milk of which the taste changes not; and rivers of wine, a delight to those who drink, and rivers of clarified honey. And in it will they have all <i>kinds</i> of fruit, and forgiveness from their Lord. Can <i>those who enjoy such bliss</i> be like those who abide in the Fire and who are given boiling water to drink so that it tears their bowels?[3800]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "13:36."
+                },
+                {
+                    "ref": "3800",
+                    "note": "<p><strong>Important Words:</strong></p><p>أنھار (rivers) is the plural of نھر which is inf. noun from نھر (<i>nahara</i>) which means, it flowed or flowed with force. نھر means, a river, a brook, a stream. The word also means, amplitude, or light and amplitude (Lane).</p><p>عسل (honey) is inf. noun from عسل (‘<i>asala</i>). عسل الطعام means, he prepared the food with honey. They say عسله i.e. he made him an object of eulogy; he made him an object of love to men. عسل means, honey; flowers or blossoms because honey is made therefrom; a good or righteous deed, the eulogy for which a person is deemed sweet (Lane).</p><p><strong>Commentary:</strong></p><p>The verse mentions four kinds of favours and blessings promised to believers in this and the next life, i.e. rivers of pure water, rivers of milk of which the taste does not change, rivers of wine which gives delight and rivers of clarified honey. The word أنھار which has been used four times in the verse, besides other senses, signifies light and amplitude; and عسلamong other things, means a good or righteous deed which wins for the doer the love and esteem of men. In view of the signification of these two words the verse may mean that the four things mentioned will be given to the righteous in plenty: viz. water which is the source of all life (21:31); milk which, besides giving health and vigour to the body, stands for spiritual knowledge; wine which gives pleasant sensations and forgetfulness of worries; and honey, being the means of curing many a disease, represents good and righteous deeds which make the believers beloved of men. Taken in the physical sense, i.e. pertaining to the present life, the verse would signify that in the present life the believers will have in plenty all those things which make life pleasant, delightful and useful; and taken symbolically and in a spiritual sense, it would mean that believers will have a full life, they will be endowed with spiritual knowledge, will drink the wine of God’s love and will do deeds that will win for them love and esteem of men.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 17,
+        "v_": 16,
+        "topics": [
+            {
+                "id": 2359,
+                "topic": "Allah: sets a seal on their hearts, <i>Khatama</i>, <i>Taba‘a</i>",
+                "verses": "2:8, 4:156, 9:87, 9:93, 16:109, 30:60, 40:36, 63:4"
+            },
+            {
+                "id": 8511,
+                "topic": "Heart: <i>Sadr, Fu’ad, Qalb</i>: sealed, veiled, rusted, blind, straitened",
+                "verses": "53:12, 18:58, 2:8, 2:89, 4:156, 6:26, 6:47, 6:111, 7:101-102, 7:180, 9:87, 9:93, 9:110, 10:75, 11:13, 14:44, 15:98, 16:109, 17:47, 18:29, 22:47, 23:64, 26:14, 30:60, 40:36, 41:6, 42:25, 45:24, 47:25, 59:15, 63:4, 83:15"
+            },
+            {
+                "id": 10246,
+                "topic": "Knowledge: <i>‘Ilm</i>: and disbelievers",
+                "verses": "6:149, 2:119, 3:62, 4:158, 5:105, 6:101, 6:120, 6:141, 9:6, 10:40, 16:28, 17:37, 22:4, 22:9, 22:72, 27:67, 30:8, 30:59-60, 40:84, 46:5"
+            }
+        ],
+        "ar": "وَ مِنۡہُمۡ  مَّنۡ یَّسۡتَمِعُ  اِلَیۡکَ ۚ حَتّٰۤی  اِذَا خَرَجُوۡا مِنۡ عِنۡدِکَ قَالُوۡا لِلَّذِیۡنَ اُوۡتُوا الۡعِلۡمَ  مَاذَا  قَالَ  اٰنِفًا ۟ اُولٰٓئِکَ الَّذِیۡنَ طَبَعَ اللّٰہُ  عَلٰی قُلُوۡبِہِمۡ وَ اتَّبَعُوۡۤا  اَہۡوَآءَہُمۡ ﴿۱۷﴾ ",
+        "ur": "اور ان میں وہ بھی ہیں جو (بظاہر) تیری طرف کان دھرتے ہیں یہاں تک کہ جب وہ تیرے پاس سے چلے جاتے ہیں تو ان لوگوں سے جنہیں علم دیا گیا ہے پوچھتے ہیں کہ ابھی ابھی اس نے کیا کہا تھا؟ یہی وہ لوگ ہیں جن کے دلوں پر اللہ نے مہر لگا دی اور انہوں نے اپنی خواہشات کی پیروی کی۔",
+        "v5": {
+            "text": "And among them are some who listen to thee till, when they go forth from thy presence, they say to those who have been given knowledge, ‘What has he been talking about just now?’ [a]Those are they whose hearts Allah has sealed, and who follow their own evil inclinations.[3801]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "9:93; 16:109; 63:4."
+                },
+                {
+                    "ref": "3801",
+                    "note": "<p><strong>Commentary:</strong></p><p>As the principal subject of the <i>Surah</i> is war, it naturally deals with three categories of men, viz. true believers, firm disbelievers and the hypocrites who vacillate between faith and disbelief. The verse under comment deals with the third category of men.</p><p>The expression ما ذا قال آنفا has a twofold meaning. A hypocrite being a double-faced person generally uses language susceptible of double meaning. This he does in order to extricate himself from an awkward position, wherein, should one construction of his speech land him in trouble, he might be able to avoid that consequence by putting quite a different construction on it. The above expression is an appropriate instance of the equivocal language used by the hypocrites of Medina. If one of them, after a meeting with the Prophet, happened to meet a Muslim, he would say \"What was it that he said just now,\" meaning, what beautiful and highly useful things had the Prophet said. But if he chanced to meet a hypocrite like himself he would use the same expression but meaning \"what non sense talk had the Prophet indulged in.\"</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 18,
+        "v_": 17,
+        "topics": [
+            {
+                "id": 8236,
+                "topic": "Guidance: Allah gives",
+                "verses": "20:51, 2:121, 2:186, 2:214, 3:74, 3:102, 4:69, 5:17, 6:36, 6:72, 6:89, 6:150, 7:44, 7:179, 10:10, 10:26, 10:36, 13:28, 13:32, 14:5, 14:13, 16:10, 16:94, 16:122, 19:77, 22:17, 22:38, 24:36, 24:47, 26:63, 26:79, 28:57, 29:70, 31:5-6, 33:5, 35:9, 37:119, 39:19, 39:24, 39:38, 42:14, 48:3, 48:21, 49:18, 64:12, 74:32, 76:4, 93:8"
+            },
+            {
+                "id": 15872,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 78:32-37, 83:23, 98:8"
+            },
+            {
+                "id": 17523,
+                "topic": "Taqwa: fear of God",
+                "verses": "2:3, 2:190, 2:197-198, 2:204, 2:213, 2:224, 2:232, 2:234, 2:238, 2:279, 2:283-284, 3:16, 3:51, 3:77, 3:103, 3:131, 3:201, 4:2, 4:10, 4:132, 5:3, 5:5, 5:8-9, 5:12, 5:36, 5:58, 5:89, 5:94, 5:97, 5:113, 6:70, 6:73, 7:27, 7:36, 7:66, 8:2, 8:70, 9:7, 9:108, 9:109, 11:79, 15:70, 20:133, 22:2, 22:33, 22:38, 26:109, 26:133, 26:185, 33:56, 33:71, 43:64, 48:27, 49:4, 49:11, 49:13, 57:29, 58:10, 59:8, 59:19, 60:12, 65:2, 65:11, 74:57, 78:32, 96:13"
+            }
+        ],
+        "ar": "وَ الَّذِیۡنَ اہۡتَدَوۡا زَادَہُمۡ ہُدًی وَّ اٰتٰہُمۡ تَقۡوٰٮہُمۡ ﴿۱۸﴾ ",
+        "ur": "اور وہ لوگ جنہوں نے ہدایت پائی ان کو اس نے ہدایت میں بڑھا دیا اور اُن کو اُن کا تقویٰ عطاکیا۔",
+        "v5": {
+            "text": "But as for those who follow guidance, [a]He adds to their guidance, and bestows on them righteousness <i>suited to their condition</i>.[3802]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "8:3; 9:124; 18:14."
+                },
+                {
+                    "ref": "3802",
+                    "note": "<p><strong>Commentary:</strong></p><p>The expression آتا ھم تقواھم may mean: (a) God made them righteous; (b) He disclosed to them the ways and means by employing which they could attain تقویٰ (c) Allah bestowed upon believers favours and blessings which are the result of a life of righteousness.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 19,
+        "v_": 18,
+        "topics": [
+            {
+                "id": 5949,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: is sure to come",
+                "verses": "37:21, 6:13, 6:32, 12:108, 15:86, 18:22, 20:16, 22:8, 22:56, 34:4, 40:60, 42:8, 43:67, 45:33, 51:7, 56:3"
+            },
+            {
+                "id": 9016,
+                "topic": "Hour: <i>Sa‘ah</i>",
+                "verses": "25:12, 6:32, 6:41, 7:188, 12:108, 15:86, 16:78, 18:22, 20:16, 21:50, 22:2, 22:8, 22:56, 30:13, 30:56, 31:35, 33:64, 34:4, 40:60, 41:48, 41:51, 42:18-19, 43:62, 43:67, 43:86, 45:28, 45:33, 54:2, 54:47, 79:43, 79:44"
+            }
+        ],
+        "ar": "فَہَلۡ یَنۡظُرُوۡنَ  اِلَّا السَّاعَۃَ  اَنۡ تَاۡتِیَہُمۡ بَغۡتَۃً ۚ فَقَدۡ جَآءَ  اَشۡرَاطُہَا ۚ فَاَنّٰی لَہُمۡ  اِذَا جَآءَتۡہُمۡ  ذِکۡرٰٮہُمۡ ﴿۱۹﴾ ",
+        "ur": "پس کیا وہ محض ساعت کا انتظار کر رہے ہیں کہ وہ اچانک ان کے پاس آجائے۔ پس اس کی علامات تو آچکی ہیں ۔ پھر جب وہ بھی ان کے پاس آجائے گی تو اس وقت اُن کا نصیحت پکڑنا اُن کے کس کام آئے گا؟",
+        "v5": {
+            "text": "They wait not but for the Hour, that it should come upon them suddenly. [b]The signs thereof have already come. But <i>of</i> what <i>avail</i> will their admonition be to them when it has <i>actually</i> come upon them?[3803]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "22:56; 43:67."
+                },
+                {
+                    "ref": "3803",
+                    "note": "<p><strong>Important Words:</strong></p><p>أشراط (signs) is the plural of شرط. They say شرط علیه بکذا i.e. he imposed upon him such a condition. أشرط نفسه لکذا means, he marked himself for such an affair. شرط means, a sign, token or mark. أشراط الناس means, the best or meanest of men (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>Disbelievers are so obstinate in rejecting the Divine Message that they would not listen to any argument but would continue to insist that the threatened punishment should come soon. But, the verse purports to say, the signs of their destruction have already appeared if they but read them. When, however, punishment would actually arrive, their repentance would be of no avail. Why don’t they then take heed before it is too late? The reference in the word أشراط(signs) seems to be to the Holy Prophet’s flight from Mecca which proved to be the prelude to the appearance of many signs.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 20,
+        "v_": 19,
+        "topics": [
+            {
+                "id": 7812,
+                "topic": "Forgiveness: <i>‘Afw</i>: seek of Allah",
+                "verses": "11:53, 2:200, 3:136, 4:65, 4:107, 4:111, 5:75, 8:34, 11:4, 11:91, 40:56, 41:7, 66:9, 71:11, 73:21, 110:4"
+            },
+            {
+                "id": 16813,
+                "topic": "Sin: <i>Dhanb</i>: forgiveness of",
+                "verses": "3:32, 3:136, 3:148, 3:194, 4:18, 4:32, 4:49, 4:111, 4:117, 5:13, 5:66, 6:55, 7:154, 7:157, 12:30, 12:34, 12:88, 12:98, 14:11, 15:57, 18:59, 29:8, 33:71-72, 39:54, 40:56, 42:26, 46:17, 46:32, 47:3, 48:3, 61:13, 64:10, 65:6, 71:5"
+            }
+        ],
+        "ar": "فَاعۡلَمۡ  اَنَّہٗ  لَاۤ اِلٰہَ  اِلَّا اللّٰہُ  وَ اسۡتَغۡفِرۡ لِذَنۡۢبِکَ وَ لِلۡمُؤۡمِنِیۡنَ وَ الۡمُؤۡمِنٰتِ ؕ وَ اللّٰہُ  یَعۡلَمُ مُتَقَلَّبَکُمۡ وَ مَثۡوٰٮکُمۡ ﴿٪۲۰﴾ ",
+        "ur": "پس جان لے کہ اللہ کے سوا کوئی معبود نہیں اور اپنی لغزش کی بخشش طلب کر، نیز مومنوں اور مومنات کے لئے بھی۔ اور اللہ تمہارے سفری ٹھکانوں کو بھی خوب جانتا ہے اور مستقل ٹھکانوں کو بھی۔",
+        "v5": {
+            "text": "Know, therefore, that there is no God other than Allah, and ask protection for thy frailties, and for believing men and believing women. And Allah knows the place where you move about and the place where you stay.[3804]",
+            "notes": [
+                {
+                    "ref": "3804",
+                    "note": "<p><strong>Commentary:</strong></p><p>For the meaning and significance of the expression استغفر لذنبک see a detailed note on 40:56 &amp; 48:3. The words متقلبکم و مثواکمmay mean, when you move about transacting your affairs and when you take rest, or متقلبکم may apply to this world and مثواکمto the next.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 21,
+        "v_": 20,
+        "topics": [
+            {
+                "id": 6598,
+                "topic": "Disease",
+                "verses": "2:11, 2:220, 4:4, 5:53, 8:50, 9:125, 10:58, 20:98, 22:54, 24:51, 33:13, 33:33, 33:61, 38:42-43, 47:30, 74:32"
+            },
+            {
+                "id": 8461,
+                "topic": "Heart: <i>Sadr, Fu’ad, Qalb</i>: diseased",
+                "verses": "53:12, 2:11, 5:53, 8:50, 9:125, 22:54, 24:51, 33:13, 33:33, 33:61, 47:30, 74:32"
+            },
+            {
+                "id": 17397,
+                "topic": "Surah",
+                "verses": "24:2, 2:24, 9:64, 9:86, 9:124, 9:127, 10:39, 11:14"
+            },
+            {
+                "id": 18818,
+                "topic": "Woe: <i>Wail</i>",
+                "verses": "2:80, 5:32, 11:73, 14:3, 18:50, 19:38, 20:62, 21:19, 21:47, 25:29, 28:81, 36:53, 38:28, 39:23, 41:7-8, 43:66, 45:8, 46:18, 51:61, 52:12, 68:32, 75:35-36, 77:16, 77:20, 77:25, 77:29, 77:35, 77:38, 77:41, 77:46, 77:48, 77:50, 80:18, 83:2-3, 83:11-12, 104:2, 107:5-6"
+            }
+        ],
+        "ar": "وَ یَقُوۡلُ  الَّذِیۡنَ اٰمَنُوۡا لَوۡ لَا نُزِّلَتۡ سُوۡرَۃٌ ۚ فَاِذَاۤ  اُنۡزِلَتۡ سُوۡرَۃٌ  مُّحۡکَمَۃٌ وَّ ذُکِرَ فِیۡہَا الۡقِتَالُ ۙ رَاَیۡتَ الَّذِیۡنَ فِیۡ قُلُوۡبِہِمۡ  مَّرَضٌ یَّنۡظُرُوۡنَ  اِلَیۡکَ نَظَرَ الۡمَغۡشِیِّ عَلَیۡہِ مِنَ الۡمَوۡتِ ؕ فَاَوۡلٰی لَہُمۡ ﴿ۚ۲۱﴾ ",
+        "ur": "اور وہ لوگ جو ایمان لائے ہیں کہیں گے کہ کیوں نہ کوئی سورت اتاری گئی؟ پس جب کوئی محکم سورت اتاری جائے گی اور اس میں قتال کا ذکر کیا جائے گا تو وہ لوگ جن کے دلوں میں مرض ہے تُو انہیں دیکھے گا کہ وہ تیری طرف اس طرح دیکھتے ہیں جیسے وہ شخص دیکھتا ہے جس پر موت کی غشی طاری ہوگئی ہو۔ پس ہلاکت ہو اُن کے لئے۔",
+        "v5": {
+            "text": "And those who believe say, ‘Why is not a <i>Surah</i> revealed?’ But when a decisive <i>Surah</i> is revealed and fighting is mentioned therein, thou seest those in whose hearts is a disease, looking towards thee with the look of one in a death-faint. So ruin seize them![3805]",
+            "notes": [
+                {
+                    "ref": "3805",
+                    "note": "<p><strong>Important Words:</strong></p><p>أولٰی (ruin) is derived from ولی and means, nearer; more deserving; more competent; more fit. The expression أولٰی لک is used to give warning, and means mischief or trouble has approached near thee, so be on your guard. The expression also means, woe to thee; woe be thy lot (Aqrab).</p><p><strong>Commentary:</strong></p><p>The verse means to say that whereas true believers avidly wait for a verse to be revealed which should embody a Divine commandment directing them to fight in the way of Allah, \"those in whose heart is a disease,\" shudder at the very idea of being invited to fight.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 22,
+        "v_": 21,
+        "topics": [],
+        "ar": "طَاعَۃٌ  وَّ قَوۡلٌ  مَّعۡرُوۡفٌ ۟ فَاِذَا عَزَمَ الۡاَمۡرُ ۟ فَلَوۡ صَدَقُوا اللّٰہَ  لَکَانَ خَیۡرًا لَّہُمۡ ﴿ۚ۲۲﴾ ",
+        "ur": "اطاعت اور معروف بات چاہئے۔ پس اب جبکہ یہ امر مستحکم ہوچکا ہے اگر وہ اللہ کے ساتھ مخلص رہتے تو ضرور ان کے لئے بہتر ہوتا۔",
+        "v5": {
+            "text": "Obedience and [a]reasonable speech <i>is proper for them</i>. And when the matter is determined upon, it is good for them if they were true to Allah.[3806]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:264."
+                },
+                {
+                    "ref": "3806",
+                    "note": "<p><strong>Important Words:</strong></p><p>صدقوا اللّٰه (were true to Allah). صدق فی الحدیث means, he told or spoke the truth. صدق فی القتال means, he fought well; he gave a good account of himself in the fight. صدق اللقاء means, he was firm in fight صدق الصبح means, the dawn shone clearly. صدقنی وعدہmeans, he fulfilled, or he was true to his promise with me. The Quranic expression صدقوا ما عاھدوا اللّٰه علیه (33:24) means, they were true to their covenant with Allah and fulfilled it (Lane &amp; Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 23,
+        "v_": 22,
+        "topics": [
+            {
+                "id": 6569,
+                "topic": "Disorder: <i>Fitnah, Fasad</i>",
+                "verses": "7:57, 2:12-13, 2:28, 2:31, 2:61, 2:192, 2:194, 2:206, 2:218, 2:221, 2:252, 3:64, 5:33-34, 5:42, 5:65, 7:75, 7:86, 7:104, 7:128, 7:143, 8:20, 8:26, 8:40, 8:74, 9:47, 9:47, 10:41, 10:82, 11:86, 11:117, 13:26, 16:89, 17:5, 18:95, 23:72, 26:153, 26:184, 27:9, 28:5, 28:78, 28:84, 30:42, 40:27, 89:13"
+            },
+            {
+                "id": 12783,
+                "topic": "Muslims: obligations of",
+                "verses": "3:111, 2:196, 11:113"
+            },
+            {
+                "id": 18388,
+                "topic": "War: <i>Qital</i>: repugnance for",
+                "verses": "2:217, 4:78, 5:34, 8:58"
+            }
+        ],
+        "ar": "فَہَلۡ  عَسَیۡتُمۡ  اِنۡ تَوَلَّیۡتُمۡ  اَنۡ تُفۡسِدُوۡا فِی  الۡاَرۡضِ وَ تُقَطِّعُوۡۤا  اَرۡحَامَکُمۡ ﴿۲۳﴾ ",
+        "ur": "کیا تمہارے لئے ممکن ہے کہ اگر تم متولّی ہو جاؤ تو تم زمین میں فساد کرتے پھرو اور اپنے رِحمی رشتوں کو کاٹ دو ؟ (ہرگز نہیں)۔",
+        "v5": {
+            "text": "Would you then, if you are placed in authority, create disorder in the land and sever your ties of kinship?[3807]",
+            "notes": [
+                {
+                    "ref": "3807",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse signifies that believers have been allowed to fight because if the power of disbelievers had not been broken, they would have created disorder in the land and would have severed all ties of kinship and trampled underfoot all rightful claims. The verse also signifies that if believers refused to fight the disbelievers now, Arabia would continue to suffer from disruption and disintegration and forces of evil would stalk the land.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 24,
+        "v_": 23,
+        "topics": [
+            {
+                "id": 4547,
+                "topic": "Blind: spiritually",
+                "verses": "2:16, 2:19, 2:172, 5:72, 13:20"
+            },
+            {
+                "id": 5482,
+                "topic": "Curse: <i>La‘nah</i>: on disbelievers, idolaters, wrong-doers",
+                "verses": "4:48, 2:89-90, 2:160, 2:162, 4:47, 4:53, 4:94, 4:119, 5:61, 5:79, 7:39, 7:45, 9:68, 11:19, 11:61, 13:26, 23:42, 23:45, 28:43, 29:26, 33:58, 33:62, 33:65, 33:69, 40:11, 40:53, 48:7"
+            },
+            {
+                "id": 5485,
+                "topic": "Curse: <i>La‘nah</i>: on hypocrites",
+                "verses": "63:5, 48:7"
+            },
+            {
+                "id": 6093,
+                "topic": "Deaf",
+                "verses": "18:58, 2:19, 2:179, 5:72, 6:26, 6:40, 8:23, 11:25, 17:47, 17:98, 21:46, 25:74, 27:81, 41:45, 43:41"
+            },
+            {
+                "id": 9087,
+                "topic": "Hypocrites: <i>Munafiqin</i>",
+                "verses": "63:2-9, 2:9-21, 2:205-207, 4:64, 4:89, 4:139, 4:141, 4:143, 9:54, 9:64-69, 9:80, 9:84, 9:107-108, 33:2, 33:49, 37:8, 57:14-16, 59:12-18"
+            }
+        ],
+        "ar": "اُولٰٓئِکَ الَّذِیۡنَ لَعَنَہُمُ اللّٰہُ فَاَصَمَّہُمۡ وَ اَعۡمٰۤی  اَبۡصَارَہُمۡ ﴿۲۴﴾ ",
+        "ur": "یہی وہ لوگ ہیں جن پر اللہ نے لعنت کی اور انہیں بہرہ کردیا اور ان کی آنکھوں کو اندھا کردیا۔",
+        "v5": {
+            "text": "It is these whom Allah curses so that He makes them deaf and makes their eyes blind.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 47,
+        "v": 25,
+        "v_": 24,
+        "topics": [
+            {
+                "id": 8512,
+                "topic": "Heart: <i>Sadr, Fu’ad, Qalb</i>: sealed, veiled, rusted, blind, straitened",
+                "verses": "53:12, 18:58, 2:8, 2:89, 4:156, 6:26, 6:47, 6:111, 7:101-102, 7:180, 9:87, 9:93, 9:110, 10:75, 11:13, 14:44, 15:98, 16:109, 17:47, 18:29, 22:47, 23:64, 26:14, 30:60, 40:36, 41:6, 42:25, 45:24, 47:17, 59:15, 63:4, 83:15"
+            },
+            {
+                "id": 15401,
+                "topic": "Reflect: ponder, <i>Tafakkur</i>",
+                "verses": "30:9, 2:220, 2:267, 4:83, 6:51, 7:177, 10:25, 13:4, 16:12, 16:45, 16:70, 27:63, 28:44, 30:22, 32:5, 34:47, 38:30, 39:43, 40:59, 45:14, 51:50, 56:63, 59:22"
+            }
+        ],
+        "ar": "اَفَلَا یَتَدَبَّرُوۡنَ الۡقُرۡاٰنَ  اَمۡ عَلٰی قُلُوۡبٍ اَقۡفَالُہَا  ﴿۲۵﴾",
+        "ur": "پس کیا وہ قرآن پر تدبر نہیں کرتے یا دلوں پر اُن کے تالے پڑے ہوئے ہیں؟",
+        "v5": {
+            "text": "[a]Will they not, then, ponder over the Quran, or is it that on the hearts are their locks?[3808]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "4:83."
+                },
+                {
+                    "ref": "3808",
+                    "note": "<p><strong>Commentary:</strong></p><p>This verse constitutes an enlargement of the one preceding it. It purports to say that it is because disbelievers do not ponder over the Quran and do not try to understand and realise the real purpose of Islamic wars that they lose their spiritual sight and hearing and begin to find fault with the Quranic commandments about war.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 26,
+        "v_": 25,
+        "topics": [
+            {
+                "id": 2778,
+                "topic": "Apostate: <i>Murtad</i>: punishment for an",
+                "verses": "4:138, 2:162, 2:218, 3:87-92, 3:107, 3:145, 4:116, 5:6, 5:55, 9:74, 16:107, 47:35, 63:4"
+            },
+            {
+                "id": 16255,
+                "topic": "Satan: misleads",
+                "verses": "4:120-121, 2:37, 2:170-171, 3:156, 3:176, 4:39, 4:61, 6:69, 7:17-18, 7:21-23, 7:28, 7:176, 20:121, 25:29-30, 29:39"
+            },
+            {
+                "id": 16490,
+                "topic": "Seduce",
+                "verses": "7:28, 12:24-25, 12:27, 12:31, 12:33, 12:52"
+            }
+        ],
+        "ar": "اِنَّ  الَّذِیۡنَ ارۡتَدُّوۡا عَلٰۤی  اَدۡبَارِہِمۡ مِّنۡۢ بَعۡدِ مَا تَبَیَّنَ  لَہُمُ  الۡہُدَی ۙ الشَّیۡطٰنُ سَوَّلَ  لَہُمۡ ؕ وَ اَمۡلٰی  لَہُمۡ ﴿۲۶﴾ ",
+        "ur": "یقیناً وہ لوگ جو اپنی پیٹھ دکھاتے ہوئے مرتد ہوگئے بعد اس کے کہ ان پر ہدایت روشن ہوچکی تھی، شیطان نے انہیں (ان کے اعمال) خوبصورت کرکے دکھائے اور انہیں جھوٹی امیدیں دلائیں۔",
+        "v5": {
+            "text": "Surely, [b]those who turn their backs after guidance has become manifest to them, Satan has seduced them, and holds out false hopes to them.",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "2:218; 3:87; 5:55."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 27,
+        "v_": 26,
+        "topics": [
+            {
+                "id": 10533,
+                "topic": "Life: <i>Hayat</i>: of this world",
+                "verses": "23:113-115, 2:87, 2:201, 2:213, 3:15, 3:186, 4:75, 4:95, 6:30, 6:33, 6:71, 6:131, 7:52, 9:38, 10:8-9, 10:25, 10:65, 11:16, 13:27, 14:4, 16:108, 17:19, 18:29, 18:46-47, 18:104-105, 20:132, 23:38, 28:61, 29:64, 29:65, 30:8, 31:34, 35:6, 40:40, 41:32, 42:37, 43:36, 45:25, 45:36, 46:36, 53:30, 57:21, 76:28, 79:39, 87:17-18"
+            }
+        ],
+        "ar": "ذٰلِکَ بِاَنَّہُمۡ  قَالُوۡا لِلَّذِیۡنَ کَرِہُوۡا مَا نَزَّلَ  اللّٰہُ سَنُطِیۡعُکُمۡ  فِیۡ بَعۡضِ الۡاَمۡرِ ۚۖ وَ اللّٰہُ  یَعۡلَمُ   اِسۡرَارَہُمۡ ﴿۲۷﴾ ",
+        "ur": "یہ اس لئے ہوا کہ انہوں نے ان لوگوں سے جنہوں نے اس سے کراہت کی جو اللہ نے اتارا (یہ) کہا کہ ہم ضرور بعض امور میں تمہاری اطاعت کریں گے۔ اور اللہ اُن کی رازداری کو جانتا ہے۔",
+        "v5": {
+            "text": "That is because they said to those who hate what Allah has revealed, ‘We will obey you in some matters;’ and Allah knows their secrets.[3809]",
+            "notes": [
+                {
+                    "ref": "3809",
+                    "note": "<p><strong>Commentary:</strong></p><p>The reference in the words, \"those who hate what Allah has revealed,\" is to disbelievers who never liked that any good should be sent down to the Faithful from their Lord (2:106). The hypocrites would not side with disbelievers openly and unreservedly. A hypocrite is too wily a person to burn his boats. He faces both ways. But, says the verse, God would expose their double-facedness. This is the significance of the words \"Allah knows their secrets.\"</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 28,
+        "v_": 27,
+        "topics": [
+            {
+                "id": 2647,
+                "topic": "Angels: <i>Mala’ikah</i>: take away the souls of men, <i>Tawaffa</i>",
+                "verses": "22:6, 4:98, 5:118, 16:29, 16:33, 32:12, 6:61-62, 7:38, 8:51, 10:47, 10:105, 12:102, 13:41, 16:71, 39:43, 40:68, 40:78"
+            },
+            {
+                "id": 6199,
+                "topic": "Dead, Death: <i>Maut</i>: <i>Tawaffa</i>, caused,",
+                "verses": "22:6, 2:235, 2:241, 3:56, 3:194, 4:16, 4:98, 5:118, 32:12, 6:61, 6:62, 7:38, 7:127, 8:51, 10:47, 10:105, 12:102, 13:41, 16:29, 16:33, 16:71, 39:43, 40:68, 40:78"
+            },
+            {
+                "id": 7319,
+                "topic": "Faces: <i>Wujuh</i>",
+                "verses": "67:28, 2:145, 2:178, 4:44, 5:7, 7:30, 8:51, 18:30, 48:30"
+            }
+        ],
+        "ar": "فَکَیۡفَ اِذَا تَوَفَّتۡہُمُ  الۡمَلٰٓئِکَۃُ یَضۡرِبُوۡنَ وُجُوۡہَہُمۡ  وَ  اَدۡبَارَہُمۡ ﴿۲۸﴾ ",
+        "ur": " پس کیا حال ہوگا جب فرشتے انہیں وفات دیں گے؟ وہ ان کے چہروں اور پیٹھوں پر ضربیں لگائیں گے۔",
+        "v5": {
+            "text": "But how <i>will they fare</i> when the angels will cause them to die[a], smiting their faces and their backs?",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "4:98; 8:51; 16:29."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 29,
+        "v_": 28,
+        "topics": [
+            {
+                "id": 15756,
+                "topic": "Ridwan: Allah’s pleasure",
+                "verses": "5:17, 3:16, 3:163, 3:175, 5:3, 9:21, 9:72, 9:109, 57:21, 57:28, 59:9"
+            }
+        ],
+        "ar": "ذٰلِکَ بِاَنَّہُمُ  اتَّبَعُوۡا مَاۤ  اَسۡخَطَ اللّٰہَ وَ کَرِہُوۡا  رِضۡوَانَہٗ  فَاَحۡبَطَ اَعۡمَالَہُمۡ ﴿٪۲۹﴾ ",
+        "ur": "یہ نتیجہ ہے اس کا کہ انہوں نے اس چیز کی جو اللہ کو ناراض کرتی ہے پیروی کی اور اس کی رضا کو ناپسند کیا۔ پس اس نے ان کے اعمال ضائع کردیئے۔",
+        "v5": {
+            "text": "This is because they followed that which displeased Allah, and disliked <i>the seeking of</i> His pleasure. So He rendered their works vain.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 47,
+        "v": 30,
+        "v_": 29,
+        "topics": [
+            {
+                "id": 6599,
+                "topic": "Disease",
+                "verses": "2:11, 2:220, 4:4, 5:53, 8:50, 9:125, 10:58, 20:98, 22:54, 24:51, 33:13, 33:33, 33:61, 38:42-43, 47:21, 74:32"
+            },
+            {
+                "id": 8462,
+                "topic": "Heart: <i>Sadr, Fu’ad, Qalb</i>: diseased",
+                "verses": "53:12, 2:11, 5:53, 8:50, 9:125, 22:54, 24:51, 33:13, 33:33, 33:61, 47:21, 74:32"
+            }
+        ],
+        "ar": "اَمۡ حَسِبَ الَّذِیۡنَ فِیۡ  قُلُوۡبِہِمۡ مَّرَضٌ اَنۡ  لَّنۡ یُّخۡرِجَ اللّٰہُ  اَضۡغَانَہُمۡ ﴿۳۰﴾ ",
+        "ur": " کیا وہ لوگ جن کے دلوں میں مرض ہے گمان کرتے ہیں کہ اللہ اُن کے کینوں کو باہر نہیں نکالے گا؟ ",
+        "v5": {
+            "text": "Do those in whose hearts is a disease suppose that Allah will not bring to light their malice?[3810]",
+            "notes": [
+                {
+                    "ref": "3810",
+                    "note": "<p><strong>Important Words:</strong></p><p>أضغانھم (their malice) is the plural of ضغن (<i>dighnun</i>) which is inf. noun from ضغن (<i>daghana</i>). ضغن علیه means, he was or became affected with rancour, malice or spite against him. ضغن means, rancour, malice, spite; violent hatred, enmity; desire or yearning or longing of the soul, etc. (Lane &amp; Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 31,
+        "v_": 30,
+        "topics": [],
+        "ar": "وَ لَوۡ نَشَآءُ  لَاَرَیۡنٰکَہُمۡ  فَلَعَرَفۡتَہُمۡ بِسِیۡمٰہُمۡ ؕ وَ  لَتَعۡرِفَنَّہُمۡ  فِیۡ لَحۡنِ الۡقَوۡلِ ؕ وَ اللّٰہُ  یَعۡلَمُ  اَعۡمَالَکُمۡ  ﴿۳۱﴾",
+        "ur": "اور اگر ہم چاہیں تو تجھے ضرور وہ لوگ دکھا دیں گے اور تُو ان کو ضرور ان کی علامتوں سے جان لے گا اور اُن کو ان کے لب و لہجہ سے یقیناً پہچان لے گا اور اللہ تمہارے اعمال کو جانتا ہے۔",
+        "v5": {
+            "text": "And if We pleased, We could show them to thee so that thou shouldst know them by their marks. And thou shalt surely recognize them by the tone of <i>their</i> speech. And Allah knows your deeds.[3811]",
+            "notes": [
+                {
+                    "ref": "3811",
+                    "note": "<p><strong>Important Words:</strong></p><p>لحن (tone) is inf. noun from لحن (<i>Lahana</i>). They say لحن له i.e. he said to him something which he (the latter) understood but which was unintelligible to others; he intimated to him something which he alone understood; he spoke obliquely or ambiguously. لحن means, the meaning of speech; its intended sense or import; its intent (it is direct and also indirect); an oblique or ambiguous mode of speech; an inclining of speech to obliqueness, or ambiguity, and equivocal allusion (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>A hypocrite faces both ways. He never talks straight and always indulges in ambiguous and equivocal speech so that it conveys one sense to one person and quite another sense to another person. It is to this crooked manner of speech of the hypocrites that reference has also been made in 2:105.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 32,
+        "v_": 31,
+        "topics": [
+            {
+                "id": 856,
+                "topic": "Affliction: <i>Bala’</i>",
+                "verses": "2:156-158, 2:50, 2:125, 2:178, 2:215, 2:250, 3:143, 3:155, 4:63, 6:18, 7:142, 7:164, 7:169, 8:26, 16:28, 16:54-55, 17:57, 17:74, 21:84, 21:88, 22:36, 23:31, 28:48, 29:11, 30:34, 30:37, 38:42, 39:9, 41:51, 64:12, 68:7"
+            },
+            {
+                "id": 10185,
+                "topic": "Knowledge: <i>‘Ilm</i>: Allah bestows",
+                "verses": "20:115, 2:248, 12:77, 21:80, 22:55, 28:81, 33:64, 35:29, 39:10, 58:12"
+            },
+            {
+                "id": 11973,
+                "topic": "Moral Traits: steadfastness",
+                "verses": "2:178, 2:250-251, 3:18, 3:121, 3:126, 3:143, 3:187, 3:201, 5:9, 7:127, 7:129, 7:138, 8:47, 8:66-67, 10:90, 10:110, 11:12, 11:116, 12:91, 13:25, 16:43, 16:97, 16:111, 19:66, 25:21, 25:76, 28:55, 28:81, 29:60, 32:25, 33:36, 34:20, 37:103, 38:45, 39:11, 41:31, 41:36, 42:16, 46:14, 68:49, 76:13, 103:4"
+            },
+            {
+                "id": 17885,
+                "topic": "Trial: of steadfastness",
+                "verses": "3:143, 6:43, 21:36"
+            }
+        ],
+        "ar": "وَ لَنَبۡلُوَنَّکُمۡ  حَتّٰی نَعۡلَمَ الۡمُجٰہِدِیۡنَ مِنۡکُمۡ وَ الصّٰبِرِیۡنَ ۙ وَ نَبۡلُوَا۠ اَخۡبَارَکُمۡ ﴿۳۲﴾ ",
+        "ur": "اور ہم لازماً تمہیں آزمائیں گے یہاں تک کہ تم میں سے جہاد کرنے والے اور صبر کرنے والے کو ممتاز کردیں اور تمہارے احوال کو پرکھ لیں۔",
+        "v5": {
+            "text": "And We will surely try you until We distinguish those among you who strive <i>for the cause of God</i> and those who are steadfast[a]. And We will make known the facts about you.[3812]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "3:141-143; 29:4, 12."
+                },
+                {
+                    "ref": "3812",
+                    "note": "<p><strong>Important Words:</strong></p><p>نعلم (We distinguish). علمه means; he knew it; he became acquainted with it. It is syn. with عرفه but علم (‘<i>ilm</i>) is wider and more general in signification than عرف and means, he knew it intuitively and inferentially (i.e. تیقن). They say لأ علم عبداللّٰه من عمر i.e. that I may distinguish ‘Abdullah from ‘Umar. The root meaning of علم (‘<i>ilm</i>) is that of a mark or sign by which one thing is distinguished from another (Lane &amp; Aqrab). See also 2:144 and 3:141.</p><p>نبلو (make known) is derived from بلا. They say ابتلاہ or أبلاہ or بلاہ i.e. He (God) tested him with good or evil; he knew it or became acquainted with it; he informed him or acquainted him with it; he manifested it; he revealed it (Lane &amp; Aqrab).</p><p>أخبارکم (facts about you), أخبار is the plural of خبر which means, a piece of information; an announcement; an account; a man’s case or state, etc. The difference between خبر and نبأ is that while the former word means, an ordinary news, the latter signifies a news or announcement or information of great import and significance (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p> </p><p>Taking into consideration the root-meanings of the words بلا and خبر and علم the verse would signify that God makes believers pass through travails, trials and tribulations and He has enjoined fighting on them that sincere believers may become distinguished from the hypocrites and that the qualities of head and heart of believers and also the results of their steadfastness and fortitude amidst hardships and privations may have an opportunity to come into actual play.</p><p>It may also be noted that knowledge (علم) is of two kinds: (a) knowledge about a thing before its occurrence; and (b) knowledge about it after it has actually happened. Knowledge referred to in the verse under comment belongs to the latter category.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 33,
+        "v_": 32,
+        "topics": [
+            {
+                "id": 453,
+                "topic": "Actions: <i>A‘mal</i>: in vain who reject faith",
+                "verses": "47:9-10, 5:6, 7:148, 11:17, 18:104-107, 25:24, 47:2, 49:3"
+            },
+            {
+                "id": 18526,
+                "topic": "Way of: <i>Sabil</i>: hindering from the Allah",
+                "verses": "8:37, 3:100, 4:161, 4:168, 7:46, 7:87, 8:48, 9:34, 11:20, 14:4, 16:89, 16:95, 22:26, 47:2, 47:35, 58:17"
+            }
+        ],
+        "ar": "اِنَّ  الَّذِیۡنَ کَفَرُوۡا وَ صَدُّوۡا عَنۡ سَبِیۡلِ اللّٰہِ  وَ شَآقُّوا الرَّسُوۡلَ مِنۡۢ  بَعۡدِ مَا تَبَیَّنَ  لَہُمُ الۡہُدٰی ۙ لَنۡ یَّضُرُّوا اللّٰہَ شَیۡئًا ؕ وَ سَیُحۡبِطُ اَعۡمَالَہُمۡ ﴿۳۳﴾ ",
+        "ur": "یقیناً وہ لوگ جنہوں نے کفر کیا اور اللہ کے رستے سے روکا اور رسول کی مخالفت کی بعد اس کے کہ ہدایت ان پر واضح ہوچکی تھی وہ ہرگز اللہ کا کچھ نقصان نہیں کرسکیں گے اور وہ ضرور ان کے اعمال کو ضائع کردے گا۔",
+        "v5": {
+            "text": "Those who disbelieve and hinder men from the way of Allah and [a]oppose the Messenger after guidance has become manifest to them, shall not harm Allah in the least; and He will make their works fruitless.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "8:14; 59:5."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 34,
+        "v_": 33,
+        "topics": [
+            {
+                "id": 2107,
+                "topic": "Allah: obey and His Messenger",
+                "verses": "4:60, 3:33, 3:133, 4:14, 4:81, 5:93, 8:2, 8:21, 8:47, 24:53, 24:55, 33:72, 48:18, 58:14"
+            },
+            {
+                "id": 13224,
+                "topic": "Obey: Allah, Messenger",
+                "verses": "24:48-55, 3:21, 3:33, 3:51, 3:133, 4:14, 4:60, 4:65, 4:70, 4:81, 5:93, 8:2, 8:21, 8:47, 24:57, 26:108-109, 26:127, 26:145, 26:164, 26:180, 33:34, 33:36-37, 33:72, 43:64, 48:18, 58:14, 64:13, 64:17"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا الَّذِیۡنَ  اٰمَنُوۡۤا اَطِیۡعُوا اللّٰہَ وَ اَطِیۡعُوا الرَّسُوۡلَ وَ لَا تُبۡطِلُوۡۤا اَعۡمَالَکُمۡ ﴿۳۴﴾ ",
+        "ur": "اے وہ لوگو جو ایمان لائے ہو! اللہ کی اطاعت کرو اور رسول کی اطاعت کرو اور اپنے اعمال کو باطل نہ کرو۔",
+        "v5": {
+            "text": "O ye who believe! Obey Allah and Obey the Messenger and let not your works go vain.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 47,
+        "v": 35,
+        "v_": 34,
+        "topics": [
+            {
+                "id": 2779,
+                "topic": "Apostate: <i>Murtad</i>: punishment for an",
+                "verses": "4:138, 2:162, 2:218, 3:87-92, 3:107, 3:145, 4:116, 5:6, 5:55, 9:74, 16:107, 47:26, 63:4"
+            },
+            {
+                "id": 6427,
+                "topic": "Disbelief: <i>Kufr</i>: Disbeliever, <i>Kuffar</i>",
+                "verses": "2:7-21, 2:35, 3:5, 3:98, 4:151-152, 5:18, 5:37, 5:38, 5:45, 5:73, 7:38, 7:51, 8:56, 9:37, 12:88, 14:3-4, 16:108, 19:72, 38:74-75, 39:33, 39:60, 40:5, 45:12, 85:11, 85:20-21, 98:7, 109:2-7"
+            },
+            {
+                "id": 6453,
+                "topic": "Disbelief: <i>Kufr</i>: no forgiveness for",
+                "verses": "2:7-21, 4:138, 4:169, 13:15, 32:30, 40:51"
+            },
+            {
+                "id": 18527,
+                "topic": "Way of: <i>Sabil</i>: hindering from the Allah",
+                "verses": "8:37, 3:100, 4:161, 4:168, 7:46, 7:87, 8:48, 9:34, 11:20, 14:4, 16:89, 16:95, 22:26, 47:2, 47:33, 58:17"
+            }
+        ],
+        "ar": "اِنَّ  الَّذِیۡنَ کَفَرُوۡا وَ صَدُّوۡا عَنۡ سَبِیۡلِ اللّٰہِ  ثُمَّ  مَاتُوۡا وَ ہُمۡ کُفَّارٌ فَلَنۡ یَّغۡفِرَ اللّٰہُ  لَہُمۡ ﴿۳۵﴾ ",
+        "ur": "یقیناً وہ لوگ جنہوں نے کفر کیا اور اللہ کے راستہ سے روکا پھر وہ اس حال میں مرگئے کہ وہ کافر تھے تو اللہ ہرگز ان کی مغفرت نہیں کرے گا۔",
+        "v5": {
+            "text": "[b]Verily, those who disbelieve and hinder <i>men</i> from the way of Allah, <i>and</i> then die while they are disbelievers—Allah certainly will not forgive them.",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "3:92; 4:19."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 36,
+        "v_": 35,
+        "topics": [
+            {
+                "id": 505,
+                "topic": "Actions: <i>A‘mal</i>: rewarded",
+                "verses": "28:85, 3:196, 4:41, 4:58, 4:174, 5:10, 7:9, 7:44, 9:121, 11:16, 11:112, 16:98, 17:10, 18:3, 18:47, 18:108-9, 19:77, 20:76-77, 22:15, 22:57, 24:39, 29:8, 29:10, 31:9-10, 32:18, 32:20, 33:30, 34:38, 35:8, 35:11, 35:33, 39:36, 41:9, 42:23-24, 42:27, 43:73-74, 45:31, 46:20, 47:13, 48:30, 52:18-21, 65:12, 84:26, 85:12, 95:7, 98:8-9, 99:8, 101:7-8"
+            },
+            {
+                "id": 9751,
+                "topic": "Jaza’: recompense: of believers, of righteous",
+                "verses": "78:37, 2:63, 2:113, 2:263, 2:278, 3:145-146, 3:149, 3:172-173, 3:180, 3:196, 4:68, 4:75, 4:101, 4:115, 4:147, 4:163, 5:10, 5:86, 6:84, 6:91, 6:136, 7:44, 7:171, 8:29, 9:22, 9:120-21, 10:5, 10:27, 11:116, 12:23, 12:57-58, 12:89, 12:91, 13:23, 13:25, 13:36, 16:32, 16:42, 16:97, 17:10, 18:3, 18:31-32, 18:47, 18:89, 20:77, 24:39, 25:16, 27:90, 28:15, 28:38, 28:55, 28:81, 29:8, 29:28, 29:59, 30:46, 32:18, 33:25, 33:30, 33:32, 33:36, 33:45, 34:5, 34:38, 35:8, 35:34, 36:12, 37:81, 37:106, 37:111, 37:122, 37:132, 39:11, 39:35, 39:36, 39:75, 41:9, 42:27, 46:15, 48:11, 48:30, 49:4, 53:32, 53:42, 54:36, 55:61, 56:29, 57:8, 57:12, 57:19-20, 57:28, 64:16, 65:6, 67:13, 68:4, 73:21, 76:13, 76:23, 77:44, 84:26, 95:7, 98:9"
+            },
+            {
+                "id": 13755,
+                "topic": "Peace",
+                "verses": "8:62, 49:10"
+            },
+            {
+                "id": 18346,
+                "topic": "War: <i>Qital</i>: conditions for",
+                "verses": "2:191-192, 2:194, 2:218, 4:76, 4:91, 5:34, 8:40, 8:46-47, 8:59, 8:61-62, 8:68-72, 9:5-8, 9:36, 16:127, 22:40-42, 22:61, 47:5, 59:6"
+            }
+        ],
+        "ar": "فَلَا تَہِنُوۡا وَ تَدۡعُوۡۤا  اِلَی السَّلۡمِ ٭ۖ وَ اَنۡتُمُ الۡاَعۡلَوۡنَ ٭ۖ وَ اللّٰہُ  مَعَکُمۡ  وَ لَنۡ یَّتِرَکُمۡ   اَعۡمَالَکُمۡ ﴿۳۶﴾ ",
+        "ur": "پس کمزوری نہ دکھاؤ کہ صلح کی طرف بلانے لگو جبکہ تم ہی غالب آنے والے ہو اور اللہ تمہارے ساتھ ہے اور وہ ہرگز تمہیں تمہارے اعمال (کا بدلہ) کم نہیں دے گا۔",
+        "v5": {
+            "text": "So [c]be not slack and sue not for peace; for you will <i>certainly</i> have the upper hand. And Allah is with you, and He will not deprive you of <i>the reward </i><i>of</i> your actions.[3813]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "3:140."
+                },
+                {
+                    "ref": "3813",
+                    "note": "<p><strong>Important Words:</strong></p><p>لن یترکم (will not deprive you). یتر is derived from وتر. They say وترہ حقه i.e. he made him to suffer loss or detriment in respect of his right; or he deprived him or defrauded him of it partially or wholly (Aqrab).</p><p><strong>Commentary:</strong></p><p>As the <i>Surah</i> primarily deals with the subject of war, the Muslims are enjoined here that when once the fighting has started, they are not to sue for peace, whatever form or shape the fortunes of war may take. They are to win either victory or martyrdom. The verse, besides laying this heavy responsibility on Muslims, makes to them an unequivocal promise of victory in the words \"You will certainly have the upper hand as Allah is with you.\" But whereas, on the one hand, Muslims are not to sue for peace under any circumstances, on the other, they are not to reject overtures of peace made by the enemy even if by doing so he seeks to deceive Muslims or to gain time (8:62). Islam is a religion of peace. It has certainly permitted its followers to take up arms in self-defence, or, when refusal to fight means sure destruction. But it has also enjoined them to cease fighting, whatever the circumstances, when an offer of peace is made by the opposite side.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 37,
+        "v_": 36,
+        "topics": [
+            {
+                "id": 913,
+                "topic": "Afterlife: <i>Akhirah</i>: comparison of present life with",
+                "verses": "3:15, 3:186, 4:78, 6:33, 7:170, 8:68, 9:38, 10:71, 12:58, 12:110, 13:27, 14:4, 16:31, 16:42, 16:108, 16:118, 17:22, 28:61, 29:65, 40:40, 57:21, 75:21-22"
+            },
+            {
+                "id": 11845,
+                "topic": "Moral Traits: niggardliness",
+                "verses": "3:181-182, 4:38, 9:35, 9:76, 17:101, 25:68, 33:20, 57:25, 64:17, 68:26, 70:22, 81:25, 92:9-11"
+            },
+            {
+                "id": 13683,
+                "topic": "Pastime: <i>Lahw</i>, <i>La‘b</i>, sport",
+                "verses": "5:58-59, 6:33, 6:71, 7:52, 7:99, 12:13, 21:3, 21:17, 29:65, 43:84, 44:10, 44:39, 52:13, 57:21, 62:12, 70:43"
+            },
+            {
+                "id": 13956,
+                "topic": "Play: <i>Lahw</i>, <i>La‘b</i>, sport",
+                "verses": "5:58-59, 6:33, 6:71, 7:52, 7:99, 12:13, 21:3, 21:17, 29:65, 43:84, 44:10, 44:39, 52:13, 57:21, 62:12, 70:43"
+            },
+            {
+                "id": 15873,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 78:32-37, 83:23, 98:8"
+            },
+            {
+                "id": 15991,
+                "topic": "Sacrifice: of wealth",
+                "verses": "2:216, 57:12, 57:19, 61:12, 63:10-11"
+            },
+            {
+                "id": 17148,
+                "topic": "Sport: jest, <i>La‘b</i>",
+                "verses": "5:58-59, 6:33, 6:71, 7:52, 7:99, 12:13, 21:3, 29:65, 43:84, 44:10, 52:13, 57:21, 62:12"
+            },
+            {
+                "id": 18588,
+                "topic": "Wealth: spend in Allah’s way",
+                "verses": "2:262-268, 9:41, 9:44, 9:88, 9:103, 61:12, 92:18-22"
+            }
+        ],
+        "ar": "اِنَّمَا الۡحَیٰوۃُ  الدُّنۡیَا  لَعِبٌ وَّ لَہۡوٌ ؕ وَ اِنۡ  تُؤۡمِنُوۡا وَ تَتَّقُوۡا یُؤۡتِکُمۡ  اُجُوۡرَکُمۡ  وَ لَا یَسۡـَٔلۡکُمۡ  اَمۡوَالَکُمۡ ﴿۳۷﴾ ",
+        "ur": "یقیناً دنیا کی زندگی محض کھیل کود اور نفس کی خواہشات کو پورا کرنے کا ایسا ذریعہ ہے جو اعلیٰ مقصد سے غافل کردے۔ اور اگر تم ایمان لاؤ اور تقویٰ اختیار کرو تو وہ تمہیں تمہارے اجر عطا کرے گا اور تم سے تمہارے اموال نہیں مانگے گا۔",
+        "v5": {
+            "text": "[a]The life of <i>this</i> world is but a sport and a pastime, and if you believe and be righteous, He will give you your rewards, and will not ask of you your possessions.[3814]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "6:33; 29:65; 57:21."
+                },
+                {
+                    "ref": "3814",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse purports to say that as Muslims have been enjoined to fight in the cause of God, they will have to bear the expenses of war and for this purpose they will have to make sacrifices of life and money. But God does not need their money. It is for their own benefit that sacrifices of life and money are demanded of them because no success is possible without such sacrifices. True believers must understand and realise this supreme lesson.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 47,
+        "v": 38,
+        "v_": 37,
+        "topics": [
+            {
+                "id": 11845,
+                "topic": "Moral Traits: niggardliness",
+                "verses": "3:181-182, 4:38, 9:35, 9:76, 17:101, 25:68, 33:20, 57:25, 64:17, 68:26, 70:22, 81:25, 92:9-11"
+            },
+            {
+                "id": 15991,
+                "topic": "Sacrifice: of wealth",
+                "verses": "2:216, 57:12, 57:19, 61:12, 63:10-11"
+            }
+        ],
+        "ar": "اِنۡ  یَّسۡـَٔلۡکُمُوۡہَا  فَیُحۡفِکُمۡ  تَبۡخَلُوۡا وَ  یُخۡرِجۡ  اَضۡغَانَکُمۡ ﴿۳۸﴾ ",
+        "ur": "اگر وہ تم سے وہ (اموال) مانگے اور تمہارے پیچھے پڑ جائے تو تم بخل سے کام لو گے اور وہ تمہارے بغض باہر نکال دے گا۔",
+        "v5": {
+            "text": "If He ask them of you, and press you, you would be niggardly, and He would bring to light your malice.[3815]",
+            "notes": [
+                {
+                    "ref": "3815",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse applies to hypocrites. Though professing to be Muslims, they will not spend their money in the cause of Islam, however pressing its need might be, because their hearts are full of rancour, malice and spite against it. But whatever they may or may not do, Islam will be victorious and their rancour and malevolence would be exposed.</p>"
+                }
+            ]
+        }
+    }
+]

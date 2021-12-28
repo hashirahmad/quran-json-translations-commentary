@@ -1,0 +1,355 @@
+[
+    {
+        "ch": 95,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.[4776]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                },
+                {
+                    "ref": "4776",
+                    "note": "<p><strong>Commentary:</strong></p><p>See 1:1.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 95,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 6627,
+                "topic": "Dispensation",
+                "verses": "18:61-62, 3:20, 3:138, 21:35, 29:15, 43:62"
+            },
+            {
+                "id": 7292,
+                "topic": "Evolution",
+                "verses": "1:2, 22:6, 23:13-15, 32:8-10, 56:61-62, 71:15, 71:18"
+            },
+            {
+                "id": 7553,
+                "topic": "Fig: <i>At-Tin</i>",
+                "verses": "20:122"
+            },
+            {
+                "id": 12050,
+                "topic": "Moses: Musa(as): and Holy Prophet<sup>(sa)</sup>",
+                "verses": "11:18, 2:109, 7:145, 20:30, 28:31, 28:45-46, 46:11, 52:2-7"
+            },
+            {
+                "id": 12243,
+                "topic": "Mountains: <i>Jibal</i>: <i>Tur</i>",
+                "verses": "2:64, 2:94, 4:155, 19:53, 20:81, 23:21, 28:30, 28:45, 28:47, 52:3"
+            },
+            {
+                "id": 12322,
+                "topic": "Muhammad<sup>(sa)</sup>: and other Prophets",
+                "verses": "6:35, 2:130, 3:69, 5:20, 29:19, 36:15, 41:44, 73:16"
+            },
+            {
+                "id": 12505,
+                "topic": "Muhammad<sup>(sa)</sup>: lofty stature of",
+                "verses": "81:20-22, 4:70, 13:5, 17:75, 17:80, 20:2, 25:62, 33:22, 33:41, 33:47, 36:2, 36:14, 48:2-3, 53:2-6, 55:4, 68:5, 72:20, 74:2-6, 91:2-7, 94:2-4, 108:2"
+            },
+            {
+                "id": 13162,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 85:2-4, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 92:2-4, 93:2-3, 100:2, 103:2-3"
+            },
+            {
+                "id": 13265,
+                "topic": "Olive: <i>Zaitun</i>",
+                "verses": "6:100, 6:142, 16:12, 24:36, 80:30"
+            },
+            {
+                "id": 18752,
+                "topic": "Witness: to truth",
+                "verses": "4:136, 90:2-4, 3:53-54, 3:65, 3:87, 11:18, 43:87"
+            }
+        ],
+        "ar": "وَ التِّیۡنِ وَ الزَّیۡتُوۡنِ ۙ﴿۲﴾ ",
+        "ur": "قَسم ہے انجیر کی اور زیتون کی۔",
+        "v5": {
+            "text": "By the Fig and the Olive,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 95,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 7292,
+                "topic": "Evolution",
+                "verses": "1:2, 22:6, 23:13-15, 32:8-10, 56:61-62, 71:15, 71:18"
+            },
+            {
+                "id": 12050,
+                "topic": "Moses: Musa(as): and Holy Prophet<sup>(sa)</sup>",
+                "verses": "11:18, 2:109, 7:145, 20:30, 28:31, 28:45-46, 46:11, 52:2-7"
+            },
+            {
+                "id": 12211,
+                "topic": "Mountains: <i>Jibal</i>: Paran",
+                "verses": "48:30, 23:21"
+            },
+            {
+                "id": 12232,
+                "topic": "Mountains: <i>Jibal</i>: Sinai",
+                "verses": "2:41, 2:51, 2:64, 2:94, 4:155, 7:144, 7:172"
+            },
+            {
+                "id": 12243,
+                "topic": "Mountains: <i>Jibal</i>: <i>Tur</i>",
+                "verses": "2:64, 2:94, 4:155, 19:53, 20:81, 23:21, 28:30, 28:45, 28:47, 52:3"
+            },
+            {
+                "id": 12322,
+                "topic": "Muhammad<sup>(sa)</sup>: and other Prophets",
+                "verses": "6:35, 2:130, 3:69, 5:20, 29:19, 36:15, 41:44, 73:16"
+            },
+            {
+                "id": 12505,
+                "topic": "Muhammad<sup>(sa)</sup>: lofty stature of",
+                "verses": "81:20-22, 4:70, 13:5, 17:75, 17:80, 20:2, 25:62, 33:22, 33:41, 33:47, 36:2, 36:14, 48:2-3, 53:2-6, 55:4, 68:5, 72:20, 74:2-6, 91:2-7, 94:2-4, 108:2"
+            },
+            {
+                "id": 13162,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 85:2-4, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 92:2-4, 93:2-3, 100:2, 103:2-3"
+            },
+            {
+                "id": 16907,
+                "topic": "Sinai: Mount",
+                "verses": "2:64, 23:21"
+            },
+            {
+                "id": 18752,
+                "topic": "Witness: to truth",
+                "verses": "4:136, 90:2-4, 3:53-54, 3:65, 3:87, 11:18, 43:87"
+            }
+        ],
+        "ar": "وَ طُوۡرِ سِیۡنِیۡنَ ۙ﴿۳﴾ ",
+        "ur": "اور طورِ سینین کی۔",
+        "v5": {
+            "text": "<i>And</i> by [b]Mount Sinai.[4777]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "52:2."
+                },
+                {
+                    "ref": "4777",
+                    "note": "<p><strong>Commentary:</strong></p><p>See next verse. The word سینین being in the plural shows that there are several mountains of this name in that region. On one of these God manifested Himself to Moses.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 95,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 3925,
+                "topic": "Bakkah: <i>Makkah</i>, Mecca,",
+                "verses": "3:97-98, 2:127, 14:36, 27:92, 28:58, 29:68, 90:2"
+            },
+            {
+                "id": 7292,
+                "topic": "Evolution",
+                "verses": "1:2, 22:6, 23:13-15, 32:8-10, 56:61-62, 71:15, 71:18"
+            },
+            {
+                "id": 11130,
+                "topic": "Mecca: <i>Makkah</i>: spiritual centre",
+                "verses": "7:99, 42:8, 2:126-127, 2:151, 2:192, 3:97, 6:93, 14:36-38, 27:92, 28:58"
+            },
+            {
+                "id": 12050,
+                "topic": "Moses: Musa(as): and Holy Prophet<sup>(sa)</sup>",
+                "verses": "11:18, 2:109, 7:145, 20:30, 28:31, 28:45-46, 46:11, 52:2-7"
+            },
+            {
+                "id": 12322,
+                "topic": "Muhammad<sup>(sa)</sup>: and other Prophets",
+                "verses": "6:35, 2:130, 3:69, 5:20, 29:19, 36:15, 41:44, 73:16"
+            },
+            {
+                "id": 13162,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 85:2-4, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 92:2-4, 93:2-3, 100:2, 103:2-3"
+            },
+            {
+                "id": 18752,
+                "topic": "Witness: to truth",
+                "verses": "4:136, 90:2-4, 3:53-54, 3:65, 3:87, 11:18, 43:87"
+            }
+        ],
+        "ar": "وَ ہٰذَا  الۡبَلَدِ الۡاَمِیۡنِ ۙ﴿۴﴾ ",
+        "ur": "اور اس امن والے شہر کی۔",
+        "v5": {
+            "text": "<i>And</i> by this City of Security[c],[4778]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "90:2."
+                },
+                {
+                    "ref": "4778",
+                    "note": "<p><strong>Commentary.</strong></p><p>The Fig, the Olive, Mount Sinai and \"this City of Security\" have been invoked as witnesses to support and substantiate the claim made in the <i>Surah</i> that the Holy Prophet will succeed in his mission. Various views have been expressed as to what is meant by these things and how they support the above-mentioned claim. Here are some of these views:</p><p>1. \"The Fig\" and \"the Olive\" are symbolic of Jesus, \"Mount Sinai\" of Moses; and \"this City of Security\" of the Holy Prophet. These three verses together point to the well-known Biblical reference, viz. \"The Lord came from Sinai, and rose up from Seir with them; and He shined forth from Mount Paran, and He came with ten thousands of saints: from His right hand went a fiery law for them. (Deut. 33:2).</p><p>2. \"The Fig\" is symbolic of the Mosaic Dispensation and \"the Olive\" of the Islamic Dispensation. In the Bible good people and the bad among the Israelites have been likened to two baskets of good and bad figs (Jer. chap. 24:1-5); and in the Quran Islamic teaching has been likened to \"the oil of a blessed olive tree which is neither of the East nor of the West\" (24:36). This simile has been further expressed in more concrete form by the words \"Mount Sinai\" and \"this City of Security.\" The simile is very apt, since \"the Fig\" and \"the Olive\" are both used as medicines and as articles of food, with this difference that the former tastes sweet but rots very soon while the latter is used as fruit, its oil is in general use and when mixed with condiments it preserves and protects pickled articles from rotting and decaying.</p><p>3. According to some commentators \"the Fig\" stands for Buddhism, \"the Olive\" for Christianity, \"Mount Sinai\" for Judaism and \"this City of Security\" for the Holy Prophet of Islam.</p><p>4. But perhaps the best explanation of the symbolism used in these verses is the one according to which the four words represent four periods in the history of human evolution, \"the Fig\" representing the era of Adam, \"the Olive\" that of Noah, \"Mount Sinai\" that of Moses and \"this City of Security\" the Islamic epoch. This explanation finds ample support from the Bible and the Quran. When Adam and Eve ate the forbidden fruit and found themselves naked, they sewed fig leaves together, and made themselves aprons (Gen. 3:7). About Noah we read: \"And the dove came in to him in the evening; and lo! in her mouth was an olive leaf plucked off; so Noah knew that the waters were abated from off the earth\" (Gen. 8:11) And it is an accepted fact that Moses received the Divine Law on Mount Sinai and that Mecca, the birthplace of Islam was, from time immemorial, regarded as, and proved to be, the \"City of Security.\" These four periods represent the four cycles through which man had to pass to reach the stage of complete development. In the cycle of Adam the foundations of human civilization were laid. Noah was the founder of the Shari‘ah. In the cycle of Moses the details of the Shari‘ah were revealed, while with the advent of the Holy Prophet the Divine Law became complete and perfect in all its manifold aspects, and man attained his complete intellectual, social, moral and spiritual development.</p><p>The verse signifies that the circumstances of the Holy Prophet resemble those of Adam, Noah and Moses. Like them he will suffer hardships in the beginning and like them will succeed in the end.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 95,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 7292,
+                "topic": "Evolution",
+                "verses": "1:2, 22:6, 23:13-15, 32:8-10, 56:61-62, 71:15, 71:18"
+            },
+            {
+                "id": 10799,
+                "topic": "Man: creation of",
+                "verses": "23:13-15, 3:7, 3:60, 4:2, 6:3, 7:12-13, 15:27, 15:29-30, 15:34, 16:5, 18:38, 22:6, 25:55, 30:21, 32:8-10, 35:12, 36:78, 37:12, 38:72, 39:7, 40:68, 49:14, 53:47, 55:15, 71:15, 71:18, 75:38-40, 76:3, 77:21-24, 86:7, 87:3, 96:3"
+            },
+            {
+                "id": 10858,
+                "topic": "Man: nature of, <i>Fitrah</i>",
+                "verses": "30:31, 4:29, 10:13, 11:10-11, 14:35, 16:5, 17:12, 17:68-70, 17:101, 18:55, 21:38, 22:6, 22:67, 23:78-79, 25:51, 30:37, 31:7-8, 31:22, 33:73, 34:32, 36:78-79, 38:61, 39:50, 40:11, 41:50-52, 42:49, 43:16, 57:9, 70:20-22, 75:21, 80:18, 89:16-21, 90:5, 91:8-9, 96:7-8, 100:7, 100:9, 103:3-4"
+            },
+            {
+                "id": 10882,
+                "topic": "Man: perfection in",
+                "verses": "55:4, 15:30, 32:10, 38:73"
+            },
+            {
+                "id": 13800,
+                "topic": "Pen: <i>Qalam</i>",
+                "verses": "3:45, 31:28, 68:2"
+            },
+            {
+                "id": 16846,
+                "topic": "Sin: <i>Dhanb</i>: man created without",
+                "verses": "7:43, 7:23, 49:8, 75:3, 76:3-4, 90:9-11, 91:8-9"
+            }
+        ],
+        "ar": "لَقَدۡ خَلَقۡنَا الۡاِنۡسَانَ فِیۡۤ  اَحۡسَنِ تَقۡوِیۡمٍ ۫﴿۵﴾ ",
+        "ur": "یقیناً ہم نے انسان کو بہترین ارتقائی حالت میں پیدا کیا۔",
+        "v5": {
+            "text": "Surely, We have created man in [a]the best make;[4779]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "23:13-15."
+                },
+                {
+                    "ref": "4779",
+                    "note": "<p><strong>Important Words:</strong></p><p>تقویم (make, formation or build) is inf. noun from قوم . They say قوم الأمر i.e. he managed the affair well. قوم الشیء means, he set the thing right or made it straight or even (Aqrab &amp; Lane).</p><p><strong>Commentary:</strong></p><p>The verse may mean:</p><p>1. Man has been endowed with the best natural powers and qualities, by making use of which he can make infinite progress.</p><p>2. God has endowed man with a creative power, i.e. he can be a good architect and builder in both the physical and spiritual senses.</p><p>The question naturally arises: When man has been endowed with such wonderful natural powers and capacities, why does he sin? Various schools have their own explanations for this baffling question. According to one school man is prone to evil, though he has also been endowed with the power to correct and reform himself. This is the Buddhist conception of evil. (ii) According to Christian belief man is by nature sinful, because Adam faltered and committed a sin, and his progeny inherited the taint of sin from their progenitor. (iii) The third school holds the view that man is not born with a good or bad nature. He comes into the world with some natural inclinations and instinctive impulses and it is the sort of education which he gets or the atmosphere in which he moves that make him good or bad. Some mystics hold the view that man is deprived of all freedom of will or action and is completely denied discretion or volition and that he is a helpless victim of predetermined set of conditions and circumstances which he cannot overcome. (iv) The protagonists of the theory of transmigration of souls are of the view that man is born to suffer for the evil deeds he does in a former existence and goes through various forms of rebirth to cleanse himself of his sins. All these views evidently contravene human reason and offend against his moral sense. According to Islam, however, man is born with a pure and unsullied nature, with a natural tendency to do good, but he has also been given a large measure of freedom of will and action to mould himself as he chooses. He has been endowed with great natural powers and qualities to make unlimited moral progress and to rise spiritually so high as to become the mirror in which Divine attributes are reflected. But if he misuses God-given powers and attributes, he sinks lower than even beasts and brutes and becomes the Devil incarnate as the next verse shows. Briefly, the verse signifies that man is blessed with great potentialities for good or evil.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 95,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 5193,
+                "topic": "Compulsion in Faith: <i>Ikrah fid-Din</i>",
+                "verses": "2:257, 2:191, 2:194, 5:49, 5:93, 6:150, 7:89, 8:40, 9:6, 10:100, 11:119, 13:32, 16:10, 18:21, 18:30, 22:39, 22:41, 25:58, 26:5, 50:46, 76:4, 90:11, 109:7"
+            },
+            {
+                "id": 7292,
+                "topic": "Evolution",
+                "verses": "1:2, 22:6, 23:13-15, 32:8-10, 56:61-62, 71:15, 71:18"
+            },
+            {
+                "id": 10799,
+                "topic": "Man: creation of",
+                "verses": "23:13-15, 3:7, 3:60, 4:2, 6:3, 7:12-13, 15:27, 15:29-30, 15:34, 16:5, 18:38, 22:6, 25:55, 30:21, 32:8-10, 35:12, 36:78, 37:12, 38:72, 39:7, 40:68, 49:14, 53:47, 55:15, 71:15, 71:18, 75:38-40, 76:3, 77:21-24, 86:7, 87:3, 96:3"
+            },
+            {
+                "id": 13800,
+                "topic": "Pen: <i>Qalam</i>",
+                "verses": "3:45, 31:28, 68:2"
+            },
+            {
+                "id": 16846,
+                "topic": "Sin: <i>Dhanb</i>: man created without",
+                "verses": "7:43, 7:23, 49:8, 75:3, 76:3-4, 90:9-11, 91:8-9"
+            }
+        ],
+        "ar": "ثُمَّ  رَدَدۡنٰہُ  اَسۡفَلَ سٰفِلِیۡنَ ۙ﴿۶﴾ ",
+        "ur": "پھر ہم نے اُسے نچلے درجے کی طرف لَوٹنے والوں میں سب سے نیچے لَوٹا دیا۔",
+        "v5": {
+            "text": "Then, <i>if he acts unjustly</i>, We degrade him as the lowest of the low,[4780]",
+            "notes": [
+                {
+                    "ref": "4780",
+                    "note": "<p><strong>Commentary:</strong></p><p>If \"man\" is taken to mean the whole mankind the verse signifies that good precedes evil. This is Islam’s main difference with the protagonists of the theory of man’s moral evolution, according to whom evil precedes good. If man is taken as an individual the verse means that God has bestowed upon man great natural faculties and powers and has revealed guidance in order that by making right use of them and following Divinely-revealed guidance he might reach the high destiny intended for him.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 95,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 511,
+                "topic": "Actions: <i>A‘mal</i>: rewarded",
+                "verses": "28:85, 3:196, 4:41, 4:58, 4:174, 5:10, 7:9, 7:44, 9:121, 11:16, 11:112, 16:98, 17:10, 18:3, 18:47, 18:108-9, 19:77, 20:76-77, 22:15, 22:57, 24:39, 29:8, 29:10, 31:9-10, 32:18, 32:20, 33:30, 34:38, 35:8, 35:11, 35:33, 39:36, 41:9, 42:23-24, 42:27, 43:73-74, 45:31, 46:20, 47:13, 47:36, 48:30, 52:18-21, 65:12, 84:26, 85:12, 98:8-9, 99:8, 101:7-8"
+            },
+            {
+                "id": 9773,
+                "topic": "Jaza’: recompense: of believers, of righteous",
+                "verses": "78:37, 2:63, 2:113, 2:263, 2:278, 3:145-146, 3:149, 3:172-173, 3:180, 3:196, 4:68, 4:75, 4:101, 4:115, 4:147, 4:163, 5:10, 5:86, 6:84, 6:91, 6:136, 7:44, 7:171, 8:29, 9:22, 9:120-21, 10:5, 10:27, 11:116, 12:23, 12:57-58, 12:89, 12:91, 13:23, 13:25, 13:36, 16:32, 16:42, 16:97, 17:10, 18:3, 18:31-32, 18:47, 18:89, 20:77, 24:39, 25:16, 27:90, 28:15, 28:38, 28:55, 28:81, 29:8, 29:28, 29:59, 30:46, 32:18, 33:25, 33:30, 33:32, 33:36, 33:45, 34:5, 34:38, 35:8, 35:34, 36:12, 37:81, 37:106, 37:111, 37:122, 37:132, 39:11, 39:35, 39:36, 39:75, 41:9, 42:27, 46:15, 47:36, 48:11, 48:30, 49:4, 53:32, 53:42, 54:36, 55:61, 56:29, 57:8, 57:12, 57:19-20, 57:28, 64:16, 65:6, 67:13, 68:4, 73:21, 76:13, 76:23, 77:44, 84:26, 98:9"
+            }
+        ],
+        "ar": "اِلَّا  الَّذِیۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ فَلَہُمۡ  اَجۡرٌ غَیۡرُ  مَمۡنُوۡنٍ ؕ﴿۷﴾ ",
+        "ur": "سوائے اُن کے جو ایمان لائے اور نیک اعمال بجا لائے۔ پس اُن کے لئے غیرمنقطع اجر ہے۔",
+        "v5": {
+            "text": "[a]Save those who believe and do good works; so for them is an unfailing reward.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "11:12; 41:9; 84:26."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 95,
+        "v": 8,
+        "v_": 7,
+        "topics": [],
+        "ar": "فَمَا یُکَذِّبُکَ بَعۡدُ بِالدِّیۡنِ ؕ﴿۸﴾ ",
+        "ur": "پس اس کے بعد وہ کیا ہے جو تجھے دین کے معاملہ میں جھٹلائے ؟",
+        "v5": {
+            "text": "Then what is there to give the lie to thee, after <i>this</i>, with regard to the judgement?[4781]",
+            "notes": [
+                {
+                    "ref": "4781",
+                    "note": "<p><strong>Important Words:</strong></p><p>دین (judgement) is inf. noun from دان which means, he obeyed. دین means, judgement; religion; compulsion against will; righteousness; argument; plan, etc. (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The verse purports to say that when man has been created to achieve a very high spiritual destiny and God sent His Messengers such as Adam, Noah, Moses and the Holy Prophet, to help him achieve his great goal and that if he does not make proper use of his natural faculties and rejects the Divine Message, opposing God’s Messengers he is punished, then, who can, with reason, deny that there is a Day of Judgement in this life and in the Hereafter, and that the commandments of God Who is the Best of Judges cannot be defied with impunity and man’s actions will not go unrequited. This is the simple explanation of this verse. But in view of the different significations of the word دین given under Important Words, the verse may also mean:</p><p>(1) How can the pagan Quraish, after having seen the evil end to which opponents of God’s Messengers always come, possibly hope that they will escape God’s judgement and will not be punished and the Holy Prophet will not succeed?</p><p>(2) When God has been revealing the Shari‘ah from time immemorial, then why do disbelievers find fault with the Holy Prophet, if he has brought a new Law?</p><p>(3) The disbelievers can advance no sane or solid argument against the claim of the Holy Prophet. Any charge or objection they raise against him equally applies to all Divine Messengers.</p><p>(4) In view of the innumerable signs shown in favour of the Holy Prophet, no plan or argument can succeed against him or can disprove his claim.</p><p>(5) No truly righteous man can reject the Holy Prophet.</p><p>(6) After having known the tragic end of the opponents of God’s Messengers who will dare say that he can compel the Holy Prophet to give up his mission?</p>"
+                }
+            ]
+        }
+    }
+]

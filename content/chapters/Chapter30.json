@@ -1,0 +1,2331 @@
+[
+    {
+        "ch": 30,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.[2989]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                },
+                {
+                    "ref": "2989",
+                    "note": "<p><strong>Commentary:</strong></p><p>See. 1:1.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 48,
+                "topic": "Abbreviations: <i>Alif Lam Mim</i>",
+                "verses": "2:2, 3:2, 29:2, 31:2, 32:2"
+            }
+        ],
+        "ar": "الٓـمّٓ  ۚ﴿۲﴾",
+        "ur": "اَنَا اللّٰہُ اَعلَمُ: میں اللہ سب سے زیادہ جاننے والاہوں۔",
+        "v5": {
+            "text": "[b]Alif Lam Mim.[2989A]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "29:2."
+                },
+                {
+                    "ref": "2989A",
+                    "note": "<p><strong>Commentary:</strong></p><p>The present <i>Surah</i> is second of the four chapters—29th, 30th, 31st and 32nd—which are headed by the abbreviated letters, <i>Alif, Lam, Mim</i>. This has not been done haphazardly as some Christian writers are prone to think or deliberately misrepresent. These letters have a deep significance and far-reaching bearing on the subject matter of the <i>Surah</i>. There exists a striking resemblance between the subject matter of all these four <i>Surahs</i>; even their diction and style are very similar. They deal with the defeat and destruction of the forces of disbelief and darkness, and the rise and triumph of Islam. It has been repeatedly declared in these <i>Surahs</i> that the old order is dying, and a new and better order is emerging from its ruins. In order to realize the full significance of this dominant theme, attention is drawn to history and to the laws of nature.</p><p>Moreover, each letter of the Arabic alphabet possesses a definite numerical value, and the combined letters الم have the numerical value 71 (ا having 1, ل 30, and م 40). As the central theme of the four chapters is the progress and ultimate triumph of Islam, the placing of الم in their beginning seems to signify that Islam will take about as many years to consolidate itself fully and attain the hey-day of its glory. And thus it actually came to pass. Beginning with the Migration, Islam went from strength to strength till in the year 71 A.H., with the coming into power of Yazid, son of Mu‘awiyah, the solidarity of Islam suffered the first serious blow.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 4786,
+                "topic": "Byzantines",
+                "verses": null
+            },
+            {
+                "id": 8916,
+                "topic": "History of Islam",
+                "verses": null
+            },
+            {
+                "id": 14426,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 93:2-3, 94:6-7, 99:2-7, 100:10-12"
+            },
+            {
+                "id": 15949,
+                "topic": "Romans",
+                "verses": null
+            }
+        ],
+        "ar": "غُلِبَتِ  الرُّوۡمُ ۙ﴿۳﴾ ",
+        "ur": "اہل روم مغلوب کئے گئے۔",
+        "v5": {
+            "text": "The Romans have been defeated,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 30,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 4786,
+                "topic": "Byzantines",
+                "verses": null
+            },
+            {
+                "id": 8916,
+                "topic": "History of Islam",
+                "verses": null
+            },
+            {
+                "id": 14426,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 93:2-3, 94:6-7, 99:2-7, 100:10-12"
+            },
+            {
+                "id": 15949,
+                "topic": "Romans",
+                "verses": null
+            }
+        ],
+        "ar": "فِیۡۤ  اَدۡنَی الۡاَرۡضِ وَ ہُمۡ مِّنۡۢ  بَعۡدِ غَلَبِہِمۡ سَیَغۡلِبُوۡنَ ۙ﴿۴﴾ ",
+        "ur": "قریب کی زمین میں۔ اور وہ اپنے مغلوب ہونے کے بعد پھر ضرور غالب آجائیں گے۔",
+        "v5": {
+            "text": "In the land nearby, and they, after their defeat, will be victorious.[2990]",
+            "notes": [
+                {
+                    "ref": "2990",
+                    "note": "<p><strong>Commentary:</strong></p><p>By the words \"the land nearby\" are meant the countries lying close to Arabia—Palestine, Jordan and Syria.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 4786,
+                "topic": "Byzantines",
+                "verses": null
+            },
+            {
+                "id": 5060,
+                "topic": "Chosroes: <i>Kisra</i>",
+                "verses": "2:103"
+            },
+            {
+                "id": 8875,
+                "topic": "Heraclius",
+                "verses": null
+            },
+            {
+                "id": 8916,
+                "topic": "History of Islam",
+                "verses": null
+            },
+            {
+                "id": 13045,
+                "topic": "Nineveh",
+                "verses": "10:99, 37:140-141, 46:30"
+            },
+            {
+                "id": 13113,
+                "topic": "Number: <i>‘Adad</i>",
+                "verses": "2:185-186, 2:30, 9:36-37, 9:80, 12:43, 15:45, 18:23, 23:18, 31:28, 33:50, 65:2, 65:5, 74:31, 89:4, 97:4"
+            },
+            {
+                "id": 14382,
+                "topic": "Prophecies in the Holy Qur’an: about: battles",
+                "verses": "8:43, 38:12, 48:22, 52:7, 54:46-49, 79:7-8"
+            },
+            {
+                "id": 14426,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 93:2-3, 94:6-7, 99:2-7, 100:10-12"
+            },
+            {
+                "id": 14498,
+                "topic": "Prophecies in the Holy Qur’an: about: Romans",
+                "verses": null
+            },
+            {
+                "id": 14948,
+                "topic": "Quraysh",
+                "verses": "106:2, 2:74, 2:130, 2:218, 3:126, 8:31, 12:93, 21:41, 23:95, 26:215, 27:49, 33:10, 48:2, 48:12, 53:21, 54:2, 54:10, 59:3, 59:15, 60:2, 80:2, 106:5"
+            },
+            {
+                "id": 15949,
+                "topic": "Romans",
+                "verses": null
+            },
+            {
+                "id": 17433,
+                "topic": "Syria",
+                "verses": "7:66, 7:74, 7:85, 9:32, 9:42, 9:107, 11:51, 15:77, 20:78, 21:84, 23:51, 25:41, 26:142, 34:13, 34:16, 34:19, 37:126, 59:3, 71:24"
+            }
+        ],
+        "ar": "فِیۡ بِضۡعِ سِنِیۡنَ ۬ؕ لِلّٰہِ الۡاَمۡرُ  مِنۡ قَبۡلُ وَ مِنۡۢ  بَعۡدُ ؕ وَ  یَوۡمَئِذٍ  یَّفۡرَحُ  الۡمُؤۡمِنُوۡنَ ۙ﴿۵﴾ ",
+        "ur": "تین سے نو سال کے عرصہ تک۔ حکم اللہ ہی کا (چلتا) ہے ‘ پہلے بھی اور بعد میں بھی۔ اور اس دن مومن(بھی اپنی فتوحات سے) بہت خوش ہوں گے۔",
+        "v5": {
+            "text": "In a few years—[a]Allah’s is the command before and after that—and on that day the believers will rejoice,[2991]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "3:155; 13:32."
+                },
+                {
+                    "ref": "2991",
+                    "note": "<p><strong>Important Words:</strong></p><p>بضع (a few) is derived from بضع (<i>bada‘a</i>). They say بضعه i.e. he cut it; he cut it into pieces; he cut it length-wise. بضعmeans, a part or portion of the night; a time thereof. They say مضی بضع من اللیل i.e. a part of the night passed. The word also denotes a variety of numbers such as five, seven, ten, etc., but is generally understood to mean from three to nine. بضع رجال means from three to nine men. بضع سنین means, from three to nine years (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>In order fully to appreciate the significance of this and the preceding two verses it is necessary to cast a cursory glance over the political conditions that obtained in the two great Empires that lay on the borders of Arabia—the Persian and the Roman Empires—shortly before the advent of the Holy Prophet of Islam. They were at war with each other. The first round had gone in favour of the Persians whose tide of conquest began in 602 A.D., when in order to avenge the death of Maurice, his patron and benefactor, at the hands of Phocas, Chosroes II started the war with Rome. For twenty years the Roman Empire was overrun by Persian armies as it had never been before. The Persian armies plundered Syria and Asia Minor and in 608 A.D. advanced to Chalcedon. Damascus was taken in 613. The surrounding country on which no Persian had ever set foot since the founding of the Empire was utterly and completely laid waste. In June 614 Jerusalem was also captured. The whole of Christendom was horrified by the news that together with the Patriarch the Persians had carried off the cross of Christ. Christianity had been humbled in the dust. The flood of Persian conquest, however, did not stop with the capture of Jerusalem. Egypt was next conquered, Asia Minor again overrun, and the Persian armies were knocking at the very gates of Constantinople. The Romans could offer but little resistance as they were torn by internal dissensions. The humiliation of Heraclius was so complete that \"Chosroes wanted to see him brought in chains to the foot of his throne and was not prepared to give him peace till he had abjured his crucified god and embraced the worship of the sun\" (Historians’ History of the World, vol. 7, p. 159, vol. 8, pp. 94-95 &amp; Enc. Brit. under \"Chosroes\" II &amp; \"Heraclius\"). This state of affairs very much grieved the Muslims as they had much in common with the Romans who were the \"People of the Book\". But the Quraish of Mecca who, like the Persians, were idolaters, feigned to see in this discomfiture of Christian armies a happy augury for the overthrow and destruction of Islam. It was shortly after this complete debacle of Roman forces that in 616 A.D., came the revelation to the Holy Prophet which forms the subject-matter of the verse under comment and the two preceding verses. The verses possessed a twofold significance. They foretold, in circumstances then quite inconceivable, that the whole position would be completely reversed within the short space of eight or nine years and the erstwhile victorious Persian armies would suffer a crushing defeat at the hands of the utterly defeated, prostrated and humbled Romans. The Arabic word used in the verse to denote this period is بضع (<i>bid‘un</i>) which as shown under \"Important Words,\" signifies a period from three to nine years. The significance of the prophecy embodied in the verses, however, lay in the fact that, within this short period, the foundations of the ultimate triumph of Islam and that of the defeat and discomfiture of the forces of disbelief and darkness would be firmly laid. The prophecy was fulfilled in circumstances beyond human calculation or comprehension. Regarding the extreme improbability of fulfilment of the prophecy under the prevailing circumstances, the following observation of Gibbon may be read with interest:</p><p>In the midst of the Persian triumphs he (the Holy Prophet) ventured to foretell that before many years should elapse victory would return to the banners of the Romans…At the time when this prediction is said to have been delivered, no prophecy could be more distant from its accomplishment, since the first twelve years of Heraclius announced the approaching dissolution of the Empire (Rise, Decline &amp; Fall of the Roman Empire, vol. 5, p. 74).</p><p>After licking his wounds for several years, Heraclius was at last able to take the field against the Persians in 622, the year of the Holy Prophet’s Migration to Medina. In 624 he advanced into northern Media, where he destroyed the great fire-temple of Gandzak (Gazaca) and thus avenged the destruction of Jerusalem. This happened exactly within nine years, the period foretold in the verse, and to add to its importance and significance it happened in the year when the power of the Quraish also suffered a very serious reverse in the Battle of Badr, which recalled a Biblical prophecy foretelling the fading of the glory of Kedar (Isa. 21:17). In 627, Heraclius defeated the Persian army at Nineveh and advanced towards Ctesiphon. Chosroes fled from his favourite residence Dastgerd (near Baghdad), and after dragging on an inglorious existence was murdered by his own son, Siroes, on 19th February, 628. A.D.; and thus the Persian Empire, from the apparent greatness which it had reached a few years earlier sank into hopeless anarchy (Enc. Brit.).</p><p>The fulfilment of the prophecy was so remarkable and unforeseen that prejudiced Christian writers have been hard pressed to explain it away. Rodwell says that the vowel points of the Arabic expression سیغلبون were left undecided so that it would read either way, i.e. <i>sa-yaghlibun</i> meaning, \"they will be victorious\" or as <i>sa-yughlabun</i> meaning, \"they will be defeated.\" He even adds that the ambiguity was intentional. The Rev. gentleman pretends not to understand this simple fact that the vowels of an expression which had been recited hundreds of times in daily Prayers and otherwise could hardly be left undecided. Mr. Wherry goes a step further. He says: \"Our daily newspapers constantly forecast political events of this kind.\" The less said about this futile attempt to explain away and belittle the importance of this mighty prophecy, the better. If in the circumstances when Christianity lay humbled in the dust and Persian armies were knocking at the very gates of Constantinople and Heraclius had in vain sued for peace, a person situated as the Holy Prophet was, could forecast that within the short space of only eight or nine years the victors would become vanquished and the forces of Chosroes would receive a crushing defeat at the hands of the same Heraclius who only a few years back had very humbly but unsuccessfully sued for peace and the proud and mighty Persians would lie prostrate and exhausted, the forecast must indeed be considered to have proceeded from a superhuman source. What added to the remarkable character of the prophecy was the fact that the news of the victory of the Romans over the Persians reached the Muslims exactly at the time when they were themselves rejoicing over their own victory in the Battle of Badr.</p><p>The words: \"Allah’s is the command before and after that,\" mean that it is God’s eternal and unalterable decree that disbelief is always defeated and humbled, and truth triumphs and progresses.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 3552,
+                "topic": "Attributes of Allah: Ar-Rahim (The Merciful)",
+                "verses": "1:3, 1:1, 2:161, 2:164, 2:174, 2:183, 2:193, 2:219, 2:227, 3:32, 4:24, 4:97, 4:101, 5:4, 5:99, 11:42, 12:54, 18:59, 26:192, 27:31, 33:44, 36:59, 42:6"
+            },
+            {
+                "id": 4252,
+                "topic": "Believers: <i>Mu’min</i>: Allah’s help for",
+                "verses": "2:215, 2:154, 3:124, 3:127, 9:25, 10:104, 29:11, 30:48, 40:52, 58:22, 61:14, 110:2"
+            }
+        ],
+        "ar": "بِنَصۡرِ اللّٰہِ ؕ یَنۡصُرُ مَنۡ یَّشَآءُ ؕ وَ ہُوَ الۡعَزِیۡزُ  الرَّحِیۡمُ ۙ﴿۶﴾",
+        "ur": "(جو) اللہ کی نصرت سے (ہوں گی)۔ وہ نصرت کرتا ہے جس کی چاہتا ہے اور وہ کامل غلبہ والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "With the help of Allah. He helps whom He pleases; and He is the Mighty, the Merciful.[2992]",
+            "notes": [
+                {
+                    "ref": "2992",
+                    "note": "<p><strong>Commentary:</strong></p><p>The allusion in the words, \"with the help of Allah,\" is to the help and succour which God vouchsafed to Muslims on the battlefield of Badr (3:124-126). On that day it was established beyond doubt that \"Allah is the Mighty, the Merciful.\" The disbelievers, to their bitter dismay and mortification experienced the force of God’s might and the Muslims that of His mercy.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 1231,
+                "topic": "Allah: breaks not His promise",
+                "verses": "3:195, 4:123, 10:5, 31:10, 39:21, 40:56, 40:78"
+            },
+            {
+                "id": 14308,
+                "topic": "Promise: of Allah",
+                "verses": "24:56, 2:269, 3:153, 4:96, 5:10, 8:8, 9:72, 9:111, 13:36, 18:49, 19:62, 19:88, 21:102, 21:104-105, 23:36, 25:16-17, 28:62, 33:23, 34:31, 38:54, 39:75, 41:31, 46:17, 47:16, 48:22, 48:30, 50:33, 51:23, 57:11, 85:3"
+            }
+        ],
+        "ar": "وَعۡدَ اللّٰہِ ؕ لَا یُخۡلِفُ اللّٰہُ  وَعۡدَہٗ وَ لٰکِنَّ  اَکۡثَرَ  النَّاسِ لَا یَعۡلَمُوۡنَ ﴿۷﴾",
+        "ur": "(یہ) اللہ کا وعدہ (ہے۔ اور) اللہ اپنے وعدہ کے خلاف نہیں کرتا۔ لیکن اکثر لوگ نہیں جانتے۔",
+        "v5": {
+            "text": "Allah <i>has made this</i> promise. [a]Allah breaks not His promise, but most men know not.[2993]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "3:195; 39:21."
+                },
+                {
+                    "ref": "2993",
+                    "note": "<p><strong>Commentary:</strong></p><p>The reference in the words, \"Allah has made this promise,\" is to the Divine decree alluded to in the words \"that Allah might accomplish the thing that was decreed\" (8:43) used with reference to the Battle of Badr.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 1004,
+                "topic": "Afterlife: <i>Akhirah</i>: those who reject have no real knowledge",
+                "verses": "45:25, 6:30-32, 10:46, 16:23, 19:67, 23:38, 27:5-6, 39:46, 44:35-37, 74:54"
+            },
+            {
+                "id": 10242,
+                "topic": "Knowledge: <i>‘Ilm</i>: and disbelievers",
+                "verses": "6:149, 2:119, 3:62, 4:158, 5:105, 6:101, 6:120, 6:141, 9:6, 10:40, 16:28, 17:37, 22:4, 22:9, 22:72, 27:67, 30:59-60, 40:84, 46:5, 47:17"
+            },
+            {
+                "id": 10523,
+                "topic": "Life: <i>Hayat</i>: of this world",
+                "verses": "23:113-115, 2:87, 2:201, 2:213, 3:15, 3:186, 4:75, 4:95, 6:30, 6:33, 6:71, 6:131, 7:52, 9:38, 10:8-9, 10:25, 10:65, 11:16, 13:27, 14:4, 16:108, 17:19, 18:29, 18:46-47, 18:104-105, 20:132, 23:38, 28:61, 29:64, 29:65, 31:34, 35:6, 40:40, 41:32, 42:37, 43:36, 45:25, 45:36, 46:36, 47:27, 53:30, 57:21, 76:28, 79:39, 87:17-18"
+            }
+        ],
+        "ar": "یَعۡلَمُوۡنَ ظَاہِرًا مِّنَ  الۡحَیٰوۃِ  الدُّنۡیَا ۚۖ وَ ہُمۡ عَنِ الۡاٰخِرَۃِ   ہُمۡ  غٰفِلُوۡنَ ﴿۸﴾ ",
+        "ur": "وہ دنیا کی زندگی کے ظاہر کو جانتے ہیں اور وہ ایسے ہیں کہ آخرت کے بارہ میں وہ غافل ہیں۔",
+        "v5": {
+            "text": "They know <i>only</i> the outer <i>aspect</i> of the life of this world, and of the Hereafter they are utterly unmindful.[2994]",
+            "notes": [
+                {
+                    "ref": "2994",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means to say that the knowledge of disbelievers is confined to the material side of this world and they are ignorant of things spiritual. The implication is that if disbelievers cannot understand how a people (the Romans) who had been completely broken and had lain exhausted and prostrate a few years back won a smashing victory over their powerful foe (the Persians) and how a handful of Muslims with no experience of war and having no arms and ammunition, succeeded in defeating a powerful army of the Quraish, three times their number, it is because the disbelievers’ knowledge is limited to an understanding of the physical causes of the incidents, but the causes of the defeat of the Persians and that of the Quraish lay deeper and were more spiritual than material or mundane.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 869,
+                "topic": "Afterlife: <i>Akhirah</i>: arguments for",
+                "verses": "29:65, 2:29, 15:86, 17:50-53, 19:67-68, 22:6, 23:116, 79:28"
+            },
+            {
+                "id": 1134,
+                "topic": "Ajal: <i>Musamma</i>, fixed",
+                "verses": "2:232, 11:105, 3:146, 6:3, 6:129, 7:35, 10:50, 11:4, 13:3, 13:39, 14:11, 15:6, 16:62, 17:100, 20:130, 22:6, 22:34, 29:54, 31:30, 35:14, 35:46, 39:43, 40:68, 42:15, 46:4"
+            },
+            {
+                "id": 1977,
+                "topic": "Allah: meeting with, <i>Liqa’</i>",
+                "verses": "25:22, 6:32, 7:148, 10:8, 10:12, 10:46, 11:30, 18:106, 18:111, 29:6, 29:24, 30:17, 32:11, 84:7"
+            },
+            {
+                "id": 10542,
+                "topic": "Life: <i>Hayat</i>: purpose of",
+                "verses": "23:116, 6:32, 16:98, 51:57, 67:3"
+            },
+            {
+                "id": 15381,
+                "topic": "Reflect: ponder, <i>Tafakkur</i>",
+                "verses": "2:220, 2:267, 4:83, 6:51, 7:177, 10:25, 13:4, 16:12, 16:45, 16:70, 27:63, 28:44, 30:22, 32:5, 34:47, 38:30, 39:43, 40:59, 45:14, 47:25, 51:50, 56:63, 59:22"
+            }
+        ],
+        "ar": "اَوَ لَمۡ  یَتَفَکَّرُوۡا فِیۡۤ   اَنۡفُسِہِمۡ ۟ مَا خَلَقَ اللّٰہُ  السَّمٰوٰتِ وَ الۡاَرۡضَ وَ مَا بَیۡنَہُمَاۤ  اِلَّا بِالۡحَقِّ وَ اَجَلٍ مُّسَمًّی ؕ وَ اِنَّ کَثِیۡرًا مِّنَ النَّاسِ بِلِقَآیِٔ رَبِّہِمۡ لَکٰفِرُوۡنَ ﴿۹﴾ ",
+        "ur": " کیا انہوں نے اپنے دلوں میں غور نہیں کیا (کہ) اللہ نے آسمانوں اور زمین کو اور جو کچھ ان دونوں کے درمیان ہے پیدا نہیں کیا مگر حق کے ساتھ اور ایک معین مدت کے لئے۔ اور یقیناً لوگوں میں سے اکثر اپنے ربّ کی ملاقات سے ضرور منکر ہیں۔",
+        "v5": {
+            "text": "[a]Do they not reflect in their own minds? Allah has not created the heavens and the earth and all that is between the two but in accordance with the requirements of wisdom and for a fixed term. [b]But many among men believe not in the meeting with their Lord.[2995]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "7:186."
+                },
+                {
+                    "ref": "b",
+                    "note": "10:46; 29:24; 32:11."
+                },
+                {
+                    "ref": "2995",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means to say that if disbelievers had reflected over the great powers and faculties with which man has been endowed and had reflected also over the very limited duration of their worldly existence they would have realized that man’s life on this earth is not the be-all and end-all of his creation and that there is a fuller and better life beyond the grave where man’s spiritual progress will know no end and that the present life is only a preparation for the life hereafter. See also v. 12 below.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 1053,
+                "topic": "Agriculture: people have tilled the soil since ages",
+                "verses": null
+            },
+            {
+                "id": 2200,
+                "topic": "Allah: punishes those who wrong themselves",
+                "verses": "11:102, 3:118, 9:70, 10:45, 16:34, 16:119, 18:50, 29:41"
+            },
+            {
+                "id": 2447,
+                "topic": "Allah: travel in the earth..., <i>Siru fil-ard</i>",
+                "verses": "29:21, 3:138, 6:12, 12:110, 22:47, 27:70, 30:43, 35:45, 40:22, 40:83, 47:11"
+            },
+            {
+                "id": 5104,
+                "topic": "Civilizations, Past",
+                "verses": "30:42, 6:7"
+            },
+            {
+                "id": 7040,
+                "topic": "Earth: <i>Al-Ard</i>: travel through the",
+                "verses": "3:138, 3:157, 4:102, 6:12, 12:109, 14:39, 22:47, 29:20, 30:43, 35:45, 40:22, 40:83, 47:11, 67:16"
+            },
+            {
+                "id": 16700,
+                "topic": "Signs: Messengers bring",
+                "verses": "2:130, 2:88, 2:93, 2:100, 2:254, 3:102, 3:184, 6:131, 7:36, 9:70, 10:14, 16:44-45, 17:102, 23:46, 35:26, 57:26, 58:6, 62:3, 65:12"
+            }
+        ],
+        "ar": "اَوَ لَمۡ  یَسِیۡرُوۡا فِی الۡاَرۡضِ فَیَنۡظُرُوۡا کَیۡفَ کَانَ عَاقِبَۃُ  الَّذِیۡنَ مِنۡ قَبۡلِہِمۡ ؕ کَانُوۡۤا  اَشَدَّ مِنۡہُمۡ  قُوَّۃً  وَّ اَثَارُوا الۡاَرۡضَ وَ عَمَرُوۡہَاۤ  اَکۡثَرَ مِمَّا عَمَرُوۡہَا وَ جَآءَتۡہُمۡ  رُسُلُہُمۡ بِالۡبَیِّنٰتِ ؕ فَمَا کَانَ اللّٰہُ  لِیَظۡلِمَہُمۡ وَ لٰکِنۡ  کَانُوۡۤا  اَنۡفُسَہُمۡ  یَظۡلِمُوۡنَ ؕ﴿۱۰﴾",
+        "ur": "اور کیا انہوں نے زمین میں سیر نہیں کی تاکہ وہ غور کرسکتے کہ ان لوگوں کا انجام کیسا ہوا جو اُن سے پہلے تھے۔ وہ قوت میں ان سے زیادہ شدید تھے اور انہوں نے زمین کو پھاڑا اور اسے اس سے زیادہ آباد کیا تھا جیسا اِنہوں نے اُسے آباد کیا ہے اور ان کے پاس بھی ان کے رسول کھلے کھلے نشان لے کر آئے تھے۔ پس اللہ ایسا نہیں کہ ان پر ظلم کرتا بلکہ وہ خود اپنی جانوں پر ظلم کرتے تھے۔",
+        "v5": {
+            "text": "[a]Have they not travelled in the earth so that they might see how <i>evil</i> was the end of those who were before them? They were stronger than these in power, and they tilled the soil and populated it more <i>and better</i> than these have populated it. And their Messengers came to them with manifest Signs. [b]And Allah would not wrong them, but they wronged their own souls.[2996]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "12:110; 22:47; 35:45; 47:11."
+                },
+                {
+                    "ref": "b",
+                    "note": "4:41; 9:70; 10:45; 18:50; 29:32."
+                },
+                {
+                    "ref": "2996",
+                    "note": "<p><strong>Important Words:</strong></p><p>أثاروا (tilled) is derived from ثار which means, it was or became raised or stirred up; it spread; it rose. ثار الماء means, the water flowed forth with force; it gushed forth. أثارہ means, he raised or roused him or it. أثار الارض means, he tilled the ground or land; he cultivated it by ploughing and sowing. أثار الفتنة بینھم means, he excited mischief amongst them (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The verse indicates that there had lived in the past people who had attained to a very high stage of civilization and culture; particularly they had made great progress in the art of architecture, mining and cultivation. Recent researches in archaeology have borne testimony to this fact. The Quran had referred to this fact fourteen hundred years ago.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 11,
+        "v_": 10,
+        "topics": [],
+        "ar": "ثُمَّ کَانَ عَاقِبَۃَ  الَّذِیۡنَ  اَسَآءُوا السُّوۡٓاٰۤی  اَنۡ  کَذَّبُوۡا بِاٰیٰتِ اللّٰہِ  وَ  کَانُوۡا بِہَا  یَسۡتَہۡزِءُوۡنَ  ﴿٪۱۱﴾",
+        "ur": "پھر وہ لوگ جنہوں نے برائی کی ان کا بہت برا انجام ہوا کیونکہ وہ اللہ کی آیات کو جھٹلاتے تھے اور ان سے تمسخر کرتے تھے۔",
+        "v5": {
+            "text": "Then evil was the end of those who did evil, because they rejected the Signs of Allah, and mocked at them.[2997]",
+            "notes": [
+                {
+                    "ref": "2997",
+                    "note": "<p><strong>Commentary:</strong></p><p>As stated above the truth and triumph of Islam form the basic and central theme of the present <i>Surah</i>. In v. 8 above we are told that the endeavours of disbelievers are confined to the acquisition of things of the material world, and that they give no thought to the fact that there is a better and higher spiritual life after this life and that the real purpose and aim of all religions, as of Islam, is the realization of this supreme fact. The present and the preceding two verses deal with the truth of Islam and adduce three arguments in its support: (a) The creation of man and the subjection of all created things to his service; (b) the great wisdom and beautiful design and order that pervade the entire universe; and (c) the life history of the past Prophets and the sad end of their rejecters. The verse under comment purports to say that all these arguments lead to but one conclusion, viz. that those unfortunate people who rejected God’s Message and persecuted His Messengers and persisted in transgression, vice and sin, came to grief, and such will also be the end of the opponents of Islam. They, too, will meet with failure and frustration and Islam’s cause will triumph.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 12,
+        "v_": 11,
+        "topics": [
+            {
+                "id": 3096,
+                "topic": "Attributes of Allah: Al-Badi‘ (The Originator)",
+                "verses": "2:118, 6:102, 10:5, 10:35, 21:105, 27:65, 29:20, 30:28, 85:14"
+            },
+            {
+                "id": 3375,
+                "topic": "Attributes of Allah: Al-Mubdi (The Beginner, Originator)",
+                "verses": "10:35, 10:5, 21:105, 27:65, 29:20, 30:28, 85:14"
+            },
+            {
+                "id": 3399,
+                "topic": "Attributes of Allah: Al-Mu‘id (The Reproducer)",
+                "verses": "10:35, 10:5, 21:105, 27:65, 29:20, 30:28, 85:14"
+            }
+        ],
+        "ar": "اَللّٰہُ  یَبۡدَؤُا  الۡخَلۡقَ ثُمَّ یُعِیۡدُہٗ  ثُمَّ  اِلَیۡہِ  تُرۡجَعُوۡنَ ﴿۱۲﴾ ",
+        "ur": "اللہ خَلق کا آغاز کرتا ہے پھر اُسے دہراتا ہے پھر اُسی کی طرف تم لوٹائے جاؤ گے۔",
+        "v5": {
+            "text": "[a]Allah originates creation; then He keeps repeating it; then to Him shall you be brought back.[2998]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 29:20."
+                },
+                {
+                    "ref": "2998",
+                    "note": "<p><strong>Commentary:</strong></p><p>The present verse further develops the theme of its predecessor that through Islam God is bringing into being a new creation and a new order. See also 29:20.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 13,
+        "v_": 12,
+        "topics": [
+            {
+                "id": 5983,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: on that day",
+                "verses": "37:21, 27:88, 2:282, 3:26, 3:162, 3:186, 4:88, 6:13, 6:23, 6:74, 10:46, 10:55, 15:26, 17:14, 17:72, 18:49, 18:50, 19:69, 19:72, 19:73, 19:96, 20:109, 21:48, 22:57, 23:102, 25:27, 30:15, 36:50, 36:51, 36:55, 39:69, 40:17, 40:18, 45:27-29, 46:20, 50:45, 52:17, 54:7-9, 56:2-12, 66:8, 70:44-45, 101:5"
+            },
+            {
+                "id": 6338,
+                "topic": "Despair",
+                "verses": "39:54, 2:215, 5:4, 6:45, 11:10, 12:81, 12:88, 12:111, 15:56-57, 17:84, 23:78, 29:24, 30:37, 30:50, 43:76, 60:14"
+            },
+            {
+                "id": 8263,
+                "topic": "Guilty: <i>Mujrim</i>",
+                "verses": "10:18, 6:148, 7:41, 7:134, 9:66, 10:14, 11:117, 12:111, 14:50, 19:87, 20:75, 20:103, 27:70, 28:79, 30:56, 32:13, 36:60, 37:35, 43:75, 46:26, 55:42, 55:44, 70:12, 77:19"
+            },
+            {
+                "id": 9002,
+                "topic": "Hour: <i>Sa‘ah</i>",
+                "verses": "25:12, 6:32, 6:41, 7:188, 12:108, 15:86, 16:78, 18:22, 20:16, 21:50, 22:2, 22:8, 22:56, 30:56, 31:35, 33:64, 34:4, 40:60, 41:48, 41:51, 42:18-19, 43:62, 43:67, 43:86, 45:28, 45:33, 47:19, 54:2, 54:47, 79:43, 79:44"
+            },
+            {
+                "id": 9100,
+                "topic": "Iblis: Devil",
+                "verses": "7:12-13, 15:29-43, 26:96, 30:50, 34:21"
+            }
+        ],
+        "ar": "وَ یَوۡمَ تَقُوۡمُ السَّاعَۃُ  یُبۡلِسُ الۡمُجۡرِمُوۡنَ ﴿۱۳﴾ ",
+        "ur": "اور جس دن قیامت برپا ہو گی مجرم مایوس ہو جائیں گے۔",
+        "v5": {
+            "text": "And on the day when the Hour will arrive [b]the guilty will be seized with despair.[2999]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "6:45."
+                },
+                {
+                    "ref": "2999",
+                    "note": "<p><strong>Important Words:</strong></p><p>For یبلس (seized with despair) see 2:35.</p><p><strong>Commentary:</strong></p><p>Taking the word الساعة (Hour) as referring to the day of the Battle of Badr, the word یبلس portrays the mental anguish of the Quraish on that day. It says that they were simply dumbfounded. They had not the faintest idea of the crushing defeat they suffered at the hands of the poor, almost unarmed, and ill-provisioned, handful of Muslims, whom they had expelled from their hearths and homes hardly a year ago. Their idols and associate-gods, as is mentioned in the next verse, did not and could not come to their help.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 14,
+        "v_": 13,
+        "topics": [],
+        "ar": "وَ لَمۡ یَکُنۡ لَّہُمۡ مِّنۡ شُرَکَآئِہِمۡ شُفَعٰٓؤُا وَ کَانُوۡا بِشُرَکَآئِہِمۡ کٰفِرِیۡنَ ﴿۱۴﴾ ",
+        "ur": "اور ان کے (مزعومہ) شرکاءمیں سے ان کے لئے کوئی شفاعتی نہ ہوں گے اور وہ اپنے (بنائے ہوئے) شریکوں کا (خود ہی) انکار کرنے والے ہوں گے۔",
+        "v5": {
+            "text": "And they shall have no intercessors from <i>among them</i> whom they associate <i>with God</i>; and [c]they will deny <i>those</i> whom they associate <i>with Him</i>.",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "10:29."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 15,
+        "v_": 14,
+        "topics": [
+            {
+                "id": 5984,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: on that day",
+                "verses": "37:21, 27:88, 2:282, 3:26, 3:162, 3:186, 4:88, 6:13, 6:23, 6:74, 10:46, 10:55, 15:26, 17:14, 17:72, 18:49, 18:50, 19:69, 19:72, 19:73, 19:96, 20:109, 21:48, 22:57, 23:102, 25:27, 30:13, 36:50, 36:51, 36:55, 39:69, 40:17, 40:18, 45:27-29, 46:20, 50:45, 52:17, 54:7-9, 56:2-12, 66:8, 70:44-45, 101:5"
+            }
+        ],
+        "ar": "وَ یَوۡمَ تَقُوۡمُ السَّاعَۃُ  یَوۡمَئِذٍ یَّتَفَرَّقُوۡنَ ﴿۱۵﴾ ",
+        "ur": "اور جس دن قیامت برپا ہو گی اس دن (لوگ) الگ الگ بکھر جائیں گے۔",
+        "v5": {
+            "text": "And on the day when the Hour will arrive—on that day will they become separated <i>from one another</i>.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 30,
+        "v": 16,
+        "v_": 15,
+        "topics": [
+            {
+                "id": 8956,
+                "topic": "Honour: of believers",
+                "verses": "49:14, 4:32, 4:140, 4:176, 8:5, 8:75, 10:3, 19:86, 22:51, 57:19, 70:35-36, 89:16, 89:18"
+            },
+            {
+                "id": 13442,
+                "topic": "Paradise: <i>Jannah</i>: believers who do good works will enter",
+                "verses": "2:26, 2:83, 3:199, 4:58, 4:123, 4:125, 7:43, 10:10, 11:24, 14:24, 15:46, 16:31-32, 18:108, 19:61, 19:64, 20:76-77, 22:15, 22:24, 22:57, 25:16, 29:59, 31:9, 32:20, 38:50-51, 40:41, 42:23, 44:52-53, 47:13, 51:16, 54:55, 64:10, 65:12, 68:35, 85:12, 89:29-31, 98:8-9"
+            },
+            {
+                "id": 13493,
+                "topic": "Paradise: <i>Jannah</i>: description of",
+                "verses": "76:12-23, 2:26, 3:134, 7:43-44, 9:72, 13:25, 13:36, 15:46-49, 16:31-32, 18:32, 18:108-109, 19:62-63, 22:24, 25:17, 25:25, 25:76-77, 29:59, 34:38, 35:34-36, 36:56-60, 37:41-50, 38:50-53, 39:21, 39:35, 40:41, 41:32, 42:23-28, 43:71-74, 44:52-56, 47:16, 50:36, 52:23, 52:24, 52:28, 55:47-78, 56:13-38, 57:22, 65:12, 69:22-25, 76:6-7, 77:42-43, 78:32-37, 83:25-29, 88:11-17"
+            },
+            {
+                "id": 15857,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 78:32-37, 83:23, 98:8"
+            }
+        ],
+        "ar": "فَاَمَّا الَّذِیۡنَ اٰمَنُوۡا وَ عَمِلُوا  الصّٰلِحٰتِ فَہُمۡ  فِیۡ رَوۡضَۃٍ  یُّحۡبَرُوۡنَ ﴿۱۶﴾ ",
+        "ur": "پس وہ لوگ جو ایمان لائے اور نیک اعمال بجا لائے ایک باغ میں انہیں خوشیوں کے سامان مہیا کئے جائیں گے۔",
+        "v5": {
+            "text": "Then as to those [a]who believed and did good works, they will be honoured and made happy in a stately garden.[3000]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "4:176; 13:30; 14:24; 22:57; 42:23; 68:35."
+                },
+                {
+                    "ref": "3000",
+                    "note": "<p><strong>Important Words:</strong></p><p>یحبرون (they will be honoured and made happy) is formed from حبر. They say حبر الشیء i.e. he made the thing beautiful or adorned it or embellished it and made it plain. أحبرت الارض means, the herbage of the earth grew large. حبرہ means, he or it made him happy, joyful or glad; it affected him with happiness that made his face shine; he treated him with honour or with extraordinary honour (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>How through Islam the Arabs rose from the lowest depths of degradation to the highest pinnacles of spiritual and material glory and eminence is writ large on the face of history.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 17,
+        "v_": 16,
+        "topics": [
+            {
+                "id": 984,
+                "topic": "Afterlife: <i>Akhirah</i>: punishment for <i>Kuffar</i> in",
+                "verses": "3:57, 2:218, 17:11, 23:75, 27:5-6, 34:9, 35:8"
+            },
+            {
+                "id": 1978,
+                "topic": "Allah: meeting with, <i>Liqa’</i>",
+                "verses": "25:22, 6:32, 7:148, 10:8, 10:12, 10:46, 11:30, 18:106, 18:111, 29:6, 29:24, 30:9, 32:11, 84:7"
+            },
+            {
+                "id": 6041,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: rejection of",
+                "verses": "37:21, 4:137, 6:32, 7:46, 7:148, 11:20, 16:23, 16:61, 17:11, 23:75, 25:12, 27:5-6, 34:9, 41:8, 83:11-12"
+            }
+        ],
+        "ar": "وَ اَمَّا الَّذِیۡنَ کَفَرُوۡا وَ کَذَّبُوۡا بِاٰیٰتِنَا وَ لِقَآیِٔ الۡاٰخِرَۃِ  فَاُولٰٓئِکَ فِی الۡعَذَابِ مُحۡضَرُوۡنَ ﴿۱۷﴾ ",
+        "ur": "اور وہ لوگ جنہوں نے انکار کیا اور ہماری آیات کو اور آخرت کی ملاقات کو جھٹلایا۔ پس یہی وہ لوگ ہیں جو عذاب میں حاضر کئے جائیں گے۔",
+        "v5": {
+            "text": "But as for those [b]who disbelieved and rejected Our Signs and the meeting of the Hereafter, these will be brought forth in punishment.",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "2:40; 7:37; 57:20; 64:11; 78:22-29."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 18,
+        "v_": 17,
+        "topics": [
+            {
+                "id": 761,
+                "topic": "Adoration: <i>Sabbih</i>, Praise, Exalt, Pray, Glorify: Glory be to Allah",
+                "verses": "12:109, 2:33, 2:117, 3:192, 4:172, 5:117, 6:101, 7:144, 9:31, 10:11, 10:19, 10:69, 16:2, 16:58, 17:2, 17:44, 17:94, 17:109, 19:36, 21:23, 21:27, 21:88, 23:92, 24:17, 25:19, 27:9, 28:69, 30:41, 34:42, 36:37, 36:84, 37:160, 37:181, 39:5, 39:68, 43:83, 52:44, 59:24, 68:30"
+            },
+            {
+                "id": 16110,
+                "topic": "Salah: timing of",
+                "verses": "2:190, 2:239, 4:104, 7:206, 11:115, 20:131, 50:40, 52:49-50, 76:26-27"
+            }
+        ],
+        "ar": "فَسُبۡحٰنَ اللّٰہِ  حِیۡنَ تُمۡسُوۡنَ وَ حِیۡنَ تُصۡبِحُوۡنَ ﴿۱۸﴾ ",
+        "ur": "پس اللہ (ہر حال میں) پاک ہے اُس وقت بھی جب تم شام میں داخل ہوتے ہو اور اس وقت بھی جب تم صبح کرتے ہو۔",
+        "v5": {
+            "text": "[c]So glorify Allah when you enter the evening and when you enter the morning—",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "17:79; 20:131; 50:40."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 19,
+        "v_": 18,
+        "topics": [
+            {
+                "id": 16110,
+                "topic": "Salah: timing of",
+                "verses": "2:190, 2:239, 4:104, 7:206, 11:115, 20:131, 50:40, 52:49-50, 76:26-27"
+            }
+        ],
+        "ar": "وَ لَہُ الۡحَمۡدُ فِی السَّمٰوٰتِ وَ الۡاَرۡضِ وَ عَشِیًّا وَّ  حِیۡنَ  تُظۡہِرُوۡنَ ﴿۱۹﴾ ",
+        "ur": "اور سب تعریف اُسی کی ہے آسمانوں میں بھی اور زمین میں بھی، اور رات کو بھی اور اس وقت بھی جب تم دوپہر گزارتے ہو۔",
+        "v5": {
+            "text": "And to Him belongs all praise in the heavens and the earth—and <i>glorify Him</i> in the afternoon and when you enter upon the time of the decline of the sun.[3001]",
+            "notes": [
+                {
+                    "ref": "3001",
+                    "note": "<p><strong>Commentary:</strong></p><p>After one reflects over the sublime purpose of man’s creation and on how a people sunk deep in moral bankruptcy rose to the heights of spiritual glory, as did the Arabs by following the Holy Prophet, one is bound involuntarily to exclaim \"glory be to Allah, the Great Creator of heavens and earth and all that is between them.\"</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 20,
+        "v_": 19,
+        "topics": [
+            {
+                "id": 2310,
+                "topic": "Allah: signs of, <i>Ayatullah</i>",
+                "verses": "2:165, 2:212, 3:50, 4:141, 5:3, 6:5, 6:47, 6:127, 7:41, 7:134, 7:204, 10:6-8, 10:16, 10:18, 10:21-22, 10:25, 13:28, 16:66, 17:13, 17:102, 20:43, 20:48, 20:54-57, 20:73, 27:13, 28:37, 31:32, 36:34-43, 36:47, 41:38-41, 42:30, 42:33-36, 45:7, 51:38"
+            },
+            {
+                "id": 6161,
+                "topic": "Dead, Death: <i>Maut</i>: God restores to life",
+                "verses": "2:260-261, 2:57, 2:74, 2:244, 6:37, 8:25, 8:43, 22:7, 22:67, 26:82, 30:25, 30:51, 36:13, 36:34, 40:12, 41:40, 42:10, 43:12, 46:34, 50:12, 75:41"
+            },
+            {
+                "id": 6900,
+                "topic": "Earth: <i>Al-Ard</i>: Allah bestows life to dead",
+                "verses": "22:6, 2:165, 16:66, 29:64, 30:25, 30:51, 35:10, 36:34, 39:22, 41:40, 45:6, 46:34, 57:18"
+            },
+            {
+                "id": 10582,
+                "topic": "Living: <i>Hayy</i>",
+                "verses": "36:71, 3:28, 6:96, 10:32, 19:16, 19:32, 19:34, 19:67, 21:31"
+            }
+        ],
+        "ar": "یُخۡرِجُ  الۡحَیَّ مِنَ الۡمَیِّتِ وَ یُخۡرِجُ الۡمَیِّتَ مِنَ الۡحَیِّ  وَ یُحۡیِ الۡاَرۡضَ بَعۡدَ مَوۡتِہَا ؕ وَ کَذٰلِکَ  تُخۡرَجُوۡنَ ﴿٪۲۰﴾ ",
+        "ur": "وہ مُردہ سے زندہ کو نکالتا ہے اور زندہ سے مُردہ کو نکالتا ہے اور زمین کو اس کی موت کے بعد زندہ کر دیتا ہے اور اسی طرح تم بھی نکالے جاؤ گے۔",
+        "v5": {
+            "text": "[d]He brings forth the living from the dead, and He brings forth the dead from the living; and He gives life to the earth after its death. And in like manner shall you be brought forth.[3001A]",
+            "notes": [
+                {
+                    "ref": "d",
+                    "note": "6:96; 10:32."
+                },
+                {
+                    "ref": "3001A",
+                    "note": "<p><strong>Commentary:</strong></p><p>The present verse sums up the subject matter of the foregoing verses and points to the conclusion that a people who intellectually, morally and spiritually were as good as dead, by acting upon the teaching of the Quran not only became the teachers of mankind in physical sciences but became also its moral and spiritual preceptors. This phenomenon of the coming to life of a dead people is witnessed in the time of every Prophet and Divine Reformer and serves as a great proof in support of life after death.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 21,
+        "v_": 20,
+        "topics": [
+            {
+                "id": 1356,
+                "topic": "Allah: created you",
+                "verses": "30:41, 2:22, 2:30, 4:2, 6:103, 7:190, 13:17, 15:29, 15:86, 16:73, 20:56, 21:17, 21:34, 23:13-15, 23:18, 24:46, 27:65, 35:4, 36:37, 38:72, 39:7, 41:10, 43:13, 46:4, 50:17, 53:46, 55:4, 55:15-16, 59:25, 67:3, 71:15, 87:3, 92:4, 96:3"
+            },
+            {
+                "id": 1523,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 31:11-12, 45:3-7, 87:2-6"
+            },
+            {
+                "id": 2310,
+                "topic": "Allah: signs of, <i>Ayatullah</i>",
+                "verses": "2:165, 2:212, 3:50, 4:141, 5:3, 6:5, 6:47, 6:127, 7:41, 7:134, 7:204, 10:6-8, 10:16, 10:18, 10:21-22, 10:25, 13:28, 16:66, 17:13, 17:102, 20:43, 20:48, 20:54-57, 20:73, 27:13, 28:37, 31:32, 36:34-43, 36:47, 41:38-41, 42:30, 42:33-36, 45:7, 51:38"
+            },
+            {
+                "id": 4131,
+                "topic": "Bashr: mortal",
+                "verses": "25:55, 3:48, 5:19, 6:92, 16:44, 18:111, 19:18, 19:21, 19:27, 21:35, 42:52, 74:30, 74:32, 74:37"
+            },
+            {
+                "id": 4153,
+                "topic": "Bashr: mortal: created from clay",
+                "verses": "25:55, 3:60, 15:29, 15:34, 18:38, 22:6, 35:12, 38:72, 40:68"
+            },
+            {
+                "id": 5406,
+                "topic": "Creation: <i>Khalq</i>: from dust",
+                "verses": "3:60, 18:38, 22:6, 35:12, 40:68"
+            },
+            {
+                "id": 10781,
+                "topic": "Man: creation of",
+                "verses": "23:13-15, 3:7, 3:60, 4:2, 6:3, 7:12-13, 15:27, 15:29-30, 15:34, 16:5, 18:38, 22:6, 25:55, 32:8-10, 35:12, 36:78, 37:12, 38:72, 39:7, 40:68, 49:14, 53:47, 55:15, 71:15, 71:18, 75:38-40, 76:3, 77:21-24, 86:7, 87:3, 95:5-6, 96:3"
+            },
+            {
+                "id": 16706,
+                "topic": "Signs: of creation",
+                "verses": "2:165, 3:191, 6:98, 6:100, 7:59, 10:6-7, 10:68, 13:3, 13:5, 20:54-55, 21:33, 41:38, 41:40, 42:30, 45:4, 45:6"
+            },
+            {
+                "id": 16723,
+                "topic": "Signs: of Divine existence",
+                "verses": null
+            }
+        ],
+        "ar": "وَ مِنۡ اٰیٰتِہٖۤ  اَنۡ خَلَقَکُمۡ  مِّنۡ تُرَابٍ ثُمَّ اِذَاۤ   اَنۡتُمۡ  بَشَرٌ  تَنۡتَشِرُوۡنَ ﴿۲۱﴾ ",
+        "ur": "اور اس کے نشانات میں سے (ایک یہ بھی) ہے کہ اس نے تمہیں مٹی سے پیدا کیا۔ پھر (گویا) اچانک تم بشر بن کر پھیلتے چلے گئے۔",
+        "v5": {
+            "text": "And <i>one</i> of His Signs is that He created you from dust; then, behold, you are men spreading <i>over the earth</i>.[3002]",
+            "notes": [
+                {
+                    "ref": "3002",
+                    "note": "<p><strong>Important Words:</strong></p><p>بشر (men) is derived from بشر (<i>bashara</i>). They say بشر الجراد الارض i.e. the locusts ate altogether what was upon the surface of the earth so as to lay bare its surface. بشرہ (<i>bashshara-hu</i>) means, he announced to him a news which produced a change in his complexion or revealed his emotions. Man is called بشر because he is possessed of strong emotions and because of all living things his body is most exposed to outer influences (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The raising of the dead to life in the next life or of a morally and spiritually dead people to a new life in this world, as is stated above, forms the central theme of the <i>Surah</i> under comment. Some aspects of this very important subject have been dealt with in the foregoing verses. The present and the next six verses deal with some more aspects. They refer to some unmistakable signs which prove and establish God’s existence and point to His great power and control over life and death. These signs fall under two categories: (a) signs that appear from God and lead men to God and (b) all those natural phenomena which establish man’s faith in God or which prove God’s existence and Almightiness.</p><p>In the present verse we have, \"He created you from dust\" (تراب), while elsewhere man is stated to have been created from طین i.e. clay (6:3; 17:62; 23:13; 32:8; 37:12; 38:72). In fact man’s creation from dust or dry earth in this verse refers to a stage of man’s creation which preceded his formation from clay, or it refers to man’s food which is derived from earth and from which human body derives its sustenance. Three arguments have been given in this verse to prove God’s existence: (a) God has created man from dust which apparently has no relation to life and does not possess the attribute to produce it: (b) He has not only created man but has endowed him with very subtle emotions and has implanted in his nature a yearning and craving to advance and make progress and has bestowed upon him the aptitudes and capabilities to achieve the object of his desire; and (c) He has placed in man the desire to spread about and dominate the world and has given him the necessary powers and attributes for the achievement of this great object. All these facts lead to the irresistible conclusion that there is an Almighty Creator and that He has created man for the achievement of a sublime purpose. Man would not have been endowed with such marvellous capabilities and powers if his life had been confined to the limited and uncertain existence on this planet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 22,
+        "v_": 21,
+        "topics": [
+            {
+                "id": 1356,
+                "topic": "Allah: created you",
+                "verses": "30:41, 2:22, 2:30, 4:2, 6:103, 7:190, 13:17, 15:29, 15:86, 16:73, 20:56, 21:17, 21:34, 23:13-15, 23:18, 24:46, 27:65, 35:4, 36:37, 38:72, 39:7, 41:10, 43:13, 46:4, 50:17, 53:46, 55:4, 55:15-16, 59:25, 67:3, 71:15, 87:3, 92:4, 96:3"
+            },
+            {
+                "id": 1523,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 31:11-12, 45:3-7, 87:2-6"
+            },
+            {
+                "id": 1940,
+                "topic": "Allah: made for you mates",
+                "verses": "16:73, 4:2, 7:190, 35:12, 36:37, 39:7, 42:12, 43:13, 51:50, 53:46, 75:40, 78:9, 92:4"
+            },
+            {
+                "id": 2310,
+                "topic": "Allah: signs of, <i>Ayatullah</i>",
+                "verses": "2:165, 2:212, 3:50, 4:141, 5:3, 6:5, 6:47, 6:127, 7:41, 7:134, 7:204, 10:6-8, 10:16, 10:18, 10:21-22, 10:25, 13:28, 16:66, 17:13, 17:102, 20:43, 20:48, 20:54-57, 20:73, 27:13, 28:37, 31:32, 36:34-43, 36:47, 41:38-41, 42:30, 42:33-36, 45:7, 51:38"
+            },
+            {
+                "id": 5218,
+                "topic": "Concubinage",
+                "verses": "4:4, 2:222, 4:25-26, 7:190, 24:33"
+            },
+            {
+                "id": 5257,
+                "topic": "Conjugal Relation",
+                "verses": "2:224, 2:229, 4:35"
+            },
+            {
+                "id": 11042,
+                "topic": "Marriage: cohabitation in, <i>Nikah</i>",
+                "verses": "2:224, 2:188, 2:222, 2:223, 2:225-238, 4:20-26, 4:128, 5:6, 7:190, 16:73, 23:6-7, 24:33-34, 33:5, 58:2-6, 65:2-8"
+            },
+            {
+                "id": 15394,
+                "topic": "Reflect: ponder, <i>Tafakkur</i>",
+                "verses": "30:9, 2:220, 2:267, 4:83, 6:51, 7:177, 10:25, 13:4, 16:12, 16:45, 16:70, 27:63, 28:44, 32:5, 34:47, 38:30, 39:43, 40:59, 45:14, 47:25, 51:50, 56:63, 59:22"
+            },
+            {
+                "id": 16706,
+                "topic": "Signs: of creation",
+                "verses": "2:165, 3:191, 6:98, 6:100, 7:59, 10:6-7, 10:68, 13:3, 13:5, 20:54-55, 21:33, 41:38, 41:40, 42:30, 45:4, 45:6"
+            },
+            {
+                "id": 17183,
+                "topic": "Spouse: <i>Zauj</i>: mate",
+                "verses": "2:26, 4:2, 2:36, 2:103, 2:231, 2:233, 2:235, 2:241, 4:13, 4:21, 7:20, 7:190, 13:39, 16:73, 20:118, 21:91, 23:6-7, 24:7, 25:75, 26:167, 33:5, 33:7, 33:29, 33:38, 33:53, 33:60, 36:57, 39:7, 58:2, 60:12, 64:15, 66:2, 66:4, 66:6"
+            },
+            {
+                "id": 18753,
+                "topic": "Wives",
+                "verses": "2:188, 2:206, 2:224, 4:4-5, 4:22-26, 4:35, 4:128-131, 13:39, 23:7, 24:7, 33:5, 64:15, 70:30-31"
+            }
+        ],
+        "ar": "وَ مِنۡ اٰیٰتِہٖۤ  اَنۡ خَلَقَ لَکُمۡ مِّنۡ اَنۡفُسِکُمۡ اَزۡوَاجًا لِّتَسۡکُنُوۡۤا اِلَیۡہَا وَ جَعَلَ بَیۡنَکُمۡ  مَّوَدَّۃً  وَّ رَحۡمَۃً ؕ اِنَّ  فِیۡ ذٰلِکَ لَاٰیٰتٍ  لِّقَوۡمٍ  یَّتَفَکَّرُوۡنَ  ﴿۲۲﴾ ",
+        "ur": "اور اس کے نشانات میں سے (یہ بھی) ہے کہ اس نے تمہارے لئے تمہاری ہی جنس میں سے جوڑے بنائے تاکہ تم اُن کی طرف تسکین (حاصل کرنے) کے لئے جاؤ اور اس نے تمہارے درمیان محبت اور رحمت پیدا کر دی۔ یقیناً اس میں ایسی قوم کے لئے جو غوروفکر کرتے ہیں بہت سے نشانات ہیں۔",
+        "v5": {
+            "text": "And <i>one</i> of His Signs is that [a]He has created wives for you from among yourselves that you may find peace of mind in them, and He has put love and tenderness between you. In that surely are Signs for a people who reflect.[3003]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "4:2; 7:190; 16:73; 39:7."
+                },
+                {
+                    "ref": "3003",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse gives another argument to prove the existence of God and of life beyond the grave, viz. that God has created a pair—man and woman—and has engendered love between them. This leads to procreation and continuity of human life on earth. This continuity of life shows a design and a purpose behind it and thus it proves the existence of a Designer and a better and fuller life after the life on this earth.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 23,
+        "v_": 22,
+        "topics": [
+            {
+                "id": 1322,
+                "topic": "Allah: created Heavens and earth",
+                "verses": "41:10-13, 2:165, 3:191, 6:2, 7:55, 10:4, 10:7, 11:8, 14:33, 25:3, 25:60, 29:62, 31:11, 32:5, 35:4, 38:28, 39:63, 40:63, 43:10, 44:39, 46:4, 50:7-8, 50:39, 57:5, 65:13, 67:4, 71:16-18"
+            },
+            {
+                "id": 1523,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 31:11-12, 45:3-7, 87:2-6"
+            },
+            {
+                "id": 2310,
+                "topic": "Allah: signs of, <i>Ayatullah</i>",
+                "verses": "2:165, 2:212, 3:50, 4:141, 5:3, 6:5, 6:47, 6:127, 7:41, 7:134, 7:204, 10:6-8, 10:16, 10:18, 10:21-22, 10:25, 13:28, 16:66, 17:13, 17:102, 20:43, 20:48, 20:54-57, 20:73, 27:13, 28:37, 31:32, 36:34-43, 36:47, 41:38-41, 42:30, 42:33-36, 45:7, 51:38"
+            },
+            {
+                "id": 5151,
+                "topic": "Colours",
+                "verses": "35:28-29, 16:14, 16:70, 39:22, 55:65"
+            },
+            {
+                "id": 6971,
+                "topic": "Earth: <i>Al-Ard</i>: creation of the",
+                "verses": "67:16, 3:191, 6:74, 7:55, 10:4, 11:8, 14:20, 14:33, 20:5, 21:31, 22:19, 25:60, 29:45, 29:62, 32:5, 35:2, 36:82, 38:28, 39:6, 40:58, 41:10-12, 62:2, 64:4, 65:13, 79:31-34, 84:4"
+            },
+            {
+                "id": 7001,
+                "topic": "Earth: <i>Al-Ard</i>: creations on",
+                "verses": "15:20, 2:165, 2:169, 3:84, 3:191, 6:39, 10:24, 10:67, 13:16, 16:16, 16:50, 21:20, 21:32, 22:66, 23:80, 26:8, 27:83, 31:11, 31:21, 45:14, 50:8, 64:4, 71:18"
+            },
+            {
+                "id": 8572,
+                "topic": "Heaven: <i>Sama’</i>: creation of",
+                "verses": "41:12-13, 2:30, 2:118, 2:165, 3:192, 6:2, 6:74, 7:55, 9:36, 10:4, 11:8, 14:20, 15:86, 16:4, 17:100, 21:17, 21:31, 25:60, 29:45, 31:26, 32:5, 36:82, 39:6, 39:39, 40:58, 42:30, 43:10, 44:39, 45:23, 46:4, 46:34, 50:39, 51:48, 57:5, 65:13, 67:4, 71:16, 79:28"
+            },
+            {
+                "id": 10364,
+                "topic": "Language: <i>Lisan</i>",
+                "verses": "14:5, 16:104, 19:98, 26:195-196, 28:35, 44:59, 46:13"
+            },
+            {
+                "id": 16706,
+                "topic": "Signs: of creation",
+                "verses": "2:165, 3:191, 6:98, 6:100, 7:59, 10:6-7, 10:68, 13:3, 13:5, 20:54-55, 21:33, 41:38, 41:40, 42:30, 45:4, 45:6"
+            },
+            {
+                "id": 17711,
+                "topic": "Tongue: <i>Lisan</i>",
+                "verses": "5:79, 3:79, 4:47, 7:177, 16:63, 16:104, 16:117, 19:51, 19:98, 20:28, 24:16, 24:25, 26:14, 26:85, 26:196, 33:20, 41:45, 42:8, 44:59, 48:12, 60:3, 75:17, 90:10"
+            },
+            {
+                "id": 18151,
+                "topic": "Universe: creation of",
+                "verses": "7:55, 2:23, 2:118, 21:31, 21:34, 30:26, 32:5, 36:39-41, 41:12-13, 51:48, 55:6, 55:8, 67:4-6"
+            }
+        ],
+        "ar": "وَ مِنۡ اٰیٰتِہٖ خَلۡقُ السَّمٰوٰتِ وَ الۡاَرۡضِ وَ اخۡتِلَافُ اَلۡسِنَتِکُمۡ وَ اَلۡوَانِکُمۡ ؕ اِنَّ فِیۡ ذٰلِکَ  لَاٰیٰتٍ  لِّلۡعٰلِمِیۡنَ ﴿۲۳﴾ ",
+        "ur": "اور اس کے نشانات میں سے آسمانوں اور زمین کی پیدائش ہے اور تمہاری زبانوں اور رنگوں کے اختلاف بھی۔ یقیناً اس میں عالموں کے لئے بہت سے نشانات ہیں۔",
+        "v5": {
+            "text": "[b]And of His Signs is the creation of the heavens and the earth, and the diversity of your tongues and colours. In that surely are Signs for those who possess knowledge.[3004]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "42:30."
+                },
+                {
+                    "ref": "3004",
+                    "note": "<p><strong>Commentary:</strong></p><p>Human progress and advancement is closely connected with the diversity of tongues and colours. This diversity again points to a design and a Designer. That Designer is the Creator of heavens and earth.</p><p>Underneath the diversity of tongues and colours which has resulted in diversity of civilizations and cultures there lies a unity—the unity of mankind. This oneness of humanity leads to the inevitable conclusion of the Oneness of its Creator.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 24,
+        "v_": 23,
+        "topics": [
+            {
+                "id": 1523,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 31:11-12, 45:3-7, 87:2-6"
+            },
+            {
+                "id": 2310,
+                "topic": "Allah: signs of, <i>Ayatullah</i>",
+                "verses": "2:165, 2:212, 3:50, 4:141, 5:3, 6:5, 6:47, 6:127, 7:41, 7:134, 7:204, 10:6-8, 10:16, 10:18, 10:21-22, 10:25, 13:28, 16:66, 17:13, 17:102, 20:43, 20:48, 20:54-57, 20:73, 27:13, 28:37, 31:32, 36:34-43, 36:47, 41:38-41, 42:30, 42:33-36, 45:7, 51:38"
+            },
+            {
+                "id": 4717,
+                "topic": "Bounty: seek Allah’s",
+                "verses": "62:11, 5:3, 16:15, 17:13, 17:67, 35:13, 45:13, 59:9, 73:21"
+            },
+            {
+                "id": 13000,
+                "topic": "Night: for rest",
+                "verses": "6:97, 10:68, 27:87, 28:74, 40:62, 41:38-9"
+            },
+            {
+                "id": 16706,
+                "topic": "Signs: of creation",
+                "verses": "2:165, 3:191, 6:98, 6:100, 7:59, 10:6-7, 10:68, 13:3, 13:5, 20:54-55, 21:33, 41:38, 41:40, 42:30, 45:4, 45:6"
+            },
+            {
+                "id": 16936,
+                "topic": "Sleep: <i>Naum</i>",
+                "verses": "3:56, 2:256, 3:155, 6:97, 25:48, 39:43, 78:10"
+            }
+        ],
+        "ar": "وَ مِنۡ اٰیٰتِہٖ مَنَامُکُمۡ بِالَّیۡلِ وَ النَّہَارِ وَ ابۡتِغَآؤُکُمۡ  مِّنۡ فَضۡلِہٖ ؕ اِنَّ فِیۡ  ذٰلِکَ لَاٰیٰتٍ لِّقَوۡمٍ  یَّسۡمَعُوۡنَ ﴿۲۴﴾ ",
+        "ur": "اور اس کے نشانات میں سے تمہارا رات کو اور دن کو سونا ہے اور تمہارا اس کے فضل کی جستجو کرنا بھی۔  یقیناً اس میں ان لوگوں کے لئے بہت سے نشانات ہیں جو (بات) سنتے ہیں۔",
+        "v5": {
+            "text": "[a]And among His Signs is your sleep by night and day, and your seeking of His bounty. In that surely are Signs for a people who hear.[3005]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "10:68; 27:87; 28:74."
+                },
+                {
+                    "ref": "3005",
+                    "note": "<p><strong>Commentary:</strong></p><p>The alternation of day and night provides one more evidence of the wisdom and intelligence underlying the creation of the universe. Normally man works by day, and needs rest at night to replenish his tired and jaded faculties.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 25,
+        "v_": 24,
+        "topics": [
+            {
+                "id": 1523,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 31:11-12, 45:3-7, 87:2-6"
+            },
+            {
+                "id": 2310,
+                "topic": "Allah: signs of, <i>Ayatullah</i>",
+                "verses": "2:165, 2:212, 3:50, 4:141, 5:3, 6:5, 6:47, 6:127, 7:41, 7:134, 7:204, 10:6-8, 10:16, 10:18, 10:21-22, 10:25, 13:28, 16:66, 17:13, 17:102, 20:43, 20:48, 20:54-57, 20:73, 27:13, 28:37, 31:32, 36:34-43, 36:47, 41:38-41, 42:30, 42:33-36, 45:7, 51:38"
+            },
+            {
+                "id": 6162,
+                "topic": "Dead, Death: <i>Maut</i>: God restores to life",
+                "verses": "2:260-261, 2:57, 2:74, 2:244, 6:37, 8:25, 8:43, 22:7, 22:67, 26:82, 30:20, 30:51, 36:13, 36:34, 40:12, 41:40, 42:10, 43:12, 46:34, 50:12, 75:41"
+            },
+            {
+                "id": 6901,
+                "topic": "Earth: <i>Al-Ard</i>: Allah bestows life to dead",
+                "verses": "22:6, 2:165, 16:66, 29:64, 30:20, 30:51, 35:10, 36:34, 39:22, 41:40, 45:6, 46:34, 57:18"
+            },
+            {
+                "id": 7492,
+                "topic": "Fear: <i>Khauf</i>",
+                "verses": "106:5, 2:39, 2:63, 2:113, 2:156, 2:263, 2:275, 2:278, 3:171, 5:70, 6:49, 6:52, 7:36, 7:50, 7:57, 7:206, 10:63, 12:58, 13:13, 13:22, 16:51, 17:58, 24:38, 32:17, 43:69, 46:14, 74:54, 76:8"
+            },
+            {
+                "id": 16706,
+                "topic": "Signs: of creation",
+                "verses": "2:165, 3:191, 6:98, 6:100, 7:59, 10:6-7, 10:68, 13:3, 13:5, 20:54-55, 21:33, 41:38, 41:40, 42:30, 45:4, 45:6"
+            },
+            {
+                "id": 18479,
+                "topic": "Water: <i>Ma’</i>: sent from heaven",
+                "verses": "16:11-12, 2:23, 2:165, 6:100, 7:58, 8:12, 10:25, 13:18, 14:33, 15:23, 16:66, 18:46, 22:6, 22:64, 23:19, 27:61, 32:28, 35:28, 37:68, 38:58, 39:22, 41:40, 43:12, 50:10, 55:45, 78:15, 88:6"
+            }
+        ],
+        "ar": "وَ مِنۡ  اٰیٰتِہٖ  یُرِیۡکُمُ الۡبَرۡقَ خَوۡفًا وَّ طَمَعًا وَّ  یُنَزِّلُ مِنَ السَّمَآءِ  مَآءً  فَیُحۡیٖ بِہِ الۡاَرۡضَ بَعۡدَ مَوۡتِہَا ؕ اِنَّ فِیۡ  ذٰلِکَ لَاٰیٰتٍ  لِّقَوۡمٍ  یَّعۡقِلُوۡنَ ﴿۲۵﴾ ",
+        "ur": "اور اس کے نشانات میں سے ہے کہ وہ تمہیں بجلی دکھاتا ہے خوف اور امید کی حالت میں اور بادل سے پانی اُتارتا ہے۔ پس اس کے ذریعہ زمین کو اس کی موت کے بعد زندہ کر دیتا ہے۔ یقیناً اس میں عقل رکھنے والے لوگوں کے لئے بہت سے نشانات ہیں۔",
+        "v5": {
+            "text": "And <i>one</i> of His Signs is that [b]He shows you the lightning as <i>a source of</i> fear and hope, [c]and He sends down water from the sky, and quickens therewith the earth after its death. In that surely are Signs for a people who understand.[3006]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "13:13."
+                },
+                {
+                    "ref": "c",
+                    "note": "40:14; 42:29."
+                },
+                {
+                    "ref": "3006",
+                    "note": "<p><strong>Commentary:</strong></p><p>A part from the fact that lightning heralds rain which brings fertility and prosperity in its wake, it kills germs of many different diseases and eliminates worms that destroy crops. So, lightning not only causes fear but is also a source of manifold benefits to man. Every element of nature plays its allotted part in the divine scheme of things, thus bearing testimony to God’s existence, His great wisdom and power.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 26,
+        "v_": 25,
+        "topics": [
+            {
+                "id": 1523,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 31:11-12, 45:3-7, 87:2-6"
+            },
+            {
+                "id": 2310,
+                "topic": "Allah: signs of, <i>Ayatullah</i>",
+                "verses": "2:165, 2:212, 3:50, 4:141, 5:3, 6:5, 6:47, 6:127, 7:41, 7:134, 7:204, 10:6-8, 10:16, 10:18, 10:21-22, 10:25, 13:28, 16:66, 17:13, 17:102, 20:43, 20:48, 20:54-57, 20:73, 27:13, 28:37, 31:32, 36:34-43, 36:47, 41:38-41, 42:30, 42:33-36, 45:7, 51:38"
+            },
+            {
+                "id": 13968,
+                "topic": "Planets",
+                "verses": "13:3, 15:17, 21:33"
+            },
+            {
+                "id": 16706,
+                "topic": "Signs: of creation",
+                "verses": "2:165, 3:191, 6:98, 6:100, 7:59, 10:6-7, 10:68, 13:3, 13:5, 20:54-55, 21:33, 41:38, 41:40, 42:30, 45:4, 45:6"
+            },
+            {
+                "id": 16942,
+                "topic": "Solar System",
+                "verses": "36:41, 2:190, 21:31-34, 36:40, 41:13, 55:6, 65:13, 67:4-5, 75:10, 78:13, 79:28-31, 91:2-7"
+            },
+            {
+                "id": 18152,
+                "topic": "Universe: creation of",
+                "verses": "7:55, 2:23, 2:118, 21:31, 21:34, 30:23, 32:5, 36:39-41, 41:12-13, 51:48, 55:6, 55:8, 67:4-6"
+            }
+        ],
+        "ar": "وَ مِنۡ اٰیٰتِہٖۤ  اَنۡ  تَقُوۡمَ السَّمَآءُ وَ الۡاَرۡضُ بِاَمۡرِہٖ ؕ ثُمَّ  اِذَا دَعَاکُمۡ دَعۡوَۃً ٭ۖ مِّنَ  الۡاَرۡضِ ٭ۖ اِذَاۤ  اَنۡتُمۡ تَخۡرُجُوۡنَ ﴿۲۶﴾ ",
+        "ur": "اور اس کے نشانات میں سے (یہ بھی) ہے کہ آسمان اور زمین اس کے حکم کے ساتھ قائم ہیں۔ پھر جب وہ تمہیں زمین سے ایک آواز دے گا تو اچانک تم نکل کھڑے ہو گے۔",
+        "v5": {
+            "text": "[d]And among His Signs is that the heaven and earth stand <i>firm</i> by His command. Then when He calls you <i>by</i> a call <i>coming</i> from the earth, behold, you will come forth.[3007]",
+            "notes": [
+                {
+                    "ref": "d",
+                    "note": "22:66; 35:42."
+                },
+                {
+                    "ref": "3007",
+                    "note": "<p><strong>Commentary:</strong></p><p>At another place in the Quran we have: \"Who raised up the heavens without any pillars that you can see\" (13:3). Long ages have passed since this solar system came into being, yet nothing has gone wrong with it. Such is God’s handiwork that stars keep their orbits without any visible support. The law of gravitation which is supposed to keep them in their respective positions was discovered long afterwards. This fact too points to God’s great powers and control over the universe. See also 13:3.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 27,
+        "v_": 26,
+        "topics": [
+            {
+                "id": 1181,
+                "topic": "Allah: alone worthy of sincere obedience",
+                "verses": "39:4"
+            },
+            {
+                "id": 1523,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 31:11-12, 45:3-7, 87:2-6"
+            },
+            {
+                "id": 6932,
+                "topic": "Earth: <i>Al-Ard</i>: Allah’s dominion extends over the",
+                "verses": "2:256, 2:108, 2:117, 2:285, 3:110, 3:130, 3:181, 3:190, 4:132, 4:170, 5:18, 5:121, 6:13, 6:80, 7:129, 7:159, 16:50, 16:53, 23:85, 24:42, 24:65, 25:3, 31:27, 34:2, 39:45, 42:5, 45:28, 48:15"
+            },
+            {
+                "id": 16706,
+                "topic": "Signs: of creation",
+                "verses": "2:165, 3:191, 6:98, 6:100, 7:59, 10:6-7, 10:68, 13:3, 13:5, 20:54-55, 21:33, 41:38, 41:40, 42:30, 45:4, 45:6"
+            }
+        ],
+        "ar": "وَ لَہٗ مَنۡ فِی  السَّمٰوٰتِ  وَ الۡاَرۡضِ ؕ کُلٌّ لَّہٗ   قٰنِتُوۡنَ ﴿۲۷﴾ ",
+        "ur": "اور اسی کا ہے جو آسمانوں اور زمین میں ہے سب اسی کے فرمانبردار ہیں۔",
+        "v5": {
+            "text": "[a]And to Him belongs whosoever is in the heavens and the earth. All are obedient to Him.[3008]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "16:53; 20:7; 21:20; 22:65."
+                },
+                {
+                    "ref": "3008",
+                    "note": "<p><strong>Commentary:</strong></p><p>It is beyond human ken or comprehension to guess when this great universe came into being. From an unknown and untraced past the sun with all the planets and heavenly bodies has travelled on its appointed course with a regularity and uniformity that have known no flaw or fault. There are millions of these satellites and yet they never come into collision, so perfect and consummate is the law and order that governs the universe. This seems to be the meaning of the words. \"All are obedient to Him.\"</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 28,
+        "v_": 27,
+        "topics": [
+            {
+                "id": 1523,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 31:11-12, 45:3-7, 87:2-6"
+            },
+            {
+                "id": 3097,
+                "topic": "Attributes of Allah: Al-Badi‘ (The Originator)",
+                "verses": "2:118, 6:102, 10:5, 10:35, 21:105, 27:65, 29:20, 30:12, 85:14"
+            },
+            {
+                "id": 3376,
+                "topic": "Attributes of Allah: Al-Mubdi (The Beginner, Originator)",
+                "verses": "10:35, 10:5, 21:105, 27:65, 29:20, 30:12, 85:14"
+            },
+            {
+                "id": 3400,
+                "topic": "Attributes of Allah: Al-Mu‘id (The Reproducer)",
+                "verses": "10:35, 10:5, 21:105, 27:65, 29:20, 30:12, 85:14"
+            }
+        ],
+        "ar": "وَ ہُوَ الَّذِیۡ  یَبۡدَؤُا  الۡخَلۡقَ ثُمَّ  یُعِیۡدُہٗ وَ ہُوَ اَہۡوَنُ عَلَیۡہِ ؕ وَ لَہُ  الۡمَثَلُ  الۡاَعۡلٰی فِی السَّمٰوٰتِ وَ الۡاَرۡضِ ۚ وَ ہُوَ الۡعَزِیۡزُ الۡحَکِیۡمُ ﴿٪۲۸﴾ ",
+        "ur": "اور وہی ہے جو تخلیق کا آغاز کرتا ہے پھر اُسے دہراتا ہے اور یہ اس پر بہت آسان ہے اور آسمانوں اور زمین میں اس کی مثال سب سے اعلیٰ ہے اور وہ کامل غلبہ والا (اور) حکمت والا ہے۔",
+        "v5": {
+            "text": "[b]And He it is Who originates the creation, then keeps repeating it, and it is most easy for Him. His is the most exalted state in the heavens and the earth; and He is the Mighty, the Wise.[3009]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "10:35; 27:65; 29:20."
+                },
+                {
+                    "ref": "3009",
+                    "note": "<p><strong>Commentary:</strong></p><p>In the preceding few verses reference has been made to five heavenly signs: (a) Man’s own origin; (b) relation between man and his wife which leads to the procreation and expansion of mankind and marks the beginning of human social life; (c) creation of heavens and earth and the diversity of men’s colours and tongues which has given rise to different civilizations and cultures; (d) phenomenon of the alternation of day and night; and (e) the coming down of rain from heaven which gives new life to a dead land. All these signs have been mentioned to show that God has full power to give new life to a dead people and that He can raise a people as good as dead morally and spiritually to the heights of glory and grandeur. This seemingly impossible change constitutes proof positive of the fact that in the next world, too, God will raise the dead to a new life. This seems to be the purport of the verse under comment.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 29,
+        "v_": 28,
+        "topics": [
+            {
+                "id": 2129,
+                "topic": "Allah: parables set forth by, <i>Amthal</i>",
+                "verses": "13:18, 2:18, 2:27, 2:172, 2:262, 2:265, 7:177, 13:36, 14:19, 14:25-27, 14:46, 16:75-77, 16:113, 18:33, 22:74, 24:36, 25:40, 29:42, 29:44, 30:59, 36:14, 39:28, 39:30, 43:9, 47:4, 47:16, 59:22, 62:6, 66:11-12"
+            },
+            {
+                "id": 10740,
+                "topic": "Ma Malakat Aimanukum",
+                "verses": "4:4, 4:25-26, 4:37, 23:7, 24:32, 24:34, 24:59, 33:51, 33:53, 33:56, 70:31"
+            },
+            {
+                "id": 13395,
+                "topic": "Parable of: master and slave",
+                "verses": null
+            },
+            {
+                "id": 15779,
+                "topic": "Right hand: <i>ma malakat</i>…",
+                "verses": "17:72, 4:4, 4:25-26, 4:37, 23:7, 24:32, 24:34, 24:59, 33:51, 33:56, 70:31"
+            }
+        ],
+        "ar": "ضَرَبَ لَکُمۡ مَّثَلًا مِّنۡ اَنۡفُسِکُمۡ ؕ ہَلۡ لَّکُمۡ  مِّنۡ مَّا مَلَکَتۡ  اَیۡمَانُکُمۡ مِّنۡ شُرَکَآءَ  فِیۡ مَا رَزَقۡنٰکُمۡ فَاَنۡتُمۡ فِیۡہِ سَوَآءٌ  تَخَافُوۡنَہُمۡ کَخِیۡفَتِکُمۡ اَنۡفُسَکُمۡ ؕ کَذٰلِکَ نُفَصِّلُ  الۡاٰیٰتِ  لِقَوۡمٍ  یَّعۡقِلُوۡنَ ﴿۲۹﴾ ",
+        "ur": "وہ تمہارے لئے تمہاری اپنی ہی مثال دیتا ہے۔ کیا ان لوگوں میں سے جو تمہارے زیرنگیں ہیں ایسے بھی ہیں کہ اُس رزق میں شریک بنے ہوں جو ہم نے تمہیں عطا کیا ہے۔ پھر تم اس میں برابر ہو جاؤ (اور) اُن سے اُسی طرح خوف کھاؤ جیسے تم اپنوں سے خوف کھاتے ہو؟ اسی طرح ہم ان لوگوں کے لئے آیات خوب کھول کھول کر بیان کرتے ہیں جو عقل کرتے ہیں۔",
+        "v5": {
+            "text": "He sets forth for you a parable concerning yourselves. Have you, among those whom your right hands possess, partners in what We have provided for you so that you become equal <i>sharers</i> therein, <i>and</i> fear them as you fear each other? Thus do We explain the Signs to a people who understand.[3010]",
+            "notes": [
+                {
+                    "ref": "3010",
+                    "note": "<p><strong>Commentary:</strong></p><p>This verse contains a very effective argument against polytheism. It purports to say that when a master and slave are not equal though they are both human beings, and when the master would not share his wealth and property with his slave, how then could God, the sole Creator and Controller of all things, be equal to idols of wood and stone and how could He be regarded as sharing the control of the universe with anybody. See also 21:23.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 30,
+        "v_": 29,
+        "topics": [
+            {
+                "id": 5626,
+                "topic": "Dallin: astray",
+                "verses": "1:7, 2:109, 2:199, 3:70, 3:91, 3:165, 4:117, 4:120, 4:137, 5:13, 5:61, 5:78, 5:106, 6:40, 6:57, 6:75, 6:78, 6:117-118, 6:126, 6:141, 6:145, 7:39, 7:61, 7:150, 7:180, 7:187, 9:37, 9:115, 10:89, 10:109, 12:9, 13:28, 13:34, 14:5, 14:28, 14:37, 15:40, 15:57, 16:26, 16:38, 16:94, 16:126, 17:16, 17:49, 17:73, 17:98, 18:18, 18:52, 18:105, 20:80, 20:86, 20:93, 22:5, 22:10, 23:107, 25:10, 25:18, 25:30, 25:35, 25:43, 26:21, 26:87, 26:92, 26:95, 26:100, 27:93, 31:7, 33:37, 33:68, 35:9, 36:63, 37:33, 37:72, 38:27, 39:24, 39:38, 39:42, 40:35, 42:45, 45:24, 53:3, 53:31, 56:52, 60:2, 68:8, 71:28, 74:32, 83:33"
+            },
+            {
+                "id": 10260,
+                "topic": "Knowledge: <i>‘Ilm</i>: and ignorant",
+                "verses": "16:120, 6:109, 6:141, 6:145, 16:26, 22:4, 22:9, 31:7, 39:10, 102:6"
+            }
+        ],
+        "ar": "بَلِ  اتَّبَعَ  الَّذِیۡنَ ظَلَمُوۡۤا اَہۡوَآءَہُمۡ بِغَیۡرِ  عِلۡمٍ ۚ فَمَنۡ  یَّہۡدِیۡ مَنۡ  اَضَلَّ  اللّٰہُ ؕ وَ  مَا لَہُمۡ  مِّنۡ  نّٰصِرِیۡنَ  ﴿۳۰﴾ ",
+        "ur": "حقیقت یہ ہے کہ وہ لوگ جنہوں نے ظلم کیا انہوں نے بغیر کسی علم کے اپنی خواہشات کی پیروی کی۔ پس کون اُسے ہدایت دے سکتا ہے جسے اللہ نے گمراہ ٹھہرا دیا اور ان (جیسوں) کے کوئی مددگار نہیں ہوں گے۔",
+        "v5": {
+            "text": "Nay, but those who are unjust follow their own low desires without knowledge. Then [a]who can guide him whom Allah has adjudged as lost? There will be no helpers for them.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "7:187; 13:34; 39:37; 40:34."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 31,
+        "v_": 30,
+        "topics": [
+            {
+                "id": 1604,
+                "topic": "Allah: follow nature made by",
+                "verses": null
+            },
+            {
+                "id": 7173,
+                "topic": "Environment: <i>Mahaul</i>",
+                "verses": "2:52, 2:18, 4:98, 4:101, 5:101, 8:26, 11:104, 17:2, 113:2"
+            },
+            {
+                "id": 8383,
+                "topic": "Hanif",
+                "verses": "4:126, 2:136, 3:68, 3:96, 6:80, 6:162, 10:106, 16:124, 22:32, 98:6"
+            },
+            {
+                "id": 9065,
+                "topic": "Human Nature",
+                "verses": "6:109, 15:43"
+            },
+            {
+                "id": 9512,
+                "topic": "Islam: teachings of",
+                "verses": "2:4-6, 2:113, 2:137, 2:209, 2:286, 3:85, 4:126, 6:121, 6:162-163, 11:2-5, 11:109, 17:79, 22:33, 22:79, 42:14, 72:15"
+            },
+            {
+                "id": 10696,
+                "topic": "Magians",
+                "verses": "22:18"
+            },
+            {
+                "id": 10824,
+                "topic": "Man: nature of, <i>Fitrah</i>",
+                "verses": "4:29, 10:13, 11:10-11, 14:35, 16:5, 17:12, 17:68-70, 17:101, 18:55, 21:38, 22:6, 22:67, 23:78-79, 25:51, 30:37, 31:7-8, 31:22, 33:73, 34:32, 36:78-79, 38:61, 39:50, 40:11, 41:50-52, 42:49, 43:16, 57:9, 70:20-22, 75:21, 80:18, 89:16-21, 90:5, 91:8-9, 95:5, 96:7-8, 100:7, 100:9, 103:3-4"
+            },
+            {
+                "id": 10941,
+                "topic": "Mankind: Allah and",
+                "verses": "49:14, 1:4, 2:22, 10:93, 12:39, 13:7, 13:32, 14:53, 17:71, 22:19, 27:74, 35:3, 40:58, 40:62, 45:27, 57:26, 114:2-4"
+            },
+            {
+                "id": 15449,
+                "topic": "Religion: dissention in, sects",
+                "verses": "6:160, 30:33"
+            },
+            {
+                "id": 15452,
+                "topic": "Religion: essentials of",
+                "verses": "12:41, 23:53, 87:19-20, 98:6"
+            },
+            {
+                "id": 16481,
+                "topic": "Sects",
+                "verses": "6:160, 2:63, 3:51, 6:66, 9:30, 9:100, 11:109, 23:54, 30:33, 72:12"
+            }
+        ],
+        "ar": "فَاَقِمۡ  وَجۡہَکَ لِلدِّیۡنِ حَنِیۡفًا ؕ فِطۡرَتَ اللّٰہِ  الَّتِیۡ فَطَرَ  النَّاسَ عَلَیۡہَا ؕ لَا تَبۡدِیۡلَ  لِخَلۡقِ اللّٰہِ ؕ ذٰلِکَ الدِّیۡنُ الۡقَیِّمُ ٭ۙ وَ لٰکِنَّ  اَکۡثَرَ النَّاسِ لَا یَعۡلَمُوۡنَ ﴿٭ۙ۳۱﴾",
+        "ur": "پس (اللہ کی طرف) ہمیشہ مائل رہتے ہوئے اپنی توجہ دین پر مرکوز رکھ۔ یہ اللہ کی فطرت ہے جس پر اس نے انسانوں کو پیدا کیا۔ اللہ کی تخلیق میں کوئی تبدیلی نہیں۔ یہ قائم رکھنے اور قائم رہنے والا دین ہے لیکن اکثر لوگ نہیں جانتے۔",
+        "v5": {
+            "text": "[b]So set thy face to <i>the</i> <i>service of</i> religion as one devoted <i>to God. And follow</i> the nature made by Allah—the nature in which He has created mankind. There is no altering the creation of Allah. [c]That is the right religion. But most men know not.[3011]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "10:106; 30:44."
+                },
+                {
+                    "ref": "c",
+                    "note": "12:41; 98:6."
+                },
+                {
+                    "ref": "3011",
+                    "note": "<p><strong>Commentary:</strong></p><p>This verse continues the theme of v. 29 above, the theme, briefly, of the Almightiness and Unity of God, and, by implication, of the oneness of all humanity. The fact, that God is One and all humanity, too, is one, has been called فطرة اللّٰه(nature given by God) or دین الفطرة i.e. the religion which is rooted in the pure and unsullied nature of man. This in other words is Islam and to it has the Holy Prophet referred in his well-known saying… کل مولود یولد علی فطرة الاسلام i.e. every child is born with an unsullied and pure nature, which is دین الفطرة i.e. the religion to which pure human nature conforms and instinctively reacts. It is in this religion that a child is born, but it is his environments, the ideas and beliefs of his parents and the training he receives from them that subsequently make him a Jew, a Magian or a Christian (Bukhari).</p><p>The words, \"There is no altering the creation of Allah,\" mean that true religion is rooted in the very nature of man. False beliefs are the result of the influences of environment. Once those vicious extraneous influences are removed, he at once reacts to it and hastens to accept it.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 32,
+        "v_": 31,
+        "topics": [
+            {
+                "id": 16600,
+                "topic": "Shirk: associating partners with Allah",
+                "verses": "22:27, 6:15, 10:106, 22:32, 28:88"
+            }
+        ],
+        "ar": "مُنِیۡبِیۡنَ اِلَیۡہِ وَ اتَّقُوۡہُ  وَ اَقِیۡمُوا الصَّلٰوۃَ  وَ لَا تَکُوۡنُوۡا مِنَ الۡمُشۡرِکِیۡنَ ﴿ۙ۳۲﴾ ",
+        "ur": "ہمیشہ اُس کی طرف جھکتے ہوئے (چلو) اور اُس کا تقویٰ اختیار کرو اور نماز کو قائم کرو اور مشرکوں میں سے نہ ہو۔",
+        "v5": {
+            "text": "<i>Set your face to God</i>, turning to Him <i>in repentance</i>, and fear Him, and observe Prayer, and be not of those who associate partners <i>with God</i>—[3012]",
+            "notes": [
+                {
+                    "ref": "3012",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means to say that mere belief in the Almightiness and Oneness of God, though it forms the basic principle of true religion, is not enough. A true religion has certain ordinances and commandments also. Of these commandments the top priority goes to Prayer, which must be duly observed. A true religion also teaches that fear lest one should incur the displeasure of God, must govern all our actions.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 33,
+        "v_": 32,
+        "topics": [
+            {
+                "id": 13691,
+                "topic": "Party: <i>Hizb</i>",
+                "verses": "23:54, 5:57, 58:20"
+            },
+            {
+                "id": 15451,
+                "topic": "Religion: dissention in, sects",
+                "verses": "30:31, 6:160"
+            },
+            {
+                "id": 16482,
+                "topic": "Sects",
+                "verses": "6:160, 2:63, 3:51, 6:66, 9:30, 9:100, 11:109, 23:54, 30:31, 72:12"
+            }
+        ],
+        "ar": "مِنَ الَّذِیۡنَ فَرَّقُوۡا دِیۡنَہُمۡ  وَ کَانُوۡا شِیَعًا ؕ کُلُّ  حِزۡبٍۭ بِمَا لَدَیۡہِمۡ فَرِحُوۡنَ ﴿۳۳﴾ ",
+        "ur": "(یعنی) اُن میں سے (نہ ہو) جنہوں نے اپنے دین کو تقسیم کر دیا اور وہ فرقہ فرقہ (ہوچکے) تھے۔ ہر گروہ (والے) جو اُن کے پاس تھا اُس پر اِترا رہے تھے۔",
+        "v5": {
+            "text": "[a]Of those who split up their religion and have become divided into sects; every party rejoicing in what they have.[3013]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "6:160."
+                },
+                {
+                    "ref": "3013",
+                    "note": "<p><strong>Important Words:</strong></p><p>حزب (<i>hizb</i>) means, a party or company of men, assembling themselves on account of an event that has befallen them; an assembly, a collective body or company of men; a party, portion, division or class of men; the troops, prepared for fighting; any party agreeing in hearts and actions whether meeting together or not (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The verse means to say that deviation from true religion led people in the past to be split up into warring sections and aroused differences among them.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 34,
+        "v_": 33,
+        "topics": [
+            {
+                "id": 851,
+                "topic": "Affliction: <i>Bala’</i>",
+                "verses": "2:156-158, 2:50, 2:125, 2:178, 2:215, 2:250, 3:143, 3:155, 4:63, 6:18, 7:142, 7:164, 7:169, 8:26, 16:28, 16:54-55, 17:57, 17:74, 21:84, 21:88, 22:36, 23:31, 28:48, 29:11, 30:37, 38:42, 39:9, 41:51, 47:32, 64:12, 68:7"
+            },
+            {
+                "id": 11923,
+                "topic": "Moral Traits: sincerity",
+                "verses": "4:147, 2:140, 7:22, 7:30, 7:63, 7:69, 7:80, 7:94, 9:91, 10:23, 11:35, 12:12, 28:13, 29:66, 39:3-4, 39:12, 39:15, 40:15, 40:66, 98:6"
+            }
+        ],
+        "ar": "وَ اِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوۡا رَبَّہُمۡ مُّنِیۡبِیۡنَ  اِلَیۡہِ ثُمَّ   اِذَاۤ   اَذَاقَہُمۡ  مِّنۡہُ رَحۡمَۃً اِذَا فَرِیۡقٌ مِّنۡہُمۡ بِرَبِّہِمۡ یُشۡرِکُوۡنَ ﴿ۙ۳۴﴾ ",
+        "ur": "اور جب لوگوں کو کوئی تکلیف چُھو جائے تو وہ اپنے ربّ کو اُس کے حضور عاجزی سے جھکتے ہوئے پکارتے ہیں۔ پھر جب وہ انہیں اپنی طرف سے رحمت (کا مزا) چکھاتا ہے تو اچانک ان میں سے ایک فریق (والے) اپنے ربّ کا شریک ٹھہرانے لگتے ہیں۔",
+        "v5": {
+            "text": "[a]And when an affliction befalls men, they cry unto their Lord, turning to Him <i>in repentance</i>; then, when He has made them taste of mercy from Him, lo! a section of them associate partners with their Lord,[3014]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "10:13; 39:9, 50."
+                },
+                {
+                    "ref": "3014",
+                    "note": "<p><strong>Commentary:</strong></p><p>Having referred in the previous few verses to the Unity of God as being the basic principle of all religions, this and the next three verses deal with <i>Shirk</i>, i.e. associating false gods with the One True God.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 35,
+        "v_": 34,
+        "topics": [],
+        "ar": "لِیَکۡفُرُوۡا بِمَاۤ  اٰتَیۡنٰہُمۡ ؕ فَتَمَتَّعُوۡا ٝ فَسَوۡفَ تَعۡلَمُوۡنَ ﴿۳۵﴾ ",
+        "ur": "تاکہ وہ اُس کی ناشکری کریں جو ہم نے انہیں عطا کیا۔ پس عارضی فائدہ اٹھا لو‘ عنقریب تم (اس کا نتیجہ) جان لو گے۔",
+        "v5": {
+            "text": "[b]So as to be ungrateful for what We have given them. So enjoy yourselves <i>awhile</i>, but soon you will come to know.",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "16:56; 29:67."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 36,
+        "v_": 35,
+        "topics": [
+            {
+                "id": 14015,
+                "topic": "Polytheism",
+                "verses": "4:49, 4:117"
+            }
+        ],
+        "ar": "اَمۡ  اَنۡزَلۡنَا عَلَیۡہِمۡ سُلۡطٰنًا فَہُوَ یَتَکَلَّمُ  بِمَا  کَانُوۡا بِہٖ  یُشۡرِکُوۡنَ ﴿۳۶﴾ ",
+        "ur": "کیا ہم نے ان پر کوئی غالب دلیل اُتاری ہے پس وہ اُن سے اس کے بارہ میں گفتگو کرتی ہے جو وہ اس کا شریک ٹھہراتے ہیں؟",
+        "v5": {
+            "text": "Have We sent down to them any authority which speaks <i>in</i> <i>favour</i> of what they associate with Him?[3015]",
+            "notes": [
+                {
+                    "ref": "3015",
+                    "note": "<p><strong>Commentary:</strong></p><p>This verse emphatically declares that polytheists have no argument whatsoever to support and substantiate their polytheistic beliefs. Human nature, reason and common sense all revolt against idolatry and polytheism.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 37,
+        "v_": 36,
+        "topics": [
+            {
+                "id": 852,
+                "topic": "Affliction: <i>Bala’</i>",
+                "verses": "2:156-158, 2:50, 2:125, 2:178, 2:215, 2:250, 3:143, 3:155, 4:63, 6:18, 7:142, 7:164, 7:169, 8:26, 16:28, 16:54-55, 17:57, 17:74, 21:84, 21:88, 22:36, 23:31, 28:48, 29:11, 30:34, 38:42, 39:9, 41:51, 47:32, 64:12, 68:7"
+            },
+            {
+                "id": 6339,
+                "topic": "Despair",
+                "verses": "39:54, 2:215, 5:4, 6:45, 11:10, 12:81, 12:88, 12:111, 15:56-57, 17:84, 23:78, 29:24, 30:13, 30:50, 43:76, 60:14"
+            },
+            {
+                "id": 10839,
+                "topic": "Man: nature of, <i>Fitrah</i>",
+                "verses": "30:31, 4:29, 10:13, 11:10-11, 14:35, 16:5, 17:12, 17:68-70, 17:101, 18:55, 21:38, 22:6, 22:67, 23:78-79, 25:51, 31:7-8, 31:22, 33:73, 34:32, 36:78-79, 38:61, 39:50, 40:11, 41:50-52, 42:49, 43:16, 57:9, 70:20-22, 75:21, 80:18, 89:16-21, 90:5, 91:8-9, 95:5, 96:7-8, 100:7, 100:9, 103:3-4"
+            }
+        ],
+        "ar": "وَ اِذَاۤ  اَذَقۡنَا النَّاسَ رَحۡمَۃً  فَرِحُوۡا بِہَا ؕ  وَ  اِنۡ  تُصِبۡہُمۡ سَیِّئَۃٌۢ  بِمَا قَدَّمَتۡ  اَیۡدِیۡہِمۡ   اِذَا  ہُمۡ  یَقۡنَطُوۡنَ ﴿۳۷﴾ ",
+        "ur": "اور جب ہم لوگوں کو کوئی رحمت (کا مزا) چکھاتے ہیں تو اُس پر وہ اِترانے لگتے ہیں اور اگر اُنہیں کوئی برائی پہنچ جائے جو (خود) اُن کے ہاتھوں نے آگے بھیجی ہو تو اچانک وہ مایوس ہو جاتے ہیں۔",
+        "v5": {
+            "text": "[c]And when We make men taste of mercy, they rejoice therein; but if an evil befall them because of that which their own hands have sent on, behold! they are in despair.[3016]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "10:22; 41:51-52; 42:49."
+                },
+                {
+                    "ref": "3016",
+                    "note": "<p><strong>Important Words:</strong></p><p>یقنطون (are in despair) is formed from قنط which means, he despaired. قانط which is active participle from this root means, one who despairs of God’s mercy. The Arabs say قنط ماءہ عنا i.e. he withheld or debarred his water from us. قنوط (infinitive noun) means, complete despair (Lane &amp; Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 38,
+        "v_": 37,
+        "topics": [
+            {
+                "id": 3127,
+                "topic": "Attributes of Allah: Al-Basit (Enlarger of provisions)",
+                "verses": "13:27, 2:246, 17:31, 28:83, 29:63, 34:37, 39:53, 42:13, 42:28"
+            },
+            {
+                "id": 14646,
+                "topic": "Provisions: Allah enlarges",
+                "verses": "20:132, 13:27, 17:31, 28:83, 29:63, 34:37, 34:40, 39:53, 42:13, 42:28"
+            }
+        ],
+        "ar": "اَوَ لَمۡ  یَرَوۡا  اَنَّ اللّٰہَ  یَبۡسُطُ الرِّزۡقَ  لِمَنۡ یَّشَآءُ  وَ یَقۡدِرُ ؕ اِنَّ  فِیۡ  ذٰلِکَ لَاٰیٰتٍ لِّقَوۡمٍ  یُّؤۡمِنُوۡنَ ﴿۳۸﴾ ",
+        "ur": " کیا انہوں نے نہیں دیکھا کہ اللہ جس کے لئے چاہتا ہے رزق کشادہ کرتا ہے اور تنگ بھی کرتا ہے۔ یقیناً اس میں ایمان لانے والی قوم کے لئے بہت سے نشانات ہیں۔",
+        "v5": {
+            "text": "Have they not seen that [a]Allah enlarges the provision to whomsoever He pleases, and straitens <i>it to whomsoever He pleases</i>. In that truly are Signs for a people who believe.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 29:63."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 39,
+        "v_": 38,
+        "topics": [
+            {
+                "id": 2517,
+                "topic": "Alms: <i>Sadaqah</i>: give your to poor, needy",
+                "verses": "2:178, 9:60, 17:27, 21:74, 76:9, 98:6"
+            },
+            {
+                "id": 11833,
+                "topic": "Moral Traits: kindness",
+                "verses": "17:24-25, 2:84, 2:178, 2:216, 2:242, 2:264, 2:281, 4:6, 4:9, 4:37, 5:55, 6:152, 7:200, 9:61, 16:91, 17:29, 29:9, 31:15, 31:16, 33:50, 51:20, 60:9, 76:9, 90:14-17"
+            },
+            {
+                "id": 15442,
+                "topic": "Relatives: <i>Aqrabun</i>",
+                "verses": "4:2, 2:84, 2:178, 2:181, 2:216, 4:9, 4:12, 4:24, 4:37, 13:24, 16:91, 17:27, 33:7, 40:9, 111:2"
+            },
+            {
+                "id": 16993,
+                "topic": "Son of…: <i>Ibnus-Sabil</i>, wayfarer",
+                "verses": "8:42, 2:178, 2:216, 4:37, 9:60, 17:27, 59:8"
+            },
+            {
+                "id": 17334,
+                "topic": "Success: <i>Falah</i>, believers, obedient, shall achieve",
+                "verses": "3:201, 2:6, 2:190, 3:105, 3:131, 5:36, 5:91, 5:101, 7:9, 7:70, 7:158, 8:46, 9:88, 20:65, 22:78, 23:2, 23:103, 24:32, 24:52, 28:68, 31:6, 59:10, 62:11, 64:17, 87:15, 91:10"
+            }
+        ],
+        "ar": "فَاٰتِ ذَاالۡقُرۡبٰی حَقَّہٗ  وَ الۡمِسۡکِیۡنَ وَ ابۡنَ‌السَّبِیۡلِ ؕ ذٰلِکَ خَیۡرٌ لِّلَّذِیۡنَ یُرِیۡدُوۡنَ وَجۡہَ اللّٰہِ ۫ وَ اُولٰٓئِکَ ہُمُ الۡمُفۡلِحُوۡنَ ﴿۳۹﴾ ",
+        "ur": "پس اپنے قریبی کو اس کا حق دو نیز مسکین کو اور مسافر کو۔ یہ بات ان لوگوں کے لئے اچھی ہے جو اللہ کی رضا چاہتے ہیں اور یہی وہ لوگ ہیں جو کامیاب ہونے والے ہیں۔",
+        "v5": {
+            "text": "[b]So give to the kinsman his due, and to the needy, and to the wayfarer. That is best for those who seek the favour of Allah, and it is they who will prosper.[3017]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "16:91; 17:27."
+                },
+                {
+                    "ref": "3017",
+                    "note": "<p><strong>Commentary:</strong></p><p>After dealing with the all-important subject of the Unity of God and giving strong arguments in refutation of <i>Shirk</i> (polytheism) in the preceding several verses, the <i>Surah</i>, in the verse under comment, proceeds to draw attention to the fact that mere beliefs, principles and ideals, however noble and laudable, do not make a religion complete. It must further possess some practical ordinances among which pride of place is given here to the economic uplift of the less fortunate members of society. The words, \"give to the kinsman his due,\" embody a fine principle, viz. that the monetary help which the wealthy people give to their poorer brethren in the form of Zakah, charity or gift are the latter’s right and due, because in the form of their work and labour they make a substantial contribution to the production of wealth of the rich people. It is also of some interest to note that, besides the verse under comment, wherever the Quran commands the believers to give monetary help to the needy and the poor, it invariably uses the word آت instead of اعط. By so doing it seeks to safeguard the self-respect of the poor person who receives charity, because, whereas the latter word expresses the sense of giving, the former expresses that of presenting (Kashshaf). Elsewhere in the Quran we are told that in the wealth of the rich there is a share for those who ask for help as well as for those who cannot (51:20). In this way Islam safeguards the self-respect and dignity of a poor person even when he is actually receiving monetary help from a rich brother.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 40,
+        "v_": 39,
+        "topics": [
+            {
+                "id": 1712,
+                "topic": "Allah: has permitted trade, forbidden interest",
+                "verses": "2:276-281, 3:131, 4:162"
+            },
+            {
+                "id": 1961,
+                "topic": "Allah: manifold rewards for spending in the way of",
+                "verses": "2:262, 2:246, 2:266, 57:12, 57:19, 64:18, 73:21"
+            },
+            {
+                "id": 2525,
+                "topic": "Alms: <i>Sadaqah</i>: wealth paid back in full, multiplied",
+                "verses": "2:273, 2:246, 2:266, 2:277, 57:12, 57:19, 64:18, 73:21"
+            },
+            {
+                "id": 7081,
+                "topic": "Economy: <i>Amwal</i>",
+                "verses": "70:25-26, 2:189, 2:216, 2:266, 2:269, 2:270, 2:274, 2:276, 9:103, 16:72, 51:20, 89:18-21, 99:3, 104:3"
+            },
+            {
+                "id": 9398,
+                "topic": "Interest: <i>Riba, </i>usury",
+                "verses": "2:276-277, 2:279-281, 3:131, 4:162"
+            },
+            {
+                "id": 17047,
+                "topic": "Society",
+                "verses": "20:120, 2:141, 2:180, 2:189, 2:216, 2:281, 2:283, 2:284, 3:135, 5:3, 17:27-30, 17:36, 24:5, 24:62, 25:68, 33:22, 33:34, 34:35, 43:36, 49:13-14, 53:40-41, 59:8, 71:15, 89:21, 104:2"
+            },
+            {
+                "id": 18996,
+                "topic": "Zakat",
+                "verses": "9:60, 2:44, 2:84, 2:111, 2:178, 2:278, 4:163, 5:13, 5:56, 7:157, 9:11, 9:18, 9:71, 19:32, 19:56, 21:74, 22:42, 22:79, 23:2-5, 24:38, 24:57, 27:4, 31:5, 33:34, 41:8, 58:14, 73:21, 98:6"
+            }
+        ],
+        "ar": "وَ مَاۤ  اٰتَیۡتُمۡ مِّنۡ رِّبًا لِّیَرۡبُوَا۠ فِیۡۤ  اَمۡوَالِ النَّاسِ فَلَا یَرۡبُوۡا عِنۡدَ اللّٰہِ ۚ وَ مَاۤ  اٰتَیۡتُمۡ  مِّنۡ زَکٰوۃٍ  تُرِیۡدُوۡنَ وَجۡہَ اللّٰہِ فَاُولٰٓئِکَ  ہُمُ  الۡمُضۡعِفُوۡنَ ﴿۴۰﴾ ",
+        "ur": "اور جو تم سُود کے طور پر دیتے ہو تا کہ لوگوں کے اموال میں مِل کر وہ بڑھنے لگے تو اللہ کے نزدیک وہ نہیں بڑھتا۔ اور اللہ کی رضا چاہتے ہوئے تم جو کچھ زکوٰۃ دیتے ہو تو یہی ہیں وہ لوگ جو (اسے) بڑھانے والے ہیں۔",
+        "v5": {
+            "text": "[a]Whatever you pay as interest that it may increase the wealth of the people, it does not increase in the sight of Allah; but whatever you give in Zakah seeking the favour of Allah—it is these who will increase <i>their wealth</i> manifold.[3018]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:276; 3:131."
+                },
+                {
+                    "ref": "3018",
+                    "note": "<p><strong>Commentary:</strong></p><p>In this verse a contrast has been made between Zakah and interest which institution, according to some people, can help the poor improve their economic condition. By Zakah Islam seeks to improve the miserable lot of the poor, at the same time safeguarding their dignity and self-respect, while the institution of interest not only does not better the economic condition of the poor but on the contrary tends actually to make the rich richer and the poor poorer. The vast disparity of wealth between different sections of human society, as a result of which a large majority grovels in grinding indigence and penury and a tiny section rolls in unmeasured wealth, is inevitably due to the institution of interest. It is on cooperative basis as taught by Islam and not by the giving and taking of interest that the wealth of a community can increase, and it is to this important economic truth that the verse under comment refers.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 41,
+        "v_": 40,
+        "topics": [
+            {
+                "id": 762,
+                "topic": "Adoration: <i>Sabbih</i>, Praise, Exalt, Pray, Glorify: Glory be to Allah",
+                "verses": "12:109, 2:33, 2:117, 3:192, 4:172, 5:117, 6:101, 7:144, 9:31, 10:11, 10:19, 10:69, 16:2, 16:58, 17:2, 17:44, 17:94, 17:109, 19:36, 21:23, 21:27, 21:88, 23:92, 24:17, 25:19, 27:9, 28:69, 30:18, 34:42, 36:37, 36:84, 37:160, 37:181, 39:5, 39:68, 43:83, 52:44, 59:24, 68:30"
+            },
+            {
+                "id": 1154,
+                "topic": "Allah: alone creates life, causes death",
+                "verses": "15:24, 2:29, 13:17, 22:67, 40:12, 40:69, 45:27, 50:44, 53:45"
+            },
+            {
+                "id": 1339,
+                "topic": "Allah: created you",
+                "verses": "2:22, 2:30, 4:2, 6:103, 7:190, 13:17, 15:29, 15:86, 16:73, 20:56, 21:17, 21:34, 23:13-15, 23:18, 24:46, 27:65, 30:21-22, 35:4, 36:37, 38:72, 39:7, 41:10, 43:13, 46:4, 50:17, 53:46, 55:4, 55:15-16, 59:25, 67:3, 71:15, 87:3, 92:4, 96:3"
+            },
+            {
+                "id": 1704,
+                "topic": "Allah: has no partners",
+                "verses": "6:164, 3:65, 3:152, 4:37, 4:49, 6:15, 6:80, 6:82, 6:101, 7:34, 7:191, 10:19, 12:39, 13:17, 13:34, 13:37, 16:2, 16:4, 17:112, 18:43, 18:111, 22:32, 23:60, 23:93, 25:3-4, 28:69, 39:68, 40:43, 40:85, 59:24"
+            },
+            {
+                "id": 3386,
+                "topic": "Attributes of Allah: Al-Muhyi (Life-giver)",
+                "verses": "30:51, 2:29, 3:157, 7:159, 15:24, 22:67, 40:12, 40:69, 45:27, 57:3"
+            },
+            {
+                "id": 6109,
+                "topic": "Dead, Death: <i>Maut</i>: Allah alone causes",
+                "verses": "15:24, 2:29, 2:259, 3:157, 6:96, 13:17, 16:71, 22:67, 40:12, 40:69, 45:27, 50:44, 53:45, 57:3"
+            },
+            {
+                "id": 9173,
+                "topic": "Idolators: pagans, <i>Mushrikin</i>: their gods produce nothing, are helpless, dead",
+                "verses": "9:3-14, 7:192-196, 6:72, 10:19, 10:35, 10:107, 13:34, 16:21-22, 20:90, 21:23-25, 22:74, 28:72, 29:18, 29:42, 35:14, 35:41, 43:19, 46:5-6"
+            }
+        ],
+        "ar": "اَللّٰہُ  الَّذِیۡ خَلَقَکُمۡ ثُمَّ  رَزَقَکُمۡ ثُمَّ یُمِیۡتُکُمۡ ثُمَّ یُحۡیِیۡکُمۡ ؕ ہَلۡ مِنۡ شُرَکَآئِکُمۡ  مَّنۡ یَّفۡعَلُ مِنۡ ذٰلِکُمۡ  مِّنۡ شَیۡءٍ ؕ سُبۡحٰنَہٗ  وَ تَعٰلٰی عَمَّا یُشۡرِکُوۡنَ ﴿٪۴۱﴾ ",
+        "ur": "اللہ وہ ہے جس نے تمہیں پیدا کیا پھر تمہیں رزق عطا کیا پھر وہ تمہیں مارے گا اور وہی تمہیں پھر زندہ کرے گا۔ کیا تمہارے شرکاءمیں سے بھی کوئی ہے جو ان باتوں میں سے کچھ کرتا ہو؟ وہ بہت پاک ہے اور بہت بلند ہے اُس سے جو وہ شرک کرتے ہیں۔",
+        "v5": {
+            "text": "It is Allah Who has created you, <i>and</i> then He has provided for you; then [b]He will cause you to die, <i>and</i> then He will bring you to life. Is there any of your so-called partners who can do any of these things? Glorified be He and exalted above that which they associate <i>with Him</i>.[3019]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "2:29; 22:67; 40:69; 45:27."
+                },
+                {
+                    "ref": "3019",
+                    "note": "<p><strong>Commentary:</strong></p><p>Before closing the subject of the Unity of God dealt with in the previous several verses, the <i>Surah</i> summarizes the arguments which support it. They are: (a) God is our Creator; (b) He is our Sustainer and Provider; and (c) He possesses complete control over life and death. These are the three very essential attributes that the Supreme Being Who commands and demands our worship must and does possess.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 42,
+        "v_": 41,
+        "topics": [
+            {
+                "id": 459,
+                "topic": "Actions: <i>A‘mal</i>: punishment for evil",
+                "verses": "27:91, 10:28, 29:56, 32:15, 39:49, 41:28, 58:16, 101:9-10"
+            },
+            {
+                "id": 5102,
+                "topic": "Civilizations, Past",
+                "verses": "6:7, 30:10"
+            },
+            {
+                "id": 5314,
+                "topic": "Corruption",
+                "verses": "3:119, 11:117, 15:10, 28:84, 53:15, 89:13"
+            },
+            {
+                "id": 6567,
+                "topic": "Disorder: <i>Fitnah, Fasad</i>",
+                "verses": "7:57, 2:12-13, 2:28, 2:31, 2:61, 2:192, 2:194, 2:206, 2:218, 2:221, 2:252, 3:64, 5:33-34, 5:42, 5:65, 7:75, 7:86, 7:104, 7:128, 7:143, 8:20, 8:26, 8:40, 8:74, 9:47, 9:47, 10:41, 10:82, 11:86, 11:117, 13:26, 16:89, 17:5, 18:95, 23:72, 26:153, 26:184, 27:9, 28:5, 28:78, 28:84, 40:27, 47:23, 89:13"
+            },
+            {
+                "id": 14535,
+                "topic": "Prophethood: functions of",
+                "verses": "23:53, 2:214, 2:254, 5:45, 5:100, 6:49, 10:73, 19:52, 20:135, 21:93, 25:11, 28:48, 33:40, 36:15"
+            }
+        ],
+        "ar": "ظَہَرَ الۡفَسَادُ فِی الۡبَرِّ وَ الۡبَحۡرِ بِمَا کَسَبَتۡ اَیۡدِی  النَّاسِ  لِیُذِیۡقَہُمۡ بَعۡضَ الَّذِیۡ عَمِلُوۡا  لَعَلَّہُمۡ یَرۡجِعُوۡنَ ﴿۴۲﴾ ",
+        "ur": "لوگوں نے جو اپنے ہاتھوں بدیاں کمائیں ان کے نتیجہ میں فساد خشکی پر بھی غالب آ گیا اور تَری پر بھی تاکہ وہ انہیں ان کے بعض اعمال کا مزا چکھائے تاکہ شاید وہ رجوع کریں۔",
+        "v5": {
+            "text": "Corruption has appeared on land and sea because of what men’s hands have wrought, that He may make them taste <i>the</i> <i>fruit</i> of some of their doings, so that they may turn back <i>from</i> <i>evil</i>.[3020]",
+            "notes": [
+                {
+                    "ref": "3020",
+                    "note": "<p><strong>Commentary:</strong></p><p>The main theme of the foregoing verses consisted in engendering and instilling in man belief in an Almighty and All-Powerful God, Who creates, regulates and guides all life. In the present verse we are told that when darkness enshrouds the face of the earth and man consigns God to oblivion and gives himself up to the worship of the false gods of his own conception and creation, God raises a Prophet to bring back \"the erring flock into the Master’s fold.\" Such was the condition of mankind when the Holy Prophet Muhammad, humanity’s greatest Teacher, made his appearance. The following quotations support this contention:</p><p>\"The beginning of the seventh century was an epoch of disintegration—national and social—and religion had become extinct as a moral force and had become reduced to mere ritual and ceremony and the great Faiths of the world had ceased to exert any healthy influence on the lives of their followers. The holy flames kindled by Zoroaster, Moses and Jesus had been quenched in the blood of man…Incessant war for supremacy, perpetual internecine strife, combined with the ceaseless wrangling of creeds and sects, had sucked the lifeblood out of the hearts of nations, and people of the earth, trodden under the iron heels of a lifeless sacerdotalism, were crying to God to deliver them from the misdeeds of their masters. Never in the history of the world was the need so great, the time so ripe for the appearance of a Deliverer (\"Spirit of Islam\").</p><p>In the fifth and sixth Centuries the civilized world stood on the verge of chaos. It seemed that the great civilization that it had taken four thousand years to construct was on the verge of disintegration, and that mankind was likely to return to that condition of barbarism where every tribe and sect was against the next and law and order were unknown. . .It was a time fraught with tragedy. Civilization like a gigantic tree whose foliage had overarched the world and whose branches had borne the golden fruits of art and science and literature, stood tottering, its trunk no longer alive with the flowing sap of devotion and reverence, but rotten to the core\". (Emotion as the Basis of Civilization).</p><p>The words \"land and sea,\" may signify: (a) such nations as had no experience of Divine revelation and those that believed in heavenly Scriptures; or (b) nations whose cultures and civilizations were based purely on reason and collective human experience and those whose cultures and civilizations were based on Divine revelation; (c) peoples living on the continents and those living in the islands.</p><p>The verse means to say that the nations of the world had become corrupt to the very core—politically, socially and morally, and their corruption was the result of \"what their hands had wrought.\"</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 43,
+        "v_": 42,
+        "topics": [
+            {
+                "id": 2448,
+                "topic": "Allah: travel in the earth..., <i>Siru fil-ard</i>",
+                "verses": "29:21, 3:138, 6:12, 12:110, 22:47, 27:70, 30:10, 35:45, 40:22, 40:83, 47:11"
+            },
+            {
+                "id": 7041,
+                "topic": "Earth: <i>Al-Ard</i>: travel through the",
+                "verses": "3:138, 3:157, 4:102, 6:12, 12:109, 14:39, 22:47, 29:20, 30:10, 35:45, 40:22, 40:83, 47:11, 67:16"
+            }
+        ],
+        "ar": "قُلۡ سِیۡرُوۡا فِی الۡاَرۡضِ فَانۡظُرُوۡا کَیۡفَ کَانَ عَاقِبَۃُ  الَّذِیۡنَ مِنۡ قَبۡلُ ؕ کَانَ اَکۡثَرُہُمۡ  مُّشۡرِکِیۡنَ ﴿۴۳﴾ ",
+        "ur": " تُو کہہ دے کہ زمین میں خوب سیاحت کرو اور غور کرو کہ پہلے لوگوں کا کیسا انجام ہوا۔ ان میں سے اکثر مشرکین تھے۔",
+        "v5": {
+            "text": "Say, [a]‘Travel in the earth and see how <i>evil</i> was the end of those before <i>you</i>! Most of them were idolaters.’[3021]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "16:37; 27:70; 40:83."
+                },
+                {
+                    "ref": "3021",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse warns disbelievers that their rejection of the Holy Prophet would lead them to ruin. The fact that the rejection and persecution of Divine Messengers has always resulted in the destruction of the rejecters is writ large on the pages of history.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 44,
+        "v_": 43,
+        "topics": [],
+        "ar": "فَاَقِمۡ وَجۡہَکَ لِلدِّیۡنِ الۡقَیِّمِ مِنۡ قَبۡلِ اَنۡ یَّاۡتِیَ یَوۡمٌ  لَّا  مَرَدَّ لَہٗ مِنَ اللّٰہِ یَوۡمَئِذٍ  یَّصَّدَّعُوۡنَ ﴿۴۴﴾ ",
+        "ur": "پس تُو اپنی توجہ مضبوط اور قائم رہنے والے دین کے لئے مرکوز رکھ پیشتر اس سے کہ وہ دن آجائے جس کا کسی طَور ٹلنا اللہ کی طرف سے ممکن نہ ہوگا۔ اس دن وہ پراگندہ ہو جائیں گے۔",
+        "v5": {
+            "text": "[b]So set thy face to <i>the service of</i>, the right religion, before there comes the day from Allah for which there will be no averting. On that day <i>mankind</i> will split up <i>into parts</i>.[3022]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "10:106; 30:31."
+                },
+                {
+                    "ref": "3022",
+                    "note": "<p><strong>Important Words:</strong></p><p>یصدعون (will split up) is derived from صدع (<i>sada‘a</i>). صدعه means, he clove, split or slit it. تصدع القوم means, the people became separated or dispersed. یصدعون means, they will become separated or split up (Lane &amp; Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 45,
+        "v_": 44,
+        "topics": [
+            {
+                "id": 10333,
+                "topic": "Kufr: disbelief",
+                "verses": "3:91, 2:7, 2:89, 2:94, 2:109, 3:53, 3:168, 3:177-178, 4:47, 4:138, 4:156-157, 5:42, 5:62, 5:65, 5:69, 9:17, 9:23, 9:97, 9:107, 16:107, 17:70, 31:24, 35:40, 39:8, 49:8, 98:2"
+            },
+            {
+                "id": 15858,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 78:32-37, 83:23, 98:8"
+            }
+        ],
+        "ar": "مَنۡ کَفَرَ فَعَلَیۡہِ کُفۡرُہٗ ۚ وَ مَنۡ عَمِلَ صَالِحًا  فَلِاَنۡفُسِہِمۡ  یَمۡہَدُوۡنَ ﴿ۙ۴۵﴾ ",
+        "ur": "جو کفر کرے اس کا کفر اسی پر پڑے گا اور جو نیک عمل کرے تو وہ (لوگ) اپنی ہی بھلائی کی تیاری کرتے ہیں۔",
+        "v5": {
+            "text": "Those who disbelieve will bear <i>the consequences of</i> their disbelief; and those who do righteous deeds will earn <i>good</i> for themselves,[3023]",
+            "notes": [
+                {
+                    "ref": "3023",
+                    "note": "<p><strong>Important Words:</strong></p><p>یمھدون (will earn good) is derived from مھد which means, he spread out; he attended to a business and drew profit from it. مھد الامر means, he reformed the affair and made it easy and put it in proper order. مھد لفلان عذرہ means, he accepted the excuse of such a one. مھد لنفسه خیرا means, he provided good for himself and sent it ahead (Aqrab). See also 3:47.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 46,
+        "v_": 45,
+        "topics": [
+            {
+                "id": 4702,
+                "topic": "Bounty: Allah bestows His",
+                "verses": "3:74-75, 2:269, 3:171-172, 4:33, 4:55, 4:71, 4:174, 9:28, 9:59, 9:74-76, 10:59, 10:61, 17:21, 17:88, 33:48, 35:31, 40:62, 42:27, 44:58, 62:5"
+            },
+            {
+                "id": 9727,
+                "topic": "Jaza’: recompense: of believers, of righteous",
+                "verses": "78:37, 2:63, 2:113, 2:263, 2:278, 3:145-146, 3:149, 3:172-173, 3:180, 3:196, 4:68, 4:75, 4:101, 4:115, 4:147, 4:163, 5:10, 5:86, 6:84, 6:91, 6:136, 7:44, 7:171, 8:29, 9:22, 9:120-21, 10:5, 10:27, 11:116, 12:23, 12:57-58, 12:89, 12:91, 13:23, 13:25, 13:36, 16:32, 16:42, 16:97, 17:10, 18:3, 18:31-32, 18:47, 18:89, 20:77, 24:39, 25:16, 27:90, 28:15, 28:38, 28:55, 28:81, 29:8, 29:28, 29:59, 32:18, 33:25, 33:30, 33:32, 33:36, 33:45, 34:5, 34:38, 35:8, 35:34, 36:12, 37:81, 37:106, 37:111, 37:122, 37:132, 39:11, 39:35, 39:36, 39:75, 41:9, 42:27, 46:15, 47:36, 48:11, 48:30, 49:4, 53:32, 53:42, 54:36, 55:61, 56:29, 57:8, 57:12, 57:19-20, 57:28, 64:16, 65:6, 67:13, 68:4, 73:21, 76:13, 76:23, 77:44, 84:26, 95:7, 98:9"
+            },
+            {
+                "id": 15858,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 78:32-37, 83:23, 98:8"
+            }
+        ],
+        "ar": "لِیَجۡزِیَ الَّذِیۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ مِنۡ فَضۡلِہٖ ؕ  اِنَّہٗ  لَا یُحِبُّ الۡکٰفِرِیۡنَ ﴿۴۶﴾ ",
+        "ur": "تاکہ وہ اُن لوگوں کو جو ایمان لائے اور نیک اعمال بجا لائے اپنے فضل سے جزا عطا کرے۔ یقیناً وہ کافروں کو پسند نہیں کرتا۔",
+        "v5": {
+            "text": "[a]That He, out of His bounty, may reward those who believe and do righteous deeds. Surely, He loves not the disbelievers.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "10:5; 34:5-6."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 47,
+        "v_": 46,
+        "topics": [
+            {
+                "id": 10380,
+                "topic": "Law: Divine",
+                "verses": "6:116, 4:29, 6:35, 13:16, 28:85, 29:20, 35:44, 39:56, 46:20, 48:24, 55:34, 57:23"
+            },
+            {
+                "id": 15410,
+                "topic": "Reformers: advent of",
+                "verses": "97:4, 15:19, 19:52, 25:48, 28:60, 30:57, 36:52, 45:6, 56:76, 72:10, 77:12, 81:3, 81:19, 85:2, 91:3, 92:2-3"
+            },
+            {
+                "id": 18628,
+                "topic": "Wind: as a blessing and a sign",
+                "verses": "27:64, 2:165, 7:58, 15:23, 24:44, 25:49, 30:49, 35:10, 38:37, 42:34, 45:6"
+            }
+        ],
+        "ar": "وَ مِنۡ اٰیٰتِہٖۤ  اَنۡ یُّرۡسِلَ الرِّیَاحَ مُبَشِّرٰتٍ وَّ  لِیُذِیۡقَکُمۡ  مِّنۡ  رَّحۡمَتِہٖ  وَ لِتَجۡرِیَ الۡفُلۡکُ بِاَمۡرِہٖ  وَ لِتَبۡتَغُوۡا مِنۡ فَضۡلِہٖ وَ لَعَلَّکُمۡ  تَشۡکُرُوۡنَ ﴿۴۷﴾ ",
+        "ur": "اور اس کے نشانات میں سے (یہ بھی) ہے کہ وہ خوشخبریاں دیتی ہوئی ہواؤں کو بھیجتا ہے اور (یہ اس لئے کرتا ہے) تاکہ وہ تمہیں اپنی رحمت میں سے کچھ چکھائے اور تاکہ کَشتیاں اس کے حکم سے چلنے لگیں اور تاکہ تم اس کے فضل کی تلاش کرو اور ایسا ہو کہ شاید تم شکر گزار بن جاؤ۔",
+        "v5": {
+            "text": "And among His Signs is that He sends the winds as bearers of glad tidings and that He may make you taste of His mercy, and that [b]the ships may sail at His command, and that you may seek of His bounty, and that you may be grateful.[3024]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "17:67; 31:32; 45:13."
+                },
+                {
+                    "ref": "3024",
+                    "note": "<p><strong>Commentary:</strong></p><p>The words, \"He sends the winds with glad tidings,\" point to a divine law which works with as much effect in the physical universe as it does in the spiritual world. Just as winds precede rain, heralding its advent, similarly before the advent of a Divine Reformer there come into existence conditions which are favourable to the spread of his teachings and there appear good and righteous men who prepare the ground and \"make the paths straight for him.\" This has happened in the time of every Prophet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 48,
+        "v_": 47,
+        "topics": [
+            {
+                "id": 1776,
+                "topic": "Allah: helps the believers",
+                "verses": "40:52, 2:215, 10:104"
+            },
+            {
+                "id": 4253,
+                "topic": "Believers: <i>Mu’min</i>: Allah’s help for",
+                "verses": "2:215, 2:154, 3:124, 3:127, 9:25, 10:104, 29:11, 30:6, 40:52, 58:22, 61:14, 110:2"
+            },
+            {
+                "id": 11351,
+                "topic": "Messengers: <i>Rusul</i>: Divine help of",
+                "verses": "40:52, 10:104, 58:22"
+            },
+            {
+                "id": 15723,
+                "topic": "Revenge: <i>Intaqam</i>, retribution",
+                "verses": "43:56, 3:4-5, 5:96, 7:137, 14:48, 15:80, 32:23, 39:37-38, 43:26, 43:42, 44:17"
+            }
+        ],
+        "ar": "وَ لَقَدۡ  اَرۡسَلۡنَا مِنۡ قَبۡلِکَ رُسُلًا  اِلٰی قَوۡمِہِمۡ فَجَآءُوۡہُمۡ  بِالۡبَیِّنٰتِ فَانۡتَقَمۡنَا مِنَ الَّذِیۡنَ اَجۡرَمُوۡا ؕ وَ کَانَ حَقًّا عَلَیۡنَا  نَصۡرُ  الۡمُؤۡمِنِیۡنَ ﴿۴۸﴾ ",
+        "ur": "اوریقیناً ہم نے تجھ سے پہلے کئی رسولوں کو اُنکی قوم کی طرف بھیجا۔ پس وہ ان کے پاس کھلے کھلے نشانات لے کر آئے تو ہم نے ان سے جنہوں نے جرم کئے انتقام لیا اور ہم پر مومنوں کی مدد کرنا فرض ٹھہرتا تھا۔",
+        "v5": {
+            "text": "And surely, We sent Messengers before thee to their own people, and they brought them clear Signs. Then We punished those who were guilty. [c]And it was certainly incumbent upon Us to help the believers.",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "10:104; 40:52; 58:22."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 49,
+        "v_": 48,
+        "topics": [
+            {
+                "id": 5133,
+                "topic": "Cloud: <i>Sahab, ‘Arid, Ghamam</i>",
+                "verses": "2:58, 2:165, 2:211, 7:58, 7:161, 13:13, 15:23, 24:41, 24:44, 25:26, 27:89, 35:10, 46:25, 52:45"
+            },
+            {
+                "id": 15250,
+                "topic": "Rain",
+                "verses": "4:103, 2:20, 2:266, 4:103, 6:7, 7:85, 8:33, 11:53, 11:83-84, 15:75, 20:54, 24:44, 25:41, 26:174, 27:59, 46:25"
+            },
+            {
+                "id": 16297,
+                "topic": "Science: climate, wind, rain",
+                "verses": "2:165, 7:58, 15:23, 23:19-20, 25:49-50, 35:10, 45:6, 50:10-12"
+            },
+            {
+                "id": 18629,
+                "topic": "Wind: as a blessing and a sign",
+                "verses": "27:64, 2:165, 7:58, 15:23, 24:44, 25:49, 30:47, 35:10, 38:37, 42:34, 45:6"
+            }
+        ],
+        "ar": "اَللّٰہُ  الَّذِیۡ یُرۡسِلُ الرِّیٰحَ فَتُثِیۡرُ  سَحَابًا فَیَبۡسُطُہٗ فِی السَّمَآءِ کَیۡفَ یَشَآءُ وَ یَجۡعَلُہٗ کِسَفًا فَتَرَی الۡوَدۡقَ یَخۡرُجُ مِنۡ خِلٰلِہٖ ۚ فَاِذَاۤ  اَصَابَ بِہٖ مَنۡ یَّشَآءُ مِنۡ عِبَادِہٖۤ   اِذَا  ہُمۡ  یَسۡتَبۡشِرُوۡنَ ﴿ۚ۴۹﴾ ",
+        "ur": "اللہ ہی ہے جو ہواؤں کو بھیجتا ہے پس وہ بادل اٹھاتی ہیں۔ پھر وہ اسے آسمان میں جیسے چاہے پھیلا دیتا ہے اور پھر وہ اُسے مختلف ٹکڑوں میں تبدیل کر دیتا ہے۔ پھر تُو دیکھتا ہے کہ اس کے بیچ میں سے بارش نکلتی ہے۔پھر جب وہ اپنے بندوں میں سے جس کو چاہے یہ (فیض) پہنچاتا ہے تو معاً وہ خوشیاں منانے لگتے ہیں۔",
+        "v5": {
+            "text": "[d]<i>It is</i> Allah Who sends the winds so that they raise a cloud. Then He spreads it in the sky as He pleases and places layer upon layer and thou seest the rain issuing forth from its midst. And when He causes it to fall on whom He pleases of His servants, behold! they rejoice;[3025]",
+            "notes": [
+                {
+                    "ref": "d",
+                    "note": "24:44."
+                },
+                {
+                    "ref": "3025",
+                    "note": "<p><strong>Important Words:</strong></p><p>کسفا (pieces) is derived from کسف (<i>kasafa</i>). They say کسف الثوب i.e. he cut up the cloth. کسف أمله means, his hope was blasted. کسفة means, piece, fragment, part (Aqrab).</p><p>ودق (rain) is infinitive-noun from ودق (<i>wadaqa</i>). They say ودق السماء i.e. the cloud rained. ودق السیف means, the sword became sharp (Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 50,
+        "v_": 49,
+        "topics": [
+            {
+                "id": 5133,
+                "topic": "Cloud: <i>Sahab, ‘Arid, Ghamam</i>",
+                "verses": "2:58, 2:165, 2:211, 7:58, 7:161, 13:13, 15:23, 24:41, 24:44, 25:26, 27:89, 35:10, 46:25, 52:45"
+            },
+            {
+                "id": 6340,
+                "topic": "Despair",
+                "verses": "39:54, 2:215, 5:4, 6:45, 11:10, 12:81, 12:88, 12:111, 15:56-57, 17:84, 23:78, 29:24, 30:13, 30:37, 43:76, 60:14"
+            },
+            {
+                "id": 9101,
+                "topic": "Iblis: Devil",
+                "verses": "7:12-13, 15:29-43, 26:96, 30:13, 34:21"
+            }
+        ],
+        "ar": "وَ اِنۡ کَانُوۡا مِنۡ قَبۡلِ اَنۡ یُّنَزَّلَ عَلَیۡہِمۡ مِّنۡ  قَبۡلِہٖ لَمُبۡلِسِیۡنَ ﴿۵۰﴾ ",
+        "ur": "حالانکہ قبل اس سے کہ وہ (پانی) ان پر اتارا جاتا وہ اس کے آنے سے مایوس ہوچکے تھے۔",
+        "v5": {
+            "text": "Though before that—before it was sent down upon them—they were in despair.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 30,
+        "v": 51,
+        "v_": 50,
+        "topics": [
+            {
+                "id": 1758,
+                "topic": "Allah: has the power to do all that He wills",
+                "verses": "2:21, 2:110, 2:149, 2:260, 3:30, 3:166, 3:190, 5:18, 5:20, 5:41, 5:121, 8:42, 9:39, 11:5, 16:78, 24:46, 29:21, 35:2, 41:40, 42:10, 46:34, 48:22, 57:3, 59:7, 64:2, 67:2"
+            },
+            {
+                "id": 3380,
+                "topic": "Attributes of Allah: Al-Muhyi (Life-giver)",
+                "verses": "2:29, 3:157, 7:159, 15:24, 22:67, 30:41, 40:12, 40:69, 45:27, 57:3"
+            },
+            {
+                "id": 5133,
+                "topic": "Cloud: <i>Sahab, ‘Arid, Ghamam</i>",
+                "verses": "2:58, 2:165, 2:211, 7:58, 7:161, 13:13, 15:23, 24:41, 24:44, 25:26, 27:89, 35:10, 46:25, 52:45"
+            },
+            {
+                "id": 6163,
+                "topic": "Dead, Death: <i>Maut</i>: God restores to life",
+                "verses": "2:260-261, 2:57, 2:74, 2:244, 6:37, 8:25, 8:43, 22:7, 22:67, 26:82, 30:20, 30:25, 36:13, 36:34, 40:12, 41:40, 42:10, 43:12, 46:34, 50:12, 75:41"
+            },
+            {
+                "id": 6902,
+                "topic": "Earth: <i>Al-Ard</i>: Allah bestows life to dead",
+                "verses": "22:6, 2:165, 16:66, 29:64, 30:20, 30:25, 35:10, 36:34, 39:22, 41:40, 45:6, 46:34, 57:18"
+            },
+            {
+                "id": 15631,
+                "topic": "Resurrection: spiritual",
+                "verses": "6:37, 2:57, 2:74, 2:261, 5:111, 7:15, 7:58, 8:25, 22:6, 41:40, 56:2-7, 69:14-17, 75:41"
+            }
+        ],
+        "ar": "فَانۡظُرۡ  اِلٰۤی  اٰثٰرِ  رَحۡمَتِ اللّٰہِ  کَیۡفَ یُحۡیِ الۡاَرۡضَ بَعۡدَ مَوۡتِہَا ؕ اِنَّ  ذٰلِکَ لَمُحۡیِ  الۡمَوۡتٰی ۚ وَ ہُوَ  عَلٰی کُلِّ  شَیۡءٍ  قَدِیۡرٌ ﴿۵۱﴾ ",
+        "ur": "پس تُو اللہ کی رحمت کے آثار پر نظر ڈال۔ کیسے وہ زمین کو اس کے مرنے کے بعد زندہ کرتا ہے۔ یقیناً وہی ہے جو مُردوں کو زندہ کرنے والا ہے اور وہ ہر چیز پر جسے وہ چاہے، دائمی قدرت رکھتا ہے۔ ",
+        "v5": {
+            "text": "[a]Look, therefore, at the marks of Allah’s mercy: how He quickens the earth after its death. Verily, the same <i>God</i> will quicken the dead; for He has power over all things.[3026]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "16:66; 22:6; 35:28; 39:22; 45:6."
+                },
+                {
+                    "ref": "3026",
+                    "note": "<p><strong>Commentary:</strong></p><p>After attention has been drawn in the preceding two verses to the natural phenomenon that when, after severe drought, welcome rain comes, the parched and dry earth gets a new life. In the present verse we are told that similar formula operates in the spiritual renaissance of a morally decrepit people. A people virtually as good as dead receive a new life through a Divine Prophet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 52,
+        "v_": 51,
+        "topics": [
+            {
+                "id": 5434,
+                "topic": "Crops",
+                "verses": "16:12, 2:206, 3:118, 6:137, 6:139, 6:142, 7:131, 18:33-34, 32:28, 39:22, 44:26-27, 56:64-66"
+            }
+        ],
+        "ar": "وَ لَئِنۡ  اَرۡسَلۡنَا رِیۡحًا فَرَاَوۡہُ  مُصۡفَرًّا لَّظَلُّوۡا مِنۡۢ  بَعۡدِہٖ  یَکۡفُرُوۡنَ ﴿۵۲﴾ ",
+        "ur": "اور اگر ہم کوئی ایسی ہوا بھیجیں جس کے نتیجہ میں وہ اُس (سبزہ) کو زرد ہوتا ہوا دیکھیں تو اس کے بعد ضرور وہ ناشکری کرنے لگیں گے۔",
+        "v5": {
+            "text": "And if We sent a wind and [b]they saw it (their harvest) turn yellow, they would certainly, thereafter, <i>begin to</i> deny <i>Our favours</i>.",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "56:66; 57:21."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 53,
+        "v_": 52,
+        "topics": [],
+        "ar": "فَاِنَّکَ لَا تُسۡمِعُ الۡمَوۡتٰی وَ لَا تُسۡمِعُ الصُّمَّ  الدُّعَآءَ   اِذَا  وَلَّوۡا  مُدۡبِرِیۡنَ ﴿۵۳﴾ ",
+        "ur": "پس تُو یقیناً مُردوں کو نہیں سُنا سکتا اور نہ بہروں کو (اپنی) دعوت سنا سکتا ہے جب وہ پیٹھ پھیرتے ہوئے چلے جائیں۔",
+        "v5": {
+            "text": "And thou canst not make the dead to hear [c]nor canst thou make the deaf to hear the call, when they turn away showing their backs.",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "10:43; 21:46; 27:81."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 54,
+        "v_": 53,
+        "topics": [
+            {
+                "id": 4522,
+                "topic": "Blind: cannot guide those who choose to be",
+                "verses": "6:105, 10:44, 27:82, 41:18, 41:45, 43:41"
+            },
+            {
+                "id": 6348,
+                "topic": "Destiny: man, maker of his",
+                "verses": "4:80, 10:109, 17:16, 27:93, 29:7, 39:42, 42:31, 45:16, 52:22, 53:39-43, 87:3"
+            },
+            {
+                "id": 12808,
+                "topic": "Muslims: submitters",
+                "verses": "3:111, 29:47, 2:133-134, 2:137, 3:53, 3:103, 7:127, 16:90, 16:103, 21:109, 22:79, 27:82, 41:34, 43:70"
+            }
+        ],
+        "ar": "وَ مَاۤ  اَنۡتَ بِہٰدِ الۡعُمۡیِ عَنۡ ضَلٰلَتِہِمۡ ؕ اِنۡ  تُسۡمِعُ  اِلَّا مَنۡ یُّؤۡمِنُ بِاٰیٰتِنَا فَہُمۡ مُّسۡلِمُوۡنَ ﴿٪۵۴﴾ ",
+        "ur": "اور نہ تُو اندھوں کو اُن کے بھٹک جانے کے بعد رستہ دکھا سکتا ہے۔ تُو نہیں سُنا سکتا مگر اُسے جو ہماری آیات پر ایمان لے آئے پس وہی فرمانبردار لوگ ہیں۔",
+        "v5": {
+            "text": "[a]Nor canst thou guide the blind out of their error. Thou canst make only those to hear who would believe in Our Signs and they submit.[3027]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "10:44; 27:82."
+                },
+                {
+                    "ref": "3027",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse points to another natural law, viz. that it is man himself who makes or mars his destiny. No Prophet or Divine revelation can lead a man to God unless he has the will to listen to truth. He who refuses to listen to truth ends by his heart having been sealed up, but he who is prepared to listen to truth is led up to it. The initiative first must come from man himself, the result then follows from God.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 55,
+        "v_": 54,
+        "topics": [
+            {
+                "id": 1338,
+                "topic": "Allah: created you in a state of weakness",
+                "verses": null
+            },
+            {
+                "id": 3454,
+                "topic": "Attributes of Allah: Al-Qadir (All-Powerful)",
+                "verses": "35:45, 2:149, 2:285, 4:150, 5:41, 16:71, 22:7, 25:55, 57:3, 64:2"
+            },
+            {
+                "id": 4443,
+                "topic": "Biology: creation of life, birth",
+                "verses": null
+            },
+            {
+                "id": 14889,
+                "topic": "Qadir: powerful: Allah has the power to do all",
+                "verses": "46:34, 2:107, 2:285, 3:27, 3:30, 3:166, 3:190, 4:134, 6:18, 6:38, 6:66, 16:71, 17:100, 22:7, 22:40, 23:19, 23:96, 25:55, 33:28, 36:82, 42:30, 42:51, 60:8, 65:13, 66:9, 70:41, 75:5, 75:41, 86:9"
+            }
+        ],
+        "ar": "اَللّٰہُ  الَّذِیۡ خَلَقَکُمۡ مِّنۡ ضُؔعۡفٍ ثُمَّ جَعَلَ مِنۡۢ بَعۡدِ ضُؔعۡفٍ قُوَّۃً  ثُمَّ جَعَلَ مِنۡۢ بَعۡدِ قُوَّۃٍ  ضُؔعۡفًا وَّ شَیۡبَۃً ؕ یَخۡلُقُ مَا یَشَآءُ ۚ وَ ہُوَ  الۡعَلِیۡمُ  الۡقَدِیۡرُ ﴿۵۵﴾ ",
+        "ur": "اللہ وہ ہے جس نے تمہیں ایک ضُعف (کی حالت) سے پیدا کیا۔ پھر ضُعف کے بعد قوت بنائی۔ پھر قوت کے بعد ضُعف اور بڑھاپا بنا دیئے۔ وہ جو چاہتا ہے پیدا کرتا ہے اور وہ دائمی علم رکھنے والا (اور) دائمی قدرت والا ہے۔",
+        "v5": {
+            "text": "[b]<i>It is</i> Allah Who created you in a state of weakness, and after weakness gave <i>you</i> strength; then, after strength, caused weakness and old age. He creates what He pleases. He is the All-knowing, the All-Powerful.[3028]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "40:68."
+                },
+                {
+                    "ref": "3028",
+                    "note": "<p><strong>Commentary:</strong></p><p>The clause خلقکم من ضعف which literally means, He created you from weakness, really means that man has been created weak or in a state of weakness. This form of expression has been used to emphasize man’s weakness, the words من ضعف signifying that he is the very embodiment of weakness. A parallel expression has been used in 21:38 where the expression خلق الانسان من عجل i.e. man has been created of haste, means that impatience and haste form a part of man’s nature. The implication of the verse may be that from extremely insignificant beginnings the Arabs will rise to a very high political and spiritual stature through the Holy Prophet, and then after having attained the heights of glory and grandeur will relapse into their original obscurity and weakness. Or the verse may have a general application pointing to the law of the rise and fall of nations.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 56,
+        "v_": 55,
+        "topics": [
+            {
+                "id": 8264,
+                "topic": "Guilty: <i>Mujrim</i>",
+                "verses": "10:18, 6:148, 7:41, 7:134, 9:66, 10:14, 11:117, 12:111, 14:50, 19:87, 20:75, 20:103, 27:70, 28:79, 30:13, 32:13, 36:60, 37:35, 43:75, 46:26, 55:42, 55:44, 70:12, 77:19"
+            },
+            {
+                "id": 9003,
+                "topic": "Hour: <i>Sa‘ah</i>",
+                "verses": "25:12, 6:32, 6:41, 7:188, 12:108, 15:86, 16:78, 18:22, 20:16, 21:50, 22:2, 22:8, 22:56, 30:13, 31:35, 33:64, 34:4, 40:60, 41:48, 41:51, 42:18-19, 43:62, 43:67, 43:86, 45:28, 45:33, 47:19, 54:2, 54:47, 79:43, 79:44"
+            },
+            {
+                "id": 9026,
+                "topic": "Hour: <i>Sa‘ah</i>: appointed time",
+                "verses": "25:12, 46:36, 7:35, 9:117, 10:46, 16:62"
+            },
+            {
+                "id": 13179,
+                "topic": "Oaths: <i>yamin</i>: of disbelievers, hypocrites, idolaters",
+                "verses": "58:17, 4:63, 5:54, 6:110, 9:42, 9:56, 9:62, 9:95, 9:96, 9:107, 12:74, 16:39, 24:54, 27:50, 35:43, 58:19, 63:3, 68:11"
+            }
+        ],
+        "ar": "وَ یَوۡمَ تَقُوۡمُ السَّاعَۃُ  یُقۡسِمُ الۡمُجۡرِمُوۡنَ ۬ۙ مَا لَبِثُوۡا غَیۡرَ  سَاعَۃٍ ؕ کَذٰلِکَ  کَانُوۡا  یُؤۡفَکُوۡنَ ﴿۵۶﴾ ",
+        "ur": "اور جس دن قیامت برپا ہوگی مجرم لوگ قسمیں کھائیں گے کہ (دنیا میں) وہ ایک گھڑی سے زیادہ نہیں رہے۔ اسی طرح وہ (پہلے بھی) بھٹکا دئیے جاتے تھے۔",
+        "v5": {
+            "text": "And on the day when the Hour shall arrive the guilty will swear that [a]they tarried not save an hour—thus were they turned away <i>from the right path</i>.[3029]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "10:46; 46:36."
+                },
+                {
+                    "ref": "3029",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means to say that when the hour of the triumph of Islam arrives and disbelief suffers defeat, the disbelievers will realize to their mortification and sorrow that the time of their prosperity and glory was indeed very short. It was but an hour!</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 57,
+        "v_": 56,
+        "topics": [
+            {
+                "id": 4641,
+                "topic": "Book: <i>Kitab</i>: repository of Divine laws and decrees",
+                "verses": "57:23, 2:136, 4:25, 8:69, 8:76, 9:36, 13:39, 15:5, 17:59, 33:7, 35:12"
+            },
+            {
+                "id": 5841,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>",
+                "verses": "37:21, 1:4, 2:9, 2:49, 2:86, 2:114, 2:127, 3:78, 3:115, 4:40, 4:142, 5:70, 6:13, 9:18, 11:27, 14:32, 14:43, 15:36, 23:102, 24:3, 24:38, 25:27, 26:83, 26:88, 29:37, 33:22, 38:80, 43:66, 44:17, 50:45, 51:13, 60:4, 70:9, 74:9-10, 75:2-3, 82:17-18, 83:11-12, 86:10"
+            },
+            {
+                "id": 10222,
+                "topic": "Knowledge: <i>‘Ilm</i>: and believers",
+                "verses": "4:163, 2:248, 3:8, 6:36, 6:58, 6:98, 6:106, 12:23, 12:56, 12:69, 12:109, 15:76, 16:28, 17:108, 22:55, 28:81, 29:48, 29:50, 31:16, 34:7, 58:12"
+            },
+            {
+                "id": 15411,
+                "topic": "Reformers: advent of",
+                "verses": "97:4, 15:19, 19:52, 25:48, 28:60, 30:47, 36:52, 45:6, 56:76, 72:10, 77:12, 81:3, 81:19, 85:2, 91:3, 92:2-3"
+            }
+        ],
+        "ar": "وَ قَالَ الَّذِیۡنَ  اُوۡتُوا الۡعِلۡمَ  وَ الۡاِیۡمَانَ لَقَدۡ لَبِثۡتُمۡ  فِیۡ کِتٰبِ اللّٰہِ  اِلٰی یَوۡمِ الۡبَعۡثِ ۫ فَہٰذَا یَوۡمُ الۡبَعۡثِ وَ لٰکِنَّکُمۡ  کُنۡتُمۡ  لَا  تَعۡلَمُوۡنَ ﴿۵۷﴾ ",
+        "ur": "اور جن لوگوں کو علم اور ایمان دیا گیا کہیں گے کہ یقیناً تم اللہ کی کتاب میں بَعث کے دن تک رہے ہو اور یہی ہے بَعث کا دن، لیکن تم علم نہیں رکھتے۔",
+        "v5": {
+            "text": "But those who are given knowledge and faith will say, ‘You have indeed tarried according to the Book of Allah, till the Day of Resurrection. And this is the Day of Resurrection, but you did not <i>care to</i> know.’[3030]",
+            "notes": [
+                {
+                    "ref": "3030",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse purports to say that when disbelievers will have realized to their discomfiture that the time of their prosperity and progress was very short, they will be told by true believers that according to divine decree they (disbelievers) were left alone to indulge in vice and sin up to the Day of Resurrection i.e. till the advent of a Divine Prophet, when all their prosperity and grandeur was to have come to an end. Thus the words \"Day of Resurrection\" do not refer to Resurrection after death but to the rise and fall of nations in this world.</p><p>The disbelievers or Christian nations of the West are here warned that their final destruction will take place after the renaissance of Islam in the Latter Days and not, as they misunderstand, in the time of its first phenomenal rise and spread.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 58,
+        "v_": 57,
+        "topics": [],
+        "ar": "فَیَوۡمَئِذٍ لَّا یَنۡفَعُ الَّذِیۡنَ ظَلَمُوۡا مَعۡذِرَتُہُمۡ  وَ لَا ہُمۡ  یُسۡتَعۡتَبُوۡنَ ﴿۵۸﴾ ",
+        "ur": "پس اس دن جن لوگوں نے ظلم کیا اُن کو ان کی معذرت کوئی فائدہ نہیں دے گی اور نہ ہی اُن سے عذر قبول کیا جائے گا۔",
+        "v5": {
+            "text": "So [b]on that day, their excuses will not avail the wrongdoers; nor will they be allowed to make amends.[3030A]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "16:85; 41:25; 45:36."
+                },
+                {
+                    "ref": "3030A",
+                    "note": "<p><strong>Important Words:</strong></p><p>یستعتبون (allowed to make amends) is derived from عتب. They say عتب علیه i.e. he was angry with him; he reproved or censured him. ماعتبت بابه means, I have not trodden upon the threshold of his door. استعتبه means, he asked, solicited or sought his favour; or he asked or requested him to be regarded with favour or to be taken into his favour or he desired or sought of him that he shall return to making him happy or to doing what was pleasing to him, from doing evil to him; he granted him his goodwill or favour; regarded him with goodwill: became pleased with him. عتبة means, the threshold of a door (Aqrab &amp; Lane). In view of these different meanings of the root word the clause ولاھم یستعتبون would mean:</p><p>(a) They will not be allowed to approach the divine threshold. i.e. they will be treated as rejected and condemned;</p><p>(b) the time of their punishment having already arrived, they will not be permitted to make amends for the sins they would have committed;</p><p>(c) no excuse in their defence will be accepted from them; and</p><p>(d) they will not be taken into God’s favour.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 59,
+        "v_": 58,
+        "topics": [
+            {
+                "id": 2130,
+                "topic": "Allah: parables set forth by, <i>Amthal</i>",
+                "verses": "13:18, 2:18, 2:27, 2:172, 2:262, 2:265, 7:177, 13:36, 14:19, 14:25-27, 14:46, 16:75-77, 16:113, 18:33, 22:74, 24:36, 25:40, 29:42, 29:44, 30:29, 36:14, 39:28, 39:30, 43:9, 47:4, 47:16, 59:22, 62:6, 66:11-12"
+            },
+            {
+                "id": 10243,
+                "topic": "Knowledge: <i>‘Ilm</i>: and disbelievers",
+                "verses": "6:149, 2:119, 3:62, 4:158, 5:105, 6:101, 6:120, 6:141, 9:6, 10:40, 16:28, 17:37, 22:4, 22:9, 22:72, 27:67, 30:8, 40:84, 46:5, 47:17"
+            },
+            {
+                "id": 15065,
+                "topic": "Qur’an: repeatedly explains",
+                "verses": "17:90, 18:55, 20:114, 25:51, 39:28"
+            }
+        ],
+        "ar": "وَ لَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِیۡ ہٰذَا الۡقُرۡاٰنِ مِنۡ کُلِّ مَثَلٍ ؕ وَ لَئِنۡ جِئۡتَہُمۡ بِاٰیَۃٍ لَّیَقُوۡلَنَّ  الَّذِیۡنَ کَفَرُوۡۤا اِنۡ  اَنۡتُمۡ  اِلَّا مُبۡطِلُوۡنَ ﴿۵۹﴾ ",
+        "ur": "اور یقیناً ہم نے انسانوں کے لئے اس قرآن میں ہر قسم کی مثالیں بیان کر دی ہیں اور اگر تُو ان کے پاس کوئی نشان لے کر آئے تو جن لوگوں نے کفر کیا یقیناً وہ کہیں گے کہ تم (لوگ) تو محض جھوٹے ہو۔",
+        "v5": {
+            "text": "And truly, [a]We have set forth for men in this Quran every kind of parable, and indeed, if thou bring them a Sign, those who disbelieve will surely Say, ‘You are but liars.’[3031]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "17:90; 39:28."
+                },
+                {
+                    "ref": "3031",
+                    "note": "<p><strong>Important Words:</strong></p><p>مثل (parable) is derived from مثل (<i>mathala</i>) and means, a description, condition, state, case, etc.; (2) argument, reason; (3) discourse; (4) lesson or example; (5) a proverb; (6) a Sign; (7) a parable or similitude (Aqrab &amp; Lane). See also 2:18,107; 6:39 &amp; 14:36.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 30,
+        "v": 60,
+        "v_": 59,
+        "topics": [
+            {
+                "id": 2357,
+                "topic": "Allah: sets a seal on their hearts, <i>Khatama</i>, <i>Taba‘a</i>",
+                "verses": "2:8, 4:156, 9:87, 9:93, 16:109, 40:36, 47:17, 63:4"
+            },
+            {
+                "id": 8506,
+                "topic": "Heart: <i>Sadr, Fu’ad, Qalb</i>: sealed, veiled, rusted, blind, straitened",
+                "verses": "53:12, 18:58, 2:8, 2:89, 4:156, 6:26, 6:47, 6:111, 7:101-102, 7:180, 9:87, 9:93, 9:110, 10:75, 11:13, 14:44, 15:98, 16:109, 17:47, 18:29, 22:47, 23:64, 26:14, 40:36, 41:6, 42:25, 45:24, 47:17, 47:25, 59:15, 63:4, 83:15"
+            },
+            {
+                "id": 10243,
+                "topic": "Knowledge: <i>‘Ilm</i>: and disbelievers",
+                "verses": "6:149, 2:119, 3:62, 4:158, 5:105, 6:101, 6:120, 6:141, 9:6, 10:40, 16:28, 17:37, 22:4, 22:9, 22:72, 27:67, 30:8, 40:84, 46:5, 47:17"
+            },
+            {
+                "id": 16470,
+                "topic": "Seal: <i>Taba‘a</i>",
+                "verses": "4:156, 7:101, 9:87, 9:93, 10:75, 40:36"
+            }
+        ],
+        "ar": "کَذٰلِکَ یَطۡبَعُ اللّٰہُ عَلٰی قُلُوۡبِ الَّذِیۡنَ لَا  یَعۡلَمُوۡنَ  ﴿۶۰﴾",
+        "ur": "اسی طرح اللہ ان لوگوں کے دلوں پر مہر لگا دیتا ہے جو علم نہیں رکھتے۔",
+        "v5": {
+            "text": "[b]Thus does Allah seal the hearts of those who have no knowledge.[3032]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "9:93; 16:109; 47:17."
+                },
+                {
+                    "ref": "3032",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse makes it clear that the hearts of only those people are \"sealed\" who reject divine knowledge that comes to them through a Divine Reformer. The \"sealing\" of the hearts of disbelievers is the inevitable consequence of their own refusal to accept divine knowledge.</p>"
+                }
+            ]
+        }
+    }
+]

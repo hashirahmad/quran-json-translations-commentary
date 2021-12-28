@@ -1,0 +1,611 @@
+[
+    {
+        "ch": 73,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 8915,
+                "topic": "Hira: cave of",
+                "verses": null
+            },
+            {
+                "id": 12548,
+                "topic": "Muhammad<sup>(sa)</sup>: names of",
+                "verses": "61:7, 2:120, 13:8, 21:108, 33:41, 33:46, 42:49, 53:57, 72:20, 73:16, 74:2-3, 88:22-23"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا الۡمُزَّمِّلُ ۙ﴿۲﴾ ",
+        "ur": "اے اچھی طرح چادر میں لپٹنے والے!",
+        "v5": {
+            "text": "O thou wrapped in <i>thy</i> mantle <i>awaiting the grace of God </i>[4414]",
+            "notes": [
+                {
+                    "ref": "4414",
+                    "note": "<p><strong>Important Words:</strong></p><p>المزمل (wrapped in mantle) is derived from the root زمل which means, he ran and went along quickly. زمله means, he bore or carried it, namely, a load. </p><p>زمله علی البعیر means, be made him to ride behind him on the camel so as to counterbalance him. زمله فی ثوبه means, he wrapped him in his garment. تزمل means, he wrapped himself. مزمل (ordinarily متزمل) means, a man wrapped in his garments; one bearing a heavy responsibility (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>In view of different significations of the word مزمل the verse has been variously interpreted. The simple explanation is the one given in Bukhari. After his first spiritual experience when the angel of God came to the Holy Prophet with Divine revelation he rushed home very much frightened. The fright was quite natural because the experience was quite novel. The Prophet asked to be wrapped in a mantle. As wrapping also implies the sense of joining together and uniting, the meaning of the verse may be something like this, \"O thou who art to unite the nations of the world under one banner!\" The Holy Prophet has been described in the Hadith as الحاشر i.e. the Joiner and Uniter of the nations of the world (Bukhari, <i>Kitab Manaqibun-Nabi</i>).</p><p>Applying the other root meanings of زمل given under Important Words, it may be said: (1) That the Holy Prophet is described in the verse as one who has to go a long distance on the road to awaken humanity to the realization of its high destiny, and therefore he has to run fast i.e. work hard, incessantly and fast. (2) That he is one who is to carry a heavy load, a very great responsibility of preaching the Divine Message to the world. (3) That the Holy Prophet may have been reminded of his onerous task of preparing a community of God-fearing followers, who, imbued with the same noble ideals and fired with the same unflagging zeal as himself, should help him to convey to mankind the Message of Islam. زمل also means to make another person ride behind oneself on the camel so as to maintain balance. It is to the onerous duties and responsibilities of the Holy Prophet and to his high status as a Divine teacher that in reality reference has been made in the verse under comment, and not to his being wrapped in his mantle. From the time be received this revelation, the Holy Prophet’s life was not his own. It became dedicated to God and mankind.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 12993,
+                "topic": "Night: for prayers",
+                "verses": "73:7, 3:114, 11:115, 16:76, 17:79-80, 20:131, 21:21, 21:43, 25:65, 39:10, 41:39, 50:41, 51:18, 52:50, 73:21, 76:27"
+            },
+            {
+                "id": 16118,
+                "topic": "Salah: <i>Tahajjud</i>",
+                "verses": "17:80, 32:17, 50:41, 73:21"
+            },
+            {
+                "id": 17461,
+                "topic": "Tahajjud",
+                "verses": "17:80, 2:159, 32:17, 73:21"
+            }
+        ],
+        "ar": "قُمِ  الَّیۡلَ   اِلَّا  قَلِیۡلًا ۙ﴿۳﴾ ",
+        "ur": "رات کو قیام کیا کر مگر تھوڑا۔",
+        "v5": {
+            "text": "[a]Stand up <i>in Prayer</i> at night except a small portion thereof––[4415]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "17:80; 50:41; 52:50; 76:27."
+                },
+                {
+                    "ref": "4415",
+                    "note": "<p><strong>Commentary:</strong></p><p>In this and the next verse the Holy Prophet is told that praying to God in the stillness of the night will prepare him for the heavy task entrusted to him.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 16118,
+                "topic": "Salah: <i>Tahajjud</i>",
+                "verses": "17:80, 32:17, 50:41, 73:21"
+            },
+            {
+                "id": 17461,
+                "topic": "Tahajjud",
+                "verses": "17:80, 2:159, 32:17, 73:21"
+            }
+        ],
+        "ar": "نِّصۡفَہٗۤ  اَوِ انۡقُصۡ  مِنۡہُ  قَلِیۡلًا ۙ﴿۴﴾ ",
+        "ur": "اس کا نصف یا اس میں سے کچھ تھوڑا سا کم کر دے۔",
+        "v5": {
+            "text": "Half of it, or reduce it a little",
+            "notes": null
+        }
+    },
+    {
+        "ch": 73,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 15166,
+                "topic": "Qur’an: recitation of",
+                "verses": "7:205, 16:99-101, 17:46, 17:79, 17:107, 18:28, 27:93, 29:46, 43:4, 73:21, 96:4"
+            },
+            {
+                "id": 16118,
+                "topic": "Salah: <i>Tahajjud</i>",
+                "verses": "17:80, 32:17, 50:41, 73:21"
+            },
+            {
+                "id": 17461,
+                "topic": "Tahajjud",
+                "verses": "17:80, 2:159, 32:17, 73:21"
+            }
+        ],
+        "ar": "اَوۡ زِدۡ  عَلَیۡہِ  وَ رَتِّلِ الۡقُرۡاٰنَ  تَرۡتِیۡلًا ؕ﴿۵﴾ ",
+        "ur": "یا اس پر (کچھ) زیادہ کردے اور قرآن کو خوب نکھار کر پڑھا کر۔",
+        "v5": {
+            "text": "Or add to it <i>a little</i>––[b]and the Quran, a good recital.[4416]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "17:107; 25:33."
+                },
+                {
+                    "ref": "4416",
+                    "note": "<p><strong>Important Words:</strong></p><p>رتل (recite) is derived from رتل (<i>ratila</i>). They say رتل الشیء i.e. the thing was or became well arranged. رتل الثغیر means, the front teeth were or became even in their growth or separated one from another; were well set together and were white and lustrous. رتل الکلام (<i>rattala</i>) means, he put together and arranged well the component parts of the speech and made it distinct. ترتیل in its original sense relates to the teeth, signifying their being separated one from the other, and when used with regard to a speech it signifies, putting together and arranging well its component parts and making it distinct. رتلت القرآنmeans, I recited the Quran in a leisurely manner, deliberately, distinctly and well (Lane &amp; Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 12344,
+                "topic": "Muhammad<sup>(sa)</sup>: and Qur’an",
+                "verses": "16:104, 2:98, 3:145, 10:16, 11:13, 15:88, 16:45, 17:75, 26:193-196, 47:3"
+            },
+            {
+                "id": 15060,
+                "topic": "Qur’an: excellence, perfection of, <i>Ummul-Kitab</i>",
+                "verses": "2:24, 2:3, 5:4, 6:156, 8:32, 10:38-40, 11:2, 11:14-15, 13:32, 14:25-26, 15:2, 17:89, 18:110, 21:11, 21:25, 25:2, 27:2, 29:52, 38:2, 38:30, 39:24, 43:5, 52:34-35, 59:22"
+            },
+            {
+                "id": 16118,
+                "topic": "Salah: <i>Tahajjud</i>",
+                "verses": "17:80, 32:17, 50:41, 73:21"
+            },
+            {
+                "id": 17461,
+                "topic": "Tahajjud",
+                "verses": "17:80, 2:159, 32:17, 73:21"
+            }
+        ],
+        "ar": "اِنَّا سَنُلۡقِیۡ عَلَیۡکَ  قَوۡلًا  ثَقِیۡلًا ﴿۶﴾ ",
+        "ur": "یقیناً ہم تجھ پر ایک بھاری فرمان اُتاریں گے۔",
+        "v5": {
+            "text": "Verily, We shall charge thee with a weighty Word.[4417]",
+            "notes": [
+                {
+                    "ref": "4417",
+                    "note": "<p><strong>Commentary:</strong></p><p>قولا ثقیلا may have any one of the following meanings: (a) The Quran is pregnant with the highest import. (b) It is too heavy to be displaced or dislocated i.e. the Quranic Teaching will continue to guide mankind and no other teaching would ever take its place or improve upon it. (c) No word or letter of the Quran could be changed, altered or amended. (d) The Quran will break all opposition and (e) no single book or a collection of books could encompass all the knowledge contained in it. Briefly, the collective and concerted effort of all mankind will not be able to produce a Book like the Quran.</p><p>According to an oft-quoted hadith, the Holy Prophet, whenever a revelation descended upon him, went into a trance and felt a peculiar sensation so that even on an extremely cold day big drops of sweat fell from his forehead and he felt a dead weight of his body (Bukhari). The Quranic revelation being \"a weighty word\", his paroxysm was due to this sensation.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 12979,
+                "topic": "Night: for prayers",
+                "verses": "3:114, 11:115, 16:76, 17:79-80, 20:131, 21:21, 21:43, 25:65, 39:10, 41:39, 50:41, 51:18, 52:50, 73:3, 73:21, 76:27"
+            },
+            {
+                "id": 16118,
+                "topic": "Salah: <i>Tahajjud</i>",
+                "verses": "17:80, 32:17, 50:41, 73:21"
+            },
+            {
+                "id": 17461,
+                "topic": "Tahajjud",
+                "verses": "17:80, 2:159, 32:17, 73:21"
+            }
+        ],
+        "ar": "اِنَّ نَاشِئَۃَ الَّیۡلِ  ہِیَ اَشَدُّ وَطۡاً  وَّ  اَقۡوَمُ قِیۡلًا ؕ﴿۷﴾ ",
+        "ur": "رات کا اُٹھنا یقیناً (نفس کو) پاؤں تلے کچلنے کے لئے زیادہ شدید اور قول کے لحاظ سے زیادہ مضبوط ہے۔",
+        "v5": {
+            "text": "Verily, getting up at night for prayer is the most potent means of subduing <i>the self</i> and most effective in speech.[4418]",
+            "notes": [
+                {
+                    "ref": "4418",
+                    "note": "<p><strong>Important Words:</strong></p><p>وطأ (subduing) is derived from وطیء. They say وطیء الشیء i.e. he trod under foot the thing. وطیء الفرس means, he mounted the horse. وطیء أرض عدوہ means, he entered the enemy’s land (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>Getting up in the night for Prayer is a potent means of subduing one’s self and of bringing under effective control one’s evil propensities and inclinations. It is a proven experience of all spiritual wayfarers and holy men that nothing conduces to one’s spiritual development so much as Prayers at night. In the stillness and solitude of night, a peculiar sort of peace prevails and all nature is quiet, and man, being all alone with his Creator, enjoys special communion with Him, and becomes illumined with a special heavenly light which he imparts to others. The time is eminently suited for man to develop strength of character and to make his speech sane, solid and sound. Effective speech and infinite capacity for hard work are two very necessary qualifications for a Reformer to succeed in his mission, Prayer at night helps in the development of these two qualities. Having acquired control over one’s mind and tongue one comes to exercise control over others. This is the significance of the verse under comment. The verse may also mean that Night Prayer causes the actions of man to correspond to his words, which constitutes another sure sign of the strength of his character and the sincerity of his heart.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 16118,
+                "topic": "Salah: <i>Tahajjud</i>",
+                "verses": "17:80, 32:17, 50:41, 73:21"
+            }
+        ],
+        "ar": "اِنَّ  لَکَ فِی النَّہَارِ سَبۡحًا طَوِیۡلًا ؕ﴿۸﴾ ",
+        "ur": "یقیناً تیرے لئے دن کو بہت لمبا کام ہوتا ہے۔",
+        "v5": {
+            "text": "Thou hast indeed, during the day, <i>a</i> long <i>chain of</i> engagements.[4419]",
+            "notes": [
+                {
+                    "ref": "4419",
+                    "note": "<p><strong>Important Words:</strong></p><p>سبحاً (long chain of engagements) is derived from سبح. They say سبح فی الماء i.e. he swam in the water and took pleasure in it. سبح فی الارض means, he went far into the land. سبح فی حوائجه means, he busied himself in the accomplishment of his needs. سبح(<i>sabhun</i>) also signifies the running of a horse in which the forelegs are stretched forth well as are the arms of a man in swimming; being quick or swift (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The reference in the verse is to the multifarious duties of the Holy Prophet which he performed with alacrity and took pleasure in doing them. As Head of a newly-established Republic, surrounded on all sides by bitter foes and beset with the plots and machinations of internal enemies, and as a Divine teacher and Reformer who had to prepare a community, which was unacquainted with even the rudiments of knowledge, to become the leaders of nations in civilization and culture, the Prophet’s task was indeed very difficult, which can better be imagined than described, but which he performed with a success which has baffled the world.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 2250,
+                "topic": "Allah: remembrance of",
+                "verses": "13:29, 2:153, 2:204, 3:192, 4:104, 7:206, 8:46, 10:13, 24:38, 26:228, 29:46, 33:42, 39:10, 43:37, 57:17, 62:10-11, 63:10"
+            },
+            {
+                "id": 15519,
+                "topic": "Remember: Allah",
+                "verses": "2:153, 2:199, 2:201, 2:204, 2:232, 2:240, 3:42, 3:192, 4:104, 5:8, 5:12, 5:21, 7:70, 7:75, 7:206, 8:46, 13:29, 18:25, 20:15, 20:43, 24:38, 26:228, 29:46, 33:22, 33:36, 33:42, 35:4, 39:24, 43:14, 57:17, 62:11, 63:10, 76:26, 87:16"
+            },
+            {
+                "id": 16118,
+                "topic": "Salah: <i>Tahajjud</i>",
+                "verses": "17:80, 32:17, 50:41, 73:21"
+            }
+        ],
+        "ar": "وَ اذۡکُرِ اسۡمَ رَبِّکَ وَ تَبَتَّلۡ  اِلَیۡہِ تَبۡتِیۡلًا ؕ﴿۹﴾ ",
+        "ur": "پس اپنے ربّ کے نام کا ذکر کر اور اس کی طرف پوری طرح منقطع ہوتا ہؤا الگ ہوجا۔",
+        "v5": {
+            "text": "So remember the name of thy Lord, and devote <i>thyself</i> to Him <i>with</i> full devotion.[4420]",
+            "notes": [
+                {
+                    "ref": "4420",
+                    "note": "<p><strong>Important Words:</strong></p><p>تبتل (devote) is derived from بتل (<i>battala</i>). They say بتله i.e. he severed it or separated it from another thing. بتل الی الله means, he detached himself from worldly things and devoted himself exclusively and sincerely to the service of God. بتول means, a woman detached from worldly things and entirely devoted to God (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>In this verse the Holy Prophet is told that he could accomplish his heavy task of reforming a corrupt community and preparing it for the leadership of the world by devoting himself completely to God.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 2155,
+                "topic": "Allah: present everywhere",
+                "verses": "2:116, 2:143, 26:29, 37:6, 55:18"
+            },
+            {
+                "id": 3657,
+                "topic": "Attributes of Allah: Al-Wakil (Disposer of Affairs, Guardian, Trustee)",
+                "verses": "3:174, 4:82, 4:133, 4:172, 6:103, 11:13, 17:3, 17:66, 17:69, 28:29, 33:4, 33:49"
+            },
+            {
+                "id": 3806,
+                "topic": "Attributes of Allah: Rabbul-Mashariq (Lord of all Light)",
+                "verses": "37:6, 26:29, 55:18, 70:41"
+            },
+            {
+                "id": 7056,
+                "topic": "East & West",
+                "verses": "2:116, 2:143, 2:178, 2:259, 7:138, 19:17, 24:36, 26:29, 37:6, 43:39"
+            },
+            {
+                "id": 18604,
+                "topic": "West",
+                "verses": "111:2-6, 2:116, 2:143, 2:178, 2:259, 18:87, 26:29, 28:45, 55:18, 70:41"
+            }
+        ],
+        "ar": "رَبُّ الۡمَشۡرِقِ وَ الۡمَغۡرِبِ لَاۤ  اِلٰہَ  اِلَّا ہُوَ فَاتَّخِذۡہُ  وَکِیۡلًا ﴿۱۰﴾ ",
+        "ur": "وہ مشرق اور مغرب کا ربّ ہے۔ اُس کے سوا اور کوئی معبود نہیں۔ پس اُسے بطور کارساز اپنالے۔",
+        "v5": {
+            "text": "[a]<i>He is the</i> Lord of the East and the West; there is no God but He; so take Him for <i>thy</i> Guardian.[4421]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "26:29; 37:6."
+                },
+                {
+                    "ref": "4421",
+                    "note": "<p><strong>Commentary:</strong></p><p>The Holy Prophet is told here again that while preaching his divine mission he will meet with bitter opposition and persecution. Therefore, he should, on the one hand, put his full trust in God, the Lord of the East and the West, and, on the other, bear with patience and fortitude the jibes, opposition and persecution of his enemies.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 376,
+                "topic": "Abstinence",
+                "verses": "2:188, 2:223, 2:227, 12:33, 19:47, 74:6"
+            },
+            {
+                "id": 12308,
+                "topic": "Muhammad<sup>(sa)</sup>: and disbelievers",
+                "verses": "15:89-98, 2:7, 2:110, 2:119, 2:192, 2:218, 3:33, 3:128, 3:177, 3:197, 4:91, 4:103, 5:42, 5:55, 6:34, 8:31, 9:2, 9:4, 9:32, 9:40, 9:73, 9:123, 10:66, 11:13, 13:28, 15:3, 16:128, 18:7, 20:134, 22:16, 25:5, 26:4, 27:71, 28:57, 29:51, 35:5, 35:9, 36:77, 41:6, 48:30, 52:34, 66:10, 68:52, 93:6, 94:2-4"
+            },
+            {
+                "id": 13726,
+                "topic": "Patience: <i>sabr</i>: Holy Prophet<sup>(sa)</sup> and",
+                "verses": "16:127-128, 10:110, 11:50, 11:116, 18:68-69, 18:73, 20:131, 30:61, 38:18, 40:56, 40:78, 46:36, 50:40, 52:49, 68:49, 70:6, 74:8, 76:25"
+            }
+        ],
+        "ar": "وَ اصۡبِرۡ عَلٰی مَا یَقُوۡلُوۡنَ وَ اہۡجُرۡہُمۡ ہَجۡرًا جَمِیۡلًا ﴿۱۱﴾ ",
+        "ur": "اور صبر کر اُس پر جو وہ کہتے ہیں اور اُن سے اچھے رنگ میں جدا ہو جا۔",
+        "v5": {
+            "text": "And bear patiently all that they say; and part with them in a decent manner.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 73,
+        "v": 12,
+        "v_": 11,
+        "topics": [
+            {
+                "id": 8763,
+                "topic": "Hell: <i>Jahannam</i>: for those who reject or hide signs of Allah",
+                "verses": "19:69, 2:40, 2:175, 4:57, 18:107, 40:71-73, 45:12, 45:35, 45:36, 57:20, 64:11, 90:20-21"
+            },
+            {
+                "id": 9282,
+                "topic": "In‘am: favour",
+                "verses": "4:70, 1:7, 2:272, 3:137, 11:11, 16:122, 31:21, 37:76, 44:28, 82:14, 89:16"
+            },
+            {
+                "id": 18031,
+                "topic": "Truth: <i>Haqq</i>: who reject",
+                "verses": "58:22, 56:52, 56:53, 56:93, 68:9, 69:50, 77:16, 77:20, 77:25, 77:29, 77:35, 77:38, 77:46, 77:48, 77:50, 83:11"
+            }
+        ],
+        "ar": "وَ ذَرۡنِیۡ وَ الۡمُکَذِّبِیۡنَ  اُولِی النَّعۡمَۃِ وَ مَہِّلۡہُمۡ  قَلِیۡلًا ﴿۱۲﴾ ",
+        "ur": "اور مجھے اور ناز و نعم میں پلنے والے مکذبین کو (الگ) چھوڑ دے اور اُنہیں تھوڑی سی مہلت دے۔",
+        "v5": {
+            "text": "[b]And leave Me alone with those who reject <i>the truth</i>, possessors of ease and plenty; and give them a little respite.[4422]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "68:45; 74:12."
+                },
+                {
+                    "ref": "4422",
+                    "note": "<p><strong>Commentary:</strong></p><p>Rejecters of truth are reprimanded that instead of being grateful to God for \"ease and plenty\" provided to them they reject the Divine Message.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 13,
+        "v_": 12,
+        "topics": [
+            {
+                "id": 8763,
+                "topic": "Hell: <i>Jahannam</i>: for those who reject or hide signs of Allah",
+                "verses": "19:69, 2:40, 2:175, 4:57, 18:107, 40:71-73, 45:12, 45:35, 45:36, 57:20, 64:11, 90:20-21"
+            }
+        ],
+        "ar": "اِنَّ  لَدَیۡنَاۤ  اَنۡکَالًا وَّ  جَحِیۡمًا ﴿ۙ۱۳﴾ ",
+        "ur": "یقیناً ہمارے پاس عبرت کے کئی سامان ہیں اور جہنّم بھی ہے۔",
+        "v5": {
+            "text": "Surely, with Us are <i>heavy</i> fetters and a raging fire,[4423]",
+            "notes": [
+                {
+                    "ref": "4423",
+                    "note": "<p><strong>Important Words:</strong></p><p>أنکالا (fetters) is the plural of نکل which means, fetter, chain, bracelet, necklace; a kind of bridle. نکل بفلان means, he inflicted upon him such a punishment as to make him an example for others (Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 14,
+        "v_": 13,
+        "topics": [
+            {
+                "id": 7695,
+                "topic": "Food: <i>Ta‘am</i>",
+                "verses": "5:6, 44:44-45, 69:37, 80:25, 88:7"
+            },
+            {
+                "id": 8763,
+                "topic": "Hell: <i>Jahannam</i>: for those who reject or hide signs of Allah",
+                "verses": "19:69, 2:40, 2:175, 4:57, 18:107, 40:71-73, 45:12, 45:35, 45:36, 57:20, 64:11, 90:20-21"
+            }
+        ],
+        "ar": "وَّ طَعَامًا ذَا غُصَّۃٍ  وَّ عَذَابًا  اَلِیۡمًا ﴿٭۱۴﴾ ",
+        "ur": "اور گلے میں پھنس جانے والا ایک کھانا ہے اور دردناک عذاب بھی۔",
+        "v5": {
+            "text": "And food that chokes, and a painful punishment [4424]",
+            "notes": [
+                {
+                    "ref": "4424",
+                    "note": "<p><strong>Important Words:</strong></p><p>غصة (choking) is derived from غص. They say غص بالغیظ i.e. he was or became choked with wrath. غص المجلس بأھله means, the sitting place became choked with people. غص also means, he became grieved or disquieted in mind. غصة means, a thing by which one is choked; choking wrath or rage; grief or disquietude of mind (Lane &amp; Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 15,
+        "v_": 14,
+        "topics": [
+            {
+                "id": 5801,
+                "topic": "Day of the Quake: <i>Yaumu Tarjuf</i>",
+                "verses": "79:7"
+            },
+            {
+                "id": 5910,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: face of disbelievers on the",
+                "verses": "37:21, 67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:19, 75:9-10, 75:25, 77:10-11, 78:20-21, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 99:2-7, 101:5"
+            },
+            {
+                "id": 7026,
+                "topic": "Earth: <i>Al-Ard</i>: destruction of",
+                "verses": "56:5, 14:49, 39:69-70, 50:45, 69:15, 84:4-5, 89:22, 9:2-4, 101:5"
+            },
+            {
+                "id": 12220,
+                "topic": "Mountains: <i>Jibal</i>: prophecies of latter days",
+                "verses": "78:21, 18:48, 20:106, 27:89, 52:11, 56:7, 69:15, 70:10, 77:11, 81:4, 101:6"
+            }
+        ],
+        "ar": "یَوۡمَ تَرۡجُفُ الۡاَرۡضُ وَ الۡجِبَالُ وَ کَانَتِ الۡجِبَالُ  کَثِیۡبًا مَّہِیۡلًا ﴿۱۵﴾ ",
+        "ur": "جس دن زمین اور پہاڑ سخت جنبش کھائیں گے اور پہاڑ بھربھرے ٹیلو ں کی طرح ہوجائیں گے۔",
+        "v5": {
+            "text": "On the day when the earth and the mountains shall quake,[a] and the mountains will become like crumbling sandhills.[4425]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "56:5-6; 79:7."
+                },
+                {
+                    "ref": "4425",
+                    "note": "<p><strong>Important Words:</strong></p><p>کثیباً is derived from کثب. They say کثب التراب i.e. he scattered dust part over part. کثیب means, a sandhill heaped up by the wind (Lane).</p><p>مھیلا (crumbling) is derived from ھال. They say ھال علیه التراب i.e. he put the earth over it. الھیل which is infinitive noun means, sand that does not remain steady in its place. مھیل means, running sand. کثیب مھیل means, a crumbling sandhill (Aqrab).</p><p><strong>Commentary:</strong></p><p>The reference in the verse is to the Day of Resurrection, or to the Day of the Fall of Mecca, or to any calamitous day when catastrophic changes take place and deeply-rooted institutions totter and fall and very powerful and big and influential people are blown away like chaff before the wind.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 16,
+        "v_": 15,
+        "topics": [
+            {
+                "id": 12321,
+                "topic": "Muhammad<sup>(sa)</sup>: and other Prophets",
+                "verses": "6:35, 2:130, 3:69, 5:20, 29:19, 36:15, 41:44, 95:2-4"
+            },
+            {
+                "id": 12549,
+                "topic": "Muhammad<sup>(sa)</sup>: names of",
+                "verses": "61:7, 2:120, 13:8, 21:108, 33:41, 33:46, 42:49, 53:57, 72:20, 73:2, 74:2-3, 88:22-23"
+            },
+            {
+                "id": 12625,
+                "topic": "Muhammad<sup>(sa)</sup>: prophecies about",
+                "verses": "7:158, 2:147, 5:82, 6:21, 7:144, 11:50, 12:103, 26:197-198, 28:45-47, 33:2, 46:11-13, 54:46, 61:7"
+            },
+            {
+                "id": 18744,
+                "topic": "Witness: Prophets bear",
+                "verses": "4:136, 85:4, 5:118, 22:79, 28:35, 33:46, 43:89, 46:11, 48:9, 83:22"
+            }
+        ],
+        "ar": "اِنَّاۤ  اَرۡسَلۡنَاۤ  اِلَیۡکُمۡ  رَسُوۡلًا ۬ۙ شَاہِدًا عَلَیۡکُمۡ کَمَاۤ  اَرۡسَلۡنَاۤ  اِلٰی فِرۡعَوۡنَ رَسُوۡلًا ﴿ؕ۱۶﴾ ",
+        "ur": "یقیناً ہم نے تمہاری طرف ایک رسول بھیجا ہے جو تم پر نگران ہے جیسا کہ ہم نے فرعون کی طرف بھی ایک رسول بھیجا تھا۔",
+        "v5": {
+            "text": "Verily, We have sent to you a Messenger, who is a witness over you,[b] even as We sent a Messenger to Pharaoh.[4426]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "33:46; 48:9."
+                },
+                {
+                    "ref": "4426",
+                    "note": "<p><strong>Commentary:</strong></p><p>The reference in the verse is to the following Biblical prophecy about the appearance among the Ishmaelites of a great Prophet of God like unto Moses:</p><p>\"I will raise them up a prophet from among their brethren, like unto thee, and will put My word in his mouth; and he shall speak unto them all that I shall command. And it shall come to pass, that whosoever will not hearken unto My words which he shall speak in My name, I will require it of him\" (Deut. 18:18-19).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 17,
+        "v_": 16,
+        "topics": [
+            {
+                "id": 13913,
+                "topic": "Pharaoh: <i>Fir‘aun</i>: punishment of",
+                "verses": "11:99-100, 3:12, 7:131, 8:55, 10:91, 28:42-43, 40:47, 44:30, 54:42-43, 79:25-26"
+            }
+        ],
+        "ar": "فَعَصٰی فِرۡعَوۡنُ  الرَّسُوۡلَ  فَاَخَذۡنٰہُ اَخۡذًا  وَّبِیۡلًا ﴿۱۷﴾",
+        "ur": "پس فرعون نے اُس رسول کی نافرمانی کی تو ہم نے اُسے ایک سخت گرفت میں جکڑ لیا۔",
+        "v5": {
+            "text": "But Pharaoh disobeyed the Messenger,[a] so We seized him with a terrible punishment.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "20:79; 26:67; 28:41."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 18,
+        "v_": 17,
+        "topics": [],
+        "ar": "فَکَیۡفَ  تَتَّقُوۡنَ  اِنۡ  کَفَرۡتُمۡ  یَوۡمًا یَّجۡعَلُ  الۡوِلۡدَانَ  شِیۡبَاۨ ﴿٭ۖ۱۸﴾ ",
+        "ur": "پس اگر تم نے کفر کیا تو تم اُس دن سے کیسے بچ سکوگے جو بچوں کو بوڑھا بنادے گا۔",
+        "v5": {
+            "text": "How will you then, if you disbelieve, guard yourselves against a day which will turn children grey-headed? [4427]",
+            "notes": [
+                {
+                    "ref": "4427",
+                    "note": "<p><strong>Commentary:</strong></p><p>\"Turning children grey-headed\" in the present verse, \"grinding asunder of the heaven\" in the next, \"rolling up of heaven\" in 21:105, and similar expressions used in the Quran (81:12; 82:2 &amp; 84:2) are metaphors for most calamitous happenings which bring about disastrous changes. The reference in this and in the next verse and also in verse 15 above is to the Day of Resurrection or the Day of the Fall of Mecca. See also v. 15.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 19,
+        "v_": 18,
+        "topics": [
+            {
+                "id": 5911,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: face of disbelievers on the",
+                "verses": "37:21, 67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:15, 75:9-10, 75:25, 77:10-11, 78:20-21, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 99:2-7, 101:5"
+            },
+            {
+                "id": 14349,
+                "topic": "Promise: to disbelievers, to hypocrites",
+                "verses": "2:81, 7:136, 9:68, 9:77, 11:66, 13:32, 14:45, 15:44, 19:79, 21:98, 21:110, 22:73, 23:84, 26:207, 27:69, 33:13, 35:41, 36:53, 36:64, 43:84, 51:61, 54:47, 70:43, 70:45, 72:25-26"
+            }
+        ],
+        "ar": "السَّمَآءُ  مُنۡفَطِرٌۢ  بِہٖ ؕ کَانَ  وَعۡدُہٗ مَفۡعُوۡلًا ﴿۱۹﴾ ",
+        "ur": "آسمان اُس (کی دہشت) سے پھٹ جائے گا۔ اس کا (یہ) وعدہ بہرحال پورا ہونے والا ہے۔",
+        "v5": {
+            "text": "[b]<i>On that day</i> the heaven will be rent asunder <i>and</i> His promise is bound to be fulfilled.[4428]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "82:2."
+                },
+                {
+                    "ref": "4428",
+                    "note": "<p><strong>Commentary:</strong></p><p>The promise referred to in the verse was the total defeat and destruction of the forces of evil followed by the triumph of Islam which was fully manifested in the Fall of Mecca, when the old corrupt order died and from its ruins emerged a new and better order. This may be the meaning of the words, \"the heaven will be rent asunder.\"</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 73,
+        "v": 20,
+        "v_": 19,
+        "topics": [],
+        "ar": "اِنَّ  ہٰذِہٖ  تَذۡکِرَۃٌ ۚ فَمَنۡ شَآءَ  اتَّخَذَ  اِلٰی  رَبِّہٖ  سَبِیۡلًا ﴿٪۲۰﴾ ",
+        "ur": "یقیناً یہ ایک بڑی سبق آموز نصیحت ہے پس جو چاہے اپنے ربّ کی طرف (جانے والی) راہ پکڑلے۔",
+        "v5": {
+            "text": "This, surely, is a reminder.[c] So let him, who will, take a way unto his Lord.[4429]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "20:4; 74:55; 76:30; 80:12."
+                },
+                {
+                    "ref": "4429",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse contains an invincible argument in support of the Divine origin of the Quranic revelation. The <i>Surah</i> was one of the earliest two or three chapters revealed at Mecca at a time when the Holy Prophet himself perhaps had no very clear idea of the momentous significance of his mission and of the strong opposition and bitter persecution he was to meet with at the hands of those very people who formerly looked upon him as the most trusted and honest man in Mecca. Under the circumstances, it could hardly be imagined that one day Mecca would lay prostrate at his feet and the Quraish leaders would be begging for mercy and forgiveness. The wildest stretch of human imagination could hardly conceive of such stupendous happenings as have been foretold in the preceding verses; much less could a human being declare in such forceful terms that these prophecies would be fulfilled. The Quran is certainly a Reminder from God.</p>"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,771 @@
+[
+    {
+        "ch": 49,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.[3840]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                },
+                {
+                    "ref": "3840",
+                    "note": "<p><strong>Commentary:</strong></p><p>See 1:1.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 3595,
+                "topic": "Attributes of Allah: As-Sami‘ (The All-Hearing)",
+                "verses": "2:182, 2:128, 2:138, 2:228, 2:245, 2:257, 4:59, 4:135, 4:149, 6:14, 6:116, 8:18, 8:43, 22:62, 24:22, 24:61, 40:21, 42:12"
+            },
+            {
+                "id": 7261,
+                "topic": "Etiquette: regarding society",
+                "verses": "24:62, 5:7, 7:27, 7:32"
+            },
+            {
+                "id": 7458,
+                "topic": "Fear: of Allah, <i>Khashi‘ah</i>",
+                "verses": "8:49, 2:151, 5:4, 5:29, 5:45, 7:57, 9:13, 9:18, 9:109, 12:110, 13:22, 14:15, 16:52, 17:58, 20:4, 21:50, 23:3, 23:58, 23:61, 24:53, 33:38, 33:40, 35:19, 35:29-30, 36:12, 39:11, 39:21, 39:24, 50:34, 55:47, 59:17, 67:13, 79:27, 79:41, 79:46, 80:10, 87:11, 98:9"
+            },
+            {
+                "id": 12636,
+                "topic": "Muhammad<sup>(sa)</sup>: respect of",
+                "verses": "2:105, 9:61, 24:63-64"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا لَا  تُقَدِّمُوۡا بَیۡنَ یَدَیِ  اللّٰہِ  وَ رَسُوۡلِہٖ وَ اتَّقُوا اللّٰہَ ؕ اِنَّ اللّٰہَ  سَمِیۡعٌ عَلِیۡمٌ ﴿۲﴾ ",
+        "ur": "اے لوگو جو ایمان لائے ہو! اللہ اور اس کے رسول کے سامنے پیش قدمی نہ کیا کرو اور اللہ کا تقویٰ اختیار کرو۔ یقیناً اللہ بہت سننے والا (اور) دائمی علم رکھنے والا ہے۔",
+        "v5": {
+            "text": "O ye who believe! be not forward in the presence of Allah and His Messenger, but fear Allah. Verily, Allah is All-Hearing, All-Knowing.[3841]",
+            "notes": [
+                {
+                    "ref": "3841",
+                    "note": "<p><strong>Commentary:</strong></p><p>Mecca had fallen. The whole of Arabia lay prostrate at the Prophet’s feet. Life had become quite safe and secure for Muslims and wealth and great riches had come into their possession. A life of ease and comfort generally follows in the wake of riches, resulting in lack of discipline and other very serious social evils. Therefore rules of conduct have been revealed in this <i>Surah</i> to safeguard the Muslim Community against these evils. They are told to show proper respect and regard for the Holy Prophet and to give him unqualified obedience and not to anticipate his commands or to prefer their own wishes to his.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 454,
+                "topic": "Actions: <i>A‘mal</i>: in vain who reject faith",
+                "verses": "47:9-10, 5:6, 7:148, 11:17, 18:104-107, 25:24, 47:2, 47:33"
+            },
+            {
+                "id": 7261,
+                "topic": "Etiquette: regarding society",
+                "verses": "24:62, 5:7, 7:27, 7:32"
+            },
+            {
+                "id": 11506,
+                "topic": "Moderation",
+                "verses": "25:68, 5:67, 7:32, 17:34, 17:111, 31:20, 35:33"
+            },
+            {
+                "id": 12636,
+                "topic": "Muhammad<sup>(sa)</sup>: respect of",
+                "verses": "2:105, 9:61, 24:63-64"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا  الَّذِیۡنَ اٰمَنُوۡا لَا تَرۡفَعُوۡۤا اَصۡوَاتَکُمۡ  فَوۡقَ صَوۡتِ النَّبِیِّ وَ لَا تَجۡہَرُوۡا  لَہٗ  بِالۡقَوۡلِ کَجَہۡرِ بَعۡضِکُمۡ لِبَعۡضٍ اَنۡ تَحۡبَطَ اَعۡمَالُکُمۡ  وَ اَنۡتُمۡ  لَا تَشۡعُرُوۡنَ ﴿۳﴾ ",
+        "ur": "اے لوگو جو ایمان لائے ہو! نبی کی آواز سے اپنی آوازیں بلند نہ کیا کرو اور جس طرح تم میں سے بعض لوگ بعض دوسرے لوگوں سے اونچی آواز میں باتیں کرتے ہیں اس کے سامنے اونچی بات نہ کیا کرو ایسا نہ ہو کہ تمہارے اعمال ضائع ہوجائیں اور تمہیں پتہ تک نہ چلے۔",
+        "v5": {
+            "text": "O ye who believe! raise not your voices above the voice of the Prophet, nor speak aloud to him, as you speak aloud to one another, lest your works become vain while you perceive not.[3842]",
+            "notes": [
+                {
+                    "ref": "3842",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse lays great stress on observing an attitude of utmost respectfulness towards the Holy Prophet. The Muslims should not talk loudly in his presence or address him aloud. This is not only bad manners but is calculated to do moral injury to one so rude as not to show respect due to the Leader.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 2167,
+                "topic": "Allah: promised forgiveness, reward",
+                "verses": "48:30, 2:269, 3:137, 8:5, 22:51, 24:27, 33:36, 34:5, 35:8, 36:12, 47:16, 67:13"
+            },
+            {
+                "id": 7261,
+                "topic": "Etiquette: regarding society",
+                "verses": "24:62, 5:7, 7:27, 7:32"
+            },
+            {
+                "id": 7747,
+                "topic": "Forgiveness: <i>‘Afw</i>: Allah grants",
+                "verses": "3:136-137, 2:222, 2:269, 3:133, 4:97, 8:5, 22:51, 24:27, 33:36, 34:5, 35:8, 36:12, 47:16, 48:30, 67:13"
+            },
+            {
+                "id": 7798,
+                "topic": "Forgiveness: <i>‘Afw</i>: promised",
+                "verses": "48:30, 2:269, 3:137, 8:5, 22:51, 24:27, 33:36, 34:5, 35:8, 36:12, 47:16, 67:13"
+            },
+            {
+                "id": 9754,
+                "topic": "Jaza’: recompense: of believers, of righteous",
+                "verses": "78:37, 2:63, 2:113, 2:263, 2:278, 3:145-146, 3:149, 3:172-173, 3:180, 3:196, 4:68, 4:75, 4:101, 4:115, 4:147, 4:163, 5:10, 5:86, 6:84, 6:91, 6:136, 7:44, 7:171, 8:29, 9:22, 9:120-21, 10:5, 10:27, 11:116, 12:23, 12:57-58, 12:89, 12:91, 13:23, 13:25, 13:36, 16:32, 16:42, 16:97, 17:10, 18:3, 18:31-32, 18:47, 18:89, 20:77, 24:39, 25:16, 27:90, 28:15, 28:38, 28:55, 28:81, 29:8, 29:28, 29:59, 30:46, 32:18, 33:25, 33:30, 33:32, 33:36, 33:45, 34:5, 34:38, 35:8, 35:34, 36:12, 37:81, 37:106, 37:111, 37:122, 37:132, 39:11, 39:35, 39:36, 39:75, 41:9, 42:27, 46:15, 47:36, 48:11, 48:30, 53:32, 53:42, 54:36, 55:61, 56:29, 57:8, 57:12, 57:19-20, 57:28, 64:16, 65:6, 67:13, 68:4, 73:21, 76:13, 76:23, 77:44, 84:26, 95:7, 98:9"
+            },
+            {
+                "id": 11777,
+                "topic": "Moral Traits: humility, humbleness",
+                "verses": "33:36, 31:20, 31:19, 27:88, 27:38, 23:77, 23:3, 22:55, 22:35, 21:91, 20:135, 20:112, 17:110, 17:38-39, 17:25, 16:49, 12:33, 11:24, 7:162, 7:95, 7:56, 6:64, 6:44, 6:43, 5:55, 3:18, 2:75, 2:46, 1:5, 25:64, 57:17"
+            },
+            {
+                "id": 12636,
+                "topic": "Muhammad<sup>(sa)</sup>: respect of",
+                "verses": "2:105, 9:61, 24:63-64"
+            },
+            {
+                "id": 15874,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 78:32-37, 83:23, 98:8"
+            },
+            {
+                "id": 17525,
+                "topic": "Taqwa: fear of God",
+                "verses": "2:3, 2:190, 2:197-198, 2:204, 2:213, 2:224, 2:232, 2:234, 2:238, 2:279, 2:283-284, 3:16, 3:51, 3:77, 3:103, 3:131, 3:201, 4:2, 4:10, 4:132, 5:3, 5:5, 5:8-9, 5:12, 5:36, 5:58, 5:89, 5:94, 5:97, 5:113, 6:70, 6:73, 7:27, 7:36, 7:66, 8:2, 8:70, 9:7, 9:108, 9:109, 11:79, 15:70, 20:133, 22:2, 22:33, 22:38, 26:109, 26:133, 26:185, 33:56, 33:71, 43:64, 47:18, 48:27, 49:11, 49:13, 57:29, 58:10, 59:8, 59:19, 60:12, 65:2, 65:11, 74:57, 78:32, 96:13"
+            }
+        ],
+        "ar": "اِنَّ  الَّذِیۡنَ یَغُضُّوۡنَ  اَصۡوَاتَہُمۡ عِنۡدَ رَسُوۡلِ اللّٰہِ  اُولٰٓئِکَ الَّذِیۡنَ امۡتَحَنَ اللّٰہُ قُلُوۡبَہُمۡ  لِلتَّقۡوٰی ؕ لَہُمۡ  مَّغۡفِرَۃٌ  وَّ اَجۡرٌ عَظِیۡمٌ ﴿۴﴾ ",
+        "ur": "یقیناً وہ لوگ جو اللہ کے رسول کے حضور اپنی آوازیں دھیمی رکھتے ہیں یہی وہ لوگ ہیں جن کے دلوں کو اللہ نے تقویٰ کے لئے آزما لیا ہے۔ ان کے لئے ایک عظیم بخشش اور بڑا اجر ہے ۔",
+        "v5": {
+            "text": "Verily, those who lower their voices in the presence of the Messenger of Allah—those are they whose hearts Allah has purified for righteousness. For them is forgiveness and a great reward.[3843]",
+            "notes": [
+                {
+                    "ref": "3843",
+                    "note": "<p><strong>Important Words:</strong></p><p>امتحن is derived from محن. They say, محن فلانا i.e. he tried or put to the test such a one. محنه عشرین سوطا means, he flogged him with twenty stripes. محن الفضة means, he purified the silver by putting it in the fire. محن البئر means, he took out the earth from the well and cleared it (Taj &amp; Raghib).</p><p><strong>Commentary:</strong></p><p>To speak in low tones in the presence of the Prophet is indicative of respect for him and of one’s own humility of heart which is a good moral quality; while unnecessarily raising of voice smacks of conceit and arrogance.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 7261,
+                "topic": "Etiquette: regarding society",
+                "verses": "24:62, 5:7, 7:27, 7:32"
+            },
+            {
+                "id": 12636,
+                "topic": "Muhammad<sup>(sa)</sup>: respect of",
+                "verses": "2:105, 9:61, 24:63-64"
+            }
+        ],
+        "ar": "اِنَّ  الَّذِیۡنَ یُنَادُوۡنَکَ مِنۡ وَّرَآءِ الۡحُجُرٰتِ  اَکۡثَرُہُمۡ  لَا یَعۡقِلُوۡنَ ﴿۵﴾ ",
+        "ur": "یقیناً وہ لوگ جو تجھے گھروں کے باہر سے آوازیں دیتے ہیں اکثر ان میں سے عقل نہیں رکھتے۔",
+        "v5": {
+            "text": "Those who shout out to thee from without <i>thy private</i> apartments—most of them lack understanding.[3844]",
+            "notes": [
+                {
+                    "ref": "3844",
+                    "note": "<p><strong>Commentary:</strong></p><p>Calling out to the Prophet in a loud voice from outside his house amounts to intruding upon his privacy and shows lack of respect for his person and for his valuable time; and only an ill-mannered person would be guilty of such foolish behaviour.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 7261,
+                "topic": "Etiquette: regarding society",
+                "verses": "24:62, 5:7, 7:27, 7:32"
+            },
+            {
+                "id": 12636,
+                "topic": "Muhammad<sup>(sa)</sup>: respect of",
+                "verses": "2:105, 9:61, 24:63-64"
+            }
+        ],
+        "ar": "وَ لَوۡ اَنَّہُمۡ صَبَرُوۡا حَتّٰی تَخۡرُجَ  اِلَیۡہِمۡ لَکَانَ خَیۡرًا لَّہُمۡ ؕ وَ اللّٰہُ غَفُوۡرٌ رَّحِیۡمٌ ﴿۶﴾ ",
+        "ur": "اگر وہ صبر کرتے یہاں تک کہ تُو خود ہی ان کی طرف باہر نکل آتا تو یہ ضرور ان کے لئے بہتر ہوتا۔ اور اللہ بہت بخشنے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "And if they had waited patiently until thou came out to them it would be better for them. But Allah is Most Forgiving, Merciful.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 49,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 7261,
+                "topic": "Etiquette: regarding society",
+                "verses": "24:62, 5:7, 7:27, 7:32"
+            },
+            {
+                "id": 15892,
+                "topic": "Righteous: <i>Salihin</i>: unrighteous",
+                "verses": "11:47, 2:104, 2:190, 5:66, 7:97, 23:101, 66:11"
+            },
+            {
+                "id": 15969,
+                "topic": "Rumours",
+                "verses": "4:84"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا  الَّذِیۡنَ اٰمَنُوۡۤا  اِنۡ جَآءَکُمۡ فَاسِقٌۢ بِنَبَاٍ فَتَبَیَّنُوۡۤا  اَنۡ  تُصِیۡبُوۡا قَوۡمًۢا بِجَہَالَۃٍ  فَتُصۡبِحُوۡا عَلٰی مَا فَعَلۡتُمۡ  نٰدِمِیۡنَ ﴿۷﴾ ",
+        "ur": "اے وہ لوگو جو ایمان لائے ہو! تمہارے پاس اگر کوئی بدکردار کوئی خبر لائے تو (اس کی) چھان بین کرلیا کرو، ایسا نہ ہو کہ تم جہالت سے کسی قوم کو نقصان پہنچا بیٹھو پھر تمہیں اپنے کئے پر پشیمان ہونا پڑے۔",
+        "v5": {
+            "text": "O ye who believe! if an unrighteous person brings you any news, [a]investigate it fully, lest you harm a people in ignorance, and then be repentant for what you have done.[3845]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "4:95."
+                },
+                {
+                    "ref": "3845",
+                    "note": "<p><strong>Commentary:</strong></p><p>Though after the Fall of Mecca, at the time when this <i>Surah</i> was revealed, almost the whole of Arabia had entered the fold of Islam. Some tribes still refused to accept the new order of things and were determined upon fighting the Muslims to the bitter end. Moreover, the neighbouring Byzantine and Persian Empires were awakening to a realization of the challenge to their power which they thought had arisen in Arabia, and war with Islam seemed inevitable. So the direction embodied in the verse under comment was necessary. The Muslims are told that even when the exigencies of war necessitate prompt action to forestall a military move on the enemy’s part, rumours which are naturally very much rife in time of war should not be given ready credence. They should be tested and their correctness ascertained before action is taken upon them.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 4180,
+                "topic": "Beauty: in physical world, <i>Bahjah</i>, <i>Zinah</i>,",
+                "verses": "16:9, 7:32-33, 10:89, 11:16, 16:7, 18:8, 18:29, 18:47, 20:88, 22:6, 27:61, 28:80, 33:29, 37:7, 41:26, 50:7-8, 57:21"
+            },
+            {
+                "id": 6619,
+                "topic": "Disobedience: <i>‘Isyan, Fusuq</i>",
+                "verses": "2:35, 2:198, 2:283, 4:35, 5:4, 7:23, 7:125, 20:123, 23:108, 26:50, 58:9-10"
+            },
+            {
+                "id": 7654,
+                "topic": "Fisq: abhorrence, disobedience",
+                "verses": "2:100, 2:283, 3:83, 3:111, 5:4, 5:48, 5:50, 5:60, 5:82, 5:109, 6:122, 6:146, 7:103, 7:146, 9:8, 9:24, 9:53, 9:67, 9:84, 9:96, 24:5, 24:56, 27:13, 28:33, 43:55, 46:36, 51:47, 57:17, 57:28, 59:6, 59:20, 61:6"
+            },
+            {
+                "id": 10337,
+                "topic": "Kufr: disbelief",
+                "verses": "3:91, 2:7, 2:89, 2:94, 2:109, 3:53, 3:168, 3:177-178, 4:47, 4:138, 4:156-157, 5:42, 5:62, 5:65, 5:69, 9:17, 9:23, 9:97, 9:107, 16:107, 17:70, 30:45, 31:24, 35:40, 39:8, 98:2"
+            },
+            {
+                "id": 13247,
+                "topic": "Obey: Holy Prophet<sup>(sa)</sup>",
+                "verses": "3:32, 3:21, 3:54, 4:65, 33:36-37"
+            },
+            {
+                "id": 16841,
+                "topic": "Sin: <i>Dhanb</i>: man created without",
+                "verses": "7:43, 7:23, 75:3, 76:3-4, 90:9-11, 91:8-9, 95:5-6"
+            }
+        ],
+        "ar": "وَ اعۡلَمُوۡۤا  اَنَّ  فِیۡکُمۡ رَسُوۡلَ اللّٰہِ ؕ لَوۡ یُطِیۡعُکُمۡ فِیۡ کَثِیۡرٍ مِّنَ الۡاَمۡرِ لَعَنِتُّمۡ وَ لٰکِنَّ اللّٰہَ حَبَّبَ  اِلَیۡکُمُ  الۡاِیۡمَانَ وَ زَیَّنَہٗ  فِیۡ  قُلُوۡبِکُمۡ وَ کَرَّہَ  اِلَیۡکُمُ الۡکُفۡرَ وَ الۡفُسُوۡقَ وَ الۡعِصۡیَانَ ؕ اُولٰٓئِکَ ہُمُ  الرّٰشِدُوۡنَ ۙ﴿۸﴾",
+        "ur": "اور جان لو کہ تم میں اللہ کا رسول موجود ہے۔ اگر وہ تمہاری اکثر باتیں مان لے تو تم ضرور تکلیف میں مبتلا ہوجاؤ۔ لیکن اللہ نے تمہارے لئے ایمان کو محبوب بنا دیا ہے اور اسے تمہارے دلوں میں سجا دیا ہے اور تمہارے لئے کفر اور بداعمالی اور نافرمانی سے سخت کراہت پیدا کردی ہے۔ یہی وہ لوگ ہیں جو ہدایت یافتہ ہیں۔",
+        "v5": {
+            "text": "And know that among you is the Messenger of Allah; if he were to comply with your wishes in most matters, you would surely come to trouble; but Allah has endeared the faith to you and [a]has made it <i>look</i> beautiful to your hearts, and He has made disbelief, wickedness and disobedience hateful to you. Such indeed are those who follow the right course.[3846]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "6:109."
+                },
+                {
+                    "ref": "3846",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse continues the general theme of the <i>Surah</i>, the immediately preceding verse constituting a necessary parenthesis. In the earlier verses the Muslims were enjoined to give unquestioning obedience to the Holy Prophet and to show respect to him which befitted his station as God’s great Prophet. In this verse they are told that the Prophet would seek their counsel in matters concerning them but he should not be expected to follow their advice as he received guidance from on high and because also his was the final responsibility, and their judgement, at best, might be defective. It was enough for them that God, through His Grace, \"has endeared faith to you.\"</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 3258,
+                "topic": "Attributes of Allah: Al-Hakim (The Wise)",
+                "verses": "2:130, 2:33, 2:210, 2:221, 2:229, 2:261, 3:7, 4:12, 4:57, 4:131, 4:166, 5:119, 9:15, 9:40, 11:2, 12:101, 15:26, 16:61, 22:53, 24:19, 27:7, 27:10, 31:28, 34:2, 35:3, 41:43, 42:52, 43:85, 44:5, 46:3, 48:5, 48:8, 48:20, 57:2, 59:2, 59:25, 62:2, 64:19, 66:3"
+            },
+            {
+                "id": 8090,
+                "topic": "Grace: <i>Fadl</i>: bestowed on believers",
+                "verses": "62:11, 2:65, 3:104, 4:84, 4:114, 4:174, 4:176, 5:55, 14:41, 20:123, 24:11, 24:15, 24:21, 24:22, 27:17, 27:41, 34:11, 37:58, 42:27, 48:30, 52:30, 57:22, 59:7, 59:9, 62:5, 68:3"
+            },
+            {
+                "id": 12940,
+                "topic": "Ni‘mat: favours",
+                "verses": "1:7, 2:41, 2:48, 2:123, 2:151, 2:212, 2:232, 3:104, 3:172, 3:175, 4:70, 5:4, 5:7-8, 5:12, 5:21, 5:111, 8:54, 12:7, 14:7, 14:29, 14:35, 16:19, 16:54, 16:72-73, 16:84, 16:122, 19:59, 26:23, 27:20, 28:18, 31:32, 33:10, 35:4, 37:58, 39:9, 39:50, 46:16, 48:3, 52:30, 54:36, 68:3, 68:50, 93:12"
+            }
+        ],
+        "ar": "فَضۡلًا مِّنَ اللّٰہِ وَ نِعۡمَۃً ؕ وَ اللّٰہُ  عَلِیۡمٌ حَکِیۡمٌ  ﴿۹﴾",
+        "ur": "اللہ کی طرف سے یہ ایک بڑے فضل اور نعمت کے طور پر ہے۔ اور اللہ دائمی علم رکھنے والا (اور) بہت حکمت والا ہے۔",
+        "v5": {
+            "text": "Through the grace and favour of Allah. And Allah is All-Knowing, Wise.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 49,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 649,
+                "topic": "Administration",
+                "verses": "4:59-60, 17:34, 24:63, 58:10"
+            },
+            {
+                "id": 1935,
+                "topic": "Allah: loves those who...",
+                "verses": "3:135, 2:196, 2:223, 3:77, 3:147, 3:149, 3:160, 5:43, 9:4, 9:7, 9:108, 61:5"
+            },
+            {
+                "id": 4681,
+                "topic": "Bounds: transgressions",
+                "verses": "5:78-79, 7:56, 9:10, 10:84, 17:34, 20:25, 20:46, 21:10, 36:20, 40:29, 42:43, 43:6, 50:26, 51:35, 68:13, 83:13, 96:7"
+            },
+            {
+                "id": 10050,
+                "topic": "Justice: Allah enjoins",
+                "verses": "16:91, 2:49, 2:124, 2:283, 3:19, 4:4, 4:59, 4:106, 4:128, 4:136, 5:107, 6:116, 6:152-153, 6:161, 7:30, 7:182, 10:48, 10:55, 16:77, 21:48, 34:27, 39:70, 39:76, 40:79, 42:16, 57:26, 65:3"
+            },
+            {
+                "id": 10055,
+                "topic": "Justice: fight until done",
+                "verses": null
+            },
+            {
+                "id": 11812,
+                "topic": "Moral Traits: justice",
+                "verses": "16:91, 2:49, 2:283, 3:19, 3:109, 4:4, 4:31, 4:59, 4:106, 4:136, 5:9, 5:43, 5:50, 6:83, 6:116, 6:152-153, 7:30, 7:160, 7:182, 15:9, 16:77, 25:5, 28:29, 38:23, 38:27, 39:70, 39:76, 40:18, 40:32, 40:79, 55:9-10, 57:26, 72:14"
+            },
+            {
+                "id": 11884,
+                "topic": "Moral Traits: peace-making",
+                "verses": "2:225, 4:115"
+            },
+            {
+                "id": 13756,
+                "topic": "Peace",
+                "verses": "8:62, 47:36"
+            },
+            {
+                "id": 18169,
+                "topic": "United Nations: principles of",
+                "verses": null
+            },
+            {
+                "id": 18394,
+                "topic": "War: <i>Qital</i>: to end disorder, and achieve peace",
+                "verses": "2:192, 2:194, 2:218, 4:91, 8:40, 9:6, 9:12, 9:30"
+            }
+        ],
+        "ar": "وَ اِنۡ طَآئِفَتٰنِ مِنَ الۡمُؤۡمِنِیۡنَ اقۡتَتَلُوۡا فَاَصۡلِحُوۡا بَیۡنَہُمَا ۚ فَاِنۡۢ  بَغَتۡ اِحۡدٰٮہُمَا عَلَی الۡاُخۡرٰی فَقَاتِلُوا الَّتِیۡ تَبۡغِیۡ  حَتّٰی تَفِیۡٓءَ  اِلٰۤی  اَمۡرِ اللّٰہِ ۚ فَاِنۡ فَآءَتۡ  فَاَصۡلِحُوۡا بَیۡنَہُمَا بِالۡعَدۡلِ وَ اَقۡسِطُوۡا ؕ اِنَّ اللّٰہَ یُحِبُّ الۡمُقۡسِطِیۡنَ ﴿۱۰﴾ ",
+        "ur": "اور اگر مومنوں میں سے دو جماعتیں آپس میں لڑ پڑیں تو ان کے درمیان صلح کرواؤ۔ پس اگر ان میں سے ایک دوسری کے خلاف سرکشی کرے تو جو زیادتی کررہی ہے اس سے لڑو یہاں تک کہ وہ اللہ کے فیصلہ کی طرف لوٹ آئے۔ پس اگر وہ لوٹ آئے تو ان دونوں کے درمیان عدل سے صلح کرواؤ اور انصاف کرو۔ یقیناً اللہ انصاف کرنے والوں سے محبت کرتا ہے۔",
+        "v5": {
+            "text": "And if two parties of believers fight each other, [a]make peace between them; then if <i>after that</i> one of them transgresses against the other, fight the party that transgresses until it returns to the command of Allah. Then if it returns, make peace between them with equity, and act justly. Verily, Allah loves the just.[3847]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "8:2."
+                },
+                {
+                    "ref": "3847",
+                    "note": "<p><strong>Commentary:</strong></p><p>The central theme of the <i>Surah</i> is the solidarity of Islam. Directions and rules of conduct which are calculated to achieve and maintain this solidarity have been laid down in it in some detail. Some of these rules have been mentioned in the preceding verses, others follow in the verses that come later. A great danger to the security and solidarity of the Muslim State or Community are the disputes and quarrels that haply might arise between different Muslim groups or parties. The verse under comment provides a most effective remedy to compose these quarrels. Primarily, the verse deals with the settlement of disputes between Muslim parties, but it equally embodies a sound basis on which a really effective \"League of Nations\" or a \"United Nations Organisation\" can be built. The verse lays down the following principles for the maintenance of international peace.</p><p>As soon as there are indications of disagreement between two nations, the other nations, instead of taking sides with one or the other, should at once serve notice upon them, calling upon them to submit their differences for settlement to a \"League of Nations\" or \"United Nations Organisation\", as the case may be. If they agree, the dispute will be amicably settled. But if one of them refuses to submit to the \"League\", or having submitted refuses to accept the award of the \"League\" and prepares to make war, the other nations should all fight it. It is evident that one nation, however strong, cannot withstand the united might of all other nations and is bound to make a speedy submission. In that event, terms of peace should be settled between the two original parties to the dispute. The other nations should act merely as mediators and not as parties to the dispute, and should not put forward new claims arising out of the conflict with the refractory nation, for that would lay the foundation of fresh disputes and quarrels. The terms of peace should be just and equitable with reference to the merits of the dispute; they should be confined to the original dispute between the parties and should not be allowed to travel beyond it.</p><p>It is only such a \"League\" or \"Organisation\" which can safely be entrusted with the maintenance of international peace, not a League or Organisation whose very existence is dependent upon the goodwill of others.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 4262,
+                "topic": "Believers: <i>Mu’min</i>: are brothers",
+                "verses": "3:104, 9:11, 15:48, 33:6, 59:11"
+            },
+            {
+                "id": 6658,
+                "topic": "Dispute",
+                "verses": "8:7, 2:85, 2:140, 3:21, 3:62, 3:66, 3:153, 4:66, 4:106, 7:72, 8:47, 11:33, 13:14, 16:5, 18:22, 22:4, 22:9, 22:20, 22:68, 31:21, 40:5-6, 40:36, 40:48, 40:70, 42:17, 42:19, 42:36, 53:13"
+            },
+            {
+                "id": 15379,
+                "topic": "Reconciliation",
+                "verses": "4:36, 2:229, 4:129, 65:2"
+            },
+            {
+                "id": 17526,
+                "topic": "Taqwa: fear of God",
+                "verses": "2:3, 2:190, 2:197-198, 2:204, 2:213, 2:224, 2:232, 2:234, 2:238, 2:279, 2:283-284, 3:16, 3:51, 3:77, 3:103, 3:131, 3:201, 4:2, 4:10, 4:132, 5:3, 5:5, 5:8-9, 5:12, 5:36, 5:58, 5:89, 5:94, 5:97, 5:113, 6:70, 6:73, 7:27, 7:36, 7:66, 8:2, 8:70, 9:7, 9:108, 9:109, 11:79, 15:70, 20:133, 22:2, 22:33, 22:38, 26:109, 26:133, 26:185, 33:56, 33:71, 43:64, 47:18, 48:27, 49:4, 49:13, 57:29, 58:10, 59:8, 59:19, 60:12, 65:2, 65:11, 74:57, 78:32, 96:13"
+            }
+        ],
+        "ar": "اِنَّمَا الۡمُؤۡمِنُوۡنَ  اِخۡوَۃٌ  فَاَصۡلِحُوۡا بَیۡنَ اَخَوَیۡکُمۡ وَ اتَّقُوا اللّٰہَ  لَعَلَّکُمۡ تُرۡحَمُوۡنَ ﴿٪۱۱﴾ ",
+        "ur": "مومن تو بھائی بھائی ہی ہوتے ہیں۔ پس اپنے دو بھائیوں کے درمیان صلح کروایا کرو اور اللہ کا تقویٰ اختیار کرو تاکہ تم پر رحم کیا جائے ۔",
+        "v5": {
+            "text": "Surely <i>all</i> believers are brothers. So make peace between your brothers, and fear Allah that mercy may be shown to you.[3848]",
+            "notes": [
+                {
+                    "ref": "3848",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse lays special stress on Islamic brotherhood. Islam tolerates no discord or dissensions between brothers. If there happens to arise a quarrel or dispute between two Muslim individuals or groups, other Muslims are bound at once to bring about reconciliation between the quarrelling parties. Islam’s real strength lies in this ideal of brotherhood which transcends all barriers of caste, colour or clime.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 12,
+        "v_": 11,
+        "topics": [
+            {
+                "id": 11608,
+                "topic": "Moral Traits: calling nicknames",
+                "verses": "111:2"
+            },
+            {
+                "id": 11640,
+                "topic": "Moral Traits: to deride, defame",
+                "verses": null
+            },
+            {
+                "id": 12968,
+                "topic": "Nicknames: <i>Tanabuz</i>",
+                "verses": null
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا  الَّذِیۡنَ اٰمَنُوۡا لَا یَسۡخَرۡ قَوۡمٌ مِّنۡ قَوۡمٍ عَسٰۤی اَنۡ یَّکُوۡنُوۡا خَیۡرًا مِّنۡہُمۡ وَ لَا نِسَآءٌ  مِّنۡ  نِّسَآءٍ  عَسٰۤی اَنۡ یَّکُنَّ خَیۡرًا مِّنۡہُنَّ ۚ وَ لَا تَلۡمِزُوۡۤا اَنۡفُسَکُمۡ وَ لَا تَنَابَزُوۡا بِالۡاَلۡقَابِ ؕ بِئۡسَ الِاسۡمُ الۡفُسُوۡقُ بَعۡدَ الۡاِیۡمَانِ ۚ وَ مَنۡ لَّمۡ یَتُبۡ فَاُولٰٓئِکَ ہُمُ الظّٰلِمُوۡنَ ﴿۱۲﴾ ",
+        "ur": "اے لوگو جو ایمان لائے ہو! (تم میں سے) کوئی قوم کسی قوم پر تمسخر نہ کرے۔ ممکن ہے وہ ان سے بہتر ہوجائیں۔ اور نہ عورتیں عورتوں سے (تمسخر کریں)۔ ہو سکتا ہے کہ وہ ان سے بہتر ہوجائیں۔ اور اپنے لوگوں پر عیب مت لگایا کرو اور ایک دوسرے کو نام بگاڑ کر نہ پکارا کرو۔ ایمان کے بعد فسوق کا داغ لگ جانا بہت بری بات ہے۔ اور جس نے توبہ نہ کی تو یہی وہ لوگ ہیں جو ظالم ہیں ۔",
+        "v5": {
+            "text": "O ye who believe! let not one people deride <i>another</i> people, haply they may be better than they, nor let women <i>deride other</i> women, haply they may be better than they. [a]And defame not your own people, nor call <i>one another</i> by nicknames. Bad <i>indeed</i> is evil reputation after <i>the profession of</i> belief; and those who repent not, such are the wrongdoers.[3849]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "68:12; 104:2."
+                },
+                {
+                    "ref": "3849",
+                    "note": "<p><strong>Important Words:</strong></p><p>لا تلمزوا (defame not) is derived from لمز. They say لمزہ i.e. he made a sign to him with the eye, or the like, as the head, and the lip, with low speech. This is the original signification; according to some other authorities the primary signification of the expression is: (1) he pushed him or impelled him or repelled him or he struck or beat him; (2) he blamed, upbraided, or reproached him; he found fault with him; or he did so in his face; or he spoke evil of him; or spoke of him in a manner that he disliked, mentioning vices or faults as chargeable to him, either behind his back or in his face, though it might be with truth (Lane, Aqrab &amp; Raghib). See also 104:2.</p><p>لا تنابزوا (call not by nicknames) is derived from نبز which means, he called him by a surname or nick-name and is syn. with لقبه (<i>laqqaba</i>), mostly signifying, he called him by a nickname, or a name of reproach or an opprobrious appellation. It also signifies, he upbraided or reproached him; or the like, being syn. with لمزہ (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>See next verse.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 13,
+        "v_": 12,
+        "topics": [
+            {
+                "id": 3626,
+                "topic": "Attributes of Allah: At-Tawwab (The Acceptor of Repentance)",
+                "verses": "42:26, 2:38, 2:55, 2:129, 2:161, 4:17, 4:65, 9:104, 24:11, 110:4"
+            },
+            {
+                "id": 3879,
+                "topic": "Backbiting: <i>Humazah</i>",
+                "verses": "104:2, 68:12"
+            },
+            {
+                "id": 4752,
+                "topic": "Brother: backbiting",
+                "verses": null
+            },
+            {
+                "id": 5237,
+                "topic": "Conjecture: <i>Zann</i>",
+                "verses": "4:158, 2:79, 3:8, 6:117, 6:149, 10:37, 10:61, 10:67, 34:54, 38:28, 43:21, 45:25, 45:33, 48:7, 48:13, 53:24, 53:29"
+            },
+            {
+                "id": 7675,
+                "topic": "Flesh: <i>Lahm</i>: backbiting",
+                "verses": null
+            },
+            {
+                "id": 11599,
+                "topic": "Moral Traits: backbiting",
+                "verses": "104:2"
+            },
+            {
+                "id": 11982,
+                "topic": "Moral Traits: suspicion",
+                "verses": "17:37, 24:7"
+            },
+            {
+                "id": 17052,
+                "topic": "Society",
+                "verses": "20:120, 2:141, 2:180, 2:189, 2:216, 2:281, 2:283, 2:284, 3:135, 5:3, 17:27-30, 17:36, 24:5, 24:62, 25:68, 30:40, 33:22, 33:34, 34:35, 43:36, 53:40-41, 59:8, 71:15, 89:21, 104:2"
+            },
+            {
+                "id": 17527,
+                "topic": "Taqwa: fear of God",
+                "verses": "2:3, 2:190, 2:197-198, 2:204, 2:213, 2:224, 2:232, 2:234, 2:238, 2:279, 2:283-284, 3:16, 3:51, 3:77, 3:103, 3:131, 3:201, 4:2, 4:10, 4:132, 5:3, 5:5, 5:8-9, 5:12, 5:36, 5:58, 5:89, 5:94, 5:97, 5:113, 6:70, 6:73, 7:27, 7:36, 7:66, 8:2, 8:70, 9:7, 9:108, 9:109, 11:79, 15:70, 20:133, 22:2, 22:33, 22:38, 26:109, 26:133, 26:185, 33:56, 33:71, 43:64, 47:18, 48:27, 49:4, 49:11, 57:29, 58:10, 59:8, 59:19, 60:12, 65:2, 65:11, 74:57, 78:32, 96:13"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا الَّذِیۡنَ  اٰمَنُوا اجۡتَنِبُوۡا کَثِیۡرًا مِّنَ الظَّنِّ ۫ اِنَّ  بَعۡضَ الظَّنِّ   اِثۡمٌ وَّ لَا تَجَسَّسُوۡا وَ لَا یَغۡتَبۡ بَّعۡضُکُمۡ بَعۡضًا ؕ اَیُحِبُّ  اَحَدُکُمۡ  اَنۡ یَّاۡکُلَ  لَحۡمَ اَخِیۡہِ  مَیۡتًا فَکَرِہۡتُمُوۡہُ ؕ  وَ اتَّقُوا اللّٰہَ ؕ اِنَّ  اللّٰہَ  تَوَّابٌ  رَّحِیۡمٌ ﴿۱۳﴾ ",
+        "ur": "اے لوگو جو ایمان لائے ہو! ظن سے بکثرت اجتناب کیا کرو۔ یقیناً بعض ظن گناہ ہوتے ہیں۔ اور تجسس نہ کیا کرو۔ اور تم میں سے کوئی کسی دوسرے کی غیبت نہ کرے۔ کیا تم میں سے کوئی یہ پسند کرتا ہے کہ اپنے مردہ بھائی کا گوشت کھائے؟ پس تم اس سے سخت کراہت کرتے ہو۔ اور اللہ کا تقویٰ اختیار کرو۔ یقیناً اللہ بہت توبہ قبول کرنے والا (اور) بار بار رحم کرنے والا ہے ۔",
+        "v5": {
+            "text": "O ye who believe! avoid much suspicion[a]; for suspicion in some cases is a sin. And spy not, neither backbite one another. Would any of you like to eat the flesh of his brother who is dead? Certainly you would loathe it. And fear Allah, surely, Allah is Oft-Returning <i>with compassion and is</i> Merciful.[3850]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "10:67; 53:29."
+                },
+                {
+                    "ref": "3850",
+                    "note": "<p><strong>Commentary:</strong></p><p>As stated above the principal theme of the <i>Surah</i> is the establishment of concord, amity and goodwill between Muslim individuals and groups and therefore it has mentioned some of those social evils which cause discord, dissensions and differences, and corrode, corrupt and contaminate a society, eating into its vitals, and enjoins Muslims to be on their guard against them. Ridiculing and taunting others, spying, and calling by nick-names, and suspicion and backbiting are some of these social evils. Women have been particularly mentioned here in that they are more prone to fall a victim to these evils. The main cause, which lies at the root of these evils, is conceit and a false sense of superiority, which the next verse expressly deals with. By removing the basic causes of disharmony and disagreement among Muslims the <i>Surah</i> has laid the foundation of a firm and solid brotherhood of Islam.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 14,
+        "v_": 13,
+        "topics": [
+            {
+                "id": 2010,
+                "topic": "Allah: most honoured in sight of",
+                "verses": null
+            },
+            {
+                "id": 2914,
+                "topic": "Asbat: tribes",
+                "verses": "7:161, 3:85"
+            },
+            {
+                "id": 3326,
+                "topic": "Attributes of Allah: Al-Khabir (All-Aware)",
+                "verses": "6:104, 2:272, 4:36, 4:136, 5:9, 6:19, 6:74, 11:2, 17:18, 17:31, 22:64, 31:17, 33:35, 35:15, 35:32, 42:28, 57:11, 58:14, 59:19, 63:12, 64:9, 66:4, 67:15, 100:12"
+            },
+            {
+                "id": 7186,
+                "topic": "Equality of man",
+                "verses": "2:179, 3:116, 3:196, 4:4, 4:8, 4:13, 4:33, 4:96, 4:125, 10:88, 16:72, 16:98, 22:18, 24:62, 33:36, 33:38"
+            },
+            {
+                "id": 7382,
+                "topic": "Family",
+                "verses": "11:46-47, 2:41, 2:197, 2:249, 3:34, 3:36, 7:84, 11:41, 11:82, 12:7, 12:89, 15:66, 20:30, 21:77, 21:85, 26:170-171, 27:50, 28:9, 28:30, 29:33, 37:77, 38:44, 84:10"
+            },
+            {
+                "id": 8291,
+                "topic": "Hadith: farewell pilgrimage",
+                "verses": null
+            },
+            {
+                "id": 8947,
+                "topic": "Honour: of believers",
+                "verses": "4:32, 4:140, 4:176, 8:5, 8:75, 10:3, 19:86, 22:51, 30:16, 57:19, 70:35-36, 89:16, 89:18"
+            },
+            {
+                "id": 10789,
+                "topic": "Man: creation of",
+                "verses": "23:13-15, 3:7, 3:60, 4:2, 6:3, 7:12-13, 15:27, 15:29-30, 15:34, 16:5, 18:38, 22:6, 25:55, 30:21, 32:8-10, 35:12, 36:78, 37:12, 38:72, 39:7, 40:68, 53:47, 55:15, 71:15, 71:18, 75:38-40, 76:3, 77:21-24, 86:7, 87:3, 95:5-6, 96:3"
+            },
+            {
+                "id": 10930,
+                "topic": "Mankind: Allah and",
+                "verses": "1:4, 2:22, 10:93, 12:39, 13:7, 13:32, 14:53, 17:71, 22:19, 27:74, 30:31, 35:3, 40:58, 40:62, 45:27, 57:26, 114:2-4"
+            },
+            {
+                "id": 15800,
+                "topic": "Righteous: <i>Salihin</i>: example of",
+                "verses": "2:131, 3:40, 3:47, 3:115, 4:70, 4:157, 5:9, 6:70, 6:85-87, 12:37, 16:123, 18:73, 21:73, 21:76, 21:87, 24:24, 28:28, 29:28, 33:33, 37:113, 41:34, 48:27, 66:13, 103:4"
+            },
+            {
+                "id": 17052,
+                "topic": "Society",
+                "verses": "20:120, 2:141, 2:180, 2:189, 2:216, 2:281, 2:283, 2:284, 3:135, 5:3, 17:27-30, 17:36, 24:5, 24:62, 25:68, 30:40, 33:22, 33:34, 34:35, 43:36, 53:40-41, 59:8, 71:15, 89:21, 104:2"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا النَّاسُ  اِنَّا خَلَقۡنٰکُمۡ  مِّنۡ ذَکَرٍ وَّ اُنۡثٰی وَ جَعَلۡنٰکُمۡ شُعُوۡبًا وَّ قَبَآئِلَ لِتَعَارَفُوۡا ؕ اِنَّ  اَکۡرَمَکُمۡ  عِنۡدَ اللّٰہِ  اَتۡقٰکُمۡ ؕ اِنَّ اللّٰہَ عَلِیۡمٌ خَبِیۡرٌ ﴿۱۴﴾ ",
+        "ur": "اے لوگو! یقیناً ہم نے تمہیں نر اور مادہ سے پیدا کیا اور تمہیں قوموں اور قبیلوں میں تقسیم کیا تاکہ تم ایک دوسرے کو پہچان سکو۔ بلا شبہ اللہ کے نزدیک تم میں سب سے زیادہ معزز وہ ہے جو سب سے زیادہ متّقی ہے۔ یقیناً اللہ دائمی علم رکھنے والا (اور) ہمیشہ باخبر ہے۔",
+        "v5": {
+            "text": "O mankind, We have created you from a male and a female; and We have made you into tribes and subtribes that you may know one another. Verily, the most honourable among you, in the sight of Allah, is he who is the most righteous among you. Surely, Allah is All-Knowing, All-Aware.[3851]",
+            "notes": [
+                {
+                    "ref": "3851",
+                    "note": "<p><strong>Important Words:</strong></p><p>شعوباً (tribes) is the plural of شعب (<i>sha‘bun</i>) which is inf. noun from شعب (<i>sha‘ba</i>) which means, he collected, brought together or united; or he separated, put asunder; divided or separated. شعب means, a great tribe; the parent of the tribes called قبائل, to which they refer their origin and which comprises them; a nation; a people; a cleft or crack (Lane &amp; Aqrab).</p><p>قبائل (subtribes) is the plural of قبیلة which is derived from قبل which means, he accepted; he took or received willingly. قبیلةmeans, a tribe; a subtribe; a family; a body of men from one father or mother (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>From the subject of Islamic brotherhood to which reference has been made in the preceding two verses, the <i>Surah</i>proceeds to lay down, in the verse under comment, the basis of an all-comprehensive, all-pervading brotherhood of man. The verse, in fact, constitutes the Magna Carta of human fraternity and equality. It has firmly laid the axe at the false and foolish notions of superiority, born of racial arrogance or national conceit. All men having been \"created from a male and a female\" as human beings have been declared equal in the sight of God. The worth of a man is not to be judged by the pigment of his skin, the amount of wealth he possesses or by his rank or social status, descent or pedigree, but by his moral greatness and the way in which he discharges his obligations to God and man. The whole human race is but one family. Division into tribes, nations, and races is meant to give them a better knowledge of one another, in order that they might benefit from one another’s national characteristics and good qualities. This, according to Islam, is the criterion of a person’s greatness and this is the only true and real criterion. The Holy Prophet explained the beautiful idea of the</p><p>brotherhood of man inculcated in this verse in his own inimitable way on the occasion of the Last Pilgrimage at Mecca, a short time before his death. Addressing a vast concourse of Muslims the Prophet said, \"O ye men! Your God is One and your ancestor is one. An Arab possesses no superiority over a non-Arab, nor does a non-Arab over an Arab. A white is in no way superior to a red, nor, for that matter, a red to a white, but only to the extent to which he discharges his duty to God and man. The most honoured among you in the sight of God is the one who is most righteous\" (Baihaqi). These noble words spoken by the Prophet during his Farewell Pilgrimage which have resounded through the centuries epitomize one of Islam’s loftiest ideals and strongest principles. It goes to the credit of the Holy Prophet that in a society riven with class distinction, he preached a message intensely democratic.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 15,
+        "v_": 14,
+        "topics": [
+            {
+                "id": 2786,
+                "topic": "A‘rab: Bedouins",
+                "verses": "9:90, 9:97-99, 9:101, 9:120, 33:21, 48:12, 48:17"
+            },
+            {
+                "id": 2810,
+                "topic": "Arabs",
+                "verses": "7:158, 9:97, 9:99"
+            },
+            {
+                "id": 4218,
+                "topic": "Belief: <i>Iman</i>: of a righteous",
+                "verses": "2:178, 1:5, 2:4-6, 2:63, 2:137-138, 2:166, 2:257, 2:261, 2:286, 3:17, 3:32, 3:54, 3:194, 4:66, 4:137, 4:148, 4:151-153, 5:84, 10:85, 10:100-101, 13:8, 23:110, 29:47, 45:7, 72:3, 72:14"
+            },
+            {
+                "id": 7321,
+                "topic": "Faith: <i>Iman</i>",
+                "verses": null
+            }
+        ],
+        "ar": "قَالَتِ الۡاَعۡرَابُ اٰمَنَّا ؕ قُلۡ لَّمۡ تُؤۡمِنُوۡا وَ لٰکِنۡ  قُوۡلُوۡۤا  اَسۡلَمۡنَا وَ لَمَّا یَدۡخُلِ الۡاِیۡمَانُ فِیۡ  قُلُوۡبِکُمۡ ؕ وَ اِنۡ تُطِیۡعُوا اللّٰہَ وَ رَسُوۡلَہٗ  لَا یَلِتۡکُمۡ مِّنۡ اَعۡمَالِکُمۡ شَیۡئًا ؕ اِنَّ اللّٰہَ غَفُوۡرٌ رَّحِیۡمٌ ﴿۱۵﴾",
+        "ur": "بادیہ نشین کہتے ہیں کہ ہم ایمان لے آئے۔ تُو کہہ دے کہ تم ایمان نہیں لائے لیکن صرف اتنا کہا کرو کہ ہم مسلمان ہوچکے ہیں۔ جبکہ ابھی تک ایمان تمہارے دلوں میں داخل نہیں ہوا۔ اور اگر تم اللہ اور اس کے رسول کی اطاعت کرو تو وہ تمہارے اعمال میں کچھ بھی کمی نہیں کرے گا۔ یقیناً اللہ بہت بخشنے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "The Arabs of the desert say, ‘We believe.’ Say, “You have not believed <i>yet</i>, but rather say, ‘We have submitted’, for <i>true</i> belief has not yet entered into your hearts.” But if you obey Allah and His Messenger, He will not detract anything from your deeds. Surely, Allah is Most Forgiving, Merciful.[3852]",
+            "notes": [
+                {
+                    "ref": "3852",
+                    "note": "<p><strong>Important Words:</strong></p><p>لا یلت (will not detract) is derived from ألت which means, it (a thing) decreased, diminished, lessened; it became defective or deficient; incomplete or imperfect. ألته او ولته حقه means, he diminished to him his right or due or defrauded him of a portion of it (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>All Muslims form an integral part of Islamic brotherhood. Islam confers equal rights on the unlettered and uncultured sons of the desert as it does on the civilized and cultured dwellers of cities and towns; only it exhorts the former to make greater efforts to learn and assimilate the teachings of Islam and make them the rule of their lives.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 16,
+        "v_": 15,
+        "topics": [
+            {
+                "id": 2810,
+                "topic": "Arabs",
+                "verses": "7:158, 9:97, 9:99"
+            },
+            {
+                "id": 4218,
+                "topic": "Belief: <i>Iman</i>: of a righteous",
+                "verses": "2:178, 1:5, 2:4-6, 2:63, 2:137-138, 2:166, 2:257, 2:261, 2:286, 3:17, 3:32, 3:54, 3:194, 4:66, 4:137, 4:148, 4:151-153, 5:84, 10:85, 10:100-101, 13:8, 23:110, 29:47, 45:7, 72:3, 72:14"
+            },
+            {
+                "id": 4279,
+                "topic": "Believers: <i>Mu’min</i>: believe in Allah, Angels",
+                "verses": "2:286, 2:4-5, 2:178, 2:257, 3:17-18, 3:85, 3:115, 4:163, 6:93, 7:157, 9:19, 23:58-59, 27:4, 31:5, 32:16, 70:27"
+            },
+            {
+                "id": 6731,
+                "topic": "Doubt: <i>Raib</i>: about Allah, Qur’an",
+                "verses": "2:3, 2:24, 2:148, 3:8, 3:61, 6:115, 10:38, 10:95, 10:115, 14:11, 24:51, 32:3, 38:9"
+            },
+            {
+                "id": 9943,
+                "topic": "Jihad: is for Allah",
+                "verses": "29:70, 2:219, 2:252, 3:143, 4:96, 5:36, 5:55, 8:73, 8:75, 9:16, 9:19-20, 9:24, 9:41, 9:44, 9:73, 9:81, 9:86, 9:88, 16:111, 22:79, 29:7, 60:2, 61:12"
+            },
+            {
+                "id": 18092,
+                "topic": "Truthful: <i>Sadiq</i>: if you are",
+                "verses": "2:178, 2:24, 2:95, 2:112, 3:94, 3:169, 3:184, 6:41, 6:144, 7:71, 7:107, 7:195, 10:39, 10:49, 11:14, 11:33, 15:8, 21:39, 26:155, 26:188, 27:65, 27:72, 28:50, 32:29, 34:30, 36:49, 40:29, 37:158, 45:26, 46:23, 49:18, 56:88, 62:7, 68:42"
+            }
+        ],
+        "ar": "اِنَّمَا  الۡمُؤۡمِنُوۡنَ  الَّذِیۡنَ اٰمَنُوۡا بِاللّٰہِ وَ رَسُوۡلِہٖ  ثُمَّ لَمۡ یَرۡتَابُوۡا وَ جٰہَدُوۡا بِاَمۡوَالِہِمۡ وَ اَنۡفُسِہِمۡ فِیۡ سَبِیۡلِ اللّٰہِ ؕ اُولٰٓئِکَ  ہُمُ  الصّٰدِقُوۡنَ ﴿۱۶﴾ ",
+        "ur": "مومن وہی ہیں جو اللہ اور اس کے رسول پر ایمان لائے پھر انہوں نے کبھی شک نہیں کیا اور اپنے مالوں اور اپنی جانوں سے اللہ کی راہ میں جہاد کیا۔ یہی وہ لوگ ہیں جو سچے ہیں۔",
+        "v5": {
+            "text": "[a]The believers are only those who <i>truly</i> believe in Allah and His Messenger, and then doubt not, but strive with their possessions and their persons in the cause of Allah. It is they who are truthful.[3853]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "9:20; 61:12."
+                },
+                {
+                    "ref": "3853",
+                    "note": "<p><strong>Commentary:</strong></p><p>True and sincere belief to which reference has been made in the preceding verse consists of three important ingredients—strong and firm faith in Allah, absolute freedom from doubt and misgiving as to the truth of Islam and striving with all means within one’s power in the cause of God. It is only those sincere and steadfast Muslims who possess these qualifications who are entitled to be called \"the truthful ones\" i.e. those who have fulfilled their pledged word to God.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 17,
+        "v_": 16,
+        "topics": [
+            {
+                "id": 6952,
+                "topic": "Earth: <i>Al-Ard</i>: Allah knows the secrets of the",
+                "verses": "10:62, 2:34, 3:6, 3:30, 5:98, 6:60, 17:56, 18:27, 22:71, 25:7, 27:66, 34:3-4, 39:47, 57:5, 58:8, 64:5"
+            }
+        ],
+        "ar": "قُلۡ اَتُعَلِّمُوۡنَ اللّٰہَ بِدِیۡنِکُمۡ ؕ وَ اللّٰہُ یَعۡلَمُ مَا فِی السَّمٰوٰتِ وَ مَا فِی الۡاَرۡضِ ؕ وَ اللّٰہُ  بِکُلِّ  شَیۡءٍ عَلِیۡمٌ ﴿۱۷﴾ ",
+        "ur": "پوچھ کہ کیا تم اللہ کو اپنا دین سکھاتے ہو؟ جبکہ اللہ جانتا ہے جو آسمانوں میں ہے اور جو زمین میں ہے اور اللہ ہر چیز کا خوب علم رکھتا ہے۔",
+        "v5": {
+            "text": "Say, [a]‘Will you acquaint Allah with your faith, while [b]Allah knows whatever is in the heavens and whatever is in the earth, and Allah knows all things full well?’",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "10:19."
+                },
+                {
+                    "ref": "b",
+                    "note": "20:8; 22:71; 27:66."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 49,
+        "v": 18,
+        "v_": 17,
+        "topics": [
+            {
+                "id": 8239,
+                "topic": "Guidance: Allah gives",
+                "verses": "20:51, 2:121, 2:186, 2:214, 3:74, 3:102, 4:69, 5:17, 6:36, 6:72, 6:89, 6:150, 7:44, 7:179, 10:10, 10:26, 10:36, 13:28, 13:32, 14:5, 14:13, 16:10, 16:94, 16:122, 19:77, 22:17, 22:38, 24:36, 24:47, 26:63, 26:79, 28:57, 29:70, 31:5-6, 33:5, 35:9, 37:119, 39:19, 39:24, 39:38, 42:14, 47:18, 48:3, 48:21, 64:12, 74:32, 76:4, 93:8"
+            },
+            {
+                "id": 9445,
+                "topic": "Islam: accepting, a favour",
+                "verses": "3:165"
+            },
+            {
+                "id": 18093,
+                "topic": "Truthful: <i>Sadiq</i>: if you are",
+                "verses": "2:178, 2:24, 2:95, 2:112, 3:94, 3:169, 3:184, 6:41, 6:144, 7:71, 7:107, 7:195, 10:39, 10:49, 11:14, 11:33, 15:8, 21:39, 26:155, 26:188, 27:65, 27:72, 28:50, 32:29, 34:30, 36:49, 40:29, 37:158, 45:26, 46:23, 49:16, 56:88, 62:7, 68:42"
+            }
+        ],
+        "ar": "یَمُنُّوۡنَ عَلَیۡکَ اَنۡ  اَسۡلَمُوۡا ؕ قُلۡ  لَّا تَمُنُّوۡا عَلَیَّ  اِسۡلَامَکُمۡ ۚ بَلِ اللّٰہُ یَمُنُّ عَلَیۡکُمۡ  اَنۡ ہَدٰٮکُمۡ  لِلۡاِیۡمَانِ  اِنۡ کُنۡتُمۡ صٰدِقِیۡنَ ﴿۱۸﴾ ",
+        "ur": "وہ تجھ پر احسان جتلاتے ہیں کہ وہ مسلمان ہوگئے ہیں۔ تُو کہہ دے مجھ پر اپنے اسلام کا احسان نہ جتایا کرو بلکہ اللہ تم پر احسان کرتا ہے کہ اس نے تمہیں ایمان کی طرف ہدایت دی۔ اگر تم سچے ہو (تو اس کا اعتراف کرو)۔",
+        "v5": {
+            "text": "They deem it as a favour to thee that they have embraced Islam. Say, ‘Deem not your embracing Islam a favour unto me. On the contrary,[c]Allah has bestowed a favour upon you in that He has guided you to the <i>true</i> Faith, if you are truthful.’[3854]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "3:165."
+                },
+                {
+                    "ref": "3854",
+                    "note": "<p><strong>Commentary:</strong></p><p>True and sincere faith is the most precious possession of a Muslim. By accepting Islam he does no favour to anybody; on the contrary, it is a favour of God that one is guided to the Truth.</p>"
+                }
+            ]
+        }
+    }
+]

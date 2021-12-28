@@ -1,0 +1,320 @@
+[
+    {
+        "ch": 99,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 99,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 5925,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: face of disbelievers on the",
+                "verses": "37:21, 67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:15, 73:19, 75:9-10, 75:25, 77:10-11, 78:20-21, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 101:5"
+            },
+            {
+                "id": 7055,
+                "topic": "Earthquake: <i>Rajfah, Zalzalah</i>",
+                "verses": "11:68, 7:79, 7:92, 7:156, 15:84, 22:2, 26:159, 79:7"
+            },
+            {
+                "id": 14459,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "30:3-5, 2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 93:2-3, 94:6-7, 100:10-12"
+            },
+            {
+                "id": 14478,
+                "topic": "Prophecies in the Holy Qur’an: about: latter days",
+                "verses": "81:2-19, 16:9, 17:105, 36:42-43, 61:10, 77:11-12, 82:2-5, 84:2-5, 111:4"
+            }
+        ],
+        "ar": "اِذَا  زُلۡزِلَتِ الۡاَرۡضُ  زِلۡزَالَہَا  ۙ﴿۲﴾",
+        "ur": "جب زمین اپنے بھونچال سے جنبش دی جائے گی ۔",
+        "v5": {
+            "text": "When the earth is shaken with her <i>violent</i> shaking,[4804]",
+            "notes": [
+                {
+                    "ref": "4804",
+                    "note": "<p><strong>Important Words:</strong></p><p>زلزلت (is shaken). زلزل الله الارض means, God made the earth to quake violently, or put the earth into a state of convulsion or violent motion. زلزل فلانا means, he frightened such a one and terrified him. زلزل الابل means, he drove the camels with violence or vehemence, means an earthquake, convulsion, commotion or violent agitation; a great calamity (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The expression زلزلت الارض زلزالھا means that the whole earth will experience all manner of internal as well as external commotion and upheavals. In our time not only has the earth been constantly shaken by most destructive earthquakes, wars and other calamities and catastrophes at frequent intervals, but also its dwellers have been subjected to violent and virulent agitation in every walk of life. Man has experienced catastrophic changes never witnessed by him before.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 99,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 4779,
+                "topic": "Burden: earth throws up its",
+                "verses": null
+            },
+            {
+                "id": 5925,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: face of disbelievers on the",
+                "verses": "37:21, 67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:15, 73:19, 75:9-10, 75:25, 77:10-11, 78:20-21, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 101:5"
+            },
+            {
+                "id": 7055,
+                "topic": "Earthquake: <i>Rajfah, Zalzalah</i>",
+                "verses": "11:68, 7:79, 7:92, 7:156, 15:84, 22:2, 26:159, 79:7"
+            },
+            {
+                "id": 7084,
+                "topic": "Economy: <i>Amwal</i>",
+                "verses": "70:25-26, 2:189, 2:216, 2:266, 2:269, 2:270, 2:274, 2:276, 9:103, 16:72, 30:40, 51:20, 89:18-21, 104:3"
+            },
+            {
+                "id": 14459,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "30:3-5, 2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 93:2-3, 94:6-7, 100:10-12"
+            },
+            {
+                "id": 14478,
+                "topic": "Prophecies in the Holy Qur’an: about: latter days",
+                "verses": "81:2-19, 16:9, 17:105, 36:42-43, 61:10, 77:11-12, 82:2-5, 84:2-5, 111:4"
+            },
+            {
+                "id": 14492,
+                "topic": "Prophecies in the Holy Qur’an: about: new discoveries",
+                "verses": null
+            }
+        ],
+        "ar": "وَ اَخۡرَجَتِ الۡاَرۡضُ اَثۡقَالَہَا ۙ﴿۳﴾ ",
+        "ur": "اور زمین اپنے بوجھ نکال پھینکے گی۔",
+        "v5": {
+            "text": "And the earth throws up her burdens,[4805]",
+            "notes": [
+                {
+                    "ref": "4805",
+                    "note": "<p><strong>Important Words:</strong></p><p>أثقالھا (her burdens) is the plural of ثقل which is inf. noun from ثقل (<i>thaqula</i>) which means, it was or became heavy, weighty or ponderous, or it became preponderant ideally; it was or became oppressive or grievous. ثقل (<i>thiqlun</i>) means, luggage of a traveller; household goods; anything held in high estimate or anything which is in much demand and is preserved; treasure or buried treasure; burden (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The verse may have one of the following interpretations:</p><p>1. The bowels of the earth will be ripped open and it will throw up its treasures of mineral wealth.</p><p>2. There will be a vast release and upsurge of knowledge of all kinds, relating to physical as well as spiritual sciences, especially in the sciences of geology and archaeology.</p><p>3. People will throw off the yoke of their rulers and religious leaders and will revolt against oppression, throwing the yoke of subjection off their shoulders.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 99,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 5925,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: face of disbelievers on the",
+                "verses": "37:21, 67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:15, 73:19, 75:9-10, 75:25, 77:10-11, 78:20-21, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 101:5"
+            },
+            {
+                "id": 14459,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "30:3-5, 2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 93:2-3, 94:6-7, 100:10-12"
+            },
+            {
+                "id": 14478,
+                "topic": "Prophecies in the Holy Qur’an: about: latter days",
+                "verses": "81:2-19, 16:9, 17:105, 36:42-43, 61:10, 77:11-12, 82:2-5, 84:2-5, 111:4"
+            },
+            {
+                "id": 14492,
+                "topic": "Prophecies in the Holy Qur’an: about: new discoveries",
+                "verses": null
+            }
+        ],
+        "ar": "وَ  قَالَ الۡاِنۡسَانُ مَا لَہَا ۚ﴿۴﴾ ",
+        "ur": "اور انسان کہے گا کہ اسے کیا ہوگیا ہے۔",
+        "v5": {
+            "text": "And man says, ‘What is the matter with her?’[4806]",
+            "notes": [
+                {
+                    "ref": "4806",
+                    "note": "<p><strong>Commentary:</strong></p><p>The changes will be so many and so far reaching and the discoveries made so great that one will exclaim in wonder and bewilderment: \"What is the matter with the earth!\"</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 99,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 5925,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: face of disbelievers on the",
+                "verses": "37:21, 67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:15, 73:19, 75:9-10, 75:25, 77:10-11, 78:20-21, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 101:5"
+            },
+            {
+                "id": 14459,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "30:3-5, 2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 93:2-3, 94:6-7, 100:10-12"
+            },
+            {
+                "id": 14478,
+                "topic": "Prophecies in the Holy Qur’an: about: latter days",
+                "verses": "81:2-19, 16:9, 17:105, 36:42-43, 61:10, 77:11-12, 82:2-5, 84:2-5, 111:4"
+            },
+            {
+                "id": 14492,
+                "topic": "Prophecies in the Holy Qur’an: about: new discoveries",
+                "verses": null
+            }
+        ],
+        "ar": "یَوۡمَئِذٍ تُحَدِّثُ  اَخۡبَارَہَا ۙ﴿۵﴾ ",
+        "ur": "اُس دن وہ اپنی خبریں بیان کرے گی۔",
+        "v5": {
+            "text": "That day will she tell her news,[4807]",
+            "notes": [
+                {
+                    "ref": "4807",
+                    "note": "<p><strong>Commentary:</strong></p><p>All prophecies concerning the present age will be fulfilled and all that had hitherto remained obscure will become manifest. The verse may also mean that the science of geology will make great strides. When asked about the meaning of the verse, the Holy Prophet is reported to have said that every action done in secret will come to light (Tirmidhi).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 99,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 5925,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: face of disbelievers on the",
+                "verses": "37:21, 67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:15, 73:19, 75:9-10, 75:25, 77:10-11, 78:20-21, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 101:5"
+            },
+            {
+                "id": 14459,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "30:3-5, 2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 93:2-3, 94:6-7, 100:10-12"
+            },
+            {
+                "id": 14478,
+                "topic": "Prophecies in the Holy Qur’an: about: latter days",
+                "verses": "81:2-19, 16:9, 17:105, 36:42-43, 61:10, 77:11-12, 82:2-5, 84:2-5, 111:4"
+            },
+            {
+                "id": 14492,
+                "topic": "Prophecies in the Holy Qur’an: about: new discoveries",
+                "verses": null
+            }
+        ],
+        "ar": "بِاَنَّ  رَبَّکَ اَوۡحٰی لَہَا ؕ﴿۶﴾ ",
+        "ur": "کیونکہ تیرے ربّ نے اسے وحی کی ہوگی۔",
+        "v5": {
+            "text": "For thy Lord will have revealed about her.[4808]",
+            "notes": [
+                {
+                    "ref": "4808",
+                    "note": "<p><strong>Commentary:</strong></p><p>At about 65 places in the Quran, excluding the present verse, wherever the word وحی has been used, it is followed by the preposition الی . In the verse under comment, however, it is followed by the particle ل which being synonymous with فیmeans, \"concerning,\" and the verse means, the Lord has sent down the revelation concerning her, the recipient of the revelation—the Holy Prophet—being left unmentioned. The word أوحـی also means, he commanded. In this sense of the word, the verse would mean that the earth will throw out its treasures because it is commanded by God to do so.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 99,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 5925,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: face of disbelievers on the",
+                "verses": "37:21, 67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:15, 73:19, 75:9-10, 75:25, 77:10-11, 78:20-21, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 101:5"
+            },
+            {
+                "id": 14459,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "30:3-5, 2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 93:2-3, 94:6-7, 100:10-12"
+            },
+            {
+                "id": 14478,
+                "topic": "Prophecies in the Holy Qur’an: about: latter days",
+                "verses": "81:2-19, 16:9, 17:105, 36:42-43, 61:10, 77:11-12, 82:2-5, 84:2-5, 111:4"
+            },
+            {
+                "id": 14491,
+                "topic": "Prophecies in the Holy Qur’an: about: the Promised Messiah<sup>(as)</sup>",
+                "verses": "61:10, 17:87, 53:2, 62:3-5, 81:19, 85:2-5, 86:2-5"
+            },
+            {
+                "id": 14492,
+                "topic": "Prophecies in the Holy Qur’an: about: new discoveries",
+                "verses": null
+            }
+        ],
+        "ar": "یَوۡمَئِذٍ یَّصۡدُرُ  النَّاسُ اَشۡتَاتًا ۬ۙ لِّیُرَوۡا اَعۡمَالَہُمۡ ؕ﴿۷﴾ ",
+        "ur": "اس دن لوگ پراگندہ حال نکل کھڑے ہوں گے تاکہ اُنہیں اُن کے اعمال دکھا دیئے جائیں۔",
+        "v5": {
+            "text": "On that day will men come forth in scattered groups that they may be shown <i>the results of</i> their works.[4809]",
+            "notes": [
+                {
+                    "ref": "4809",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means that in the time of the Promised Messiah, in order to protect and safeguard their political, social and economic interests, people will form themselves into parties, companies and groups. There will be political parties and parties formed on economic basis; and powerful guilds, cartels and syndicates will also come into existence.</p><p>The words \"that they may be shown the results of their works\" signify that individuals will pool their resources, and collective effort will take the place of individual effort in order that they might make their weight felt and their labours might lead to some result.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 99,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 513,
+                "topic": "Actions: <i>A‘mal</i>: rewarded",
+                "verses": "28:85, 3:196, 4:41, 4:58, 4:174, 5:10, 7:9, 7:44, 9:121, 11:16, 11:112, 16:98, 17:10, 18:3, 18:47, 18:108-9, 19:77, 20:76-77, 22:15, 22:57, 24:39, 29:8, 29:10, 31:9-10, 32:18, 32:20, 33:30, 34:38, 35:8, 35:11, 35:33, 39:36, 41:9, 42:23-24, 42:27, 43:73-74, 45:31, 46:20, 47:13, 47:36, 48:30, 52:18-21, 65:12, 84:26, 85:12, 95:7, 98:8-9, 101:7-8"
+            },
+            {
+                "id": 538,
+                "topic": "Accountability: <i>Hisab</i>: Allah calls to account",
+                "verses": "2:226, 2:285, 3:31, 4:41, 6:63, 17:37, 18:50, 19:85, 21:48, 24:40, 28:62, 28:85, 33:6, 37:128, 41:18, 42:23, 56:87, 58:7, 65:9, 68:40, 75:3, 83:6, 88:27, 102:9"
+            },
+            {
+                "id": 933,
+                "topic": "Afterlife: <i>Akhirah</i>: every deed will be judged in",
+                "verses": "3:31, 18:50, 20:16, 39:71"
+            },
+            {
+                "id": 2964,
+                "topic": "Atom: <i>Dharrah</i>, atomic blast",
+                "verses": "4:41, 10:62, 34:4, 34:23, 36:30, 36:54, 70:10, 104:7-10"
+            },
+            {
+                "id": 9458,
+                "topic": "Islam: accountability in",
+                "verses": "2:285, 2:140, 4:86, 5:90, 6:53, 7:7, 10:42, 21:48, 42:16, 64:5-8, 68:40"
+            },
+            {
+                "id": 14478,
+                "topic": "Prophecies in the Holy Qur’an: about: latter days",
+                "verses": "81:2-19, 16:9, 17:105, 36:42-43, 61:10, 77:11-12, 82:2-5, 84:2-5, 111:4"
+            },
+            {
+                "id": 14492,
+                "topic": "Prophecies in the Holy Qur’an: about: new discoveries",
+                "verses": null
+            }
+        ],
+        "ar": "فَمَنۡ یَّعۡمَلۡ مِثۡقَالَ ذَرَّۃٍ خَیۡرًا یَّرَہٗ ؕ﴿۸﴾ ",
+        "ur": "پس جو کوئی ذرّہ بھر بھی نیکی کرے گا وہ اُسے دیکھ لے گا۔",
+        "v5": {
+            "text": "[a]Then whoso does an atom’s weight of good will see it,",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "4:124-125; 17:8; 28:85; 41:47."
+                }
+            ]
+        }
+    }
+]

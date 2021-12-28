@@ -1,0 +1,543 @@
+[
+    {
+        "ch": 92,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 13160,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 85:2-4, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 93:2-3, 95:2-4, 100:2, 103:2-3"
+            },
+            {
+                "id": 14413,
+                "topic": "Prophecies in the Holy Qur’an: about: the Holy Prophet<sup>(sa)</sup>",
+                "verses": "28:86, 2:41-42, 2:90, 5:48, 10:72, 17:2, 17:61, 17:81, 38:12, 46:11-13, 47:14, 54:7-9, 81:24, 89:2-3, 90:5, 94:5"
+            },
+            {
+                "id": 15421,
+                "topic": "Reformers: advent of",
+                "verses": "97:4, 15:19, 19:52, 25:48, 28:60, 30:47, 30:57, 36:52, 45:6, 56:76, 72:10, 77:12, 81:3, 81:19, 85:2, 91:3"
+            }
+        ],
+        "ar": "وَ الَّیۡلِ  اِذَا یَغۡشٰی ۙ﴿۲﴾ ",
+        "ur": "قسم ہے رات کی جب وہ ڈھانپ لے۔",
+        "v5": {
+            "text": "[b]By the night when it covers up![4750]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "91:5."
+                },
+                {
+                    "ref": "4750",
+                    "note": "<p><strong>Commentary:</strong></p><p>In this verse \"the night when it covers up\" has been cited as a witness to the truth of the Holy Prophet. It is a Divine law that when darkness spreads over the earth, a heavenly Reformer is raised. And now that humanity is groping in spiritual darkness God has raised the Holy Prophet in order that His servants might be rescued from the \"Slough of Despond\" in which they are stuck up.</p><p>In the preceding <i>Surah</i> the principal subject of discussion was Ash-Shams, i.e. the Holy Prophet, who is the source and spring of all light. This is why mention of the sun and the day precedes that of the moon and the night. But in the present <i>Surah</i> a contrast is instituted between believers and disbelievers, and as the latter are generally larger in number and wield greater power and influence, mention of the night precedes that of the day.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 12840,
+                "topic": "Nahr: day (&amp; night)",
+                "verses": "2:165, 3:28, 21:34, 91:4"
+            },
+            {
+                "id": 13160,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 85:2-4, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 93:2-3, 95:2-4, 100:2, 103:2-3"
+            },
+            {
+                "id": 14413,
+                "topic": "Prophecies in the Holy Qur’an: about: the Holy Prophet<sup>(sa)</sup>",
+                "verses": "28:86, 2:41-42, 2:90, 5:48, 10:72, 17:2, 17:61, 17:81, 38:12, 46:11-13, 47:14, 54:7-9, 81:24, 89:2-3, 90:5, 94:5"
+            },
+            {
+                "id": 15421,
+                "topic": "Reformers: advent of",
+                "verses": "97:4, 15:19, 19:52, 25:48, 28:60, 30:47, 30:57, 36:52, 45:6, 56:76, 72:10, 77:12, 81:3, 81:19, 85:2, 91:3"
+            }
+        ],
+        "ar": "وَ النَّہَارِ  اِذَا  تَجَلّٰی ۙ﴿۳﴾ ",
+        "ur": "اور دن کی جب وہ روشن ہوجائے۔",
+        "v5": {
+            "text": "[c]<i>And</i> by the day when it shines forth,[4751]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "91:4."
+                },
+                {
+                    "ref": "4751",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse signifies that with the appearance of the Holy Prophet the night of disbelief is about to give place to the day of belief.</p><p>By the substitution of the word تجلی (shines forth) in this verse in place of جلاھا (reveals its glory) in the corresponding verse in the preceding <i>Surah</i> it is hinted that whereas in the preceding <i>Surah</i> the emphasis was on the high spiritual stature of the teacher, in the present <i>Surah</i> it is on the great ability of the pupils to learn and assimilate the teaching.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 1372,
+                "topic": "Allah: created you",
+                "verses": "30:41, 2:22, 2:30, 4:2, 6:103, 7:190, 13:17, 15:29, 15:86, 16:73, 20:56, 21:17, 21:34, 23:13-15, 23:18, 24:46, 27:65, 30:21-22, 35:4, 36:37, 38:72, 39:7, 41:10, 43:13, 46:4, 50:17, 53:46, 55:4, 55:15-16, 59:25, 67:3, 71:15, 87:3, 96:3"
+            },
+            {
+                "id": 1950,
+                "topic": "Allah: made for you mates",
+                "verses": "16:73, 4:2, 7:190, 30:22, 35:12, 36:37, 39:7, 42:12, 43:13, 51:50, 53:46, 75:40, 78:9"
+            },
+            {
+                "id": 12411,
+                "topic": "Muhammad<sup>(sa)</sup>: companions of",
+                "verses": "24:38-39, 3:160, 5:23, 7:158, 8:6, 9:100, 9:117, 9:128, 26:220, 33:24, 47:5, 48:30, 66:9, 77:2-7, 79:2-6, 100:2-12"
+            },
+            {
+                "id": 13160,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 85:2-4, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 93:2-3, 95:2-4, 100:2, 103:2-3"
+            }
+        ],
+        "ar": "وَ مَا خَلَقَ الذَّکَرَ  وَ الۡاُنۡثٰۤی ۙ﴿۴﴾ ",
+        "ur": "اور اس کی جو اُس نے نر اور مادہ پیدا کئے۔",
+        "v5": {
+            "text": "[d]<i>And</i> by the creation of the male and the female,[4752]",
+            "notes": [
+                {
+                    "ref": "d",
+                    "note": "36:37; 51:50; 78:9."
+                },
+                {
+                    "ref": "4752",
+                    "note": "<p><strong>Commentary:</strong></p><p>Procreation of man depends upon the coming together of two individuals of opposite sexes. The characteristic quality of the one (the male) is to give, of the other (the female) to receive. Like the physical world there are in the spiritual world males—God’s great Prophets and Divine Reformers—who teach and guide, and there are also spiritual females—their followers—who receive and benefit by the Divine teaching. The verse embodies a hint that by the coming together of the perfect teacher—the Holy Prophet—and the ideal pupils—his Companions—a new world is about to be born.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 5,
+        "v_": 4,
+        "topics": [],
+        "ar": "اِنَّ  سَعۡیَکُمۡ  لَشَتّٰی ؕ﴿۵﴾ ",
+        "ur": "تمہاری کوشش یقیناً الگ الگ ہے۔",
+        "v5": {
+            "text": "Surely, your strivings are diverse.[4753]",
+            "notes": [
+                {
+                    "ref": "4753",
+                    "note": "<p><strong>Important Words:</strong></p><p>شتی (diverse). They say شت الاشیاء i.e. he disunited or dispersed the things. أمرشت means, a broken or disorganized state of affairs. قوم شتی means, a people separated or consisting of sundry bodies. جاؤوا اشتاتاً means, they came separate (Lane).</p><p><strong>Commentary:</strong></p><p>The verse draws attention to the widely divergent goals of believers and disbelievers, and also to the disparity in the endeavours they make to achieve their respective goals. Whereas the efforts of believers are devoted to the dissemination of truth, those of disbelievers are directed towards opposing it and putting obstacles and impediments in its way. The results of the two efforts must inevitably be different.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 6,
+        "v_": 5,
+        "topics": [],
+        "ar": "فَاَمَّا مَنۡ اَعۡطٰی وَ اتَّقٰی ۙ﴿۶﴾ ",
+        "ur": "پس وہ جس نے (راہِ حق میں) دیا اور تقویٰ اختیار کیا۔",
+        "v5": {
+            "text": "Then as for him who gives <i>for the cause of Allah</i> and is righteous,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 92,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 8032,
+                "topic": "Good Deeds: <i>Hasanat</i>",
+                "verses": "2:63, 2:26, 2:83, 2:278, 3:58, 4:58, 4:123, 5:70, 5:94, 7:43, 7:169, 9:120, 11:115, 13:19, 16:98, 18:89, 19:61, 21:102, 23:52, 23:101, 25:71-72, 27:20, 57:11, 64:10, 65:12, 92:10, 103:4"
+            }
+        ],
+        "ar": "وَ صَدَّقَ بِالۡحُسۡنٰی ۙ﴿۷﴾ ",
+        "ur": "اور بہترین نیکی کی تصدیق کی۔",
+        "v5": {
+            "text": "And testifies to <i>the truth, of</i> what is right,[4754]",
+            "notes": [
+                {
+                    "ref": "4754",
+                    "note": "<p><strong>Commentary:</strong></p><p>This and the preceding verse mention three characteristics of persons who are successful in life, viz. they spend in the cause of truth out of what God has bestowed upon them, and are always on their guard against doing anything that may harm others. Over and above this, they adopt good principles and right ideals. Briefly, right action, right feeling and right thinking are the three essential prerequisites for national progress and prosperity which believers possess in an ample measure.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 8,
+        "v_": 7,
+        "topics": [],
+        "ar": "فَسَنُیَسِّرُہٗ  لِلۡیُسۡرٰی ؕ﴿۸﴾ ",
+        "ur": "تو ہم اسے ضرور کشادگی عطا کریں گے۔",
+        "v5": {
+            "text": "[a]We will provide for him <i>every</i> facility.[4755]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "87:9."
+                },
+                {
+                    "ref": "4755",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means that the person who possesses the three characteristic qualities mentioned in the preceding two verses, will find that his actions are productive of the desired results. Or it may mean that the doing of good deeds will become easy for such a person and he will enjoy doing them.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 11858,
+                "topic": "Moral Traits: niggardliness",
+                "verses": "47:37-39, 3:181-182, 4:38, 9:35, 9:76, 17:101, 25:68, 33:20, 57:25, 64:17, 68:26, 70:22, 81:25"
+            }
+        ],
+        "ar": "وَ اَمَّا مَنۡۢ  بَخِلَ وَ اسۡتَغۡنٰی ۙ﴿۹﴾ ",
+        "ur": "اور جہاں تک اس کا تعلق ہے جس نے بخل کیا اور بے پروائی کی۔",
+        "v5": {
+            "text": "But as for him who is niggardly and is <i>disdainfully</i> indifferent,[4756]",
+            "notes": [
+                {
+                    "ref": "4756",
+                    "note": "<p><strong>Commentary:</strong></p><p>In contrast to the three good qualities mentioned in the preceding two verses (6-7), the three bad qualities that lead to the undoing of a man are mentioned in these two verses (9-10).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 8033,
+                "topic": "Good Deeds: <i>Hasanat</i>",
+                "verses": "2:63, 2:26, 2:83, 2:278, 3:58, 4:58, 4:123, 5:70, 5:94, 7:43, 7:169, 9:120, 11:115, 13:19, 16:98, 18:89, 19:61, 21:102, 23:52, 23:101, 25:71-72, 27:20, 57:11, 64:10, 65:12, 92:7, 103:4"
+            },
+            {
+                "id": 11858,
+                "topic": "Moral Traits: niggardliness",
+                "verses": "47:37-39, 3:181-182, 4:38, 9:35, 9:76, 17:101, 25:68, 33:20, 57:25, 64:17, 68:26, 70:22, 81:25"
+            }
+        ],
+        "ar": "وَ  کَذَّبَ بِالۡحُسۡنٰی ۙ﴿۱۰﴾ ",
+        "ur": "اور بہترین نیکی کی تکذیب کی۔",
+        "v5": {
+            "text": "And rejects what is right,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 92,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 11858,
+                "topic": "Moral Traits: niggardliness",
+                "verses": "47:37-39, 3:181-182, 4:38, 9:35, 9:76, 17:101, 25:68, 33:20, 57:25, 64:17, 68:26, 70:22, 81:25"
+            }
+        ],
+        "ar": "فَسَنُیَسِّرُہٗ  لِلۡعُسۡرٰی ﴿ؕ۱۱﴾ ",
+        "ur": "تو ہم اُسے ضرور تنگی میں ڈال دیں گے۔",
+        "v5": {
+            "text": "We will make easy for him <i>the path</i> to distress.[4757]",
+            "notes": [
+                {
+                    "ref": "4757",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means that the actions of the person referred to in the preceding verse miss their mark and produce results contrary to what he expects or desires. Or it may mean that the doing of good deeds becomes difficult for such a person.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 12,
+        "v_": 11,
+        "topics": [
+            {
+                "id": 13826,
+                "topic": "Perish",
+                "verses": "3:120, 4:89, 4:144, 7:100, 7:156, 7:171, 8:43, 9:120, 11:61, 11:96, 11:116, 12:86, 17:103, 18:36, 20:17, 20:62, 20:82, 21:19, 28:89, 40:79, 40:86, 111:2"
+            },
+            {
+                "id": 18546,
+                "topic": "Wealth: avails naught",
+                "verses": "104:3-5, 3:11, 3:15, 26:89, 34:35-38, 58:18, 69:29, 102:2-9, 111:3"
+            }
+        ],
+        "ar": "وَ مَا یُغۡنِیۡ عَنۡہُ  مَا لُہٗۤ  اِذَا تَرَدّٰی ﴿ؕ۱۲﴾ ",
+        "ur": "اور اس کا مال جب تباہ ہو جائے گا اس کے کسی کام نہ آئے گا۔",
+        "v5": {
+            "text": "[a]And his wealth shall not avail him when he perishes.[4758]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "3:11; 58:18; 111:3."
+                },
+                {
+                    "ref": "4758",
+                    "note": "<p><strong>Commentary:</strong></p><p>The expression \"When he perishes\" signifies, that when Divine decree regarding his destruction comes into operation, nothing can avail him to avert or escape Divine punishment.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 13,
+        "v_": 12,
+        "topics": [],
+        "ar": "اِنَّ  عَلَیۡنَا لَلۡہُدٰی ﴿۫ۖ۱۳﴾ ",
+        "ur": "یقیناً ہدایت دینا ہم پر بہرحال فرض ہے۔",
+        "v5": {
+            "text": "[b]Surely, it is for Us to guide;",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "2:273; 28:57."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 14,
+        "v_": 13,
+        "topics": [
+            {
+                "id": 861,
+                "topic": "Afterlife: <i>Akhirah</i>",
+                "verses": "53:26"
+            }
+        ],
+        "ar": "وَ اِنَّ  لَنَا لَلۡاٰخِرَۃَ  وَ الۡاُوۡلٰی ﴿۱۴﴾ ",
+        "ur": "اور یقیناً انجام بھی لازماً ہمارے تصرف میں ہے اور آغاز بھی۔",
+        "v5": {
+            "text": "And to Us belongs the Hereafter as well as the present world.[4759]",
+            "notes": [
+                {
+                    "ref": "4759",
+                    "note": "<p><strong>Commentary:</strong></p><p>The wicked disbelievers face failure in this life and will suffer punishment in the Hereafter because both the worlds are under God’s control.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 15,
+        "v_": 14,
+        "topics": [
+            {
+                "id": 8797,
+                "topic": "Hell: <i>Jahannam</i>: for those who disobey Allah, for evil-doers",
+                "verses": "19:69, 10:28, 2:82, 2:276, 3:182, 4:11, 4:94, 4:116, 8:38, 11:17, 11:107, 13:26, 14:16-17, 16:30, 17:19, 19:87, 20:75, 21:99, 23:104-105, 27:91, 38:56-57, 39:61, 39:73, 40:44, 40:77, 43:75, 50:25-26, 54:48-49, 55:44, 71:26, 72:16, 82:15, 85:11, 101:9-10, 104:3"
+            },
+            {
+                "id": 8821,
+                "topic": "Hell: <i>Jahannam</i>: fuel and fire of",
+                "verses": "19:69, 2:25, 2:168, 3:11, 4:57, 5:38, 7:42, 14:51, 17:98, 18:30, 21:99, 25:12-13, 32:21, 39:17, 40:47, 66:7, 74:29-30, 74:27-30, 74:32, 77:33-34, 87:13, 88:4-5, 101:11-12, 104:6-8, 111:4"
+            },
+            {
+                "id": 8830,
+                "topic": "Hell: <i>Jahannam</i>: <i>Laza</i>",
+                "verses": "19:69, 70:16-17"
+            }
+        ],
+        "ar": "فَاَنۡذَرۡتُکُمۡ  نَارًا تَلَظّٰی ﴿ۚ۱۵﴾ ",
+        "ur": "پس میں تمہیں اس آگ سے ڈراتا ہوں جو شعلہ زن ہے۔",
+        "v5": {
+            "text": "So I warn you of a flaming Fire.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 92,
+        "v": 16,
+        "v_": 15,
+        "topics": [
+            {
+                "id": 8797,
+                "topic": "Hell: <i>Jahannam</i>: for those who disobey Allah, for evil-doers",
+                "verses": "19:69, 10:28, 2:82, 2:276, 3:182, 4:11, 4:94, 4:116, 8:38, 11:17, 11:107, 13:26, 14:16-17, 16:30, 17:19, 19:87, 20:75, 21:99, 23:104-105, 27:91, 38:56-57, 39:61, 39:73, 40:44, 40:77, 43:75, 50:25-26, 54:48-49, 55:44, 71:26, 72:16, 82:15, 85:11, 101:9-10, 104:3"
+            },
+            {
+                "id": 18613,
+                "topic": "Wicked: <i>Fujjar</i>, <i>Fasiq</i>, <i>Ashrar</i>, <i>Mufsid</i>, <i>Khabith</i>",
+                "verses": "83:8, 6:124, 19:29, 21:75, 21:78, 29:31, 38:63, 43:55"
+            }
+        ],
+        "ar": "لَا یَصۡلٰٮہَاۤ  اِلَّا الۡاَشۡقَی ﴿ۙ۱۶﴾ ",
+        "ur": "اس میں کوئی داخل نہیں ہوگا مگر سخت بدبخت۔",
+        "v5": {
+            "text": "[c]None shall enter it but the most wicked one,",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "20:75; 87:12-13."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 17,
+        "v_": 16,
+        "topics": [],
+        "ar": "الَّذِیۡ کَذَّبَ وَ تَوَلّٰی ﴿ؕ۱۷﴾ ",
+        "ur": "وہ جس نے جھٹلایا اور پیٹھ پھیر لی۔",
+        "v5": {
+            "text": "[d]Who rejects <i>the truth</i> and turns <i>his</i> back.[4760]",
+            "notes": [
+                {
+                    "ref": "d",
+                    "note": "20:49."
+                },
+                {
+                    "ref": "4760",
+                    "note": "<p><strong>Commentary:</strong></p><p>کذب (rejects the truth) signifies that the sinful disbeliever holds wrong beliefs and تولی implies that he does not make use of right feeling, right thinking and right actions. Thus he is deprived of these qualities.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 92,
+        "v": 18,
+        "v_": 17,
+        "topics": [
+            {
+                "id": 18549,
+                "topic": "Wealth: believers rewarded",
+                "verses": "2:246, 2:262, 2:273, 2:275, 4:96, 71:13"
+            },
+            {
+                "id": 18590,
+                "topic": "Wealth: spend in Allah’s way",
+                "verses": "2:262-268, 9:41, 9:44, 9:88, 9:103, 47:37, 61:12"
+            }
+        ],
+        "ar": "وَ  سَیُجَنَّبُہَا  الۡاَتۡقَی ﴿ۙ۱۸﴾ ",
+        "ur": "جبکہ سب سے بڑھ کر متّقی اس سے ضرور بچایا جائے گا۔",
+        "v5": {
+            "text": "But the righteous <i>one</i> shall be kept away from it,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 92,
+        "v": 19,
+        "v_": 18,
+        "topics": [
+            {
+                "id": 18549,
+                "topic": "Wealth: believers rewarded",
+                "verses": "2:246, 2:262, 2:273, 2:275, 4:96, 71:13"
+            },
+            {
+                "id": 18590,
+                "topic": "Wealth: spend in Allah’s way",
+                "verses": "2:262-268, 9:41, 9:44, 9:88, 9:103, 47:37, 61:12"
+            }
+        ],
+        "ar": "الَّذِیۡ یُؤۡتِیۡ مَالَہٗ یَتَزَکّٰی ﴿ۚ۱۹﴾ ",
+        "ur": "جو اپنا مال دیتا ہے پاکیزگی چاہتے ہوئے۔",
+        "v5": {
+            "text": "Who gives his wealth that he may be purified.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 92,
+        "v": 20,
+        "v_": 19,
+        "topics": [
+            {
+                "id": 12027,
+                "topic": "Moral Traits: selflessness",
+                "verses": "2:208, 2:263, 11:52, 59:10, 64:17, 76:9-10"
+            },
+            {
+                "id": 18549,
+                "topic": "Wealth: believers rewarded",
+                "verses": "2:246, 2:262, 2:273, 2:275, 4:96, 71:13"
+            },
+            {
+                "id": 18590,
+                "topic": "Wealth: spend in Allah’s way",
+                "verses": "2:262-268, 9:41, 9:44, 9:88, 9:103, 47:37, 61:12"
+            }
+        ],
+        "ar": "وَ مَا لِاَحَدٍ عِنۡدَہٗ  مِنۡ نِّعۡمَۃٍ  تُجۡزٰۤی ﴿ۙ۲۰﴾ ",
+        "ur": "اور اس پر کسی کا احسان نہیں ہے کہ جس کا  (اس کی طرف سے) بدلہ دیا جا رہا ہو۔",
+        "v5": {
+            "text": "And he owes no favour to anyone, which is to be repaid,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 92,
+        "v": 21,
+        "v_": 20,
+        "topics": [
+            {
+                "id": 3435,
+                "topic": "Attributes of Allah: Al-Muta‘al (Most High)",
+                "verses": "13:10, 87:2"
+            },
+            {
+                "id": 12027,
+                "topic": "Moral Traits: selflessness",
+                "verses": "2:208, 2:263, 11:52, 59:10, 64:17, 76:9-10"
+            },
+            {
+                "id": 18549,
+                "topic": "Wealth: believers rewarded",
+                "verses": "2:246, 2:262, 2:273, 2:275, 4:96, 71:13"
+            },
+            {
+                "id": 18590,
+                "topic": "Wealth: spend in Allah’s way",
+                "verses": "2:262-268, 9:41, 9:44, 9:88, 9:103, 47:37, 61:12"
+            }
+        ],
+        "ar": "اِلَّا ابۡتِغَآءَ  وَجۡہِ  رَبِّہِ الۡاَعۡلٰی ﴿ۚ۲۱﴾ ",
+        "ur": "(یہ) محض اپنے ربّ ِ اعلیٰ کی خوشنودی چاہتے ہوئے (خرچ کرتا ہے)۔",
+        "v5": {
+            "text": "Except <i>that he gives his wealth</i> to seek the pleasure of his Lord, the Most High.[4761]",
+            "notes": [
+                {
+                    "ref": "4761",
+                    "note": "<p><strong>Commentary:</strong></p><p>The righteous believer does good to others not in return for any good received from them but actuated by a desire to be of use to God’s creatures and to win the pleasure of his heavenly Lord and Master.</p>"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,1351 @@
+[
+    {
+        "ch": 31,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.[3034]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See1:1."
+                },
+                {
+                    "ref": "3034",
+                    "note": "<p><strong>Commentary:</strong></p><p>See. 1:1.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 49,
+                "topic": "Abbreviations: <i>Alif Lam Mim</i>",
+                "verses": "2:2, 3:2, 29:2, 30:2, 32:2"
+            }
+        ],
+        "ar": "الٓـمّٓ ۚ﴿۲﴾ ",
+        "ur": "اَنَا اللّٰہُ اَعلَمُ: میں اللہ سب سے زیادہ جاننے والاہوں۔",
+        "v5": {
+            "text": "[b]Alif Lam Mim.[3034A]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "30:2."
+                },
+                {
+                    "ref": "3034A",
+                    "note": "<p><strong>Commentary:</strong></p><p>For an explanation of the abbreviated letters see 2:2 &amp; 19:2.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 8902,
+                "topic": "Hikmah: wisdom",
+                "verses": "2:130, 2:252, 2:270, 3:49, 3:59, 3:80, 3:82, 3:165, 4:55, 4:114, 5:111, 6:74, 10:2, 14:20, 16:126, 17:40, 19:13, 21:75, 21:80, 26:84, 28:15, 31:13, 33:35, 36:3, 38:21, 40:68, 43:5, 43:64, 44:5, 54:6, 62:3, 71:14"
+            },
+            {
+                "id": 15209,
+                "topic": "Qur’an: truth, wisdom &amp; balance in",
+                "verses": "10:2, 3:4, 3:61, 3:109, 4:106, 4:167, 4:171, 5:49, 6:92-93, 6:115, 13:2, 17:82, 17:106, 18:110, 21:11, 23:63, 25:2, 25:34, 36:3, 38:2, 42:18"
+            }
+        ],
+        "ar": "تِلۡکَ اٰیٰتُ الۡکِتٰبِ  الۡحَکِیۡمِ ۙ﴿۳﴾ ",
+        "ur": "یہ حکمت والی کتاب کی آیات ہیں۔",
+        "v5": {
+            "text": "[c]These are verses of the Book <i>which is full</i> of Wisdom,[3035]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "10:2; 31:3."
+                },
+                {
+                    "ref": "3035",
+                    "note": "<p><strong>Commentary:</strong></p><p>The Quran has variously described itself as follows:</p><p>\"The Book full of wisdom\" as in the present verse; \"the Book of Allah\" (2:102); \"the Book\" (5:16); \"a Book whose verses have been made unchangeable and then they have been expounded in detail\" (11:2); \"an enlightening Book\" (22:9); \"a mighty Book\" (41:42); \"the Book inscribed\" (52:3); \"a well-preserved Book\" (56:79); \"the Quran in Arabic\" (12:3); \"the illuminating Quran\" (15:2); the Great Quran\" (15:88); \"the Quran full of wisdom\" (36:2); \"the Quran full of exhortation\" (38:2); \"the noble Quran\" (56:78); \"the wonderful Quran\" (72:2); and \"the glorious Quran\" (85:22).</p><p>The Quran is indeed such a wise, and wonderful Book that \"not a single one of the great truths, principles, and ideals enumerated and proclaimed by it has been contradicted or falsified by ancient learning or science, nor by modern discoveries and inventions.\" It has eminently held its own, and proved equal to the exigencies of time, in every age and period.</p><p>Like the abbreviated letters which have been placed in the beginning of different <i>Surahs</i>, the various qualifying words used for the Quran in the above-mentioned <i>Surahs</i> have a subtle connection with their subject matter. A deep study of the context reveals the connection between the two.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 12704,
+                "topic": "Muhsin: who do good",
+                "verses": "3:135, 2:196, 3:149, 5:14, 5:94, 9:120, 11:116, 12:57, 12:91"
+            },
+            {
+                "id": 15209,
+                "topic": "Qur’an: truth, wisdom &amp; balance in",
+                "verses": "10:2, 3:4, 3:61, 3:109, 4:106, 4:167, 4:171, 5:49, 6:92-93, 6:115, 13:2, 17:82, 17:106, 18:110, 21:11, 23:63, 25:2, 25:34, 36:3, 38:2, 42:18"
+            }
+        ],
+        "ar": "ہُدًی  وَّ  رَحۡمَۃً   لِّلۡمُحۡسِنِیۡنَ ۙ﴿۴﴾ ",
+        "ur": "ہدایت اور رحمت ہیں حُسنِ عمل کرنے والوں کے لئے۔",
+        "v5": {
+            "text": "[d]A guidance and a mercy for those who do good,",
+            "notes": [
+                {
+                    "ref": "d",
+                    "note": "16:90; 27:3."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 876,
+                "topic": "Afterlife: <i>Akhirah</i>: believers faith in",
+                "verses": "2:5, 6:93, 16:23, 16:61, 27:4"
+            },
+            {
+                "id": 1482,
+                "topic": "Allah: enjoins prayer, <i>Zakat</i>, charity...",
+                "verses": "5:13, 2:44, 2:84, 2:111, 2:178, 2:278, 4:163, 5:56, 9:5, 9:11, 9:18, 9:71, 19:32, 19:56, 21:74, 22:42, 22:79, 24:38, 24:57, 27:4, 33:34, 58:14, 73:21, 98:6"
+            },
+            {
+                "id": 4277,
+                "topic": "Believers: <i>Mu’min</i>: believe in Allah, Angels",
+                "verses": "2:286, 2:4-5, 2:178, 2:257, 3:17-18, 3:85, 3:115, 4:163, 6:93, 7:157, 9:19, 23:58-59, 27:4, 32:16, 49:16, 70:27"
+            },
+            {
+                "id": 4339,
+                "topic": "Believers: <i>Mu’min</i>: observe prayers",
+                "verses": "4:163, 2:4, 2:178, 4:104, 5:56, 8:4, 9:18, 13:23, 14:32, 17:110, 19:59, 22:36, 22:42, 23:3, 23:10, 24:38, 27:4, 32:16, 35:30, 42:39, 70:24, 70:35, 73:21, 98:6"
+            },
+            {
+                "id": 4974,
+                "topic": "Certainty: <i>Yaqin</i>",
+                "verses": "102:6-8, 2:5, 2:119, 5:51, 6:76, 15:100, 26:25, 27:4, 27:23, 30:61, 32:13, 32:25, 44:8, 45:5, 45:21, 51:21, 52:37, 56:96, 69:52, 74:32"
+            },
+            {
+                "id": 5868,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: belief in",
+                "verses": "37:21, 70:27, 2:5, 2:178, 2:233, 3:115, 4:60, 4:137, 4:163, 5:70, 12:38, 18:106, 21:50, 27:4, 74:44-47, 83:12"
+            },
+            {
+                "id": 8228,
+                "topic": "Guidance: Allah gives",
+                "verses": "20:51, 2:121, 2:186, 2:214, 3:74, 3:102, 4:69, 5:17, 6:36, 6:72, 6:89, 6:150, 7:44, 7:179, 10:10, 10:26, 10:36, 13:28, 13:32, 14:5, 14:13, 16:10, 16:94, 16:122, 19:77, 22:17, 22:38, 24:36, 24:47, 26:63, 26:79, 28:57, 29:70, 33:5, 35:9, 37:119, 39:19, 39:24, 39:38, 42:14, 47:18, 48:3, 48:21, 49:18, 64:12, 74:32, 76:4, 93:8"
+            },
+            {
+                "id": 16087,
+                "topic": "Salah: enjoined",
+                "verses": "2:44, 2:84, 2:111, 2:133, 2:153, 2:154, 4:78, 4:104, 5:56, 6:73, 6:93, 6:163, 8:4, 9:71, 14:32, 20:133, 22:79, 23:3, 23:10, 24:57, 27:4, 31:18, 62:10, 70:24, 98:6"
+            },
+            {
+                "id": 18997,
+                "topic": "Zakat",
+                "verses": "9:60, 2:44, 2:84, 2:111, 2:178, 2:278, 4:163, 5:13, 5:56, 7:157, 9:11, 9:18, 9:71, 19:32, 19:56, 21:74, 22:42, 22:79, 23:2-5, 24:38, 24:57, 27:4, 30:40, 33:34, 41:8, 58:14, 73:21, 98:6"
+            }
+        ],
+        "ar": "الَّذِیۡنَ یُقِیۡمُوۡنَ الصَّلٰوۃَ وَ یُؤۡتُوۡنَ الزَّکٰوۃَ وَ ہُمۡ بِالۡاٰخِرَۃِ ہُمۡ یُوۡقِنُوۡنَ ؕ﴿۵﴾ ",
+        "ur": "وہ لوگ جو نماز کو قائم کرتے ہیں اور زکوٰۃ دیتے ہیں اور وہ آخرت پر بھی ضرور یقین رکھتے ہیں۔",
+        "v5": {
+            "text": "[e]Those who observe Prayer and pay the Zakah and who have firm faith in the Hereafter.",
+            "notes": [
+                {
+                    "ref": "e",
+                    "note": "2:4; 5:56; 9:71; 27:4."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 8228,
+                "topic": "Guidance: Allah gives",
+                "verses": "20:51, 2:121, 2:186, 2:214, 3:74, 3:102, 4:69, 5:17, 6:36, 6:72, 6:89, 6:150, 7:44, 7:179, 10:10, 10:26, 10:36, 13:28, 13:32, 14:5, 14:13, 16:10, 16:94, 16:122, 19:77, 22:17, 22:38, 24:36, 24:47, 26:63, 26:79, 28:57, 29:70, 33:5, 35:9, 37:119, 39:19, 39:24, 39:38, 42:14, 47:18, 48:3, 48:21, 49:18, 64:12, 74:32, 76:4, 93:8"
+            },
+            {
+                "id": 17335,
+                "topic": "Success: <i>Falah</i>, believers, obedient, shall achieve",
+                "verses": "3:201, 2:6, 2:190, 3:105, 3:131, 5:36, 5:91, 5:101, 7:9, 7:70, 7:158, 8:46, 9:88, 20:65, 22:78, 23:2, 23:103, 24:32, 24:52, 28:68, 30:39, 59:10, 62:11, 64:17, 87:15, 91:10"
+            }
+        ],
+        "ar": "اُولٰٓئِکَ عَلٰی ہُدًی مِّنۡ رَّبِّہِمۡ وَ اُولٰٓئِکَ ہُمُ  الۡمُفۡلِحُوۡنَ ﴿۶﴾ ",
+        "ur": "یہی وہ لوگ ہیں جو اپنے ربّ کی طرف سے ہدایت پر (قائم) ہیں اور یہی وہ لوگ ہیں جو کامیاب ہونے والے ہیں۔",
+        "v5": {
+            "text": "[f]It is they who follow guidance from their Lord, and it is they who shall prosper.",
+            "notes": [
+                {
+                    "ref": "f",
+                    "note": "2:6."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 5627,
+                "topic": "Dallin: astray",
+                "verses": "1:7, 2:109, 2:199, 3:70, 3:91, 3:165, 4:117, 4:120, 4:137, 5:13, 5:61, 5:78, 5:106, 6:40, 6:57, 6:75, 6:78, 6:117-118, 6:126, 6:141, 6:145, 7:39, 7:61, 7:150, 7:180, 7:187, 9:37, 9:115, 10:89, 10:109, 12:9, 13:28, 13:34, 14:5, 14:28, 14:37, 15:40, 15:57, 16:26, 16:38, 16:94, 16:126, 17:16, 17:49, 17:73, 17:98, 18:18, 18:52, 18:105, 20:80, 20:86, 20:93, 22:5, 22:10, 23:107, 25:10, 25:18, 25:30, 25:35, 25:43, 26:21, 26:87, 26:92, 26:95, 26:100, 27:93, 30:30, 33:37, 33:68, 35:9, 36:63, 37:33, 37:72, 38:27, 39:24, 39:38, 39:42, 40:35, 42:45, 45:24, 53:3, 53:31, 56:52, 60:2, 68:8, 71:28, 74:32, 83:33"
+            },
+            {
+                "id": 8309,
+                "topic": "Hadith: word, discourse, story",
+                "verses": "4:43, 4:79, 4:88, 4:141, 6:69, 7:186, 18:7, 20:10, 33:54, 39:24, 45:7, 51:25, 52:35, 53:60, 56:82, 68:45, 77:51, 79:16, 85:18, 88:2"
+            },
+            {
+                "id": 10261,
+                "topic": "Knowledge: <i>‘Ilm</i>: and ignorant",
+                "verses": "16:120, 6:109, 6:141, 6:145, 16:26, 22:4, 22:9, 30:30, 39:10, 102:6"
+            },
+            {
+                "id": 10840,
+                "topic": "Man: nature of, <i>Fitrah</i>",
+                "verses": "30:31, 4:29, 10:13, 11:10-11, 14:35, 16:5, 17:12, 17:68-70, 17:101, 18:55, 21:38, 22:6, 22:67, 23:78-79, 25:51, 30:37, 31:22, 33:73, 34:32, 36:78-79, 38:61, 39:50, 40:11, 41:50-52, 42:49, 43:16, 57:9, 70:20-22, 75:21, 80:18, 89:16-21, 90:5, 91:8-9, 95:5, 96:7-8, 100:7, 100:9, 103:3-4"
+            }
+        ],
+        "ar": "وَ مِنَ النَّاسِ مَنۡ یَّشۡتَرِیۡ لَہۡوَ الۡحَدِیۡثِ لِیُضِلَّ عَنۡ سَبِیۡلِ اللّٰہِ بِغَیۡرِ عِلۡمٍ ٭ۖ وَّ یَتَّخِذَہَا ہُزُوًا ؕ اُولٰٓئِکَ لَہُمۡ عَذَابٌ  مُّہِیۡنٌ ﴿۷﴾ ",
+        "ur": "اور لوگوں میں سے ایسے بھی ہیں جو بیہودہ بات کا سودا کرتے ہیں تاکہ بغیر کسی علم کے اللہ کی راہ سے گمراہ کر دیں اور اُسے تمسخر بنالیں۔ یہی وہ لوگ ہیں جن کے لئے رسوا کر دینے والا عذاب (مقدر) ہے۔",
+        "v5": {
+            "text": "And of men is he who takes idle tales in exchange <i>for guidance</i> to lead <i>men</i> astray from the path of Allah, without knowledge, and to make fun of it. For such there will be humiliating punishment.[3036]",
+            "notes": [
+                {
+                    "ref": "3036",
+                    "note": "<p><strong>Commentary:</strong></p><p>Life is a very serious thing. Man has been created to serve a very noble and grand purpose. To this seriousness and sublimity of human life, an emphatic and pointed reference has been made in the words \"do you think that We have created you in vain and that you will not return to Us\" (23:116). But in spite of this emphatic admonition, men of frivolous turn of mind fritter away their precious time and energy in vain pursuits and foolish diversions, treating the signs of God lightly, with the result that (as the verse says) they meet with disgrace and failure in this life, and a humiliating punishment awaits them in the Hereafter.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 6865,
+                "topic": "Ears: disbelievers do not hear",
+                "verses": "2:8, 2:172, 6:26, 7:180, 16:109, 17:47, 18:58, 22:47, 37:9, 41:5, 41:21, 41:45, 71:8"
+            },
+            {
+                "id": 10840,
+                "topic": "Man: nature of, <i>Fitrah</i>",
+                "verses": "30:31, 4:29, 10:13, 11:10-11, 14:35, 16:5, 17:12, 17:68-70, 17:101, 18:55, 21:38, 22:6, 22:67, 23:78-79, 25:51, 30:37, 31:22, 33:73, 34:32, 36:78-79, 38:61, 39:50, 40:11, 41:50-52, 42:49, 43:16, 57:9, 70:20-22, 75:21, 80:18, 89:16-21, 90:5, 91:8-9, 95:5, 96:7-8, 100:7, 100:9, 103:3-4"
+            }
+        ],
+        "ar": "وَ اِذَا تُتۡلٰی عَلَیۡہِ اٰیٰتُنَا وَلّٰی مُسۡتَکۡبِرًا کَاَنۡ  لَّمۡ یَسۡمَعۡہَا کَاَنَّ فِیۡۤ  اُذُنَیۡہِ  وَقۡرًا ۚ فَبَشِّرۡہُ  بِعَذَابٍ اَلِیۡمٍ ﴿۸﴾ ",
+        "ur": "اور جب اس پر ہماری آیات کی تلاوت کی جاتی ہے تو وہ استکبار کرتے ہوئے پیٹھ پھیر لیتا ہے گویا اُس نے اُنہیں سنا ہی نہ ہو۔ جیسے اُس کے دونوں کانوں میں ایک (بہرا کر دینے والا) بوجھ ہو۔ پس اسے دردناک عذاب کی خوشخبری دے دے۔",
+        "v5": {
+            "text": "And when Our Signs are recited to him, he turns away proudly, as though he heard them not, as if there were a heaviness in both his ears. So announce to him a painful punishment.[3037]",
+            "notes": [
+                {
+                    "ref": "3037",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse under comment explains another verse of the Quran (2:8) wherein it is stated that God sets a seal on the hearts of disbelievers and on their ears and eyes. The present verse makes it clear that man first turns away disdainfully from truth, and behaves arrogantly, and turns a deaf ear to the Divine Message and heavenly admonition, and then, as a result of his arrogant behaviour and attitude, his heart becomes, as it were, sealed and he is rendered spiritually blind and deaf.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 489,
+                "topic": "Actions: <i>A‘mal</i>: rewarded",
+                "verses": "28:85, 3:196, 4:41, 4:58, 4:174, 5:10, 7:9, 7:44, 9:121, 11:16, 11:112, 16:98, 17:10, 18:3, 18:47, 18:108-9, 19:77, 20:76-77, 22:15, 22:57, 24:39, 29:8, 29:10, 32:18, 32:20, 33:30, 34:38, 35:8, 35:11, 35:33, 39:36, 41:9, 42:23-24, 42:27, 43:73-74, 45:31, 46:20, 47:13, 47:36, 48:30, 52:18-21, 65:12, 84:26, 85:12, 95:7, 98:8-9, 99:8, 101:7-8"
+            },
+            {
+                "id": 13443,
+                "topic": "Paradise: <i>Jannah</i>: believers who do good works will enter",
+                "verses": "2:26, 2:83, 3:199, 4:58, 4:123, 4:125, 7:43, 10:10, 11:24, 14:24, 15:46, 16:31-32, 18:108, 19:61, 19:64, 20:76-77, 22:15, 22:24, 22:57, 25:16, 29:59, 30:16, 32:20, 38:50-51, 40:41, 42:23, 44:52-53, 47:13, 51:16, 54:55, 64:10, 65:12, 68:35, 85:12, 89:29-31, 98:8-9"
+            },
+            {
+                "id": 13578,
+                "topic": "Paradise: <i>Jannah</i>: <i>Jannatun-Na ‘im</i>",
+                "verses": "26:86, 5:66, 10:10, 22:57, 37:44, 56:13, 56:90, 68:35, 70:39"
+            }
+        ],
+        "ar": "اِنَّ الَّذِیۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ لَہُمۡ  جَنّٰتُ  النَّعِیۡمِ ۙ﴿۹﴾  ",
+        "ur": "یقیناً وہ لوگ جو ایمان لائے اور نیک عمل بجا لائے ان کے لئے نعمت والی جنتیں ہیں۔",
+        "v5": {
+            "text": "Surely, those who believe and do good works—they will have Gardens of Delight,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 31,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 112,
+                "topic": "Abide: <i>Baqa</i>: righteous will in Heaven",
+                "verses": "2:26, 2:83, 3:16, 3:108, 3:137, 3:199, 4:14, 4:58, 4:123, 5:86, 5:120, 7:43, 9:22, 9:72, 9:89, 9:100, 10:27, 11:24, 14:24, 18:4, 18:109, 20:77, 21:103, 23:12, 29:59, 43:72, 46:15, 48:6, 57:13, 58:18, 58:23, 64:10, 65:12, 98:9"
+            },
+            {
+                "id": 489,
+                "topic": "Actions: <i>A‘mal</i>: rewarded",
+                "verses": "28:85, 3:196, 4:41, 4:58, 4:174, 5:10, 7:9, 7:44, 9:121, 11:16, 11:112, 16:98, 17:10, 18:3, 18:47, 18:108-9, 19:77, 20:76-77, 22:15, 22:57, 24:39, 29:8, 29:10, 32:18, 32:20, 33:30, 34:38, 35:8, 35:11, 35:33, 39:36, 41:9, 42:23-24, 42:27, 43:73-74, 45:31, 46:20, 47:13, 47:36, 48:30, 52:18-21, 65:12, 84:26, 85:12, 95:7, 98:8-9, 99:8, 101:7-8"
+            },
+            {
+                "id": 1235,
+                "topic": "Allah: breaks not His promise",
+                "verses": "30:7, 3:195, 4:123, 10:5, 39:21, 40:56, 40:78"
+            },
+            {
+                "id": 14271,
+                "topic": "Promise: Allah true to His",
+                "verses": "3:195, 3:10, 4:123, 6:135, 7:45, 10:5, 10:56, 11:46, 14:48, 16:39, 17:109, 18:22, 18:99, 21:10, 22:48, 28:14, 30:61, 31:34, 35:6, 40:56, 40:78, 43:43, 45:33, 46:18, 51:6, 77:8"
+            },
+            {
+                "id": 17962,
+                "topic": "Truth: <i>Haqq</i>: Allah promises",
+                "verses": "58:22, 9:111, 4:123, 10:5, 10:56, 11:46, 16:39, 18:22, 18:99"
+            }
+        ],
+        "ar": "خٰلِدِیۡنَ فِیۡہَا ؕ وَعۡدَ اللّٰہِ حَقًّا ؕ وَ ہُوَ الۡعَزِیۡزُ  الۡحَکِیۡمُ ﴿۱۰﴾ ",
+        "ur": "وہ ہمیشہ ان میں رہیں گے۔ (یہ) اللہ کا سچا وعدہ ہے اور وہ کامل غلبہ والا (اور) حکمت والا ہے۔",
+        "v5": {
+            "text": "Wherein they will abide. Allah has <i>made</i> a true promise; and He is the Mighty, the Wise.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 31,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 1323,
+                "topic": "Allah: created Heavens and earth",
+                "verses": "41:10-13, 2:165, 3:191, 6:2, 7:55, 10:4, 10:7, 11:8, 14:33, 25:3, 25:60, 29:62, 30:23, 32:5, 35:4, 38:28, 39:63, 40:63, 43:10, 44:39, 46:4, 50:7-8, 50:39, 57:5, 65:13, 67:4, 71:16-18"
+            },
+            {
+                "id": 1524,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 30:21-28, 45:3-7, 87:2-6"
+            },
+            {
+                "id": 2690,
+                "topic": "Animals: <i>Dabbah</i>, <i>An‘am</i>: beneficial for man",
+                "verses": "23:22, 6:143, 16:6-9, 16:67, 16:70, 16:81, 22:34, 36:73-74, 40:80, 43:13, 55:11"
+            },
+            {
+                "id": 5552,
+                "topic": "Dabbatul-Ard: creatures, beasts",
+                "verses": "27:83, 2:165, 6:39, 8:23, 8:56, 11:7, 11:57, 16:50, 16:62, 22:19, 34:15, 35:29, 35:46, 42:30, 45:5, 81:6"
+            },
+            {
+                "id": 6308,
+                "topic": "Descend: <i>Nuzul</i>",
+                "verses": "57:26, 2:58, 2:158, 6:8, 7:27, 7:161, 8:12, 10:60, 15:9, 20:81, 23:19, 27:61, 34:3, 39:7, 40:14, 65:11-12"
+            },
+            {
+                "id": 7002,
+                "topic": "Earth: <i>Al-Ard</i>: creations on",
+                "verses": "15:20, 2:165, 2:169, 3:84, 3:191, 6:39, 10:24, 10:67, 13:16, 16:16, 16:50, 21:20, 21:32, 22:66, 23:80, 26:8, 27:83, 30:23, 31:21, 45:14, 50:8, 64:4, 71:18"
+            },
+            {
+                "id": 8649,
+                "topic": "Heaven: <i>Sama’</i>: as a roof",
+                "verses": "21:33, 2:20, 2:23, 13:3, 22:66, 40:65, 52:6, 78:13, 79:29, 88:19"
+            },
+            {
+                "id": 12193,
+                "topic": "Mountains: <i>Jibal</i>: created for man",
+                "verses": "16:16, 13:4, 15:20, 21:32, 22:19, 24:44, 27:62, 35:28, 41:11, 50:8, 77:28, 78:8, 79:33, 88:20"
+            },
+            {
+                "id": 13942,
+                "topic": "Pillars",
+                "verses": "104:7-10, 13:3, 89:8"
+            },
+            {
+                "id": 16340,
+                "topic": "Science: mountains",
+                "verses": "21:32, 15:20, 27:62, 78:7-8, 79:33, 88:20-21"
+            }
+        ],
+        "ar": "خَلَقَ السَّمٰوٰتِ بِغَیۡرِ عَمَدٍ تَرَوۡنَہَا وَ اَلۡقٰی فِی الۡاَرۡضِ رَوَاسِیَ  اَنۡ تَمِیۡدَ بِکُمۡ وَ بَثَّ فِیۡہَا مِنۡ کُلِّ دَآبَّۃٍ ؕ وَ اَنۡزَلۡنَا مِنَ السَّمَآءِ مَآءً  فَاَنۡۢبَتۡنَا فِیۡہَا مِنۡ  کُلِّ  زَوۡجٍ  کَرِیۡمٍ ﴿۱۱﴾ ",
+        "ur": "اس نے آسمانوں کو بغیر ایسے ستونوں کے بنایا جنہیں تم دیکھ سکو اور زمین میں پہاڑ بنائے تاکہ تمہیں خوراک مہیا کریں اور اس میں ہر قسم کے چلنے والے جاندار پیدا کئے اور آسمان سے ہم نے پانی اتارا اور اِس (زمین) میں ہر قسم کے عمدہ جوڑے اُ گائے۔",
+        "v5": {
+            "text": "[a]He has created the heavens without any pillars that you can see, and [b]He has placed in the earth firm mountains that it may not quake with you, and He has scattered therein all kinds of creatures; and We have sent down water from the clouds, and [c]caused to grow therein every noble species.[3038]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "13:3."
+                },
+                {
+                    "ref": "b",
+                    "note": "13:4; 15:20; 16:16; 77:28."
+                },
+                {
+                    "ref": "c",
+                    "note": "27:61; 50:8."
+                },
+                {
+                    "ref": "3038",
+                    "note": "<p><strong>Commentary:</strong></p><p>It should not be understood from the word ألقی which literally means, \"He has cast\" or \"He has placed\" that the mountains were placed on the earth from somewhere outside, after it had been created. Elsewhere the Quran has used the word جعل(He made) to express the same sense which shows that the mountains formed a part and parcel of the earth and were not placed on it from outside.</p><p>Incidentally, the verse points to a truth which science has only recently discovered but which the Quran revealed about 1400 years ago, viz. that mountains instead of being a cause of earthquakes, exert a stabilizing influence, rendering earth tremors a very infrequent occurrence.</p><p>This verse gives three arguments to prove the Oneness and Almightiness of God: (a) He is the Creator of heavens and the whole solar system; (b) He has created the earth and regulates, controls and guides all life on it; (c) He sends down water from heaven and gives a new life to the earth after it has become parched and dry. This means that God is the Creator of the universe, its Controller and the Giver of life. These are essential attributes of a Supreme Being Who demands and commands our adoration and worship. See also 16:16.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 12,
+        "v_": 11,
+        "topics": [
+            {
+                "id": 1524,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 30:21-28, 45:3-7, 87:2-6"
+            },
+            {
+                "id": 18898,
+                "topic": "Wrongdoers: <i>Zalim</i>: are not guided",
+                "verses": "4:76, 2:259, 3:87, 5:52, 6:145, 9:19, 9:109, 46:11, 61:8, 62:6"
+            }
+        ],
+        "ar": "ہٰذَا خَلۡقُ اللّٰہِ  فَاَرُوۡنِیۡ  مَاذَا خَلَقَ الَّذِیۡنَ مِنۡ دُوۡنِہٖ ؕ بَلِ الظّٰلِمُوۡنَ فِیۡ ضَلٰلٍ مُّبِیۡنٍ ﴿٪۱۲﴾ ",
+        "ur": "یہ ہے اللہ کی تخلیق۔ پس مجھے دکھاؤ کہ وہ ہے کیا جو اُس کے سوا دوسروں نے پید اکیا ہے؟ حقیقت یہ ہے کہ ظلم کرنے والے کھلی کھلی گمراہی میں ہیں۔",
+        "v5": {
+            "text": "This is the creation of Allah. Now show me what others beside Him have created. Nay, but the wrongdoers are in manifest error.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 31,
+        "v": 13,
+        "v_": 12,
+        "topics": [
+            {
+                "id": 3192,
+                "topic": "Attributes of Allah: Al-Ghani (Self-sufficient)",
+                "verses": "2:268, 2:264, 3:98, 4:132, 6:134, 9:28, 10:69, 14:9, 22:65, 27:41, 29:7, 31:27, 35:16, 39:8, 47:39, 57:25, 60:7, 64:7"
+            },
+            {
+                "id": 3281,
+                "topic": "Attributes of Allah: Al-Hamid (Praiseworthy)",
+                "verses": "22:65, 2:268, 4:132, 11:74, 14:2, 14:9, 22:25, 31:27, 41:43, 42:29, 60:7, 85:9"
+            },
+            {
+                "id": 8903,
+                "topic": "Hikmah: wisdom",
+                "verses": "2:130, 2:252, 2:270, 3:49, 3:59, 3:80, 3:82, 3:165, 4:55, 4:114, 5:111, 6:74, 10:2, 14:20, 16:126, 17:40, 19:13, 21:75, 21:80, 26:84, 28:15, 31:3, 33:35, 36:3, 38:21, 40:68, 43:5, 43:64, 44:5, 54:6, 62:3, 71:14"
+            },
+            {
+                "id": 10678,
+                "topic": "Luqman: Aesop",
+                "verses": null
+            },
+            {
+                "id": 11701,
+                "topic": "Moral Traits: gratefulness, thankfulness",
+                "verses": "3:145, 2:153, 2:173, 2:186, 2:244, 5:7, 5:90, 14:8, 14:29, 16:113, 27:41, 28:74, 29:67, 34:18, 39:8, 39:67, 46:16, 80:18"
+            },
+            {
+                "id": 18683,
+                "topic": "Wisdom",
+                "verses": "2:130, 2:152, 2:252, 2:270, 3:49, 3:82, 3:165, 5:111, 6:74, 10:2, 16:126, 19:13, 21:75, 21:80, 26:84, 33:35, 36:3, 38:21, 43:5, 43:64"
+            }
+        ],
+        "ar": "وَ لَقَدۡ اٰتَیۡنَا لُقۡمٰنَ الۡحِکۡمَۃَ اَنِ اشۡکُرۡ لِلّٰہِ ؕ وَ مَنۡ یَّشۡکُرۡ فَاِنَّمَا یَشۡکُرُ لِنَفۡسِہٖ ۚ وَ مَنۡ کَفَرَ فَاِنَّ اللّٰہَ غَنِیٌّ حَمِیۡدٌ ﴿۱۳﴾ ",
+        "ur": "اور یقیناً ہم نے لقمان کو حکمت عطا کی تھی (یہ کہتے ہوئے) کہ اللہ کا شکر ادا کر اور جو بھی شکر ادا کرے تو وہ محض اپنے نفس کی بھلائی کے لئے ہی شکر ادا کرتا ہے اور جو ناشکری کرے تو یقیناً اللہ غنی ہے (اور) بہت صاحبِ تعریف ہے۔",
+        "v5": {
+            "text": "And We bestowed wisdom on Luqman, <i>saying</i>, ‘Be grateful to Allah,’ for whoso is grateful, is grateful only for <i>the good </i><i>of</i> his own soul. And [a]whoso is ungrateful, then surely Allah is Self-Sufficient, Praiseworthy.[3039]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "14:9."
+                },
+                {
+                    "ref": "3039",
+                    "note": "<p><strong>Important Words:</strong></p><p>شکر (is grateful). شکر الله or شکر لله means, he thanked God or was grateful to Him; or he praised God for His beneficence; and acted in the manner incumbent on him in rendering Him obedience. شکر (thankfulness) is of three kinds: (1) with the heart; (2) with the tongue; and (3) with the limbs, and consists in requiting the benefit received according to its desert. Man’s thankfulness to God consists in (a) his humility to Him; (b) his love of Him; (c) his knowledge of His bounties; (d) his eulogizing Him for it; and (e) his not making use of the benefits in a manner disliked by Him. شکر on the part of God consists in forgiving a person, or regarding him with favour and therefore rewarding him (Lane). See also 14:8.</p><p><strong>Commentary:</strong></p><p>Luqman seems to be a non-Arab, very probably an Ethiopian. He is said to belong to Egypt or Nubia. By some he has also been identified with the Greek \"Aesop\". From the beautiful moral precepts he gave to his son which are embodied in the present and the next few verses Luqman appears to be a Prophet of God. To know who Luqman was is not of importance so much as the principle that God sent His Messengers among all people and that all those Messengers deserve our respect and reverence and that Luqman was one of them. Islam was the first and the only religion to proclaim this principle which alone can form a sound and solid basis for peace among the followers of various faiths.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 14,
+        "v_": 13,
+        "topics": [
+            {
+                "id": 10678,
+                "topic": "Luqman: Aesop",
+                "verses": null
+            },
+            {
+                "id": 16620,
+                "topic": "Shirk: is a grievous wrong",
+                "verses": "4:49, 4:117"
+            }
+        ],
+        "ar": "وَ اِذۡ قَالَ لُقۡمٰنُ لِابۡنِہٖ وَ ہُوَ یَعِظُہٗ یٰبُنَیَّ لَا تُشۡرِکۡ بِاللّٰہِ ؕؔ اِنَّ الشِّرۡکَ لَظُلۡمٌ  عَظِیۡمٌ ﴿۱۴﴾ ",
+        "ur": "اور جب لقمان نے اپنے بیٹے سے کہا جب وہ اسے نصیحت کر رہا تھا کہ اے میرے پیارے بیٹے! اللہ کے ساتھ شریک نہ ٹھہرا۔ یقیناً شرک ایک بہت بڑا ظلم ہے۔",
+        "v5": {
+            "text": "And <i>remember</i> when Luqman said to his son while exhorting him, ‘O my dear son! associate not partners with Allah. Surely, associating partners <i>with God</i> is a grievous wrong.’[3040]",
+            "notes": [
+                {
+                    "ref": "3040",
+                    "note": "<p><strong>Commentary:</strong></p><p>The first and basic principle of all religious teaching is that God is One. All other noble ideals flow from this principle. By worshipping any other thing or being beside God Who is the Creator, Lord and Sustainer, man degrades himself and stunts, stifles and stultifies his personality. So Luqman began his moral sermon by laying stress on this most supreme of all religious beliefs.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 15,
+        "v_": 14,
+        "topics": [
+            {
+                "id": 5052,
+                "topic": "Children: weaning of",
+                "verses": "46:16"
+            },
+            {
+                "id": 6574,
+                "topic": "Discrepancy: no in the Holy Qur’an",
+                "verses": "4:83, 3:8, 11:68, 33:41, 39:24"
+            },
+            {
+                "id": 6840,
+                "topic": "Duty: of believers",
+                "verses": "6:70, 8:73"
+            },
+            {
+                "id": 10678,
+                "topic": "Luqman: Aesop",
+                "verses": null
+            },
+            {
+                "id": 11834,
+                "topic": "Moral Traits: kindness",
+                "verses": "17:24-25, 2:84, 2:178, 2:216, 2:242, 2:264, 2:281, 4:6, 4:9, 4:37, 5:55, 6:152, 7:200, 9:61, 16:91, 17:29, 29:9, 30:39, 31:16, 33:50, 51:20, 60:9, 76:9, 90:14-17"
+            },
+            {
+                "id": 13667,
+                "topic": "Parents",
+                "verses": "17:24-25, 2:84, 4:37, 6:152, 14:42, 27:20, 29:9, 46:16, 46:18, 71:29"
+            }
+        ],
+        "ar": "وَ وَصَّیۡنَا  الۡاِنۡسَانَ بِوَالِدَیۡہِ ۚ حَمَلَتۡہُ  اُمُّہٗ  وَہۡنًا عَلٰی وَہۡنٍ وَّ فِصٰلُہٗ  فِیۡ عَامَیۡنِ  اَنِ اشۡکُرۡ لِیۡ وَ لِوَالِدَیۡکَ ؕ اِلَیَّ  الۡمَصِیۡرُ ﴿۱۵﴾ ",
+        "ur": "اور ہم نے انسان کو اس کے والدین کے حق میں تاکیدی نصیحت کی۔ اُس کی ماں نے اُسے کمزوری پر کمزوری میں اٹھائے رکھا۔ اور اس کا دودھ چھڑانا دو سال میں (مکمل) ہوا۔ (اُسے ہم نے یہ تاکیدی نصیحت کی) کہ میرا شکر ادا کر اور اپنے والدین کا بھی۔ میری ہی طرف لوٹ کر آنا ہے۔",
+        "v5": {
+            "text": "[a]And We have enjoined on man concerning his parents—his mother bears him in weakness upon weakness, and his weaning takes two years—‘Give thanks to Me and to thy parents. Unto Me is the <i>final</i> return.[3041]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "6:152; 19:33; 29:9; 46:16."
+                },
+                {
+                    "ref": "3041",
+                    "note": "<p><strong>Commentary:</strong></p><p>This and the next verse form a parenthetical clause and refer to the second most important duty of man, after his duty to God—his obligations to mankind, which begin with his obligations to his parents. He is told that he must be good and kind to his parents. Luqman only referred to man’s duty to God, but God Himself supplements his exhortation by adding man’s duty to his parents and also gives the reason for doing so, viz. that parents undergo all sorts of sacrifice for their children, particularly the mother. She has, therefore, secured a special mention here.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 16,
+        "v_": 15,
+        "topics": [
+            {
+                "id": 6840,
+                "topic": "Duty: of believers",
+                "verses": "6:70, 8:73"
+            },
+            {
+                "id": 10223,
+                "topic": "Knowledge: <i>‘Ilm</i>: and believers",
+                "verses": "4:163, 2:248, 3:8, 6:36, 6:58, 6:98, 6:106, 12:23, 12:56, 12:69, 12:109, 15:76, 16:28, 17:108, 22:55, 28:81, 29:48, 29:50, 30:57, 34:7, 58:12"
+            },
+            {
+                "id": 10678,
+                "topic": "Luqman: Aesop",
+                "verses": null
+            },
+            {
+                "id": 11835,
+                "topic": "Moral Traits: kindness",
+                "verses": "17:24-25, 2:84, 2:178, 2:216, 2:242, 2:264, 2:281, 4:6, 4:9, 4:37, 5:55, 6:152, 7:200, 9:61, 16:91, 17:29, 29:9, 30:39, 31:15, 33:50, 51:20, 60:9, 76:9, 90:14-17"
+            },
+            {
+                "id": 13248,
+                "topic": "Obey: parents, spouse",
+                "verses": "4:35"
+            },
+            {
+                "id": 13667,
+                "topic": "Parents",
+                "verses": "17:24-25, 2:84, 4:37, 6:152, 14:42, 27:20, 29:9, 46:16, 46:18, 71:29"
+            },
+            {
+                "id": 15304,
+                "topic": "Raja‘: return to Allah",
+                "verses": "96:9, 2:47, 2:157, 2:211, 2:246, 2:282, 3:56, 3:84, 3:110, 5:49, 5:106, 6:61, 6:109, 6:165, 10:5, 10:24, 10:47, 10:71, 11:5, 11:35, 19:41, 21:36, 21:94, 22:77, 24:65, 29:9, 31:24, 39:8, 41:51, 57:6, 89:29"
+            }
+        ],
+        "ar": "وَ اِنۡ جَاہَدٰکَ عَلٰۤی اَنۡ تُشۡرِکَ بِیۡ مَا لَیۡسَ لَکَ بِہٖ عِلۡمٌ ۙ فَلَا تُطِعۡہُمَا وَ صَاحِبۡہُمَا فِی الدُّنۡیَا مَعۡرُوۡفًا ۫ وَّ اتَّبِعۡ سَبِیۡلَ مَنۡ اَنَابَ اِلَیَّ ۚ ثُمَّ  اِلَیَّ مَرۡجِعُکُمۡ فَاُنَبِّئُکُمۡ بِمَا کُنۡتُمۡ تَعۡمَلُوۡنَ ﴿۱۶﴾ ",
+        "ur": "اور اگر وہ دونوں (بھی) تجھ سے جھگڑا کریں کہ تُو میرا شریک ٹھہرا جس کا تجھے کوئی علم نہیں تو ان دونوں کی اطاعت نہ کر۔ اور اُن دونوں کے ساتھ دنیا میں دستور کے مطابق رفاقت جاری رکھ اور اس کے رستے کی اِتّباع کر جو میری طرف جھکا۔ پھر میری طرف ہی تمہارا لوٹ کر آنا ہے پھر میں تمہیں اُس سے آگاہ کروں گا جو تم کرتے رہے ہو ۔",
+        "v5": {
+            "text": "And if they contend with thee to make thee set up equals with Me concerning which thou hast no knowledge, obey them not, but be a kind companion to them in <i>all</i> worldly affairs; and <i>in spiritual matters</i> follow the way of him who turns to Me. Then unto Me will be your return and I shall inform you of what you used to do.’[3042]",
+            "notes": [
+                {
+                    "ref": "3042",
+                    "note": "<p><strong>Commentary:</strong></p><p>After being reminded of his duty to his parents, man is warned in the present verse not to forget that his first and foremost duty is to God, and that all other duties and loyalties are subordinate to, and proceed from it. He is told that if his duty to parents appears to clash and conflict with his duty to God, his first loyalty is to his Creator. But in disregarding any of the wishes or commands of his parents which clash with his loyalty to God, he must not be arrogant or insolent to them, but should continue to show uniform courtesy, love and kindness to them.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 17,
+        "v_": 16,
+        "topics": [
+            {
+                "id": 1814,
+                "topic": "Allah: is All-aware, Knower",
+                "verses": "10:62, 34:4"
+            },
+            {
+                "id": 3321,
+                "topic": "Attributes of Allah: Al-Khabir (All-Aware)",
+                "verses": "6:104, 2:272, 4:36, 4:136, 5:9, 6:19, 6:74, 11:2, 17:18, 17:31, 22:64, 33:35, 35:15, 35:32, 42:28, 49:14, 57:11, 58:14, 59:19, 63:12, 64:9, 66:4, 67:15, 100:12"
+            },
+            {
+                "id": 3350,
+                "topic": "Attributes of Allah: Al-Latif (Benignant, Knower of all hidden secrets, subtleties)",
+                "verses": "6:104, 12:101, 22:64, 33:35, 42:20, 67:15"
+            },
+            {
+                "id": 10678,
+                "topic": "Luqman: Aesop",
+                "verses": null
+            }
+        ],
+        "ar": "یٰبُنَیَّ  اِنَّہَاۤ  اِنۡ تَکُ مِثۡقَالَ حَبَّۃٍ  مِّنۡ خَرۡدَلٍ فَتَکُنۡ فِیۡ صَخۡرَۃٍ  اَوۡ فِی السَّمٰوٰتِ اَوۡ فِی الۡاَرۡضِ یَاۡتِ بِہَا اللّٰہُ ؕ اِنَّ اللّٰہَ  لَطِیۡفٌ خَبِیۡرٌ ﴿۱۷﴾ ",
+        "ur": "اے میرے پیارے بیٹے! یقیناً اگر رائی کے دانے کے برابر بھی کوئی چیز ہو پس وہ کسی چٹان میں (دبی ہوئی) ہو یا آسمانوں یا زمین میں کہیں بھی ہو، اللہ اسے ضرور لے آئے گا۔ یقیناً اللہ بہت باریک بین (اور) باخبر ہے۔",
+        "v5": {
+            "text": "<i>Luqman said, </i>‘O my dear son! even though it be the weight of a grain of mustard seed, and even though it be in a rock, or in the heavens, or in the earth, Allah will surely bring it out. Verily, Allah is the Knower of all subtleties, All-Aware.[3043]",
+            "notes": [
+                {
+                    "ref": "3043",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse points to an important law of nature, viz. that no action, good or bad, is in vain. It leaves its permanent imprint. It is to this great truth that reference has also been made in 50:19.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 18,
+        "v_": 17,
+        "topics": [
+            {
+                "id": 1460,
+                "topic": "Allah: enjoins good, forbids evil",
+                "verses": "9:112, 2:45, 2:178, 3:105, 3:111, 3:115, 5:3, 9:71, 22:42, 58:10"
+            },
+            {
+                "id": 10678,
+                "topic": "Luqman: Aesop",
+                "verses": null
+            },
+            {
+                "id": 13708,
+                "topic": "Patience: <i>sabr</i>: enjoined",
+                "verses": "2:46, 2:154, 3:201, 7:88, 7:129, 8:47, 12:19, 18:29, 42:44"
+            },
+            {
+                "id": 16088,
+                "topic": "Salah: enjoined",
+                "verses": "2:44, 2:84, 2:111, 2:133, 2:153, 2:154, 4:78, 4:104, 5:56, 6:73, 6:93, 6:163, 8:4, 9:71, 14:32, 20:133, 22:79, 23:3, 23:10, 24:57, 27:4, 31:5, 62:10, 70:24, 98:6"
+            }
+        ],
+        "ar": "یٰبُنَیَّ  اَقِمِ الصَّلٰوۃَ  وَ اۡمُرۡ بِالۡمَعۡرُوۡفِ وَ انۡہَ  عَنِ الۡمُنۡکَرِ وَ اصۡبِرۡ عَلٰی مَاۤ اَصَابَکَ ؕ اِنَّ  ذٰلِکَ مِنۡ عَزۡمِ  الۡاُمُوۡرِ ﴿ۚ۱۸﴾ ",
+        "ur": "اے میرے پیارے بیٹے! نماز کو قائم کر اور اچھی باتوں کا حکم دے اور ناپسندیدہ باتوں سے منع کر اور اُس (مصیبت) پر صبر کر جو تجھے پہنچے۔ یقیناً یہ بہت اہم باتوں میں سے ہے۔",
+        "v5": {
+            "text": "‘O my dear son! [a]observe Prayer, and enjoin good, and forbid evil, and endure patiently whatever may befall thee. Surely, this is a matter of high resolve.[3044]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "9:71."
+                },
+                {
+                    "ref": "3044",
+                    "note": "<p><strong>Commentary:</strong></p><p>After belief in the Oneness of God and in His attributes, becomes firmly rooted, man naturally feels attracted towards Him and wishes to worship Him, which in the form of Prayer is most essential for his spiritual development. And after he himself becomes true and sincere votary of His Creator, man’s next duty lies in reforming his fellow-beings. But as soon as he enters upon this noble but very arduous task difficulties and impediments bar his way. He is told, in the verse, to put up with all sorts of hardships and privations that lie in the way of the discharge of his great duties. This is the significance of Luqman’s exhortation to his son \"to endure patiently whatever may befall thee.\"</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 19,
+        "v_": 18,
+        "topics": [
+            {
+                "id": 1397,
+                "topic": "Allah: loves not",
+                "verses": "2:191, 2:206, 2:277, 3:33, 4:37, 4:108, 4:149, 5:65, 7:32, 8:59, 16:24, 22:39, 28:77-78, 42:41"
+            },
+            {
+                "id": 2876,
+                "topic": "Arrogance",
+                "verses": null
+            },
+            {
+                "id": 4548,
+                "topic": "Boaster",
+                "verses": "4:37, 11:11, 57:21, 57:24"
+            },
+            {
+                "id": 5204,
+                "topic": "Conceit: <i>Mukhtal</i>",
+                "verses": "4:37, 25:22, 57:24, 67:21"
+            },
+            {
+                "id": 10678,
+                "topic": "Luqman: Aesop",
+                "verses": null
+            },
+            {
+                "id": 11581,
+                "topic": "Moral Traits: arrogance, conceit",
+                "verses": "41:51, 2:35, 2:88, 4:174, 7:14, 7:37, 7:41, 7:49, 7:56, 7:76-77, 7:89, 7:134, 7:147, 10:76, 14:22, 16:24, 16:30, 17:38, 23:47, 25:22, 28:40, 28:84, 29:40, 34:32-34, 38:3, 38:75-76, 39:60, 40:36, 40:48-49, 40:57, 41:16, 41:39, 44:50, 45:32, 46:11, 46:21, 57:24, 71:8, 74:24"
+            },
+            {
+                "id": 11774,
+                "topic": "Moral Traits: humility, humbleness",
+                "verses": "49:4, 33:36, 31:20, 27:88, 27:38, 23:77, 23:3, 22:55, 22:35, 21:91, 20:135, 20:112, 17:110, 17:38-39, 17:25, 16:49, 12:33, 11:24, 7:162, 7:95, 7:56, 6:64, 6:44, 6:43, 5:55, 3:18, 2:75, 2:46, 1:5, 25:64, 57:17"
+            }
+        ],
+        "ar": "وَ لَا تُصَعِّرۡ  خَدَّکَ  لِلنَّاسِ وَ لَا  تَمۡشِ فِی الۡاَرۡضِ مَرَحًا ؕ اِنَّ  اللّٰہَ  لَا  یُحِبُّ  کُلَّ مُخۡتَالٍ  فَخُوۡرٍ ﴿ۚ۱۹﴾ ",
+        "ur": "اور (نخوت سے) انسانوں کے لئے اپنے گال نہ پُھلا اور زمین میں یونہی اکڑتے ہوئے نہ پھر۔ اللہ کسی تکبر کرنے والے (اور) فخرومباہات کرنے والے کو پسند نہیں کرتا۔",
+        "v5": {
+            "text": "And turn not thy cheek away from men in pride, [b]nor walk in the earth haughtily; surely, Allah loves not any arrogant boaster.[3045]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "17:38; 25:64."
+                },
+                {
+                    "ref": "3045",
+                    "note": "<p><strong>Important Words:</strong></p><p>تصعر (turn in pride) is derived from صعر which means, he had a distortion in the face by reason of pride with a turning of the face on one side. They say فی خدہ صعر i.e. in his cheek is a distortion arising from pride. صعر خدہ means, he turned away his cheek from the people on account of pride and dislike or contempt (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>When a man comes to acquire firm faith in God and His powers and attributes, and engages himself in Prayer, and exhorts other men to do good and right actions, and also patiently puts up with abuse and persecution which he has to face in the discharge of his difficult task, a new world opens up to him. God inspires him with His love and, as a result, people flock to him in large numbers. Then he is likely to become self-conceited and self-centred. Hence Luqman’s warning to his son to be on his guard against this moral lapse.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 20,
+        "v_": 19,
+        "topics": [
+            {
+                "id": 2950,
+                "topic": "Ass: <i>Hamir</i>",
+                "verses": "2:260, 11:107, 62:6, 74:51"
+            },
+            {
+                "id": 6693,
+                "topic": "Donkey: <i>Hamir</i>",
+                "verses": "2:260, 11:107, 62:6"
+            },
+            {
+                "id": 10678,
+                "topic": "Luqman: Aesop",
+                "verses": null
+            },
+            {
+                "id": 11504,
+                "topic": "Moderation",
+                "verses": "25:68, 5:67, 7:32, 17:34, 17:111, 35:33, 49:3"
+            },
+            {
+                "id": 11510,
+                "topic": "Modesty: <i>Haya’</i>",
+                "verses": "7:27, 24:31-32, 25:64, 33:60, 55:73"
+            },
+            {
+                "id": 11581,
+                "topic": "Moral Traits: arrogance, conceit",
+                "verses": "41:51, 2:35, 2:88, 4:174, 7:14, 7:37, 7:41, 7:49, 7:56, 7:76-77, 7:89, 7:134, 7:147, 10:76, 14:22, 16:24, 16:30, 17:38, 23:47, 25:22, 28:40, 28:84, 29:40, 34:32-34, 38:3, 38:75-76, 39:60, 40:36, 40:48-49, 40:57, 41:16, 41:39, 44:50, 45:32, 46:11, 46:21, 57:24, 71:8, 74:24"
+            },
+            {
+                "id": 11775,
+                "topic": "Moral Traits: humility, humbleness",
+                "verses": "49:4, 33:36, 31:19, 27:88, 27:38, 23:77, 23:3, 22:55, 22:35, 21:91, 20:135, 20:112, 17:110, 17:38-39, 17:25, 16:49, 12:33, 11:24, 7:162, 7:95, 7:56, 6:64, 6:44, 6:43, 5:55, 3:18, 2:75, 2:46, 1:5, 25:64, 57:17"
+            }
+        ],
+        "ar": "وَ اقۡصِدۡ فِیۡ  مَشۡیِکَ وَ اغۡضُضۡ مِنۡ صَوۡتِکَ ؕ اِنَّ  اَنۡکَرَ  الۡاَصۡوَاتِ لَصَوۡتُ الۡحَمِیۡرِ ﴿٪۲۰﴾ ",
+        "ur": "اور اپنی چال میں میانہ رَوی اختیار کر اور اپنی آواز کو دھیما رکھ۔ یقیناً سب سے بُری آواز گدھے کی آوازہے۔",
+        "v5": {
+            "text": "And walk thou at a moderate pace, and [a]lower thy voice; verily, the most disagreeable of voices is the braying of the ass.’[3046]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "49:3-4."
+                },
+                {
+                    "ref": "3046",
+                    "note": "<p><strong>Commentary:</strong></p><p>In this verse Luqman impresses upon his son the supreme necessity of moderation and avoiding extremes.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 21,
+        "v_": 20,
+        "topics": [
+            {
+                "id": 1552,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28, 78:7-17"
+            },
+            {
+                "id": 6650,
+                "topic": "Dispute",
+                "verses": "8:7, 2:85, 2:140, 3:21, 3:62, 3:66, 3:153, 4:66, 4:106, 7:72, 8:47, 11:33, 13:14, 16:5, 18:22, 22:4, 22:9, 22:20, 22:68, 40:5-6, 40:36, 40:48, 40:70, 42:17, 42:19, 42:36, 49:11, 53:13"
+            },
+            {
+                "id": 7003,
+                "topic": "Earth: <i>Al-Ard</i>: creations on",
+                "verses": "15:20, 2:165, 2:169, 3:84, 3:191, 6:39, 10:24, 10:67, 13:16, 16:16, 16:50, 21:20, 21:32, 22:66, 23:80, 26:8, 27:83, 30:23, 31:11, 45:14, 50:8, 64:4, 71:18"
+            },
+            {
+                "id": 9279,
+                "topic": "In‘am: favour",
+                "verses": "4:70, 1:7, 2:272, 3:137, 11:11, 16:122, 37:76, 44:28, 73:12, 82:14, 89:16"
+            },
+            {
+                "id": 10678,
+                "topic": "Luqman: Aesop",
+                "verses": null
+            },
+            {
+                "id": 10761,
+                "topic": "Man: all subordinated to",
+                "verses": "15:30, 7:12, 17:62, 18:51, 20:117, 22:66, 45:13-14"
+            }
+        ],
+        "ar": "اَلَمۡ تَرَوۡا اَنَّ اللّٰہَ سَخَّرَ لَکُمۡ مَّا فِی السَّمٰوٰتِ وَ مَا فِی الۡاَرۡضِ وَ اَسۡبَغَ عَلَیۡکُمۡ نِعَمَہٗ  ظَاہِرَۃً  وَّ بَاطِنَۃً ؕ وَ مِنَ النَّاسِ مَنۡ یُّجَادِلُ فِی اللّٰہِ  بِغَیۡرِ عِلۡمٍ وَّ لَا ہُدًی وَّ لَا کِتٰبٍ مُّنِیۡرٍ ﴿۲۱﴾ ",
+        "ur": "کیا تم نے غور نہیں کیا کہ اللہ نے تمہارے لئے مسخر کردیا ہے جو بھی آسمانوں اور زمین میں ہے اور اس نے اپنی نعمتیں تم پر ظاہری طور پربھی پوری کیں اور باطنی طور پر بھی۔ اور انسانوں میں سے ایسے بھی ہیں جو اللہ کے بارہ میں بغیر کسی علم یا ہدایت یا روشن کتاب کے جھگڑتے ہیں۔",
+        "v5": {
+            "text": "Have you not seen that Allah has pressed for you into service whatever is in the heavens and whatever is in the earth, and has completed His favours on you, <i>both</i> externally and internally? [b]And among men there are some who dispute concerning Allah, without knowledge or guidance or an illuminating Book.[3047]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "13:14; 22:4, 9."
+                },
+                {
+                    "ref": "3047",
+                    "note": "<p><strong>Important Words:</strong></p><p>أسبغ (has completed) is derived from سبغ. They say سبغ العیش i.e. the life was or became pleasant and plentiful. أسبغ الله علیه النعمةmeans, God completed His favour upon him (Aqrab &amp; Lane).</p><p><strong>Commentary:</strong></p><p>The verse embodies strong refutation of <i>Shirk</i> (associating false deities with God) and incidentally alludes to three kinds of arguments which help a man to arrive at a right understanding of any important problem, viz; (1) evidence of reason and common sense; (2) arguments based on observation and experience; and (3) arguments provided by Divine revelation. The verse purports to say that none of these supports <i>Shirk</i> or disbelief. The disbelievers can adduce no rational argument in support of their foolish beliefs. Neither are those beliefs supported and substantiated by observation or experience, nor do they receive support from revelation. The combined testimony of human reason and common sense, of observation and experience and of Divine revelation, goes to show that belief in plurality of gods is a false and foolish belief. This is the significance of the words, <i>without knowledge or guidance or an illuminating Book.</i></p><p>The verse further says that man is the noblest handiwork of God and the acme and peak of His creation. The universe has been created to serve him, the sun with the whole solar system and the earth with all that is on it have been made subservient to him. So when all things have been created for his sake, it is foolish on man’s part first to set up equals with God and then to begin to worship and adore the things which have been created for his use and service.</p><p>The verse further implies that when all the physical needs of man have been met and his smallest requirements are satisfied by God, it is inconceivable that He should have neglected to make similar provision for his spiritual needs.</p><p>The words ظاھرة و باطنة may signify all needs of man—physical and spiritual; material and intellectual; known and unknown.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 22,
+        "v_": 21,
+        "topics": [
+            {
+                "id": 8849,
+                "topic": "Hell: <i>Jahannam</i>: <i>Sa‘ir</i>",
+                "verses": "19:69, 4:11, 4:56, 17:98, 22:5, 25:12, 33:65, 34:13, 42:8, 48:14, 67:6, 76:5, 84:13"
+            },
+            {
+                "id": 10841,
+                "topic": "Man: nature of, <i>Fitrah</i>",
+                "verses": "30:31, 4:29, 10:13, 11:10-11, 14:35, 16:5, 17:12, 17:68-70, 17:101, 18:55, 21:38, 22:6, 22:67, 23:78-79, 25:51, 30:37, 31:7-8, 33:73, 34:32, 36:78-79, 38:61, 39:50, 40:11, 41:50-52, 42:49, 43:16, 57:9, 70:20-22, 75:21, 80:18, 89:16-21, 90:5, 91:8-9, 95:5, 96:7-8, 100:7, 100:9, 103:3-4"
+            },
+            {
+                "id": 16238,
+                "topic": "Satan: leads astray, tempts",
+                "verses": "2:269, 2:170, 4:119-121, 5:92, 6:44, 8:49, 14:23, 15:40, 16:64, 17:65, 17:78, 19:84, 20:121, 25:30, 27:25, 29:39, 58:20"
+            }
+        ],
+        "ar": "وَ اِذَا قِیۡلَ لَہُمُ اتَّبِعُوۡا مَاۤ  اَنۡزَلَ اللّٰہُ قَالُوۡا بَلۡ نَتَّبِعُ مَا وَجَدۡنَا عَلَیۡہِ اٰبَآءَنَا ؕ اَوَ لَوۡ  کَانَ الشَّیۡطٰنُ یَدۡعُوۡہُمۡ  اِلٰی  عَذَابِ  السَّعِیۡرِ ﴿۲۲﴾ ",
+        "ur": "اور جب ان سے کہا جاتا ہے کہ اس کی پیروی کرو جو اللہ نے اتارا ہے تو کہتے ہیں کہ اس کی بجائے ہم تو اس کی پیروی کریں گے جس پر ہم نے اپنے باپ دادا کو پایا۔ کیا اس صورت میں بھی (ایسا کریں گے) اگر شیطان انہیں بھڑکتی ہوئی آگ کے عذاب کی طرف بلائے؟",
+        "v5": {
+            "text": "And when it is said to them, ‘Follow that which Allah has revealed,’ [a]they say, ‘Nay, we shall follow that which we found our fathers following.’ What! even though Satan was inviting them to the punishment of the burning fire?[3048]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "5:105; 10:79; 21:54."
+                },
+                {
+                    "ref": "3048",
+                    "note": "<p><strong>Commentary:</strong></p><p>Man is so constituted that he is not easily persuaded to give up his old ideas and beliefs. The one constant obstacle that the Prophets of God have had to meet from disbelievers is that the latter would not give up their old ancestral ways and beliefs. Old superstitions indeed die hard.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 23,
+        "v_": 22,
+        "topics": [
+            {
+                "id": 12716,
+                "topic": "Muhsin: who do good: are rewarded",
+                "verses": "3:135, 29:70, 2:59, 2:113, 4:126, 5:86, 6:85, 7:57, 7:162, 12:23, 22:38, 28:15, 33:30, 37:106, 37:111, 37:122, 37:132, 39:35, 77:45"
+            }
+        ],
+        "ar": "وَ مَنۡ یُّسۡلِمۡ وَجۡہَہٗۤ  اِلَی اللّٰہِ وَ ہُوَ مُحۡسِنٌ فَقَدِ اسۡتَمۡسَکَ بِالۡعُرۡوَۃِ الۡوُثۡقٰی ؕ وَ  اِلَی اللّٰہِ  عَاقِبَۃُ  الۡاُمُوۡرِ ﴿۲۳﴾ ",
+        "ur": "اور جو بھی اپنی تمام تَوَجُّہات اللہ کو سونپ دے اور وہ احسان کرنے والا ہو تو اس نے یقیناً ایک مضبوط کڑے کو پکڑ لیا اور تمام امور انجام کار اللہ ہی کی طرف (لوٹتے) ہیں۔",
+        "v5": {
+            "text": "[a]And he who submits himself wholly to Allah, and is a doer of good, he has surely grasped the firm handle. With Allah <i>rests</i> the end of all affairs.[3049]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:113."
+                },
+                {
+                    "ref": "3049",
+                    "note": "<p><strong>Commentary:</strong></p><p>The words, \"With Allah rests the end of all affairs.\" mean that it is God alone Who causes all actions to produce their results.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 24,
+        "v_": 23,
+        "topics": [
+            {
+                "id": 10334,
+                "topic": "Kufr: disbelief",
+                "verses": "3:91, 2:7, 2:89, 2:94, 2:109, 3:53, 3:168, 3:177-178, 4:47, 4:138, 4:156-157, 5:42, 5:62, 5:65, 5:69, 9:17, 9:23, 9:97, 9:107, 16:107, 17:70, 30:45, 35:40, 39:8, 49:8, 98:2"
+            },
+            {
+                "id": 15305,
+                "topic": "Raja‘: return to Allah",
+                "verses": "96:9, 2:47, 2:157, 2:211, 2:246, 2:282, 3:56, 3:84, 3:110, 5:49, 5:106, 6:61, 6:109, 6:165, 10:5, 10:24, 10:47, 10:71, 11:5, 11:35, 19:41, 21:36, 21:94, 22:77, 24:65, 29:9, 31:16, 39:8, 41:51, 57:6, 89:29"
+            }
+        ],
+        "ar": "وَ مَنۡ کَفَرَ فَلَا یَحۡزُنۡکَ کُفۡرُہٗ ؕ اِلَیۡنَا مَرۡجِعُہُمۡ فَنُنَبِّئُہُمۡ بِمَا عَمِلُوۡا ؕ اِنَّ اللّٰہَ  عَلِیۡمٌۢ   بِذَاتِ  الصُّدُوۡرِ ﴿۲۴﴾ ",
+        "ur": "اور جو کفر کرے تو اس کا کفر تجھے دکھ میں مبتلا نہ کرے۔ ہماری طرف ہی اُن کا لَوٹ کر آنا ہے۔ پس ہم انہیں بتائیں گے کہ وہ کیا کرتے رہے ہیں۔ یقیناً اللہ سینوں کی باتوں کا خوب علم رکھنے والا ہے۔",
+        "v5": {
+            "text": "And <i>as for</i> him [b]who disbelieves, let not his disbelief grieve thee. Unto Us is their return and We shall tell them what they did. Surely, Allah knows well what is in the breasts.",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "3:177; 35:40."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 25,
+        "v_": 24,
+        "topics": [],
+        "ar": "نُمَتِّعُہُمۡ قَلِیۡلًا ثُمَّ نَضۡطَرُّہُمۡ  اِلٰی عَذَابٍ  غَلِیۡظٍ ﴿۲۵﴾ ",
+        "ur": "ہم انہیں تھوڑا سا عارضی فائدہ پہنچائیں گے پھر انہیں ایک سخت عذاب کی طرف مجبور کر کے لے جائیں گے۔",
+        "v5": {
+            "text": "We shall let them enjoy themselves a little; then shall We drive them to severe torment.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 31,
+        "v": 26,
+        "v_": 25,
+        "topics": [
+            {
+                "id": 8573,
+                "topic": "Heaven: <i>Sama’</i>: creation of",
+                "verses": "41:12-13, 2:30, 2:118, 2:165, 3:192, 6:2, 6:74, 7:55, 9:36, 10:4, 11:8, 14:20, 15:86, 16:4, 17:100, 21:17, 21:31, 25:60, 29:45, 30:23, 32:5, 36:82, 39:6, 39:39, 40:58, 42:30, 43:10, 44:39, 45:23, 46:4, 46:34, 50:39, 51:48, 57:5, 65:13, 67:4, 71:16, 79:28"
+            }
+        ],
+        "ar": "وَ لَئِنۡ سَاَلۡتَہُمۡ مَّنۡ خَلَقَ السَّمٰوٰتِ وَ الۡاَرۡضَ لَیَقُوۡلُنَّ اللّٰہُ ؕ قُلِ  الۡحَمۡدُ لِلّٰہِ ؕ بَلۡ  اَکۡثَرُہُمۡ  لَا  یَعۡلَمُوۡنَ ﴿۲۶﴾ ",
+        "ur": "اور اگر تُو ان سے پوچھے کہ کس نے آسمانوں اور زمین کو پیدا کیا ہے؟ تو وہ ضرور کہیں گے: اللہ نے۔ تُو کہہ دے کہ سب تعریف اللہ ہی کے لئے ہے لیکن ان میں سے اکثر علم نہیں رکھتے۔",
+        "v5": {
+            "text": "[c]And if thou ask them, ‘Who created the heavens and the earth?’, they will surely answer, ‘Allah.’ Say, ‘All praise belongs to Allah.’ But most of them know not.[3050]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "29:62; 39:39; 44:8."
+                },
+                {
+                    "ref": "3050",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse purports to say that an intelligent study of the creation of the universe and of the perfect design and order that pervade and permeate it, leads to the one inevitable conclusion that there must be a Creator of this creation. This inference is inescapable. The words لیقولن الله signify that disbelievers will have no option but to admit that it is Allah Who brought the whole universe into being. But in spite of this unwilling admission on their part, the perverse rejecters of truth refuse to admit the simple fact that when God has made so much provision for the physical and material needs of man, He could not have failed to make similar provision for his moral and spiritual needs. This refusal to accept a clear conclusion shows that disbelievers are an ignorant and perverse people. Moreover, while they admit in their heart of hearts that God is the sole Creator of the universe, their actions do not conform to their admission. They associate partners with Him. This fact also sets the seal upon their folly and ignorance.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 27,
+        "v_": 26,
+        "topics": [
+            {
+                "id": 3193,
+                "topic": "Attributes of Allah: Al-Ghani (Self-sufficient)",
+                "verses": "2:268, 2:264, 3:98, 4:132, 6:134, 9:28, 10:69, 14:9, 22:65, 27:41, 29:7, 31:13, 35:16, 39:8, 47:39, 57:25, 60:7, 64:7"
+            },
+            {
+                "id": 3282,
+                "topic": "Attributes of Allah: Al-Hamid (Praiseworthy)",
+                "verses": "22:65, 2:268, 4:132, 11:74, 14:2, 14:9, 22:25, 31:13, 41:43, 42:29, 60:7, 85:9"
+            },
+            {
+                "id": 6933,
+                "topic": "Earth: <i>Al-Ard</i>: Allah’s dominion extends over the",
+                "verses": "2:256, 2:108, 2:117, 2:285, 3:110, 3:130, 3:181, 3:190, 4:132, 4:170, 5:18, 5:121, 6:13, 6:80, 7:129, 7:159, 16:50, 16:53, 23:85, 24:42, 24:65, 25:3, 30:27, 34:2, 39:45, 42:5, 45:28, 48:15"
+            }
+        ],
+        "ar": "لِلّٰہِ مَا فِی السَّمٰوٰتِ  وَ الۡاَرۡضِ ؕ اِنَّ  اللّٰہَ ہُوَ  الۡغَنِیُّ   الۡحَمِیۡدُ ﴿۲۷﴾ ",
+        "ur": "اللہ ہی کا ہے جو آسمانوں میں اور زمین میں ہے۔ یقیناً اللہ ہی غنی (اور) صاحبِ تعریف ہے۔",
+        "v5": {
+            "text": "[a]To Allah belongs whatever is in the heavens and the earth. Verily, Allah is the Self-Sufficient, the Praiseworthy.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:285; 10:56; 24:65."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 28,
+        "v_": 27,
+        "topics": [
+            {
+                "id": 2501,
+                "topic": "Allah: words of are inexhaustible",
+                "verses": "18:110"
+            },
+            {
+                "id": 3247,
+                "topic": "Attributes of Allah: Al-Hakim (The Wise)",
+                "verses": "2:130, 2:33, 2:210, 2:221, 2:229, 2:261, 3:7, 4:12, 4:57, 4:131, 4:166, 5:119, 9:15, 9:40, 11:2, 12:101, 15:26, 16:61, 22:53, 24:19, 27:7, 27:10, 34:2, 35:3, 41:43, 42:52, 43:85, 44:5, 46:3, 48:5, 48:8, 48:20, 49:9, 57:2, 59:2, 59:25, 62:2, 64:19, 66:3"
+            },
+            {
+                "id": 10119,
+                "topic": "Kalimat: words",
+                "verses": "3:46, 2:38, 2:125, 3:40, 3:65, 4:172, 6:35, 6:116, 7:138, 7:159, 8:8, 9:40, 9:74, 10:20, 10:34, 10:65, 10:97, 11:111, 14:25, 14:27, 18:6, 18:28, 18:110, 20:130, 23:101, 37:172, 39:20, 39:72, 40:7, 42:15, 42:22, 43:29, 48:27, 66:13"
+            },
+            {
+                "id": 13114,
+                "topic": "Number: <i>‘Adad</i>",
+                "verses": "2:185-186, 2:30, 9:36-37, 9:80, 12:43, 15:45, 18:23, 23:18, 30:5, 33:50, 65:2, 65:5, 74:31, 89:4, 97:4"
+            },
+            {
+                "id": 13802,
+                "topic": "Pen: <i>Qalam</i>",
+                "verses": "95:5-6, 3:45, 68:2"
+            },
+            {
+                "id": 16424,
+                "topic": "Sea: body of water, <i>Bahr</i>",
+                "verses": "55:20-21, 6:60, 18:61, 18:110, 25:54, 27:62, 27:64, 35:13, 52:7, 81:7, 82:4"
+            },
+            {
+                "id": 16566,
+                "topic": "Seven: or Seventy",
+                "verses": "2:30, 2:197, 2:262, 7:156, 9:80, 12:44, 12:47-49, 15:45, 15:88, 18:23, 23:18, 69:8, 69:33, 78:13"
+            },
+            {
+                "id": 17861,
+                "topic": "Tree: <i>Shajarah</i>: and Holy Qur’an",
+                "verses": null
+            }
+        ],
+        "ar": "وَ لَوۡ اَنَّ مَا فِی الۡاَرۡضِ مِنۡ شَجَرَۃٍ  اَقۡلَامٌ  وَّ  الۡبَحۡرُ  یَمُدُّہٗ  مِنۡۢ بَعۡدِہٖ سَبۡعَۃُ  اَبۡحُرٍ  مَّا نَفِدَتۡ  کَلِمٰتُ اللّٰہِ ؕ اِنَّ  اللّٰہَ  عَزِیۡزٌ  حَکِیۡمٌ ﴿۲۸﴾ ",
+        "ur": "اور زمین میں جتنے درخت ہیں اگر سب قلمیں بن جائیں اور سمندر (روشنائی ہوجائے اور) اس کے علاوہ سات سمندر بھی اس کی مدد کریں تب بھی اللہ کے کلمات ختم نہیں ہوں گے۔ یقیناً اللہ کامل غلبہ والا (اور) صاحبِ حکمت ہے۔",
+        "v5": {
+            "text": "[b]And if all the trees that are in the earth were pens, and the ocean <i>were ink</i>, with seven oceans swelling it thereafter, the words of Allah would not be exhausted. Surely, Allah is Mighty, Wise.[3051]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "18:110."
+                },
+                {
+                    "ref": "3051",
+                    "note": "<p><strong>Commentary:</strong></p><p>Overawed by the vastness of the size of an object of nature or the extraordinary powers of a human being, men of low intellect and weak faith are prone to ascribe Divine attributes to them. It is the untenability of this position that the verse under comment seeks to expose. It purports to say that disbelievers are overawed into attributing Divine powers to a big object of nature, or a great man, while the great universe of which God is the sole Architect is an inexhaustible storehouse of unfathomable mysteries, infinitely larger in number than the wonderful things that meet the eye. So it is absurd on the part of disbelievers to take an object of nature or a human being as God on the score of his or its being seemingly extraordinary.</p><p>It may also be noted that numbers \"7\" and \"70\" are used in Arabic to denote a very large number, and not exactly \"seven\" and \"seventy\" as ordinary numerals.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 29,
+        "v_": 28,
+        "topics": [
+            {
+                "id": 17006,
+                "topic": "Soul: <i>Ruh</i>, spirit",
+                "verses": "4:172, 2:49, 3:26, 3:146, 3:186, 6:152, 12:54, 16:3, 17:86, 19:18, 50:22, 58:23, 70:5, 75:3, 78:39, 86:5, 89:28-29, 97:5"
+            }
+        ],
+        "ar": "مَا خَلۡقُکُمۡ وَ لَا بَعۡثُکُمۡ  اِلَّا کَنَفۡسٍ وَّاحِدَۃٍ ؕ  اِنَّ  اللّٰہَ  سَمِیۡعٌۢ  بَصِیۡرٌ ﴿۲۹﴾ ",
+        "ur": "تمہاری پیدائش اور تمہارا دوبارہ اٹھایا جانا محض نفسِ واحدہ (کی پیدائش اور اٹھائے جانے) کے مشابہ ہے۔ یقیناً اللہ بہت سننے والا (اور) گہری نظر رکھنے والا ہے۔",
+        "v5": {
+            "text": "Your creation and your resurrection are only like <i>the creation and resurrection of</i> a single soul. Verily, Allah is All-Hearing, All-Seeing.[3052]",
+            "notes": [
+                {
+                    "ref": "3052",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse tells disbelievers that all human beings, great or small, are subject to the same laws of nature and that the doors of progress and advancement are equally open to all of them and, therefore, they themselves can be as great as those whose greatness inspires them with such awe that they take them for gods.</p><p>The verse may point to yet another very important fact, viz. that the rise or fall of nations and communities is subject to the same laws of nature as is the progress or degradation of individuals.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 30,
+        "v_": 29,
+        "topics": [
+            {
+                "id": 1135,
+                "topic": "Ajal: <i>Musamma</i>, fixed",
+                "verses": "2:232, 11:105, 3:146, 6:3, 6:129, 7:35, 10:50, 11:4, 13:3, 13:39, 14:11, 15:6, 16:62, 17:100, 20:130, 22:6, 22:34, 29:54, 30:9, 35:14, 35:46, 39:43, 40:68, 42:15, 46:4"
+            },
+            {
+                "id": 4865,
+                "topic": "Calendar",
+                "verses": "9:36, 2:190, 2:198, 6:97, 10:6, 17:13"
+            },
+            {
+                "id": 11542,
+                "topic": "Moon",
+                "verses": "2:190, 6:78, 6:97, 7:55, 7:131, 10:6, 12:5, 13:3, 14:34, 16:13, 21:34, 22:19, 25:62, 29:62, 35:14, 36:40-41, 39:6, 41:38, 55:6, 71:17, 84:19, 91:3"
+            },
+            {
+                "id": 12887,
+                "topic": "Nations",
+                "verses": "11:102, 2:245, 2:262, 2:270, 3:27-28, 3:140, 7:35, 10:25, 17:17, 21:97, 21:105, 23:81, 29:21, 29:25, 35:10, 36:69, 38:54, 83:2-6, 90:14-18, 103:2-4, 111:5-6"
+            },
+            {
+                "id": 13031,
+                "topic": "Night: signs of Allah",
+                "verses": "17:13, 3:28, 3:191, 6:14, 6:97, 7:5, 7:55, 7:98, 10:7, 10:68, 13:4, 14:34, 16:13, 21:34, 22:62, 23:81, 24:45, 25:63, 28:72-74, 35:14, 36:38, 36:41, 45:6, 79:30"
+            },
+            {
+                "id": 16307,
+                "topic": "Science: day and night",
+                "verses": "3:191-192, 2:165, 7:55, 36:38, 39:6"
+            },
+            {
+                "id": 17370,
+                "topic": "Sun: and Moon",
+                "verses": "25:62, 2:190, 6:97, 7:55, 10:6, 13:3, 14:34, 16:13, 21:34, 22:19, 25:46-47, 35:14, 36:39-41, 39:6, 41:38, 55:6, 71:17, 75:8-10, 78:14, 84:17-19, 91:2-3"
+            }
+        ],
+        "ar": "اَلَمۡ  تَرَ  اَنَّ اللّٰہَ یُوۡلِجُ الَّیۡلَ فِی النَّہَارِ وَ یُوۡلِجُ النَّہَارَ فِی الَّیۡلِ وَ سَخَّرَ الشَّمۡسَ وَ الۡقَمَرَ ۫ کُلٌّ  یَّجۡرِیۡۤ   اِلٰۤی   اَجَلٍ مُّسَمًّی وَّ اَنَّ اللّٰہَ بِمَا تَعۡمَلُوۡنَ خَبِیۡرٌ ﴿۳۰﴾ ",
+        "ur": "کیا تُو نے غور نہیں کیا کہ اللہ رات کو دن میں داخل کرتا اور دن کو رات میں داخل کرتا ہے اور اس نے چاند اور سورج کو مسخر کردیا ہے۔ ہر ایک اپنی مقررہ مدت کی طرف رواں دواں ہے۔ اور (یاد رکھو) کہ اللہ اس سے جو کچھ تم کرتے ہو ہمیشہ باخبر رہتا ہے۔",
+        "v5": {
+            "text": "Hast thou not seen that [a]Allah makes the night pass into the day, and makes the day pass into the night, and [b]He has pressed the sun and the moon into service; each pursuing its course till an appointed term, and that Allah is Aware of what you do?[3053]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "22:62; 35:14; 57:7."
+                },
+                {
+                    "ref": "b",
+                    "note": "7:55; 13:3; 35:14; 39:6."
+                },
+                {
+                    "ref": "3053",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse under comment further develops the theme of its predecessor and says that nations and individuals advance and decay as they observe or ignore the laws that govern their rise and fall. Uniform prosperity or unrelieved misery has never been the lot of a people for all time. The condition of a people or individual changes with a corresponding change in their or his attitude and behaviour. The natural law of the day following the night, and vice versa operates with equal force in regard to the fate of nations as well as individuals.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 31,
+        "v_": 30,
+        "topics": [
+            {
+                "id": 3010,
+                "topic": "Attributes of Allah: Al-‘Aliyy (The High)",
+                "verses": "4:35, 2:256, 22:63, 34:24, 40:13, 42:5, 42:52"
+            },
+            {
+                "id": 3213,
+                "topic": "Attributes of Allah: Al-Haqq (The truth, True Lord)",
+                "verses": "22:63, 6:63, 10:33, 20:115, 22:7, 23:117, 24:26"
+            },
+            {
+                "id": 3300,
+                "topic": "Attributes of Allah: Al-Kabir (the Great)",
+                "verses": "4:35, 13:10, 22:63, 34:24, 40:13"
+            },
+            {
+                "id": 17985,
+                "topic": "Truth: <i>Haqq</i>: is with Allah",
+                "verses": "58:22, 6:74, 6:58, 10:31, 10:33, 10:36, 13:15, 18:45, 20:115, 22:7, 23:117, 24:26, 25:27, 33:5, 39:70, 39:76, 40:21, 42:25"
+            }
+        ],
+        "ar": "ذٰلِکَ بِاَنَّ اللّٰہَ ہُوَ الۡحَقُّ وَ اَنَّ مَا یَدۡعُوۡنَ مِنۡ دُوۡنِہِ الۡبَاطِلُ ۙ وَ اَنَّ اللّٰہَ ہُوَ  الۡعَلِیُّ  الۡکَبِیۡرُ ﴿٪۳۱﴾ ",
+        "ur": "یہ اس لئے ہے کہ یقیناً اللہ ہی ہے جو حق ہے اور جسے وہ اُس کے سوا پکارتے ہیں وہ باطل ہے اور اللہ ہی بہت بلند شان (اور) بڑا ہے۔",
+        "v5": {
+            "text": "That is because it is Allah alone Who is the True <i>God</i>, and whatever they call upon beside Him is falsehood, and because it is Allah <i>alone</i> Who is the Most High, the Incomparably Great.[3054]",
+            "notes": [
+                {
+                    "ref": "3054",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means to say that the whole phenomenon of the creation of universe and the laws that govern it and also those that determine the rise and fall of nations lead to but one conclusion that Allah is the Only True God, and that all else is false and perishable.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 32,
+        "v_": 31,
+        "topics": [
+            {
+                "id": 1529,
+                "topic": "Allah: favours of",
+                "verses": "2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28, 78:7-17"
+            },
+            {
+                "id": 1531,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28, 78:7-17"
+            },
+            {
+                "id": 2311,
+                "topic": "Allah: signs of, <i>Ayatullah</i>",
+                "verses": "2:165, 2:212, 3:50, 4:141, 5:3, 6:5, 6:47, 6:127, 7:41, 7:134, 7:204, 10:6-8, 10:16, 10:18, 10:21-22, 10:25, 13:28, 16:66, 17:13, 17:102, 20:43, 20:48, 20:54-57, 20:73, 27:13, 28:37, 30:20-26, 36:34-43, 36:47, 41:38-41, 42:30, 42:33-36, 45:7, 51:38"
+            },
+            {
+                "id": 12932,
+                "topic": "Ni‘mat: favours",
+                "verses": "1:7, 2:41, 2:48, 2:123, 2:151, 2:212, 2:232, 3:104, 3:172, 3:175, 4:70, 5:4, 5:7-8, 5:12, 5:21, 5:111, 8:54, 12:7, 14:7, 14:29, 14:35, 16:19, 16:54, 16:72-73, 16:84, 16:122, 19:59, 26:23, 27:20, 28:18, 33:10, 35:4, 37:58, 39:9, 39:50, 46:16, 48:3, 49:9, 52:30, 54:36, 68:3, 68:50, 93:12"
+            },
+            {
+                "id": 13736,
+                "topic": "Patience: <i>sabr</i>: sign of a <i>Mu’min</i>",
+                "verses": "3:18, 2:178, 3:187, 14:6, 16:127, 21:86, 22:36, 33:36, 37:103, 54:28"
+            },
+            {
+                "id": 16449,
+                "topic": "Sea: body of water, <i>Bahr</i>: ships sail on",
+                "verses": "55:20-21, 55:25, 2:165, 10:23, 17:67-68, 22:66, 27:64, 35:13, 36:42, 40:81, 42:33, 43:13, 45:13"
+            }
+        ],
+        "ar": "اَلَمۡ تَرَ اَنَّ الۡفُلۡکَ تَجۡرِیۡ فِی الۡبَحۡرِ بِنِعۡمَتِ اللّٰہِ  لِیُرِیَکُمۡ مِّنۡ  اٰیٰتِہٖ ؕ اِنَّ فِیۡ ذٰلِکَ لَاٰیٰتٍ  لِّکُلِّ  صَبَّارٍ  شَکُوۡرٍ ﴿۳۲﴾ ",
+        "ur": " کیا تو نے غور نہیں کیا کہ سمندر میں کشتیاں اللہ کی نعمت کے ساتھ چلتی ہیں تاکہ وہ اپنے نشانات میں سے تمہیں کچھ دکھائے۔ اس میں یقیناً ہر بہت صبر کرنے والے (اور) بہت شکر کرنے والے کےلئے نشانات ہیں۔",
+        "v5": {
+            "text": "Dost thou not see that the ships sail on the sea by [a]the favour of Allah, that He may show you of His Signs? Therein surely are Signs for everyone who is patient <i>and</i> grateful.[3055]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "17:67; 30:47; 45:13."
+                },
+                {
+                    "ref": "3055",
+                    "note": "<p><strong>Commentary:</strong></p><p>The sailing of ships, as is mentioned in the present verse, is indeed a great Divine boon. Much of the prosperity of mankind depends on it. The greatest sea power is generally the richest and the most powerful nation in the world.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 33,
+        "v_": 32,
+        "topics": [
+            {
+                "id": 9371,
+                "topic": "Intention: <i>Niyyah, Ikhlas</i>",
+                "verses": "39:15, 2:140, 2:197, 2:226, 2:287, 4:13, 7:30, 10:23, 29:66, 38:70, 39:3, 39:12, 40:15, 40:66, 98:6"
+            },
+            {
+                "id": 11892,
+                "topic": "Moral Traits: perfidy",
+                "verses": "4:108, 4:106, 9:8, 9:80, 22:39, 33:27, 48:59"
+            },
+            {
+                "id": 15481,
+                "topic": "Religion: sincerity in",
+                "verses": "39:15, 9:11, 10:23, 29:66, 39:3, 39:12, 40:15, 40:66, 98:6"
+            }
+        ],
+        "ar": "وَ اِذَا غَشِیَہُمۡ مَّوۡجٌ کَالظُّلَلِ دَعَوُا اللّٰہَ مُخۡلِصِیۡنَ لَہُ الدِّیۡنَ ۬ۚ فَلَمَّا نَجّٰہُمۡ اِلَی الۡبَرِّ فَمِنۡہُمۡ مُّقۡتَصِدٌ ؕ وَ مَا یَجۡحَدُ بِاٰیٰتِنَاۤ  اِلَّا  کُلُّ  خَتَّارٍ  کَفُوۡرٍ ﴿۳۳﴾ ",
+        "ur": "اور جب انہیں موج سایوں کی طرح ڈھانپ لیتی ہے وہ اللہ کو اس کے لئے دین کو خالص کرتے ہوئے پکارتے ہیں۔ پس جب وہ انہیں خشکی کی طرف بچا لے جاتا ہے تو ان میں سے کچھ (ایسے بھی ہوتے) ہیں جو میانہ روی اختیار کرنے والے ہیں۔ اور ہمارے نشانات کا کوئی انکار نہیں کرتا مگر ہر ایک وہ جو سخت دھوکہ باز (اور) بہت ناشکرا ہے۔",
+        "v5": {
+            "text": "[b]And when waves engulf them like <i>so many</i> coverings, they call upon Allah, being sincere to Him in faith; but when He brings [c]them safe to land, then <i>only</i> some of them keep to the right course. And none denies Our Signs save every perfidious, and ungrateful <i>person</i>.[3056]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "10:23; 29:66."
+                },
+                {
+                    "ref": "c",
+                    "note": "10:24; 17:68."
+                },
+                {
+                    "ref": "3056",
+                    "note": "<p><strong>Important Words:</strong></p><p>ختار (the perfidious) is derived fromختر. They say خترہ i.e. he acted or behaved towards him with perfidy, treachery or unfaithfulness, or with the foulest perfidy or treachery or unfaithfulness or with deceit, guile, or in a bad or corrupt manner. ختر بالعھد means he was unfaithful to the covenant. ختار means, one who acts treacherously or with perfidy or with the foulest perfidy or with deceit or guile and does so frequently (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The verse refers to a very common characteristic of a <i>mushrik</i> (polytheist). He is weak of faith and is very superstitious. Even a small misfortune is sufficient to frighten and upset him because his faith is only a jumble of make-beliefs, hearsays and superstitions. In difficulty he prays to God but when out of it he is his old self. Such, however, is not the case of a true believer. He is grateful to God when he receives a Divine favour, and is firm and steadfast in faith when a misfortune overtakes him. He never loses his balance of mind—neither in prosperity nor in adversity.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 31,
+        "v": 34,
+        "v_": 33,
+        "topics": [
+            {
+                "id": 948,
+                "topic": "Afterlife: <i>Akhirah</i>: no soul will avail of another in",
+                "verses": "2:49, 2:124, 82:20"
+            },
+            {
+                "id": 6222,
+                "topic": "Deceive: <i>Gharrah, Khada‘ah</i>",
+                "verses": "2:10, 3:25, 3:197, 4:143, 6:113, 6:131, 8:63, 40:5, 45:36, 57:15, 82:7"
+            },
+            {
+                "id": 6289,
+                "topic": "Delusion: <i>Ghurur</i>, deception",
+                "verses": "3:186, 4:121, 6:113, 7:23, 17:65, 33:13, 35:6, 35:41, 57:15, 57:21, 67:21"
+            },
+            {
+                "id": 10524,
+                "topic": "Life: <i>Hayat</i>: of this world",
+                "verses": "23:113-115, 2:87, 2:201, 2:213, 3:15, 3:186, 4:75, 4:95, 6:30, 6:33, 6:71, 6:131, 7:52, 9:38, 10:8-9, 10:25, 10:65, 11:16, 13:27, 14:4, 16:108, 17:19, 18:29, 18:46-47, 18:104-105, 20:132, 23:38, 28:61, 29:64, 29:65, 30:8, 35:6, 40:40, 41:32, 42:37, 43:36, 45:25, 45:36, 46:36, 47:27, 53:30, 57:21, 76:28, 79:39, 87:17-18"
+            },
+            {
+                "id": 14272,
+                "topic": "Promise: Allah true to His",
+                "verses": "3:195, 3:10, 4:123, 6:135, 7:45, 10:5, 10:56, 11:46, 14:48, 16:39, 17:109, 18:22, 18:99, 21:10, 22:48, 28:14, 30:61, 31:10, 35:6, 40:56, 40:78, 43:43, 45:33, 46:18, 51:6, 77:8"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا النَّاسُ اتَّقُوۡا رَبَّکُمۡ  وَ اخۡشَوۡا یَوۡمًا  لَّا یَجۡزِیۡ وَالِدٌ عَنۡ وَّلَدِہٖ ۫ وَ لَا مَوۡلُوۡدٌ  ہُوَ  جَازٍ عَنۡ وَّالِدِہٖ شَیۡئًا ؕ اِنَّ وَعۡدَ اللّٰہِ حَقٌّ فَلَا تَغُرَّنَّکُمُ الۡحَیٰوۃُ الدُّنۡیَا ٝ وَ لَا یَغُرَّنَّکُمۡ  بِاللّٰہِ الۡغَرُوۡرُ ﴿۳۴﴾ ",
+        "ur": "اے انسانو! اپنے ربّ کا تقویٰ اختیار کرو اور اس دن سے ڈرو جس دن نہ باپ اپنے بیٹے کے کام آئے گا، نہ بیٹا اپنے باپ کے کچھ کام آئے گا۔ یقیناً اللہ کا وعدہ سچا ہے۔ پس تمہیں دنیا کی زندگی ہرگز دھوکہ میں نہ ڈالے اور تمہیں اللہ کے بارہ میں دھوکہ باز (شیطان) ہرگز دھوکہ نہ دے سکے۔",
+        "v5": {
+            "text": "O men, seek protection with your Lord and fear [a]the day when the father will not be of <i>any</i> avail to his son, nor will the son at all be of any avail to his father. Allah’s promise is surely true. So let not worldly life beguile you, nor let the Deceiver deceive you concerning Allah.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:124; 82:20."
+                }
+            ]
+        }
+    }
+]

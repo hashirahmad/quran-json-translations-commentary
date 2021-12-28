@@ -1,0 +1,305 @@
+[
+    {
+        "ch": 98,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 98,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 7274,
+                "topic": "Evidence: from the Book",
+                "verses": "45:21, 35:41, 43:3"
+            },
+            {
+                "id": 10338,
+                "topic": "Kufr: disbelief",
+                "verses": "3:91, 2:7, 2:89, 2:94, 2:109, 3:53, 3:168, 3:177-178, 4:47, 4:138, 4:156-157, 5:42, 5:62, 5:65, 5:69, 9:17, 9:23, 9:97, 9:107, 16:107, 17:70, 30:45, 31:24, 35:40, 39:8, 49:8"
+            },
+            {
+                "id": 13787,
+                "topic": "People of the Book: <i>Ahlul-Kitab</i>",
+                "verses": "4:160, 2:106, 2:110, 3:21, 3:65-66, 3:70, 3:72-73, 3:76, 3:99-100, 3:111, 3:114, 3:200, 4:48, 4:124, 4:154, 4:172, 5:6, 5:16, 5:20, 5:60, 5:66, 5:69, 5:78, 9:29, 29:47, 33:27, 42:15, 45:17, 57:30, 59:3, 98:7"
+            }
+        ],
+        "ar": "لَمۡ  یَکُنِ الَّذِیۡنَ کَفَرُوۡا  مِنۡ  اَہۡلِ الۡکِتٰبِ وَ الۡمُشۡرِکِیۡنَ مُنۡفَکِّیۡنَ حَتّٰی تَاۡتِیَہُمُ  الۡبَیِّنَۃُ ۙ﴿۲﴾ ",
+        "ur": "وہ لوگ جنہوں نے اہل کتاب اور مشرکین میں سے کفر کیا، ہرگز باز آنے والے نہ تھے باوجود اس کے کہ اُن کے پاس کھلی کھلی دلیل آ چکی تھی۔",
+        "v5": {
+            "text": "Those who disbelieve from among the People of the Book and the idolaters would not desist <i>from disbelief</i> until there came to them the [b]clear evidence—[4798]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "16:34."
+                },
+                {
+                    "ref": "4798",
+                    "note": "<p><strong>Important Words:</strong></p><p>منفکین is derived from انفک. They say انفک الشیء عن الشیء i.e. the thing became separated from another thing. ما انفک یفعل کذاmeans, he continued to do so or did not cease to do so or did not desist from doing so (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The Quran has divided all disbelievers into two categories—the People of the Book and the idolaters, i.e. those who do not believe in any revealed Scripture. The verse purports to say that before the advent of the Holy Prophet those who had received revealed guidance as well as those who were complete strangers to it were all sunk in immorality and iniquity and had held false beliefs and wrong ideals and principles, and that if the Holy Prophet had not come and the Quran had not been revealed, they would have continued to flounder in darkness. It is to this universal moral decline that the Quran has referred in the words ظھر الفساد فی البر والبحر i.e. corruption had appeared on land and on sea (30:42).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 98,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 14768,
+                "topic": "Pure",
+                "verses": "3:39, 4:44, 4:161, 5:7, 16:98, 22:25, 37:85, 40:65, 45:17, 61:13"
+            },
+            {
+                "id": 15103,
+                "topic": "Qur’an: from Allah",
+                "verses": "4:114, 2:24, 2:90, 2:232, 4:137, 4:141, 4:175, 7:197, 10:38, 12:4, 14:2, 16:45, 16:90, 17:71, 20:3, 20:5, 25:2, 25:5-7, 25:34, 26:193, 26:212-214, 27:7, 29:48, 32:3-4, 39:2, 42:8, 42:30, 42:33, 44:4, 45:3, 46:3, 53:5-6, 56:78-81, 57:10, 69:39-53, 76:24"
+            },
+            {
+                "id": 16415,
+                "topic": "Scriptures: <i>Suhuf</i>",
+                "verses": "87:19-20, 2:42, 2:107, 2:160, 3:8, 3:82, 5:49, 6:115, 6:156, 10:38, 16:44-45, 16:85, 18:2-3, 20:134, 26:193-94, 26:197, 27:31, 28:50, 29:49, 35:26, 36:3, 36:13, 41:42, 42:16, 43:22, 46:5, 53:6, 53:37, 53:38, 54:18, 54:44, 74:53, 80:14"
+            }
+        ],
+        "ar": "رَسُوۡلٌ مِّنَ اللّٰہِ یَتۡلُوۡا صُحُفًا مُّطَہَّرَۃً  ۙ﴿۳﴾ ",
+        "ur": "اللہ کا رسول مُطَہَّّر صحیفے پڑھتا تھا۔",
+        "v5": {
+            "text": "A Messenger from Allah, reciting <i>unto them the</i> pure Scriptures[c],[4799]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "3:165; 62:3; 87:19."
+                },
+                {
+                    "ref": "4799",
+                    "note": "<p><strong>Commentary:</strong></p><p>The expression رسول من الله is case in apposition with the word البینة in the preceding verse. The word مطھرة (pure) signifies that the Quran is completely free from all possible flaws, blemishes or defects. It possesses, on the contrary all conceivable beauty and excellence.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 98,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 15012,
+                "topic": "Qur’an: characteristics of",
+                "verses": "87:9, 10:58, 12:2-3, 15:22, 17:90, 18:2-3, 21:25, 26:3, 29:50, 43:45, 54:18, 56:80, 80:14-17"
+            },
+            {
+                "id": 15155,
+                "topic": "Qur’an: previous teachings",
+                "verses": "3:4, 5:49, 6:92, 18:83, 80:14"
+            }
+        ],
+        "ar": "فِیۡہَا کُتُبٌ قَیِّمَۃٌ ؕ﴿۴﴾ ",
+        "ur": "اُن میں قائم رہنے والی اور قائم رکھنے والی تعلیمات تھیں۔",
+        "v5": {
+            "text": "Wherein are lasting commandments.[4800]",
+            "notes": [
+                {
+                    "ref": "4800",
+                    "note": "<p><strong>Important Words:</strong></p><p>قیمة (lasting) is derived from قام . They say قام بالامر i.e. he managed, conducted or superintended the affair. قومه means, he put it right or made it straight. قیم means, true, perfect; superintendent; guardian (Lane, Mufradat &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The Quran is the compendium of all that is good, lasting and imperishable in the teachings of former revealed Scriptures, with a good deal more which those Scriptures lack but which man needed for his moral and spiritual development. All those right ideals and principles and ordinances and commandments which were of permanent utility to man have been incorporated in it. The Quran stands, as it were, not only as a guardian over those Books but comprises additional teachings that guard and protect man from moral decline and degeneration and teaches him how to make right use of his God-given faculties.</p><p>In the words صحفا مطھرة (pure Scriptures) stress is laid on the fact that the Quran has steered clear of all those defects and impurities which were found in the former Scriptures. In the expression دین القیمة (right religion) the emphasis is on those lasting and unalterable teachings which are its exclusive possession.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 98,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 7270,
+                "topic": "Evidence: clear from God",
+                "verses": "6:158, 6:58, 7:74, 11:89, 17:103, 20:134"
+            }
+        ],
+        "ar": "وَ مَا تَفَرَّقَ الَّذِیۡنَ اُوۡتُوا الۡکِتٰبَ  اِلَّا مِنۡۢ  بَعۡدِ مَا جَآءَتۡہُمُ  الۡبَیِّنَۃُ ؕ﴿۵﴾ ",
+        "ur": "اور وہ لوگ جنہیں کتاب دی گئی، اُنہوں نے تفرقہ نہیں کیا مگر بعد اس کے کہ اُن کے پاس روشن دلیل آچکی تھی۔",
+        "v5": {
+            "text": "And those to whom the Book was given did not become divided[a] until after clear evidence had come to them.[4801]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "42:15; 45:18."
+                },
+                {
+                    "ref": "4801",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means to say that the People of the Book had eagerly awaited the coming of a great Prophet about whom clear prophecies were found in their scriptures, but when he appeared in fact, then instead of accepting him they rejected him.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 98,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 1486,
+                "topic": "Allah: enjoins prayer, <i>Zakat</i>, charity...",
+                "verses": "5:13, 2:44, 2:84, 2:111, 2:178, 2:278, 4:163, 5:56, 9:5, 9:11, 9:18, 9:71, 19:32, 19:56, 21:74, 22:42, 22:79, 24:38, 24:57, 27:4, 31:5, 33:34, 58:14, 73:21"
+            },
+            {
+                "id": 2519,
+                "topic": "Alms: <i>Sadaqah</i>: give your to poor, needy",
+                "verses": "2:178, 9:60, 17:27, 21:74, 30:39, 76:9"
+            },
+            {
+                "id": 4346,
+                "topic": "Believers: <i>Mu’min</i>: observe prayers",
+                "verses": "4:163, 2:4, 2:178, 4:104, 5:56, 8:4, 9:18, 13:23, 14:32, 17:110, 19:59, 22:36, 22:42, 23:3, 23:10, 24:38, 27:4, 31:5, 32:16, 35:30, 42:39, 70:24, 70:35, 73:21"
+            },
+            {
+                "id": 8384,
+                "topic": "Hanif",
+                "verses": "4:126, 2:136, 3:68, 3:96, 6:80, 6:162, 10:106, 16:124, 22:32, 30:31"
+            },
+            {
+                "id": 9377,
+                "topic": "Intention: <i>Niyyah, Ikhlas</i>",
+                "verses": "39:15, 2:140, 2:197, 2:226, 2:287, 4:13, 7:30, 10:23, 29:66, 31:33, 38:70, 39:3, 39:12, 40:15, 40:66"
+            },
+            {
+                "id": 11372,
+                "topic": "Messengers: <i>Rusul</i>: message of",
+                "verses": "3:65, 7:60, 11:3, 11:4, 11:53, 16:37"
+            },
+            {
+                "id": 11929,
+                "topic": "Moral Traits: sincerity",
+                "verses": "4:147, 2:140, 7:22, 7:30, 7:63, 7:69, 7:80, 7:94, 9:91, 10:23, 11:35, 12:12, 28:13, 29:66, 30:34, 39:3-4, 39:12, 39:15, 40:15, 40:66"
+            },
+            {
+                "id": 15456,
+                "topic": "Religion: essentials of",
+                "verses": "30:31, 12:41, 23:53, 87:19-20"
+            },
+            {
+                "id": 15486,
+                "topic": "Religion: sincerity in",
+                "verses": "39:15, 9:11, 10:23, 29:66, 31:33, 39:3, 39:12, 40:15, 40:66"
+            },
+            {
+                "id": 16091,
+                "topic": "Salah: enjoined",
+                "verses": "2:44, 2:84, 2:111, 2:133, 2:153, 2:154, 4:78, 4:104, 5:56, 6:73, 6:93, 6:163, 8:4, 9:71, 14:32, 20:133, 22:79, 23:3, 23:10, 24:57, 27:4, 31:5, 31:18, 62:10, 70:24"
+            },
+            {
+                "id": 19002,
+                "topic": "Zakat",
+                "verses": "9:60, 2:44, 2:84, 2:111, 2:178, 2:278, 4:163, 5:13, 5:56, 7:157, 9:11, 9:18, 9:71, 19:32, 19:56, 21:74, 22:42, 22:79, 23:2-5, 24:38, 24:57, 27:4, 30:40, 31:5, 33:34, 41:8, 58:14, 73:21"
+            }
+        ],
+        "ar": "وَ مَاۤ  اُمِرُوۡۤا  اِلَّا لِیَعۡبُدُوا اللّٰہَ مُخۡلِصِیۡنَ لَہُ  الدِّیۡنَ ۬ۙ حُنَفَآءَ وَ یُقِیۡمُوا الصَّلٰوۃَ  وَ یُؤۡتُوا الزَّکٰوۃَ وَ ذٰلِکَ دِیۡنُ الۡقَیِّمَۃِ ؕ﴿۶﴾ ",
+        "ur": "اور وہ کوئی حکم نہیں دیئے گئے سوائے اس کے کہ وہ اللہ کی عبادت کریں، دین کو اُس کے لئے خالص کرتے ہوئے، ہمیشہ اس کی طرف جھکتے ہوئے، اور نماز کو قائم کریں اور زکوٰۃ دیں۔ اور یہی قائم رہنے والی اور قائم رکھنے والی تعلیمات کا دین ہے۔",
+        "v5": {
+            "text": "And they were not commanded but to serve Allah, being sincere to Him in obedience,[b] <i>and</i> being upright, and to observe Prayer, and pay the Zakah. And that is the right religion.[4802]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "31:33; 40:15."
+                },
+                {
+                    "ref": "4802",
+                    "note": "<p><strong>Commentary:</strong></p><p>دین (religion) means obedience; mastery; command; plan; righteousness; habit or custom; behaviour or conduct (Lane &amp; Aqrab). The verse may signify:</p><p>(1) They should have rendered full and sincere obedience to Divine commandments.</p><p>(2) When they got mastery or ascendancy, they should have devoted all their power and prestige to obtaining God’s pleasure.</p><p>(3) All their plans should have been directed towards the achievement of the one supreme object—pleasure of God.</p><p>(4) Their fear of God and love for Him should have been completely sincere and honest.</p><p>(5) They should have imbibed Divine attributes; and all their friendships and enmities should have been for the sake of God.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 98,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 1721,
+                "topic": "Allah: has made them apes, swine, beasts",
+                "verses": "2:66, 5:61, 7:167, 8:23, 8:56"
+            },
+            {
+                "id": 6430,
+                "topic": "Disbelief: <i>Kufr</i>: Disbeliever, <i>Kuffar</i>",
+                "verses": "2:7-21, 2:35, 3:5, 3:98, 4:151-152, 5:18, 5:37, 5:38, 5:45, 5:73, 7:38, 7:51, 8:56, 9:37, 12:88, 14:3-4, 16:108, 19:72, 38:74-75, 39:33, 39:60, 40:5, 45:12, 47:35, 85:11, 85:20-21, 109:2-7"
+            },
+            {
+                "id": 6504,
+                "topic": "Disbelief: <i>Kufr</i>: punishment of a",
+                "verses": "2:7-21, 2:25, 2:40, 2:91, 2:105, 2:127, 2:176, 3:11, 3:23, 3:57, 3:92, 3:132, 3:142, 4:19, 4:38, 4:57, 4:141, 4:152, 4:162, 5:11, 5:87, 6:31, 6:111, 7:51, 8:15, 8:37, 9:26, 9:49, 9:68, 13:36, 14:3, 16:28, 17:9, 18:103, 18:107, 21:40, 22:20, 22:73, 29:55, 33:65-66, 34:34, 35:37, 36:64-65, 38:28, 39:33, 39:72, 41:51, 48:14, 67:7, 70:2-3, 76:5"
+            },
+            {
+                "id": 8731,
+                "topic": "Hell: <i>Jahannam</i>: for disbelievers, hypocrites, idolaters",
+                "verses": "19:69, 29:55, 2:25, 2:40, 2:127, 2:258, 3:11, 3:13, 3:132, 4:141, 4:146, 5:73, 8:37, 19:87, 25:12, 38:60, 41:20, 44:48, 67:7, 78:22, 79:37, 83:16-18, 88:5, 89:24"
+            },
+            {
+                "id": 13788,
+                "topic": "People of the Book: <i>Ahlul-Kitab</i>",
+                "verses": "4:160, 2:106, 2:110, 3:21, 3:65-66, 3:70, 3:72-73, 3:76, 3:99-100, 3:111, 3:114, 3:200, 4:48, 4:124, 4:154, 4:172, 5:6, 5:16, 5:20, 5:60, 5:66, 5:69, 5:78, 9:29, 29:47, 33:27, 42:15, 45:17, 57:30, 59:3, 98:2"
+            }
+        ],
+        "ar": "اِنَّ  الَّذِیۡنَ کَفَرُوۡا مِنۡ اَہۡلِ الۡکِتٰبِ وَ الۡمُشۡرِکِیۡنَ فِیۡ  نَارِ جَہَنَّمَ خٰلِدِیۡنَ فِیۡہَا ؕ اُولٰٓئِکَ ہُمۡ شَرُّ الۡبَرِیَّۃِ ؕ﴿۷﴾ ",
+        "ur": "یقیناً وہ لوگ جنہوں نے اہلِ کتاب اور مشرکین میں سے کفر کیا جہنّم کی آگ میں ہوں گے۔ وہ اُس میں ایک لمبے عرصہ تک رہنے والے ہوں گے۔ یہی ہیں وہ جو بدترین مخلوق ہیں۔",
+        "v5": {
+            "text": "Verily, those who disbelieve from among the People of the Book and the idolaters will be in the fire of Hell,[a] abiding therein. They are the worst of creatures.[b]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "19:69; 21:99."
+                },
+                {
+                    "ref": "b",
+                    "note": "8:56; 95:6."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 98,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 512,
+                "topic": "Actions: <i>A‘mal</i>: rewarded",
+                "verses": "28:85, 3:196, 4:41, 4:58, 4:174, 5:10, 7:9, 7:44, 9:121, 11:16, 11:112, 16:98, 17:10, 18:3, 18:47, 18:108-9, 19:77, 20:76-77, 22:15, 22:57, 24:39, 29:8, 29:10, 31:9-10, 32:18, 32:20, 33:30, 34:38, 35:8, 35:11, 35:33, 39:36, 41:9, 42:23-24, 42:27, 43:73-74, 45:31, 46:20, 47:13, 47:36, 48:30, 52:18-21, 65:12, 84:26, 85:12, 95:7, 99:8, 101:7-8"
+            },
+            {
+                "id": 13457,
+                "topic": "Paradise: <i>Jannah</i>: believers who do good works will enter",
+                "verses": "2:26, 2:83, 3:199, 4:58, 4:123, 4:125, 7:43, 10:10, 11:24, 14:24, 15:46, 16:31-32, 18:108, 19:61, 19:64, 20:76-77, 22:15, 22:24, 22:57, 25:16, 29:59, 30:16, 31:9, 32:20, 38:50-51, 40:41, 42:23, 44:52-53, 47:13, 51:16, 54:55, 64:10, 65:12, 68:35, 85:12, 89:29-31"
+            },
+            {
+                "id": 15885,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 78:32-37, 83:23"
+            }
+        ],
+        "ar": "اِنَّ  الَّذِیۡنَ  اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ ۙ اُولٰٓئِکَ ہُمۡ خَیۡرُ الۡبَرِیَّۃِ ؕ﴿۸﴾ ",
+        "ur": "یقیناً وہ لوگ جو ایمان لائے اور نیک اعمال بجالائے، یہی ہیں وہ جو بہترین مخلوق ہیں۔",
+        "v5": {
+            "text": "Verily, those who believe and do righteous deeds—they are the best of creatures.[c]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "3:199."
+                }
+            ]
+        }
+    }
+]

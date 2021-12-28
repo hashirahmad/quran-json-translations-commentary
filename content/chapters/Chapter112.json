@@ -1,0 +1,146 @@
+[
+    {
+        "ch": 112,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 112,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 1210,
+                "topic": "Allah: attributes of, <i>Asma’ul-Husna</i>",
+                "verses": "1:1, 1:7, 2:256, 7:181, 17:111, 20:9, 37:160-161, 59:23-25, See also Attributes of Allah"
+            },
+            {
+                "id": 1842,
+                "topic": "Allah: is One",
+                "verses": "16:52, 4:172, 7:71, 12:40, 13:17, 14:49, 17:47, 39:5, 39:46, 40:13, 40:17, 40:85, 60:5"
+            },
+            {
+                "id": 2473,
+                "topic": "Allah: unity of",
+                "verses": "2:84, 2:164"
+            },
+            {
+                "id": 2996,
+                "topic": "Attributes of Allah: Al-Ahad (The One, Unique)",
+                "verses": "2:164, 2:256, 4:172, 5:74, 16:23, 22:35, 37:5, 59:23-24"
+            },
+            {
+                "id": 3644,
+                "topic": "Attributes of Allah: Al-Wahid (The One)",
+                "verses": "13:17, 2:134, 2:164, 5:74, 9:31, 16:23, 18:111, 22:35, 37:5, 38:66, 39:5"
+            },
+            {
+                "id": 16625,
+                "topic": "Shirk: negation of",
+                "verses": "6:101, 10:67, 10:69, 12:41, 13:17, 13:34, 16:53, 17:43, 23:92, 112:4-5"
+            }
+        ],
+        "ar": "قُلۡ ہُوَ  اللّٰہُ  اَحَدٌ  ۚ﴿۲﴾",
+        "ur": "تُو کہہ دے کہ وہ اللہ ایک ہی ہے۔",
+        "v5": {
+            "text": "Say, ‘He is Allah, the [b]One <i>and only</i>;[4867]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "16:23; 22:35; 59:23."
+                },
+                {
+                    "ref": "4867",
+                    "note": "<p><strong>Commentary:</strong></p><p>The word قل (say) here embodies a permanent command to all Muslims to keep proclaiming \"God is One.\"</p><p>ھو (He) used as ضمیر الشأن and meaning, \"the truth is,\" signifies that the truth is embedded in human nature that God <i>is</i> and that He is One and Alone.</p><p>الله is the distinctive name used for the Supreme Being in the Quran. In the Arabic language the word is never used for any other thing or being. It is a personal name of God, neither attributive nor descriptive. See also 1:1.</p><p>احد (the One) is an epithet applied to God alone and signifies, the One; the Sole; He Who has been and will ever be One and Alone; Who has no second to share in His Lordship, nor in His Essence (Lane).</p><p>According to Aqrab the difference between أحد and واحد when used about God is that whereas أحد signifies Oneness of God in His Person, the idea of a second being inconceivable, واحد signifies uniqueness of God in His attributes.</p><p><strong>Commentary:</strong></p><p>In view of the above-mentioned signification of أحد and واحد the expression الله واحد would signify that God is that Supreme Being Who is the Source and Fountainhead from Whom all creation has emanated; and الله أحد would mean that Allah is that Being Who is One and Alone in the sense that when we think of Him, the very idea that there is any other being or thing is absent from our minds. He is One and Alone in every sense. He is neither the starting link of any chain, nor its last link. Nothing is like Him nor is He like anything else. This is Allah as conceived and presented by the Quran.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 112,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 1210,
+                "topic": "Allah: attributes of, <i>Asma’ul-Husna</i>",
+                "verses": "1:1, 1:7, 2:256, 7:181, 17:111, 20:9, 37:160-161, 59:23-25, See also Attributes of Allah"
+            },
+            {
+                "id": 3576,
+                "topic": "Attributes of Allah: As-Samad (The Independent, Besought of all)",
+                "verses": null
+            },
+            {
+                "id": 16625,
+                "topic": "Shirk: negation of",
+                "verses": "6:101, 10:67, 10:69, 12:41, 13:17, 13:34, 16:53, 17:43, 23:92, 112:4-5"
+            }
+        ],
+        "ar": "اَللّٰہُ  الصَّمَدُ ۚ﴿۳﴾ ",
+        "ur": "اللہ بے احتیاج ہے۔",
+        "v5": {
+            "text": "Allah, the Independent and Besought of all.[4868]",
+            "notes": [
+                {
+                    "ref": "4868",
+                    "note": "<p><strong>Important Words:</strong></p><p>الصمد (Independent and Besought of all) is substantive noun from صمد. They say صمد الله فی الحوائج i.e. he betook himself or had recourse to Allah in needs and exigencies. صمد (<i>samad</i>) means, a person to whom one betakes oneself in one’s needs. سید صمد means, a chief to whom recourse is had; a lord to whom obedience is rendered; without whom no affair is accomplished. صمد also means, a person or place above whom or which there is no one. الصمد means, the Supreme Being to Whom recourse is had for the accomplishment of needs; Who is Independent of all and upon Whom all depend for their needs; Who will continue forever after all creation has ceased to exit; above Whom there is no one. (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>In the preceding verse the claim was made that God is One, Alone, and Unique. The present verse substantiates that claim. It says that God is الصمد i.e. all things and beings depend upon Him and He is Independent and Besought of all. All have need of Him and He has need of none. He needed the help of no being or material to create the universe. So when all things and beings are dependent on Him and to Him we have recourse for our needs and requirements and He fulfils them, then where is the necessity of any other God?</p><p>In fact, nothing in the universe is complete in itself, not even the smallest atom. Nothing is self-subsisting; everything depends on some other thing for its existence. God alone is such a Being Who depends on no being or thing. He is above conception and conjecture. His attributes know no bound or limit. This is the meaning of الصمد.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 112,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 1210,
+                "topic": "Allah: attributes of, <i>Asma’ul-Husna</i>",
+                "verses": "1:1, 1:7, 2:256, 7:181, 17:111, 20:9, 37:160-161, 59:23-25, See also Attributes of Allah"
+            },
+            {
+                "id": 1740,
+                "topic": "Allah: has no progeny, wife",
+                "verses": "2:117, 4:172, 6:101-102, 9:30, 10:69, 16:58, 17:112, 18:5-6, 19:36, 19:89, 19:93-94, 21:27, 23:92, 25:3, 39:5, 43:82, 52:40, 72:4"
+            },
+            {
+                "id": 7229,
+                "topic": "Eternal: attributes",
+                "verses": "20:6, 7:55"
+            },
+            {
+                "id": 16635,
+                "topic": "Shirk: negation of",
+                "verses": "112:2-3, 6:101, 10:67, 10:69, 12:41, 13:17, 13:34, 16:53, 17:43, 23:92"
+            }
+        ],
+        "ar": "لَمۡ  یَلِدۡ ۬ۙ  وَ  لَمۡ  یُوۡلَدۡ ۙ﴿۴﴾ ",
+        "ur": "نہ اُس نے کسی کو جنا اور نہ وہ جنا گیا۔",
+        "v5": {
+            "text": "He begets not,[a] nor is He begotten;[4869]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "17:112; 19:93; 25:3; 37:153."
+                },
+                {
+                    "ref": "4869",
+                    "note": "<p><strong>Commentary:</strong></p><p>The Divine attribute الصمد (Independent and Besought of all) was mentioned in the previous verse to establish the claim that Allah is احد (One, Alone, the Unique), and now in the verse under comment the Divine attribute لم یلد و لم یولد (He begets not, nor is He begotten) is mentioned to show that He is الصمد i.e. God is above need, because the presence of need presupposes that He requires the assistance of someone without whom He cannot carry on His work, and who should continue His work, after He is dead, inasmuch as all those beings that succeed, or are succeeded by others, are subject to death, but those things which need no successor and do not die before fulfilling the object of their creation, such as the sun, the moon, the oceans, the mountains, etc., are not subject to death or destruction. Thus Allah Who has succeeded no one and will be succeeded by no one is complete in all His attributes and is Eternal, Everlasting and Absolute.</p>"
+                }
+            ]
+        }
+    }
+]

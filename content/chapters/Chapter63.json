@@ -1,0 +1,402 @@
+[
+    {
+        "ch": 63,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 63,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 9071,
+                "topic": "Hypocrites: <i>Munafiqin</i>",
+                "verses": "2:9-21, 2:205-207, 4:64, 4:89, 4:139, 4:141, 4:143, 9:54, 9:64-69, 9:80, 9:84, 9:107-108, 33:2, 33:49, 37:8, 47:24, 57:14-16, 59:12-18"
+            },
+            {
+                "id": 18727,
+                "topic": "Witness: Allah bears witness",
+                "verses": "4:136, 3:82, 2:205, 3:19, 4:80, 4:167, 10:30, 13:44, 17:97, 29:53, 33:56, 34:48, 41:54, 46:9, 48:29, 58:7, 59:12, 85:10"
+            }
+        ],
+        "ar": "اِذَا جَآءَکَ  الۡمُنٰفِقُوۡنَ  قَالُوۡا نَشۡہَدُ اِنَّکَ  لَرَسُوۡلُ اللّٰہِ ۘ  وَ اللّٰہُ یَعۡلَمُ  اِنَّکَ لَرَسُوۡلُہٗ ؕ وَ اللّٰہُ  یَشۡہَدُ  اِنَّ  الۡمُنٰفِقِیۡنَ لَکٰذِبُوۡنَ ۚ﴿۲﴾ ",
+        "ur": "جب منافق تیرے پاس آتے ہیں تو کہتے ہیں ہم گواہی دیتے ہیں کہ ضرور تُو اللہ کا رسول ہے۔ اور اللہ جانتا ہے کہ تُویقیناً اس کا رسول ہے۔ پھر بھی اللہ گواہی دیتا ہے کہ منافق یقیناً جھوٹے ہیں۔",
+        "v5": {
+            "text": "When the Hypocrites come to thee, they say, ‘We bear witness that thou art indeed the Messenger of Allah.’ And Allah knows that thou art indeed His Messenger, but Allah bears witness that the hypocrites are certainly liars.[4244]",
+            "notes": [
+                {
+                    "ref": "4244",
+                    "note": "<p><strong>Commentary:</strong></p><p>It is characteristic of a hypocrite that he makes loud profession of his faith and thus seeks to conceal the treachery and infidelity of his heart.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 63,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 9071,
+                "topic": "Hypocrites: <i>Munafiqin</i>",
+                "verses": "2:9-21, 2:205-207, 4:64, 4:89, 4:139, 4:141, 4:143, 9:54, 9:64-69, 9:80, 9:84, 9:107-108, 33:2, 33:49, 37:8, 47:24, 57:14-16, 59:12-18"
+            },
+            {
+                "id": 13182,
+                "topic": "Oaths: <i>yamin</i>: of disbelievers, hypocrites, idolaters",
+                "verses": "58:17, 4:63, 5:54, 6:110, 9:42, 9:56, 9:62, 9:95, 9:96, 9:107, 12:74, 16:39, 24:54, 27:50, 30:56, 35:43, 58:19, 68:11"
+            }
+        ],
+        "ar": "اِتَّخَذُوۡۤا  اَیۡمَانَہُمۡ  جُنَّۃً  فَصَدُّوۡا عَنۡ سَبِیۡلِ اللّٰہِ ؕ اِنَّہُمۡ سَآءَ  مَا کَانُوۡا یَعۡمَلُوۡنَ ﴿۳﴾ ",
+        "ur": "انہوں نے اپنی قسموں کو ڈھال بنا رکھا ہے۔ پس وہ اللہ کے راستے سے روکتے ہیں۔ یقیناً بہت بُرا ہے جو وہ عمل کرتے ہیں۔",
+        "v5": {
+            "text": "They have made their oaths a shield; thus they turn <i>men</i> away from the way of Allah.[b] Surely, evil is that which they have been doing.[4245]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "9:9."
+                },
+                {
+                    "ref": "4245",
+                    "note": "<p><strong>Commentary:</strong></p><p>The hypocrites make loud professions of their faith and repeatedly declare on solemn oaths that they are sincere believers. This they do in order to hoodwink honest and unsuspecting believers into thinking that they are sincere and faithful followers of Islam like themselves, and thus by winning the believers’ confidence they seek to create mischief among them. This is how they make their oaths a screen for their wicked designs.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 63,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 2360,
+                "topic": "Allah: sets a seal on their hearts, <i>Khatama</i>, <i>Taba‘a</i>",
+                "verses": "2:8, 4:156, 9:87, 9:93, 16:109, 30:60, 40:36, 47:17"
+            },
+            {
+                "id": 2766,
+                "topic": "Apostate: <i>Murtad</i>: no compulsion in religion",
+                "verses": "2:257, 2:109, 4:168, 7:89, 10:20, 10:100, 11:119, 16:107, 18:30, 24:48-9, 42:9"
+            },
+            {
+                "id": 2780,
+                "topic": "Apostate: <i>Murtad</i>: punishment for an",
+                "verses": "4:138, 2:162, 2:218, 3:87-92, 3:107, 3:145, 4:116, 5:6, 5:55, 9:74, 16:107, 47:26, 47:35"
+            },
+            {
+                "id": 8514,
+                "topic": "Heart: <i>Sadr, Fu’ad, Qalb</i>: sealed, veiled, rusted, blind, straitened",
+                "verses": "53:12, 18:58, 2:8, 2:89, 4:156, 6:26, 6:47, 6:111, 7:101-102, 7:180, 9:87, 9:93, 9:110, 10:75, 11:13, 14:44, 15:98, 16:109, 17:47, 18:29, 22:47, 23:64, 26:14, 30:60, 40:36, 41:6, 42:25, 45:24, 47:17, 47:25, 59:15, 83:15"
+            },
+            {
+                "id": 9071,
+                "topic": "Hypocrites: <i>Munafiqin</i>",
+                "verses": "2:9-21, 2:205-207, 4:64, 4:89, 4:139, 4:141, 4:143, 9:54, 9:64-69, 9:80, 9:84, 9:107-108, 33:2, 33:49, 37:8, 47:24, 57:14-16, 59:12-18"
+            }
+        ],
+        "ar": "ذٰلِکَ بِاَنَّہُمۡ  اٰمَنُوۡا ثُمَّ  کَفَرُوۡا  فَطُبِعَ عَلٰی  قُلُوۡبِہِمۡ  فَہُمۡ  لَا  یَفۡقَہُوۡنَ ﴿۴﴾ ",
+        "ur": "یہ اس لئے ہے کہ وہ ایمان لائے پھر انکار کردیا تو ان کے دلوں پر مہر کردی گئی۔ پس وہ سمجھ نہیں رہے۔",
+        "v5": {
+            "text": "That is because they <i>first</i> believed (and), then disbelieved.[c] So a seal was set upon their hearts and <i>consequently</i> they understand not.[4246]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "3:91; 4:138; 16:107."
+                },
+                {
+                    "ref": "4246",
+                    "note": "<p><strong>Commentary:</strong></p><p>The hypocrites, the verse purports to say, appear to have lost all reason and understanding since they labour under the misconception that by their wiles and glib talk they can deceive Allah and His Prophet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 63,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 5484,
+                "topic": "Curse: <i>La‘nah</i>: on hypocrites",
+                "verses": "47:24, 48:7"
+            },
+            {
+                "id": 7157,
+                "topic": "Enmity: <i>‘Adawah</i>: of unbelievers",
+                "verses": "2:98-99, 3:29, 3:119-121, 4:102, 7:130, 8:61-62, 9:12-14, 41:20, 41:29, 60:2, 60:8"
+            },
+            {
+                "id": 9071,
+                "topic": "Hypocrites: <i>Munafiqin</i>",
+                "verses": "2:9-21, 2:205-207, 4:64, 4:89, 4:139, 4:141, 4:143, 9:54, 9:64-69, 9:80, 9:84, 9:107-108, 33:2, 33:49, 37:8, 47:24, 57:14-16, 59:12-18"
+            }
+        ],
+        "ar": "وَ اِذَا  رَاَیۡتَہُمۡ  تُعۡجِبُکَ اَجۡسَامُہُمۡ ؕ وَ اِنۡ یَّقُوۡلُوۡا  تَسۡمَعۡ  لِقَوۡلِہِمۡ ؕ کَاَنَّہُمۡ خُشُبٌ مُّسَنَّدَۃٌ ؕ یَحۡسَبُوۡنَ  کُلَّ صَیۡحَۃٍ  عَلَیۡہِمۡ ؕ ہُمُ  الۡعَدُوُّ  فَاحۡذَرۡہُمۡ ؕ قٰتَلَہُمُ   اللّٰہُ ۫ اَنّٰی  یُؤۡفَکُوۡنَ  ﴿۵﴾",
+        "ur": "اور جب تو انہیں دیکھتا ہے تو ان کے جسم تیرا دل لبھاتے ہیں اور اگر وہ کچھ بولیں تو تُو اُن کی بات سنتا ہے۔ وہ ایسے ہیں جیسے ایک دوسرے کے سہارے چنی ہوئی خشک لکڑیاں۔ وہ بجلی کے ہر کڑکے کو اپنے ہی اوپر (کڑکتا ہوا) سمجھتے ہیں۔ وہی دشمن ہیں پس اُن (کے شر) سے بچ۔ اللہ کی اُن پر لعنت ہو۔ وہ کہاں اُلٹے پھرائے جاتے ہیں۔",
+        "v5": {
+            "text": "And when thou seest them, their figures please thee;[a] and if they speak, thou listenest to their speech. <i>They are</i> as though they were <i>blocks of</i> wood propped up. They think that every cry is against them. They are the enemy, so beware of them. Allah’s curse be upon them! How are they being turned away <i>from the truth</i>![4247]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:205."
+                },
+                {
+                    "ref": "4247",
+                    "note": "<p><strong>Important Words:</strong></p><p>مسندة (propped up) is derived from سند. They say سند الیه i.e. he leaned, rested or stayed himself against it or upon it. سند فی الجبلmeans, he ascended the mountain. سند (<i>sannada</i>) means, he set up pieces of wood as stays or props against a wall; he wore or clad himself with garments called سند (<i>sanadun</i>). The word also means, a thing upon or against which one leans, rests or stays himself, or a person upon whom one leans; mountain slope (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>In this verse the hypocrites have been compared to blocks of wood propped up, or pieces of wood dressed up with clothes, which signifies that a hypocrite lacks self-reliance. He is always in search of some person or thing upon which to rest or lean. Or the word may signify that his interior does not correspond to his exterior. He so conducts himself that while outwardly he appears to be a reasonable, dignified and honest person, inwardly he is quite hollow and rotten to the core. He seeks to please with his glib talk but, being a coward, he suspects danger in every crisis.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 63,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 9071,
+                "topic": "Hypocrites: <i>Munafiqin</i>",
+                "verses": "2:9-21, 2:205-207, 4:64, 4:89, 4:139, 4:141, 4:143, 9:54, 9:64-69, 9:80, 9:84, 9:107-108, 33:2, 33:49, 37:8, 47:24, 57:14-16, 59:12-18"
+            }
+        ],
+        "ar": "وَ  اِذَا  قِیۡلَ  لَہُمۡ  تَعَالَوۡا  یَسۡتَغۡفِرۡ لَکُمۡ رَسُوۡلُ  اللّٰہِ  لَوَّوۡا رُءُوۡسَہُمۡ وَ رَاَیۡتَہُمۡ یَصُدُّوۡنَ وَ ہُمۡ مُّسۡتَکۡبِرُوۡنَ ﴿۶﴾ ",
+        "ur": "اور جب انہیں کہا جاتا ہے کہ آؤ اللہ کا رسول تمہارے لئے بخشش طلب کرے، وہ اپنے سَر موڑ لیتے ہیں اور تُو انہیں دیکھتا ہے کہ وہ استکبار کرتے ہوئے (قبولِ حق سے) رُک جاتے ہیں۔",
+        "v5": {
+            "text": "And when it is said to them, ‘Come,[b] that the Messenger of Allah may ask forgiveness for you,’ they turn their heads aside, and thou seest them keeping back while they are big with pride.",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "4:62."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 63,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 8194,
+                "topic": "Guidance: Allah does not give to unjust",
+                "verses": "2:259, 2:265, 3:87, 5:52, 5:68, 5:109, 6:145, 9:19, 9:24, 9:37, 9:80, 9:109, 16:38, 16:108, 28:51, 39:4, 40:29, 46:11, 61:6, 61:8, 62:6"
+            },
+            {
+                "id": 9071,
+                "topic": "Hypocrites: <i>Munafiqin</i>",
+                "verses": "2:9-21, 2:205-207, 4:64, 4:89, 4:139, 4:141, 4:143, 9:54, 9:64-69, 9:80, 9:84, 9:107-108, 33:2, 33:49, 37:8, 47:24, 57:14-16, 59:12-18"
+            }
+        ],
+        "ar": "سَوَآءٌ  عَلَیۡہِمۡ  اَسۡتَغۡفَرۡتَ لَہُمۡ  اَمۡ لَمۡ تَسۡتَغۡفِرۡ لَہُمۡ ؕ لَنۡ یَّغۡفِرَ اللّٰہُ  لَہُمۡ ؕ اِنَّ اللّٰہَ  لَا یَہۡدِی الۡقَوۡمَ الۡفٰسِقِیۡنَ ﴿۷﴾ ",
+        "ur": "ان پر برابر ہے خواہ تُو ان کے لئے بخشش طلب کرے یا ان کے لئے بخشش نہ طلب کرے۔ اللہ ہرگز انہیں نہیں بخشے گا۔ یقیناً اللہ فاسق لوگوں کو ہدایت نہیں دیتا۔",
+        "v5": {
+            "text": "It is equal to them whether thou ask forgiveness for them or ask not forgiveness for them.[a] Allah will never forgive them. Surely, Allah guides not the rebellious people.[4248]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "9:80."
+                },
+                {
+                    "ref": "4248",
+                    "note": "<p><strong>Commentary:</strong></p><p>The hypocrites are the real enemies of Islam, much worse than the disbelievers (v. 5). By their secret wicked designs and machinations against Islam they irretrievably condemn themselves. As they have no faith, the verse says, asking forgiveness for them cannot benefit them in any way.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 63,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 9071,
+                "topic": "Hypocrites: <i>Munafiqin</i>",
+                "verses": "2:9-21, 2:205-207, 4:64, 4:89, 4:139, 4:141, 4:143, 9:54, 9:64-69, 9:80, 9:84, 9:107-108, 33:2, 33:49, 37:8, 47:24, 57:14-16, 59:12-18"
+            },
+            {
+                "id": 17846,
+                "topic": "Treasure",
+                "verses": "3:50, 1:1, 2:24, 3:76, 4:21, 6:51, 11:13, 11:32, 12:56, 15:22, 17:101, 18:83, 25:9, 26:59, 28:77, 38:10, 52:38"
+            }
+        ],
+        "ar": "ہُمُ  الَّذِیۡنَ یَقُوۡلُوۡنَ  لَا تُنۡفِقُوۡا عَلٰی مَنۡ عِنۡدَ  رَسُوۡلِ اللّٰہِ  حَتّٰی  یَنۡفَضُّوۡا ؕ وَ لِلّٰہِ خَزَآئِنُ  السَّمٰوٰتِ وَ الۡاَرۡضِ وَ لٰکِنَّ  الۡمُنٰفِقِیۡنَ  لَا  یَفۡقَہُوۡنَ ﴿۸﴾ ",
+        "ur": "یہی وہ لوگ ہیں جو کہتے ہیں کہ جو لوگ اللہ کے رسول کے پاس رہتے ہیں ان پر خرچ نہ کرو یہاں تک کہ وہ بھاگ جائیں۔ حالانکہ آسمانوں اور زمین کے خزانے اللہ ہی کے ہیں لیکن منافقین سمجھتے نہیں۔",
+        "v5": {
+            "text": "They it is who say, ‘Spend not on those who are with the Messenger of Allah that they may disperse <i>and leave him</i>;’ while to Allah belong the treasures of the heavens and the earth; but the Hypocrites understand not.[4249]",
+            "notes": [
+                {
+                    "ref": "4249",
+                    "note": "<p><strong>Commentary:</strong></p><p>Insincere and dishonest himself, a hypocrite considers others to be like him. The verse points out that the hypocrites of Medina had made an entirely foolish and wrong estimate of the sincerity of purpose of the Holy Prophet’s Companions. They had quite a wrong notion that the Companions of the Holy Prophet had gathered round him from considerations of material interest, and that the moment they would find that their hopes had not materialised, they would desert him. Time completely belied their fond and futile expectations.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 63,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 78,
+                "topic": "‘Abdullah bin Ubayy: boastfulness of",
+                "verses": "9:84"
+            },
+            {
+                "id": 8964,
+                "topic": "Honour: of Holy Prophet<sup>(sa)</sup>",
+                "verses": "7:158, 48:10, 68:53"
+            },
+            {
+                "id": 9071,
+                "topic": "Hypocrites: <i>Munafiqin</i>",
+                "verses": "2:9-21, 2:205-207, 4:64, 4:89, 4:139, 4:141, 4:143, 9:54, 9:64-69, 9:80, 9:84, 9:107-108, 33:2, 33:49, 37:8, 47:24, 57:14-16, 59:12-18"
+            },
+            {
+                "id": 9094,
+                "topic": "Hypocrites: <i>Munafiqin</i>: vile boast of",
+                "verses": "63:2-9"
+            },
+            {
+                "id": 11192,
+                "topic": "Medinah: <i>Yathrib</i>",
+                "verses": "59:12-16, 8:31, 9:74, 9:101, 9:120, 17:81, 33:14, 33:61"
+            },
+            {
+                "id": 15276,
+                "topic": "Raja‘: return",
+                "verses": "7:151, 2:197, 2:231, 3:73, 7:169, 7:175, 9:83, 9:94, 9:122, 12:47, 12:64, 20:41, 20:87, 20:92, 21:14, 21:59, 21:65, 27:29, 36:51, 31:35, 37:69, 42:29, 57:21, 71:12"
+            }
+        ],
+        "ar": "یَقُوۡلُوۡنَ  لَئِنۡ  رَّجَعۡنَاۤ  اِلَی  الۡمَدِیۡنَۃِ لَیُخۡرِجَنَّ الۡاَعَزُّ  مِنۡہَا الۡاَذَلَّ ؕ وَ لِلّٰہِ الۡعِزَّۃُ  وَ لِرَسُوۡلِہٖ وَ لِلۡمُؤۡمِنِیۡنَ وَ لٰکِنَّ  الۡمُنٰفِقِیۡنَ  لَا  یَعۡلَمُوۡنَ ٪﴿۹﴾ ",
+        "ur": "وہ کہتے ہیں اگر ہم مدینہ کی طرف لوٹیں گے تو ضرور وہ جو سب سے زیادہ معزز ہے اُسے جو سب سے زیادہ ذلیل ہے اس میں سے نکال باہر کرے گا۔ حالانکہ عزت تمام تر اللہ اور اس کے رسول کی ہے اور مومنوں کی، لیکن منافق لوگ جانتے نہیں۔",
+        "v5": {
+            "text": "They say, ‘If we return to Medinah, the one most exalted will surely drive out therefrom the one most mean,’ while <i>true</i> honour belongs to Allah and to His Messenger and the believers; but the Hypocrites know not.[4250]",
+            "notes": [
+                {
+                    "ref": "4250",
+                    "note": "<p><strong>Commentary:</strong></p><p>In the course of a campaign, (probably the one against Banu Mustaliq) ‘Abdullah bin Ubayy, leader of the hypocrites of Medina, is reported to have said that on his return he, \"the most honourable of the inhabitants of Medina,\" would drive out therefrom \"the meanest of them,\" meaning thereby that he would drive out of Medina the Holy Prophet, along with the entire band of his followers. ‘Abdullah bin Ubayy was bitterly hostile to the Holy Prophet because his hopes of becoming the Chief of Medina were shattered by the Holy Prophet’s arrival on the scene. ‘Abdullah’s son heard of this vile boast of his father, and as the party returned to Medina, he drew his sword and barred his father’s entry into the town till he had confessed and declared that he himself was the meanest of the citizens of Medina and the Holy Prophet the most honourable of them. Thus his boast recoiled on his own head.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 63,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 2249,
+                "topic": "Allah: remembrance of",
+                "verses": "13:29, 2:153, 2:204, 3:192, 4:104, 7:206, 8:46, 10:13, 24:38, 26:228, 29:46, 33:42, 39:10, 43:37, 57:17, 62:10-11, 73:9"
+            },
+            {
+                "id": 2455,
+                "topic": "Allah: tries you with wealth and your children",
+                "verses": "8:29, 24:38, 64:16, 102:2"
+            },
+            {
+                "id": 5050,
+                "topic": "Children: should not cause diversion from remembrance",
+                "verses": null
+            },
+            {
+                "id": 10641,
+                "topic": "Losers: <i>Khasirun</i>",
+                "verses": "2:122, 2:28, 2:65, 3:86, 3:150, 4:120, 5:6, 5:22, 5:31, 5:54, 6:32, 6:141, 7:24, 7:91, 7:93, 7:100, 7:150, 7:179, 8:38, 9:69, 10:46, 10:96, 11:23, 11:48, 12:15, 16:110, 18:104, 21:71, 22:12, 27:6, 29:53, 39:16, 39:64, 39:66, 40:79, 40:86, 41:24, 41:26, 42:46, 45:28, 46:19, 58:20"
+            },
+            {
+                "id": 15518,
+                "topic": "Remember: Allah",
+                "verses": "2:153, 2:199, 2:201, 2:204, 2:232, 2:240, 3:42, 3:192, 4:104, 5:8, 5:12, 5:21, 7:70, 7:75, 7:206, 8:46, 13:29, 18:25, 20:15, 20:43, 24:38, 26:228, 29:46, 33:22, 33:36, 33:42, 35:4, 39:24, 43:14, 57:17, 62:11, 73:9, 76:26, 87:16"
+            },
+            {
+                "id": 15996,
+                "topic": "Sacrifice: of wealth",
+                "verses": "47:37-39, 2:216, 57:12, 57:19, 61:12"
+            },
+            {
+                "id": 17883,
+                "topic": "Trial: children, wealth, a",
+                "verses": "8:29, 2:156, 64:16"
+            },
+            {
+                "id": 18569,
+                "topic": "Wealth: love of, a trial",
+                "verses": "89:21, 2:156, 9:24, 9:55, 9:69, 9:81, 9:86, 18:47, 19:78, 20:132, 23:56-57, 26:89, 34:36, 64:16-17, 68:15-34, 70:19, 71:22, 100:9, 102:2-3, 104:2-5"
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا  الَّذِیۡنَ  اٰمَنُوۡا  لَا تُلۡہِکُمۡ اَمۡوَالُکُمۡ  وَ لَاۤ  اَوۡلَادُکُمۡ عَنۡ ذِکۡرِ اللّٰہِ ۚ وَ مَنۡ یَّفۡعَلۡ  ذٰلِکَ  فَاُولٰٓئِکَ ہُمُ الۡخٰسِرُوۡنَ ﴿۱۰﴾ ",
+        "ur": "اے لوگو جو ایمان لائے ہو! تمہیں تمہارے اموال اور تمہاری اولاد اللہ کے ذکر سے غافل نہ کردیں اور جو ایسا کریں تو یہی ہیں جو گھاٹا کھانے والے ہیں۔",
+        "v5": {
+            "text": "O ye who believe! let not your wealth and your children divert[a] you from the remembrance of Allah. And whoever does so—it is they who are the losers.[4251]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "8:29; 24:38; 64:16; 102:2."
+                },
+                {
+                    "ref": "4251",
+                    "note": "<p><strong>Commentary:</strong></p><p>The believers have been informed in this and the next verse that God demands from them the sacrifice of their wealth and offsprings in the cause of Truth, since it is sacrifice that distinguishes true believers from the hypocrites.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 63,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 2393,
+                "topic": "Allah: spend in the way of",
+                "verses": "2:268, 2:4, 2:196, 2:216, 2:220, 2:246, 2:255, 2:263, 2:265, 2:273, 2:275, 3:93, 8:4, 8:61, 9:20, 9:34, 9:41, 9:99, 9:111, 13:23, 14:32, 16:76, 22:36, 24:38-39, 28:55, 32:17, 35:30, 42:39, 47:39, 57:8, 57:11, 61:12, 64:17-18, 65:8, 73:21"
+            },
+            {
+                "id": 15834,
+                "topic": "Righteous: <i>Salihin</i>: prayers of",
+                "verses": "3:194-195, 5:85, 12:102, 25:75, 26:84, 32:13, 35:38, 37:101, 46:16"
+            },
+            {
+                "id": 15996,
+                "topic": "Sacrifice: of wealth",
+                "verses": "47:37-39, 2:216, 57:12, 57:19, 61:12"
+            },
+            {
+                "id": 17076,
+                "topic": "Spending: <i>Nafaqah</i>: by believers",
+                "verses": "2:255, 2:4, 2:178, 2:196, 2:262, 2:263, 2:268, 2:274, 3:18, 3:93, 8:61, 9:60, 9:104, 14:32, 47:39, 57:8, 57:11, 64:17, 70:25, 73:21"
+            }
+        ],
+        "ar": "وَ اَنۡفِقُوۡا مِنۡ مَّا  رَزَقۡنٰکُمۡ مِّنۡ  قَبۡلِ اَنۡ یَّاۡتِیَ  اَحَدَکُمُ  الۡمَوۡتُ فَیَقُوۡلَ  رَبِّ لَوۡ لَاۤ  اَخَّرۡتَنِیۡۤ  اِلٰۤی  اَجَلٍ قَرِیۡبٍ ۙ فَاَصَّدَّقَ وَ  اَکُنۡ  مِّنَ  الصّٰلِحِیۡنَ ﴿۱۱﴾ ",
+        "ur": "اور خرچ کرو اس میں سے جو ہم نے تمہیں دیا ہے پیشتر اس کے کہ تم میں سے کسی کو موت آ جائے تو وہ کہے اے میرے ربّ! کاش تو نے مجھے تھوڑی سی مدّت تک مہلت دی ہوتی تو میں ضرور صدقات دیتا اور نیکوکاروں میں سے ہو جاتا۔",
+        "v5": {
+            "text": "[b]And spend out of that with which We have provided you before death comes upon one of you and he says, ‘My Lord! if only Thou wouldst grant me respite for a little while,[c] then I would give alms and be among the righteous.’[4252]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "2:196; 9:34."
+                },
+                {
+                    "ref": "c",
+                    "note": "14:45."
+                },
+                {
+                    "ref": "4252",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse exhorts believers to make the best of their opportunities to serve the cause of truth with all the gifts that God had bestowed upon them, before death comes upon them i.e. before they lose the opportunity or the power to serve.</p>"
+                }
+            ]
+        }
+    }
+]

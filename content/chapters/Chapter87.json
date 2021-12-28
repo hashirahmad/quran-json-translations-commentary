@@ -1,0 +1,579 @@
+[
+    {
+        "ch": 87,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 731,
+                "topic": "Adoration: <i>Sabbih</i>, Praise, Exalt, Pray, Glorify: <i>Sabbih</i>, Praise, Exalt, Pray, Glorify",
+                "verses": "7:207, 6:2, 3:192, 3:114, 3:42, 2:31, 20:131, 13:14, 13:16, 15:99, 17:45, 18:2, 19:12, 19:59, 21:21, 21:23, 22:78, 24:37, 24:42, 25:2, 25:65, 32:16, 34:2, 35:2, 37:167, 38:19, 39:10, 39:76, 41:38-39, 48:10, 50:40-41, 55:7, 59:25, 61:2, 62:2, 64:2, 96:20, 110:4"
+            },
+            {
+                "id": 1526,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 30:21-28, 31:11-12, 45:3-7"
+            },
+            {
+                "id": 3434,
+                "topic": "Attributes of Allah: Al-Muta‘al (Most High)",
+                "verses": "13:10, 92:21"
+            },
+            {
+                "id": 10388,
+                "topic": "Law: perfect",
+                "verses": "87:5-6"
+            }
+        ],
+        "ar": "سَبِّحِ اسۡمَ رَبِّکَ الۡاَعۡلَی ۙ﴿۲﴾ ",
+        "ur": "اپنے بزرگ و بالا ربّ کے نام کا ہر عیب سے پاک ہونا بیان کر۔",
+        "v5": {
+            "text": "Glorify the name of thy Lord,[b] the Most High,[4681]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "56:75; 69:53."
+                },
+                {
+                    "ref": "4681",
+                    "note": "<p><strong>Important Words:</strong></p><p>For سبح (glorify) see 61:2.</p><p><strong>Commentary:</strong></p><p>The verse may be interpreted as: (a) glorify the name of thy Lord, the most High; and (b) glorify the most high name of thy Lord. The words ربک الاعلٰی (the most High Lord) signify that as God has created man for unlimited progress, therefore, He has endowed him with great natural powers and faculties that he may fulfil his high destiny; only his development is to be progressive and in stages. Incidentally, the Divine attribute رب (The Lord Who makes things grow and develop by stages) disposes of the objection, viz. why the perfect Law was not revealed in the beginning of creation? The word implies that perfect Law could only have been revealed after man’s intellect and reason had attained their highest development which happened after a long and gradual process of evolution.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 1371,
+                "topic": "Allah: created you",
+                "verses": "30:41, 2:22, 2:30, 4:2, 6:103, 7:190, 13:17, 15:29, 15:86, 16:73, 20:56, 21:17, 21:34, 23:13-15, 23:18, 24:46, 27:65, 30:21-22, 35:4, 36:37, 38:72, 39:7, 41:10, 43:13, 46:4, 50:17, 53:46, 55:4, 55:15-16, 59:25, 67:3, 71:15, 92:4, 96:3"
+            },
+            {
+                "id": 1526,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 30:21-28, 31:11-12, 45:3-7"
+            },
+            {
+                "id": 2144,
+                "topic": "Allah: perfection in ’s creation",
+                "verses": "91:8, 2:30, 79:29, 82:8"
+            },
+            {
+                "id": 6354,
+                "topic": "Destiny: man, maker of his",
+                "verses": "4:80, 10:109, 17:16, 27:93, 29:7, 30:54, 39:42, 42:31, 45:16, 52:22, 53:39-43"
+            },
+            {
+                "id": 10767,
+                "topic": "Man: can attain greatness",
+                "verses": "33:73, 53:40, 64:3, 65:13"
+            },
+            {
+                "id": 10798,
+                "topic": "Man: creation of",
+                "verses": "23:13-15, 3:7, 3:60, 4:2, 6:3, 7:12-13, 15:27, 15:29-30, 15:34, 16:5, 18:38, 22:6, 25:55, 30:21, 32:8-10, 35:12, 36:78, 37:12, 38:72, 39:7, 40:68, 49:14, 53:47, 55:15, 71:15, 71:18, 75:38-40, 76:3, 77:21-24, 86:7, 95:5-6, 96:3"
+            }
+        ],
+        "ar": "الَّذِیۡ خَلَقَ فَسَوّٰی ۪ۙ﴿۳﴾ ",
+        "ur": "جس نے پیدا کیا پھر ٹھیک ٹھاک کیا۔",
+        "v5": {
+            "text": "[c]Who creates and perfects,[4682]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "82:8; 91:8."
+                },
+                {
+                    "ref": "4682",
+                    "note": "<p><strong>Important Words:</strong></p><p>قدر means, he measured; determined; decreed; designed (Lane &amp; Aqrab).</p><p>سوی (perfected). سواه means, he made it equal, uniform, right; (2) he made it symmetrical; made it congruous or consistent in its several parts; (3) he made it to be adapted to the requirements of wisdom; (4) he made it complete, or perfected its make; he adjusted it; (5) God made his constitution symmetrical or made him complete and perfect (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The verse shows that a high destiny awaits man and that for the fulfilment of it God has endowed him with the highest natural faculties and capacities. He can attain the highest spiritual stature; can reflect in his person Divine attributes so as to become the mirror of his Creator. This implies that the Creator Himself is perfect and is completely free from all conceivable defects and weaknesses.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 1526,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 30:21-28, 31:11-12, 45:3-7"
+            },
+            {
+                "id": 10767,
+                "topic": "Man: can attain greatness",
+                "verses": "33:73, 53:40, 64:3, 65:13"
+            },
+            {
+                "id": 10886,
+                "topic": "Man: provided all faculties",
+                "verses": "32:10, 16:79, 46:27"
+            }
+        ],
+        "ar": "وَ الَّذِیۡ  قَدَّرَ فَہَدٰی ۪ۙ﴿۴﴾ ",
+        "ur": "اور جس نے (عناصر کو) ترکیب دی پھر ہدایت دی۔",
+        "v5": {
+            "text": "[a]And Who measures and guides,[4683]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "80:20."
+                },
+                {
+                    "ref": "4683",
+                    "note": "<p><strong>Commentary:</strong></p><p>This and the preceding verse give four reasons for the glorification of God, viz. (1) God brought us into being. (2) He endowed us with all the faculties and capacities that are needed for our spiritual and intellectual development. (3) He determined man’s physical and spiritual needs and (4) for the fulfilment of those needs He revealed guidance that man might attain the object of his creation.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 1526,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 30:21-28, 31:11-12, 45:3-7"
+            },
+            {
+                "id": 10389,
+                "topic": "Law: perfect",
+                "verses": "87:2"
+            }
+        ],
+        "ar": "وَ الَّذِیۡۤ  اَخۡرَجَ  الۡمَرۡعٰی ۪ۙ﴿۵﴾ ",
+        "ur": "اور جس نے زندگی کی حفاظت کےلئے سبزہ نکالا۔",
+        "v5": {
+            "text": "And Who brings forth the pasturage,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 87,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 1526,
+                "topic": "Allah: existence of",
+                "verses": "2:29, 2:165, 2:187, 6:74, 7:173, 10:7, 10:32, 13:3-5, 22:19, 25:3-4, 27:61-67, 30:21-28, 31:11-12, 45:3-7"
+            },
+            {
+                "id": 10389,
+                "topic": "Law: perfect",
+                "verses": "87:2"
+            },
+            {
+                "id": 15147,
+                "topic": "Qur’an: objections to",
+                "verses": "25:33-34, 3:8, 4:83, 6:26, 8:32, 10:40, 11:2, 16:25, 16:104, 17:94, 18:110, 21:3-6, 23:84, 25:5-6, 27:7, 27:69, 34:44, 41:27, 43:31-32, 46:8, 46:18, 52:34, 68:16, 74:25, 83:14"
+            }
+        ],
+        "ar": "فَجَعَلَہٗ  غُثَآءً  اَحۡوٰی ؕ﴿۶﴾ ",
+        "ur": "پھر اسے (ناقدروں کےلئے) سیاہ کوڑا کرکٹ بنادیا۔",
+        "v5": {
+            "text": "Then turns it into black stubble[b].[4684]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "18:46; 57:21."
+                },
+                {
+                    "ref": "4684",
+                    "note": "<p><strong>Important Words:</strong></p><p>غثاء (stubble) means, the rubbish or refuse and scum and rotten leaves mixed with the scum borne upon the surface of a torrent; decayed and broken pieces of herbage that are seen upon a torrent; a perishable thing. They say ماله غثاء وعمله ھباء و سعیه خفاء i.e. his property is as rubbish borne by a torrent and his work is as motes and his labour is unseen. غثاء الناس means, the refuse of mankind (Lane).</p><p><strong>Commentary:</strong></p><p>The verse constitutes a subtle answer to the objection: Why God first revealed incomplete laws, suited only to the needs of the peoples and the periods in which they were revealed, and then revealed the last and most perfect Shari‘ah in the form of the Quran, which was meant to guide mankind for all time? It purports to say that God has created two kinds of things: (1) Those that like herbage and pasture satisfy man’s temporary needs and thus have a limited tenure of life. The former Scriptures, like these things, fulfilled man’s temporary needs and, therefore, were subject to decay and death. (2) Those things such as the sun, the moon, the earth, etc. which are of permanent use for man. They will last with the universe. Like the latter the Quran is meant to be man’s unerring guide till the end of time; hence it is immune to change, replacement and the wasting effect of time.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 367,
+                "topic": "Abrogation: <i>Naskh</i>: of scriptures",
+                "verses": "2:107, 2:181, 16:102, 18:28"
+            },
+            {
+                "id": 14968,
+                "topic": "Qur’an: abrogation refuted",
+                "verses": "2:107, 3:8, 4:83, 11:2, 16:102, 18:28, 39:24"
+            },
+            {
+                "id": 15025,
+                "topic": "Qur’an: collection, protection of",
+                "verses": "75:17-18, 4:83, 5:49, 15:2, 15:10, 15:18-19, 26:194, 26:211-213, 27:2, 37:11, 56:78-79, 85:22-23"
+            }
+        ],
+        "ar": "سَنُقۡرِئُکَ فَلَا تَنۡسٰۤی ۙ﴿۷﴾ ",
+        "ur": "ہم ضرور تجھے قراءَ ت سکھائیں گے پس تو نہیں بھولے گا۔",
+        "v5": {
+            "text": "We shall teach thee <i>the Quran</i>, and thou shalt forget <i>it not</i>,[4685]",
+            "notes": [
+                {
+                    "ref": "4685",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse develops the argument implied in the preceding one. It purports to say that the Quran being God’s last Message for mankind has been granted Divine protection against interference, distortion or interpolation. The promise of protection has been given in emphatic and clear terms, viz. “Verily, We Ourself have sent down the Reminder, and most surely We will be its Guardian” (15:10). The last fourteen centuries have witnessed the fulfilment of this mighty prophecy, in that the Quran has become a part of the thought and life of the Muslims as a whole, so much, that at all times there is found in the world a section of Muslims who proclaim and uphold its true teachings and learn its text by heart. The Quran that we have with us today is the same, without the change of a word or letter, which was given to the world by the Holy Prophet.</p><p>The Holy Prophet was human and as such he was apt to forget and he did forget things as far as the affairs of life were concerned. But God, in His infallible wisdom, had so arranged that despite the fact that the Prophet was not literate and sometimes long <i>Surahs</i> were revealed to him in one piece, the revelation remained so indelibly imprinted on his mind that he was never found to forget or falter in reciting the revealed portions. It is marvellous indeed that very long <i>Surahs</i> such as Al-Baqarah, Al-e-‘Imran or An-Nisa’, were revealed piecemeal, and a period of several years had intervened between the revelation of different parts of each of those <i>Surahs</i> and yet the Prophet never for a moment fumbled or faltered in putting the revealed verses in their proper places.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 367,
+                "topic": "Abrogation: <i>Naskh</i>: of scriptures",
+                "verses": "2:107, 2:181, 16:102, 18:28"
+            },
+            {
+                "id": 14968,
+                "topic": "Qur’an: abrogation refuted",
+                "verses": "2:107, 3:8, 4:83, 11:2, 16:102, 18:28, 39:24"
+            },
+            {
+                "id": 15025,
+                "topic": "Qur’an: collection, protection of",
+                "verses": "75:17-18, 4:83, 5:49, 15:2, 15:10, 15:18-19, 26:194, 26:211-213, 27:2, 37:11, 56:78-79, 85:22-23"
+            }
+        ],
+        "ar": "اِلَّا  مَا شَآءَ اللّٰہُ ؕ اِنَّہٗ  یَعۡلَمُ الۡجَہۡرَ  وَ مَا یَخۡفٰی ؕ﴿۸﴾",
+        "ur": "سوائے اس کے جو اللہ چاہے۔ یقیناً وہ ظاہر کو بھی جانتا ہے اور اسے بھی جو مخفی ہے۔",
+        "v5": {
+            "text": "[a]Except as Allah wills. Surely, He knows <i>what is</i> manifest and what is hidden.[4686]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:34; 20:8; 21:111; 24:30."
+                },
+                {
+                    "ref": "4686",
+                    "note": "<p><strong>Commentary:</strong></p><p>The expression \"as God wills\", pertains only to matters of ordinary everyday life.</p><p>The words, \"He knows what is manifest and what is hidden,\" mean that as God knew all the needs of man of which man himself was unconscious and which he was incapable of knowing, God provided those needs in the Quran, and so there could be no possibility of the Holy Prophet forgetting what was revealed to him.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 14999,
+                "topic": "Qur’an: characteristics of",
+                "verses": "10:58, 12:2-3, 15:22, 17:90, 18:2-3, 21:25, 26:3, 29:50, 43:45, 54:18, 56:80, 80:14-17, 98:4"
+            },
+            {
+                "id": 15025,
+                "topic": "Qur’an: collection, protection of",
+                "verses": "75:17-18, 4:83, 5:49, 15:2, 15:10, 15:18-19, 26:194, 26:211-213, 27:2, 37:11, 56:78-79, 85:22-23"
+            }
+        ],
+        "ar": "وَ نُیَسِّرُکَ لِلۡیُسۡرٰی ۚ﴿ۖ۹﴾ ",
+        "ur": "اور ہم تجھے آسانی مہیا کریں گے۔",
+        "v5": {
+            "text": "[b]And We shall provide for thee <i>every</i> facility.[4687]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "92:8."
+                },
+                {
+                    "ref": "4687",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse signifies: (a) that it is easy to commit the Quran to memory; (b) that its teachings possess an adaptability all their own, which makes them conform to, and meet, the exigencies of changing conditions and circumstances and the needs and requirements of men of different temperaments and dispositions; and (c) that the Quranic injunctions are not arbitrary but wise and rational. These factors combined together make the Quran a Book easy to learn and to act upon. These, among others, are some of the means which God has provided for the eternal protection and preservation of the Quranic text and its meaning.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 10,
+        "v_": 9,
+        "topics": [],
+        "ar": "فَذَکِّرۡ  اِنۡ  نَّفَعَتِ الذِّکۡرٰی ؕ﴿۱۰﴾ ",
+        "ur": "پس نصیحت کر۔ نصیحت بہرحال فائدہ دیتی ہے۔",
+        "v5": {
+            "text": "So keep on reminding: surely, reminding is profitable.[4688]",
+            "notes": [
+                {
+                    "ref": "4688",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means that only those people profit by admonition who have fear of God in their hearts. But as it is not given to one to know when admonition would be beneficial to a man, no opportunity should be lost to preach truth and righteousness.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 7467,
+                "topic": "Fear: of Allah, <i>Khashi‘ah</i>",
+                "verses": "8:49, 2:151, 5:4, 5:29, 5:45, 7:57, 9:13, 9:18, 9:109, 12:110, 13:22, 14:15, 16:52, 17:58, 20:4, 21:50, 23:3, 23:58, 23:61, 24:53, 33:38, 33:40, 35:19, 35:29-30, 36:12, 39:11, 39:21, 39:24, 49:2, 50:34, 55:47, 59:17, 67:13, 79:27, 79:41, 79:46, 80:10, 98:9"
+            }
+        ],
+        "ar": "سَیَذَّکَّرُ مَنۡ یَّخۡشٰی ﴿ۙ۱۱﴾ ",
+        "ur": "وہ ضرور نصیحت پکڑے گا جو ڈرتا ہے۔",
+        "v5": {
+            "text": "[a]He who fears will heed;",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "51:56."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 12,
+        "v_": 11,
+        "topics": [],
+        "ar": "وَ  یَتَجَنَّبُہَا الۡاَشۡقَی  ﴿ۙ۱۲﴾",
+        "ur": "اور سخت بدبخت (شخص) اُس سے اجتناب کرے گا۔",
+        "v5": {
+            "text": "But the most wretched will turn aside from it,[4689]",
+            "notes": [
+                {
+                    "ref": "4689",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse signifies that for those people who, on account of their persistent defiance and rejection of truth and blind opposition to God’s Messengers, incur punishment, a Divine decree comes into operation that they will not benefit by admonition.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 13,
+        "v_": 12,
+        "topics": [
+            {
+                "id": 8819,
+                "topic": "Hell: <i>Jahannam</i>: fuel and fire of",
+                "verses": "19:69, 2:25, 2:168, 3:11, 4:57, 5:38, 7:42, 14:51, 17:98, 18:30, 21:99, 25:12-13, 32:21, 39:17, 40:47, 66:7, 74:29-30, 74:27-30, 74:32, 77:33-34, 88:4-5, 92:15, 101:11-12, 104:6-8, 111:4"
+            }
+        ],
+        "ar": "الَّذِیۡ  یَصۡلَی النَّارَ الۡکُبۡرٰی ﴿ۚ۱۳﴾ ",
+        "ur": "جو سب سے بڑی آگ میں داخل ہوگا۔",
+        "v5": {
+            "text": "He who is to enter the great Fire.[b]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "88:5."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 14,
+        "v_": 13,
+        "topics": [
+            {
+                "id": 8839,
+                "topic": "Hell: <i>Jahannam</i>: no escape from",
+                "verses": "19:69, 20:75, 2:87, 3:92, 3:107, 25:15, 32:21, 35:37, 40:50"
+            }
+        ],
+        "ar": "ثُمَّ  لَا یَمُوۡتُ فِیۡہَا وَ لَا یَحۡیٰی ﴿ؕ۱۴﴾ ",
+        "ur": "پھر وہ اس میں نہ مرے گا اور نہ جئے گا۔",
+        "v5": {
+            "text": "[c]Then he will neither die therein nor live.[4690]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "14:18; 20:75."
+                },
+                {
+                    "ref": "4690",
+                    "note": "<p><strong>Commentary:</strong></p><p>The unfortunate disbelievers will burn in grievous torment of an abiding character and death will not be allowed to end it; on the other hand, \"death will come to him from every quarter but he will not die\" (14:18). See also 20:75.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 15,
+        "v_": 14,
+        "topics": [
+            {
+                "id": 11633,
+                "topic": "Moral Traits: cleanliness",
+                "verses": "2:223, 2:126, 4:44, 5:7, 7:32, 9:103, 9:108, 22:27, 22:30, 24:22, 33:34, 53:33, 56:80, 74:5-6, 91:10-11"
+            },
+            {
+                "id": 16103,
+                "topic": "Salah: rewards of offering",
+                "verses": "23:2-3, 2:4, 2:178, 2:278, 4:163, 5:56, 13:23, 22:42, 70:23-24"
+            },
+            {
+                "id": 17339,
+                "topic": "Success: <i>Falah</i>, believers, obedient, shall achieve",
+                "verses": "3:201, 2:6, 2:190, 3:105, 3:131, 5:36, 5:91, 5:101, 7:9, 7:70, 7:158, 8:46, 9:88, 20:65, 22:78, 23:2, 23:103, 24:32, 24:52, 28:68, 30:39, 31:6, 59:10, 62:11, 64:17, 91:10"
+            }
+        ],
+        "ar": "قَدۡ  اَفۡلَحَ  مَنۡ  تَزَکّٰی ﴿ۙ۱۵﴾ ",
+        "ur": "یقیناً وہ کامیاب ہوگیا جو پاک ہوا۔",
+        "v5": {
+            "text": "[d]Verily, he <i>truly</i> prospers who purifies himself,",
+            "notes": [
+                {
+                    "ref": "d",
+                    "note": "91:10."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 16,
+        "v_": 15,
+        "topics": [
+            {
+                "id": 15521,
+                "topic": "Remember: Allah",
+                "verses": "2:153, 2:199, 2:201, 2:204, 2:232, 2:240, 3:42, 3:192, 4:104, 5:8, 5:12, 5:21, 7:70, 7:75, 7:206, 8:46, 13:29, 18:25, 20:15, 20:43, 24:38, 26:228, 29:46, 33:22, 33:36, 33:42, 35:4, 39:24, 43:14, 57:17, 62:11, 63:10, 73:9, 76:26"
+            },
+            {
+                "id": 16060,
+                "topic": "Salah: Allah listens to",
+                "verses": "7:1953, 11:62, 37:93, 40:51, 42:27, 43:19, 46:6"
+            },
+            {
+                "id": 16062,
+                "topic": "Salah: believers offer",
+                "verses": "7:30"
+            },
+            {
+                "id": 16103,
+                "topic": "Salah: rewards of offering",
+                "verses": "23:2-3, 2:4, 2:178, 2:278, 4:163, 5:56, 13:23, 22:42, 70:23-24"
+            }
+        ],
+        "ar": "وَ ذَکَرَ اسۡمَ رَبِّہٖ فَصَلّٰی ﴿ؕ۱۶﴾ ",
+        "ur": "اور اپنے ربّ کے نام کا ذکر کیا اور نماز پڑھی۔",
+        "v5": {
+            "text": "And remembers the name of his Lord and offers Prayers.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 87,
+        "v": 17,
+        "v_": 16,
+        "topics": [
+            {
+                "id": 10489,
+                "topic": "Life: <i>Hayat</i>: of Hereafter",
+                "verses": "3:16, 4:78, 9:38"
+            },
+            {
+                "id": 10538,
+                "topic": "Life: <i>Hayat</i>: of this world",
+                "verses": "23:113-115, 2:87, 2:201, 2:213, 3:15, 3:186, 4:75, 4:95, 6:30, 6:33, 6:71, 6:131, 7:52, 9:38, 10:8-9, 10:25, 10:65, 11:16, 13:27, 14:4, 16:108, 17:19, 18:29, 18:46-47, 18:104-105, 20:132, 23:38, 28:61, 29:64, 29:65, 30:8, 31:34, 35:6, 40:40, 41:32, 42:37, 43:36, 45:25, 45:36, 46:36, 47:27, 53:30, 57:21, 76:28, 79:39"
+            }
+        ],
+        "ar": "بَلۡ  تُؤۡثِرُوۡنَ الۡحَیٰوۃَ  الدُّنۡیَا ﴿۫ۖ۱۷﴾ ",
+        "ur": "درحقیقت تم تو دنیوی زندگی کو ترجیح دیتے ہو۔",
+        "v5": {
+            "text": "[e]But you prefer the life of this world,",
+            "notes": [
+                {
+                    "ref": "e",
+                    "note": "75:21."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 18,
+        "v_": 17,
+        "topics": [
+            {
+                "id": 928,
+                "topic": "Afterlife: <i>Akhirah</i>: eternal nature of",
+                "verses": "40:40, 44:57"
+            },
+            {
+                "id": 4031,
+                "topic": "Baqa’: lasting",
+                "verses": "55:28, 20:74"
+            },
+            {
+                "id": 10489,
+                "topic": "Life: <i>Hayat</i>: of Hereafter",
+                "verses": "3:16, 4:78, 9:38"
+            },
+            {
+                "id": 10538,
+                "topic": "Life: <i>Hayat</i>: of this world",
+                "verses": "23:113-115, 2:87, 2:201, 2:213, 3:15, 3:186, 4:75, 4:95, 6:30, 6:33, 6:71, 6:131, 7:52, 9:38, 10:8-9, 10:25, 10:65, 11:16, 13:27, 14:4, 16:108, 17:19, 18:29, 18:46-47, 18:104-105, 20:132, 23:38, 28:61, 29:64, 29:65, 30:8, 31:34, 35:6, 40:40, 41:32, 42:37, 43:36, 45:25, 45:36, 46:36, 47:27, 53:30, 57:21, 76:28, 79:39"
+            }
+        ],
+        "ar": "وَ الۡاٰخِرَۃُ  خَیۡرٌ  وَّ اَبۡقٰی ﴿ؕ۱۸﴾ ",
+        "ur": "حالانکہ آخرت بہتر اور ہمیشہ باقی رہنے والی ہے۔",
+        "v5": {
+            "text": "[a]Whereas the Hereafter is better and more lasting.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "93:5."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 87,
+        "v": 19,
+        "v_": 18,
+        "topics": [
+            {
+                "id": 15455,
+                "topic": "Religion: essentials of",
+                "verses": "30:31, 12:41, 23:53, 98:6"
+            },
+            {
+                "id": 16382,
+                "topic": "Scriptures: <i>Suhuf</i>",
+                "verses": "2:42, 2:107, 2:160, 3:8, 3:82, 5:49, 6:115, 6:156, 10:38, 16:44-45, 16:85, 18:2-3, 20:134, 26:193-94, 26:197, 27:31, 28:50, 29:49, 35:26, 36:3, 36:13, 41:42, 42:16, 43:22, 46:5, 53:6, 53:37, 53:38, 54:18, 54:44, 74:53, 80:14, 98:3"
+            }
+        ],
+        "ar": "اِنَّ ہٰذَا  لَفِی الصُّحُفِ الۡاُوۡلٰی ﴿ۙ۱۹﴾ ",
+        "ur": "یقیناً یہ ضرور پہلے صحیفوں میں بھی ہے۔",
+        "v5": {
+            "text": "[b]This indeed is <i>what is taught</i> in the former Scriptures—",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "20:134."
+                }
+            ]
+        }
+    }
+]

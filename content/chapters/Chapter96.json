@@ -1,0 +1,439 @@
+[
+    {
+        "ch": 96,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 15345,
+                "topic": "Read: <i>Iqra’</i>,<i> </i>proclaim",
+                "verses": "17:15, 96:4"
+            },
+            {
+                "id": 16329,
+                "topic": "Science: embryology",
+                "verses": "22:6, 6:96, 13:4, 23:14-15, 32:9-10, 35:12, 36:37, 39:7, 40:68, 53:46-47, 65:5, 71:15, 75:38-40, 76:3, 77:21-22, 82:7-9, 86:7-8"
+            }
+        ],
+        "ar": "اِقۡرَاۡ بِاسۡمِ رَبِّکَ الَّذِیۡ خَلَقَ ۚ﴿۲﴾ ",
+        "ur": "پڑھ اپنے ربّ کے نام کے ساتھ جس نے پیدا کیا۔",
+        "v5": {
+            "text": "[b]Proclaim thou in the name of thy Lord Who created,[4782]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "23:15; 40:68; 75:39."
+                },
+                {
+                    "ref": "4782",
+                    "note": "<p><strong>Important Words:</strong></p><p>اقرأ (proclaim) is derived from قرء which means, he collected together the thing; put it together part to part. قرأت القرآنmeans, I recited or read the Quran uninterruptedly or recited it chanting (syn. أنشد). قرء علیه القرآن means, he read or recited to him the Quran. قرأعلیهالسلام means, he conveyed or delivered to him the salutation. Thus اقرأ means, read, recite, convey, proclaim or collect (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The very first word of the verse shows that the Quran was meant to be read and proclaimed, to be collected and put together and conveyed to the whole world. Moreover, the verse embodies a prophecy that the Quran will be written and repeatedly read and recited. It is an undeniable fact of history that as soon as a portion of the Quran was revealed it was committed to writing and that among all religious Scriptures the Quran is the most widely read. The mention in the verse of the Divine attribute رب (the Lord) Who cherishes and sustains man through all the different stages of his development signifies that the spiritual development of man was to be gradual and in stages till it was to find its full consummation in the Holy Prophet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 1373,
+                "topic": "Allah: created you",
+                "verses": "30:41, 2:22, 2:30, 4:2, 6:103, 7:190, 13:17, 15:29, 15:86, 16:73, 20:56, 21:17, 21:34, 23:13-15, 23:18, 24:46, 27:65, 30:21-22, 35:4, 36:37, 38:72, 39:7, 41:10, 43:13, 46:4, 50:17, 53:46, 55:4, 55:15-16, 59:25, 67:3, 71:15, 87:3, 92:4"
+            },
+            {
+                "id": 4511,
+                "topic": "Blood: man born out of congealed",
+                "verses": "22:6, 23:15, 40:68, 75:39"
+            },
+            {
+                "id": 5132,
+                "topic": "Clot",
+                "verses": "23:15, 22:6, 39:7, 40:68, 75:39"
+            },
+            {
+                "id": 10800,
+                "topic": "Man: creation of",
+                "verses": "23:13-15, 3:7, 3:60, 4:2, 6:3, 7:12-13, 15:27, 15:29-30, 15:34, 16:5, 18:38, 22:6, 25:55, 30:21, 32:8-10, 35:12, 36:78, 37:12, 38:72, 39:7, 40:68, 49:14, 53:47, 55:15, 71:15, 71:18, 75:38-40, 76:3, 77:21-24, 86:7, 87:3, 95:5-6"
+            },
+            {
+                "id": 16329,
+                "topic": "Science: embryology",
+                "verses": "22:6, 6:96, 13:4, 23:14-15, 32:9-10, 35:12, 36:37, 39:7, 40:68, 53:46-47, 65:5, 71:15, 75:38-40, 76:3, 77:21-22, 82:7-9, 86:7-8"
+            }
+        ],
+        "ar": "خَلَقَ الۡاِنۡسَانَ مِنۡ عَلَقٍ ۚ﴿۳﴾ ",
+        "ur": "اُس نے انسان کو ایک چمٹ جانے والے لوتھڑے سے پیدا کیا۔",
+        "v5": {
+            "text": "Created man from a clot of blood.[4783]",
+            "notes": [
+                {
+                    "ref": "4783",
+                    "note": "<p><strong>Important Words:</strong></p><p>علق (clot of blood) is inf. noun from علق (‘<i>aliqa</i>). They say علق به i.e. it hung to it, clung, clave or stuck fast to it; it concerned him or it. علقھا او علق بھا means, he loved her. علق means, a clot of blood; love (Lane &amp; Aqrab). خلق من علق is an Arabic phrase meaning, love forms a part of his nature; it is ingrained in his nature. See also 21:38 &amp; 30:55.</p><p><strong>Commentary:</strong></p><p>The verse signifies that love of God is ingrained in the nature of man, and that it was natural that there should have been someone in whom this instinctive impulse should find its completest manifestation. This was the Holy Prophet who loved his Creator with all his mind, heart and soul. The verse also signifies that as man’s physical development is gradual, so is his spiritual development, and this gradual development culminated in the Holy Prophet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 3006,
+                "topic": "Attributes of Allah: Al-Akram (Most Generous, Bounteous)",
+                "verses": null
+            },
+            {
+                "id": 15168,
+                "topic": "Qur’an: recitation of",
+                "verses": "7:205, 16:99-101, 17:46, 17:79, 17:107, 18:28, 27:93, 29:46, 43:4, 73:5, 73:21"
+            },
+            {
+                "id": 15347,
+                "topic": "Read: <i>Iqra’</i>,<i> </i>proclaim",
+                "verses": "96:2, 17:15"
+            }
+        ],
+        "ar": "اِقۡرَاۡ وَ رَبُّکَ الۡاَکۡرَمُ ۙ﴿۴﴾ ",
+        "ur": "پڑھ، اور تیرا ربّ سب سے زیادہ معزز ہے۔",
+        "v5": {
+            "text": "Proclaim! And thy Lord is Most Generous,[4784]",
+            "notes": [
+                {
+                    "ref": "4784",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse purports to say that the more the Quran is read and proclaimed to the world, the more the Holiness of God and the dignity of man will be recognised and appreciated. The verse may also imply a prophecy that through the reading, preaching and proclaiming of the Quran a place of great honour will accrue to the Holy Prophet and his followers.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 10268,
+                "topic": "Knowledge: <i>‘Ilm</i>: and man",
+                "verses": "39:50, 9:11, 27:66-67, 55:3, 102:6"
+            },
+            {
+                "id": 14423,
+                "topic": "Prophecies in the Holy Qur’an: about: the Holy Qur’an",
+                "verses": "3:8, 2:42, 2:90, 2:102, 13:32, 15:10, 24:36-38, 26:197"
+            }
+        ],
+        "ar": "الَّذِیۡ عَلَّمَ بِالۡقَلَمِ ۙ﴿۵﴾ ",
+        "ur": "جس نے قلم کے ذریعہ سکھایا۔",
+        "v5": {
+            "text": "Who taught by the pen,[4785]",
+            "notes": [
+                {
+                    "ref": "4785",
+                    "note": "<p><strong>Commentary:</strong></p><p>This verse also embodies a prophecy that the \"pen\" would play a great part in committing the Quran to writing and in preserving and protecting it from being lost or interfered with. It further refers to the great contribution that \"the pen\" was to make towards the propagation and dissemination of spiritual sciences and the divine secrets revealed by the Quran and of the physical sciences to which the study of the Quran imparted a great stimulus. It is really very significant that frequent mention should have been made of \"pen\" in a Book which was revealed among a people who had no respect for, and made rare use of it, and which was revealed to a person who himself did not know how to read and write.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 10268,
+                "topic": "Knowledge: <i>‘Ilm</i>: and man",
+                "verses": "39:50, 9:11, 27:66-67, 55:3, 102:6"
+            }
+        ],
+        "ar": "عَلَّمَ الۡاِنۡسَانَ مَا لَمۡ  یَعۡلَمۡ ؕ﴿۶﴾ ",
+        "ur": "انسان کو وہ کچھ سکھایا جو وہ نہیں جانتا تھا۔",
+        "v5": {
+            "text": "[a]Taught man what he knew not.[4786]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "4:114; 55:5."
+                },
+                {
+                    "ref": "4786",
+                    "note": "<p><strong>Commentary:</strong></p><p>Not even one hundredth part of what the Quran has taught about Divine Unity, Revelation, Angels, life after death, Ethics, and other kindred subjects is to be found in any other revealed Scripture.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 4686,
+                "topic": "Bounds: transgressions",
+                "verses": "5:78-79, 7:56, 9:10, 10:84, 17:34, 20:25, 20:46, 21:10, 36:20, 40:29, 42:43, 43:6, 49:10, 50:26, 51:35, 68:13, 83:13"
+            },
+            {
+                "id": 10859,
+                "topic": "Man: nature of, <i>Fitrah</i>",
+                "verses": "30:31, 4:29, 10:13, 11:10-11, 14:35, 16:5, 17:12, 17:68-70, 17:101, 18:55, 21:38, 22:6, 22:67, 23:78-79, 25:51, 30:37, 31:7-8, 31:22, 33:73, 34:32, 36:78-79, 38:61, 39:50, 40:11, 41:50-52, 42:49, 43:16, 57:9, 70:20-22, 75:21, 80:18, 89:16-21, 90:5, 91:8-9, 95:5, 100:7, 100:9, 103:3-4"
+            }
+        ],
+        "ar": "کَلَّاۤ  اِنَّ  الۡاِنۡسَانَ  لَیَطۡغٰۤی ۙ﴿۷﴾ ",
+        "ur": "خبردار! انسان یقیناً سرکشی کرتا ہے۔",
+        "v5": {
+            "text": "Nay! man does indeed transgress[b],[4787]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "37:31."
+                },
+                {
+                    "ref": "4787",
+                    "note": "<p><strong>Commentary:</strong></p><p>The particle کلا is sometimes used to impart emphasis and is expressive of certainty. Or it is used in the sense of 'nay' or 'never'. The verse means that though man has been endowed with great natural powers and has been created in the best make, he errs grievously if he thinks that he can ignore God’s help and guidance. He constantly stands in need of Divine assistance because his capacities and capabilities are at best limited.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 10859,
+                "topic": "Man: nature of, <i>Fitrah</i>",
+                "verses": "30:31, 4:29, 10:13, 11:10-11, 14:35, 16:5, 17:12, 17:68-70, 17:101, 18:55, 21:38, 22:6, 22:67, 23:78-79, 25:51, 30:37, 31:7-8, 31:22, 33:73, 34:32, 36:78-79, 38:61, 39:50, 40:11, 41:50-52, 42:49, 43:16, 57:9, 70:20-22, 75:21, 80:18, 89:16-21, 90:5, 91:8-9, 95:5, 100:7, 100:9, 103:3-4"
+            }
+        ],
+        "ar": "اَنۡ  رَّاٰہُ  اسۡتَغۡنٰی ﴿ؕ۸﴾ ",
+        "ur": "(اس لئے) کہ اس نے اپنے آپ کو بے نیاز سمجھا۔",
+        "v5": {
+            "text": "Because he thinks himself to be independent.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 96,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 2440,
+                "topic": "Allah: to we belong, our return, <i>Innalillah…</i>",
+                "verses": "2:157, 7:126, 21:36, 26:51"
+            },
+            {
+                "id": 15278,
+                "topic": "Raja‘: return to Allah",
+                "verses": "2:47, 2:157, 2:211, 2:246, 2:282, 3:56, 3:84, 3:110, 5:49, 5:106, 6:61, 6:109, 6:165, 10:5, 10:24, 10:47, 10:71, 11:5, 11:35, 19:41, 21:36, 21:94, 22:77, 24:65, 29:9, 31:16, 31:24, 39:8, 41:51, 57:6, 89:29"
+            }
+        ],
+        "ar": "اِنَّ  اِلٰی رَبِّکَ  الرُّجۡعٰی ؕ﴿۹﴾ ",
+        "ur": "یقیناً تیرے ربّ ہی کی طرف لَوٹ کر جانا ہے۔",
+        "v5": {
+            "text": "Surely, unto thy Lord is the return.[a]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "5:49; 21:36; 53:43."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 16122,
+                "topic": "Salah: who forbids offering",
+                "verses": "2:115, 72:20"
+            }
+        ],
+        "ar": "اَرَءَیۡتَ الَّذِیۡ یَنۡہٰی ۙ﴿۱۰﴾ ",
+        "ur": "کیا تُو نے اُس شخص پر غور کیا جو روکتا ہے؟",
+        "v5": {
+            "text": "Hast thou seen him who forbids[b]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "2:115; 72:20."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 16122,
+                "topic": "Salah: who forbids offering",
+                "verses": "2:115, 72:20"
+            }
+        ],
+        "ar": "عَبۡدًا اِذَا صَلّٰی ﴿ؕ۱۱﴾ ",
+        "ur": "ایک عظیم بندے کو جب وہ نماز پڑھتا ہے۔",
+        "v5": {
+            "text": "A servant <i>of Ours</i> when he prays?[4788]",
+            "notes": [
+                {
+                    "ref": "4788",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse is of general application. But it may in particular refer to the Holy Prophet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 12,
+        "v_": 11,
+        "topics": [],
+        "ar": "اَرَءَیۡتَ  اِنۡ کَانَ عَلَی الۡہُدٰۤی ﴿ۙ۱۲﴾ ",
+        "ur": "کیا تُو نے غور کیا کہ اگر وہ (عظیم بندہ) ہدایت پرہو؟",
+        "v5": {
+            "text": "Tell me if he (Our servant) follows the guidance",
+            "notes": null
+        }
+    },
+    {
+        "ch": 96,
+        "v": 13,
+        "v_": 12,
+        "topics": [
+            {
+                "id": 17537,
+                "topic": "Taqwa: fear of God",
+                "verses": "2:3, 2:190, 2:197-198, 2:204, 2:213, 2:224, 2:232, 2:234, 2:238, 2:279, 2:283-284, 3:16, 3:51, 3:77, 3:103, 3:131, 3:201, 4:2, 4:10, 4:132, 5:3, 5:5, 5:8-9, 5:12, 5:36, 5:58, 5:89, 5:94, 5:97, 5:113, 6:70, 6:73, 7:27, 7:36, 7:66, 8:2, 8:70, 9:7, 9:108, 9:109, 11:79, 15:70, 20:133, 22:2, 22:33, 22:38, 26:109, 26:133, 26:185, 33:56, 33:71, 43:64, 47:18, 48:27, 49:4, 49:11, 49:13, 57:29, 58:10, 59:8, 59:19, 60:12, 65:2, 65:11, 74:57, 78:32"
+            }
+        ],
+        "ar": "اَوۡ  اَمَرَ  بِالتَّقۡوٰی ﴿ؕ۱۳﴾ ",
+        "ur": "یا تقویٰ کی تلقین کرتا ہو؟",
+        "v5": {
+            "text": "Or enjoins righteousness, what will be the end of the forbidder?",
+            "notes": null
+        }
+    },
+    {
+        "ch": 96,
+        "v": 14,
+        "v_": 13,
+        "topics": [],
+        "ar": "اَرَءَیۡتَ  اِنۡ کَذَّبَ وَ تَوَلّٰی ﴿ؕ۱۴﴾ ",
+        "ur": "کیا تُو نے غور کیا کہ اگر اس (نماز سے روکنے والے) نے (پھر بھی) جھٹلا دیا اور پیٹھ پھیرلی؟",
+        "v5": {
+            "text": "Tell me if he (the forbidder) rejects and turns his back,[4789]",
+            "notes": [
+                {
+                    "ref": "4789",
+                    "note": "<p><strong>Commentary:</strong></p><p>کذب (rejects) relates to beliefs and تولی (turns his back) to actions and deeds, meaning that his beliefs are wrong and his deeds bad.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 15,
+        "v_": 14,
+        "topics": [],
+        "ar": "اَلَمۡ یَعۡلَمۡ بِاَنَّ اللّٰہَ یَرٰی ﴿ؕ۱۵﴾ ",
+        "ur": "(تو) کیا وہ نہیں جانتا کہ یقیناً اللہ دیکھ رہا ہے؟",
+        "v5": {
+            "text": "[c]Does he not know that Allah sees <i>him</i>?",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "90:8."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 16,
+        "v_": 15,
+        "topics": [],
+        "ar": "کَلَّا لَئِنۡ لَّمۡ یَنۡتَہِ ۬ۙ  لَنَسۡفَعًۢا بِالنَّاصِیَۃِ ﴿ۙ۱۶﴾ ",
+        "ur": "خبردار! اگر وہ باز نہ آیا تو ہم یقیناً اُسے پیشانی کے بالوں سے پکڑ کر کھینچیں گے۔",
+        "v5": {
+            "text": "Nay, if he desist not, We will assuredly <i>seize and</i> drag him by the forelock ,[4790]",
+            "notes": [
+                {
+                    "ref": "4790",
+                    "note": "<p><strong>Important Words:</strong></p><p>نسفعا (we shall seize him and drag him). سفعه means, he made a mark upon it with hot iron; he struck or slapped his face. سفع بناصیته means, he seized his forelock and dragged him (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The verses (10-18) though generally applying to every haughty and hardened disbeliever, have been taken by some commentators to refer particularly to Abu Jahl, leader of the Quraish of Mecca. He was in the forefront in annoying, opposing and persecuting the Holy Prophet and the Muslims. Some of the slaves who had embraced Islam were dragged at his instance by the forelock in the streets of Mecca. After the defeat at Badr, the dead bodies of some of the leaders of the Quraish, Abu Jahl among them, were dragged by their forelocks and thrown into a pit dug for that purpose. That was a fit punishment for the treatment they had meted out to the helpless Muslims years before at Mecca.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 17,
+        "v_": 16,
+        "topics": [],
+        "ar": "نَاصِیَۃٍ کَاذِبَۃٍ خَاطِئَۃٍ ﴿ۚ۱۷﴾ ",
+        "ur": "جھوٹی خطاکار پیشانی کے بالوں سے۔",
+        "v5": {
+            "text": "A forelock, lying, sinful.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 96,
+        "v": 18,
+        "v_": 17,
+        "topics": [],
+        "ar": "فَلۡیَدۡعُ نَادِیَہٗ ﴿ۙ۱۸﴾ ",
+        "ur": "پس چاہئے کہ وہ اپنی مجلس والوں کو بُلا دیکھے۔",
+        "v5": {
+            "text": "Then let him call his associates,[4791]",
+            "notes": [
+                {
+                    "ref": "4791",
+                    "note": "<p><strong>Important Words:</strong></p><p>نادی (associates) is derived from ندا. They say ندا القوم the people gathered and came to the meeting. ندی or النادی means, an assembly (Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 96,
+        "v": 19,
+        "v_": 18,
+        "topics": [
+            {
+                "id": 2602,
+                "topic": "Angels: <i>Mala’ikah</i>: harbinger of Divine punishments",
+                "verses": "6:9, 2:211, 6:159, 15:9, 25:8, 25:23, 25:26, 89:23"
+            }
+        ],
+        "ar": "سَنَدۡعُ  الزَّبَانِیَۃَ ﴿ۙ۱۹﴾ ",
+        "ur": "ہم ضرور دوزخ کے فرشتے بلائیں گے۔",
+        "v5": {
+            "text": "We <i>too</i> will call <i>Our</i> angels <i>of</i> <i>punishment</i>.[4792]",
+            "notes": [
+                {
+                    "ref": "4792",
+                    "note": "<p><strong>Important Words:</strong></p><p>زبانیه (angels of punishment) is the plural of زبنیة which is derived from زبن . They say زبنه he pushed or thrust it, or thrust it away. زبنت الناقة means, the she-camel pushed away the milker on the occasion of being milked. زبانیة means, armed attendants or officers or soldiers or the prefect of police (syn. شرطة); angels or guards of hell because they push the sinners into it; angels of punishment (Lane &amp; Aqrab).</p>"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "ch": 110,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 110,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 4257,
+                "topic": "Believers: <i>Mu’min</i>: Allah’s help for",
+                "verses": "2:215, 2:154, 3:124, 3:127, 9:25, 10:104, 29:11, 30:6, 30:48, 40:52, 58:22, 61:14"
+            },
+            {
+                "id": 7423,
+                "topic": "Fataha: Open: grant victory",
+                "verses": "23:78, 48:2, 4:142, 5:53, 48:19, 48:28, 57:11, 61:14"
+            },
+            {
+                "id": 9516,
+                "topic": "Islam: triumph of",
+                "verses": "9:33, 13:42, 17:82, 21:45, 78:19-21"
+            },
+            {
+                "id": 13289,
+                "topic": "Open: <i>Fataha</i>: grant victory",
+                "verses": "48:2, 4:142, 5:53, 32:29-30, 48:19, 48:28, 57:11, 61:14"
+            }
+        ],
+        "ar": "اِذَا  جَآءَ  نَصۡرُ اللّٰہِ  وَ  الۡفَتۡحُ ۙ﴿۲﴾ ",
+        "ur": "جب اللہ کی مدد اور فتح آئے گی۔",
+        "v5": {
+            "text": "When the help of Allah comes, and the victory,[4861]",
+            "notes": [
+                {
+                    "ref": "4861",
+                    "note": "<p><strong>Commentary:</strong></p><p>الفتح means, the promised victory.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 110,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 9516,
+                "topic": "Islam: triumph of",
+                "verses": "9:33, 13:42, 17:82, 21:45, 78:19-21"
+            }
+        ],
+        "ar": "وَ  رَاَیۡتَ النَّاسَ یَدۡخُلُوۡنَ فِیۡ  دِیۡنِ اللّٰہِ  اَفۡوَاجًا ۙ﴿۳﴾ ",
+        "ur": "اور تُو لوگوں کو دیکھے گا کہ وہ اللہ کے دین میں فوج در فوج داخل ہو رہے ہیں۔",
+        "v5": {
+            "text": "And thou seest men entering the religion of Allah in troops,",
+            "notes": null
+        }
+    }
+]

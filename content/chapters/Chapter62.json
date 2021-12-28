@@ -1,0 +1,519 @@
+[
+    {
+        "ch": 62,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 62,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 729,
+                "topic": "Adoration: <i>Sabbih</i>, Praise, Exalt, Pray, Glorify: <i>Sabbih</i>, Praise, Exalt, Pray, Glorify",
+                "verses": "7:207, 6:2, 3:192, 3:114, 3:42, 2:31, 20:131, 13:14, 13:16, 15:99, 17:45, 18:2, 19:12, 19:59, 21:21, 21:23, 22:78, 24:37, 24:42, 25:2, 25:65, 32:16, 34:2, 35:2, 37:167, 38:19, 39:10, 39:76, 41:38-39, 48:10, 50:40-41, 55:7, 59:25, 61:2, 64:2, 87:2, 96:20, 110:4"
+            },
+            {
+                "id": 3087,
+                "topic": "Attributes of Allah: Al-‘Aziz (The Mighty)",
+                "verses": "4:57, 2:130, 2:210, 2:221, 2:229, 3:7, 3:19, 4:159, 4:166, 9:40, 9:71, 14:2, 16:61, 22:41, 22:75, 26:192, 27:10, 27:79, 33:26, 34:7, 35:29, 38:10, 38:67, 40:3, 45:3, 46:3, 48:8, 48:20, 59:2, 59:24, 61:2, 64:19"
+            },
+            {
+                "id": 3262,
+                "topic": "Attributes of Allah: Al-Hakim (The Wise)",
+                "verses": "2:130, 2:33, 2:210, 2:221, 2:229, 2:261, 3:7, 4:12, 4:57, 4:131, 4:166, 5:119, 9:15, 9:40, 11:2, 12:101, 15:26, 16:61, 22:53, 24:19, 27:7, 27:10, 31:28, 34:2, 35:3, 41:43, 42:52, 43:85, 44:5, 46:3, 48:5, 48:8, 48:20, 49:9, 57:2, 59:2, 59:25, 64:19, 66:3"
+            },
+            {
+                "id": 3366,
+                "topic": "Attributes of Allah: Al-Malik (The Sovereign)",
+                "verses": "59:24, 1:4, 20:115, 22:57, 23:117, 25:27, 54:56, 114:3"
+            },
+            {
+                "id": 3488,
+                "topic": "Attributes of Allah: Al-Quddus (The Holy One)",
+                "verses": "59:24"
+            },
+            {
+                "id": 6979,
+                "topic": "Earth: <i>Al-Ard</i>: creation of the",
+                "verses": "67:16, 3:191, 6:74, 7:55, 10:4, 11:8, 14:20, 14:33, 20:5, 21:31, 22:19, 25:60, 29:45, 29:62, 30:23, 32:5, 35:2, 36:82, 38:28, 39:6, 40:58, 41:10-12, 64:4, 65:13, 79:31-34, 84:4"
+            }
+        ],
+        "ar": "یُسَبِّحُ  لِلّٰہِ مَا فِی السَّمٰوٰتِ وَ مَا فِی الۡاَرۡضِ الۡمَلِکِ الۡقُدُّوۡسِ الۡعَزِیۡزِ الۡحَکِیۡمِ ﴿۲﴾ ",
+        "ur": "اللہ ہی کی تسبیح کرتا ہے جو آسمانوں میں ہے اور جو زمین میں ہے۔ وہ بادشاہ ہے۔ قدّوس ہے۔ کامل غلبہ والا (اور) صاحبِ حکمت ہے۔",
+        "v5": {
+            "text": "Whatever is in the heavens and whatever is in the earth glorifies Allah,[b] the Sovereign, the Holy, the Mighty, the Wise.[4234]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "See 61:2."
+                },
+                {
+                    "ref": "4234",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse speaks of four Divine attributes which specially concern the fourfold mission of the Holy Prophet, mentioned in the next verse.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 62,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 6849,
+                "topic": "Duty: of Holy Prophet<sup>(sa)</sup>",
+                "verses": "6:105, 3:21, 4:85, 5:68, 36:18, 42:49"
+            },
+            {
+                "id": 8912,
+                "topic": "Hikmah: wisdom",
+                "verses": "2:130, 2:252, 2:270, 3:49, 3:59, 3:80, 3:82, 3:165, 4:55, 4:114, 5:111, 6:74, 10:2, 14:20, 16:126, 17:40, 19:13, 21:75, 21:80, 26:84, 28:15, 31:3, 31:13, 33:35, 36:3, 38:21, 40:68, 43:5, 43:64, 44:5, 54:6, 71:14"
+            },
+            {
+                "id": 12259,
+                "topic": "Muhammad<sup>(sa)</sup>: advent of",
+                "verses": "61:7, 2:90, 2:130, 2:152, 3:145, 3:165, 5:16, 6:21, 9:128, 14:36-38, 28:47, 35:17-18, 45:19, 46:36"
+            },
+            {
+                "id": 12331,
+                "topic": "Muhammad<sup>(sa)</sup>: an unlettered Prophet",
+                "verses": "7:158-159, 29:49"
+            },
+            {
+                "id": 12536,
+                "topic": "Muhammad<sup>(sa)</sup>: message of",
+                "verses": "5:68, 6:20, 6:51, 6:107, 6:163-164, 7:158-159, 7:204, 8:25, 10:16, 10:110, 21:46, 22:68, 23:74-75, 25:2, 25:53, 29:19, 33:3, 34:44, 34:47, 36:2-8, 42:53, 43:44, 46:10, 53:3"
+            },
+            {
+                "id": 13878,
+                "topic": "Philosophy: of teachings",
+                "verses": null
+            },
+            {
+                "id": 14217,
+                "topic": "Preaching: with wisdom",
+                "verses": "16:126, 3:188, 22:68, 23:74, 26:215, 28:88, 29:47, 41:34-35, 51:56"
+            },
+            {
+                "id": 14487,
+                "topic": "Prophecies in the Holy Qur’an: about: the Promised Messiah<sup>(as)</sup>",
+                "verses": "61:10, 17:87, 53:2, 81:19, 85:2-5, 86:2-5, 99:7"
+            },
+            {
+                "id": 16704,
+                "topic": "Signs: Messengers bring",
+                "verses": "2:130, 2:88, 2:93, 2:100, 2:254, 3:102, 3:184, 6:131, 7:36, 9:70, 10:14, 16:44-45, 17:102, 23:46, 30:10, 35:26, 57:26, 58:6, 65:12"
+            },
+            {
+                "id": 18134,
+                "topic": "Ummi",
+                "verses": "7:158-159, 2:79, 3:21, 3:76"
+            }
+        ],
+        "ar": "ہُوَ الَّذِیۡ  بَعَثَ فِی  الۡاُمِّیّٖنَ  رَسُوۡلًا مِّنۡہُمۡ  یَتۡلُوۡا عَلَیۡہِمۡ  اٰیٰتِہٖ  وَ  یُزَکِّیۡہِمۡ وَ  یُعَلِّمُہُمُ  الۡکِتٰبَ وَ  الۡحِکۡمَۃَ ٭ وَ  اِنۡ کَانُوۡا مِنۡ  قَبۡلُ  لَفِیۡ ضَلٰلٍ  مُّبِیۡنٍ ۙ﴿۳﴾ ",
+        "ur": "وہی ہے جس نے اُمّی لوگوں میں انہی میں سے ایک عظیم رسول مبعوث کیا۔ وہ اُن پر اس کی آیات کی تلاوت کرتا ہے اور انہیں پاک کرتا ہے اور انہیں کتاب کی اور حکمت کی تعلیم دیتا ہے جبکہ اس سے پہلے وہ یقیناً کھلی کھلی گمراہی میں تھے۔",
+        "v5": {
+            "text": "He it is Who has raised among the Unlettered <i>people</i> a Messenger from among themselves[c] who recites unto them His Signs, and purifies them, and teaches them the Book and wisdom, although they were before, in manifest misguidance;[4235]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "3:165; 7:158; 9:128."
+                },
+                {
+                    "ref": "4235",
+                    "note": "<p><strong>Commentary:</strong></p><p>For الأمیین see 3:76 &amp; 7:158.</p><p>The divine mission of the Holy Prophet consisted in the performance of the fourfold sacred duty referred to in the verse under comment. This was the noble task which was to be entrusted to that great Prophet for whose appearance among the unlettered Arabs the Patriarch Abraham had prayed several thousand years in advance, when in company with his son, Ishmael, he was raising the foundations of the Ka‘bah (2:130).</p><p>In fact, no Reformer can truly succeed in his mission unless he prepares, by his noble and purifying example, a community of sincere, devoted and righteous followers, whom he teaches the ideals and principles of his Message and their philosophy, significance and importance, and then sends them out to preach that Message to other people. The training he imparts to them refines their intellect, and the philosophy of his teaching engenders in them certainty of faith, and his noble example creates in them purity of heart and refines character. It is to this basic fact of religion that the verse under comment refers.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 62,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 1069,
+                "topic": "Ahmad: the Promised Messiah(as): advent of",
+                "verses": "81:2-30, 11:18, 25:62, 77:12, 85:3-4"
+            },
+            {
+                "id": 8290,
+                "topic": "Hadith: Pleiades",
+                "verses": "47:39, 53:2"
+            },
+            {
+                "id": 12454,
+                "topic": "Muhammad<sup>(sa)</sup>: finality of",
+                "verses": "24:52-55, 3:82, 3:180, 4:70, 6:125, 7:36, 16:3, 22:76, 33:8, 33:41, 36:66, 40:16, 44:6, 44:7, 72:8"
+            },
+            {
+                "id": 14487,
+                "topic": "Prophecies in the Holy Qur’an: about: the Promised Messiah<sup>(as)</sup>",
+                "verses": "61:10, 17:87, 53:2, 81:19, 85:2-5, 86:2-5, 99:7"
+            }
+        ],
+        "ar": "وَّ اٰخَرِیۡنَ مِنۡہُمۡ  لَمَّا یَلۡحَقُوۡا بِہِمۡ ؕ وَ ہُوَ  الۡعَزِیۡزُ  الۡحَکِیۡمُ ﴿۴﴾ ",
+        "ur": "اور انہی میں سے دوسروں کی طرف بھی (اسے مبعوث کیا ہے) جو ابھی اُن سے نہیں ملے۔ وہ کامل غلبہ والا (اور) صاحبِ حکمت ہے۔",
+        "v5": {
+            "text": "And <i>among</i> others from among them who have not yet joined them. He is the Mighty, the Wise.[4236]",
+            "notes": [
+                {
+                    "ref": "4236",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse signifies that the Message of the Holy Prophet was meant not only for the Arabs among whom he was raised but for all non-Arabs as well, and not only for his contemporaries but also for the coming generations till the end of time. Or the meaning may be that the Holy Prophet will be raised among another people who have not yet joined his immediate followers. The reference in the verse and in a well-known saying of the Holy Prophet is to the Second Advent of the Holy Prophet in the person of the Promised Messiah in the latter days. Says Abu Hurairah: \"One Day we were sitting with the Holy Prophet when <i>Surah</i> Jumu‘ah was revealed. I asked the Holy Prophet, \"Who are the people to whom the words <i>And among others from among them who have not yet joined them</i>, refer. Salman the Persian was sitting among us. Upon my repeatedly asking him the same question, the Prophet put his hand on Salman and said, “If Faith were to go up to the Pleiades, a man from these would surely find it” (Bukhari). This hadith shows that the verse applies to a man of Persian descent. Now, the Promised Messiah, the Founder of the Ahmadiyya Movement, was of Persian descent. Other sayings of the Holy Prophet speak of the appearance of the Messiah at a time when there would remain nothing of the Quran but its words and of Islam but its name i.e. the true spirit of Islamic teaching will be lost (Baihaqi). Thus the Quran and Hadith both seem to agree that the present verse refers to the Second Advent of the Holy Prophet in the person of the Promised Messiah.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 62,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 1069,
+                "topic": "Ahmad: the Promised Messiah(as): advent of",
+                "verses": "81:2-30, 11:18, 25:62, 77:12, 85:3-4"
+            },
+            {
+                "id": 3720,
+                "topic": "Attributes of Allah: Dhul-Fadl (Lord of bounty)",
+                "verses": "2:106, 2:252, 3:75, 3:153, 3:175, 8:30, 10:61, 27:74, 40:62, 57:30"
+            },
+            {
+                "id": 4708,
+                "topic": "Bounty: Allah bestows His",
+                "verses": "3:74-75, 2:269, 3:171-172, 4:33, 4:55, 4:71, 4:174, 9:28, 9:59, 9:74-76, 10:59, 10:61, 17:21, 17:88, 30:46, 33:48, 35:31, 40:62, 42:27, 44:58"
+            },
+            {
+                "id": 8095,
+                "topic": "Grace: <i>Fadl</i>: bestowed on believers",
+                "verses": "62:11, 2:65, 3:104, 4:84, 4:114, 4:174, 4:176, 5:55, 14:41, 20:123, 24:11, 24:15, 24:21, 24:22, 27:17, 27:41, 34:11, 37:58, 42:27, 48:30, 49:9, 52:30, 57:22, 59:7, 59:9, 68:3"
+            },
+            {
+                "id": 14487,
+                "topic": "Prophecies in the Holy Qur’an: about: the Promised Messiah<sup>(as)</sup>",
+                "verses": "61:10, 17:87, 53:2, 81:19, 85:2-5, 86:2-5, 99:7"
+            }
+        ],
+        "ar": "ذٰلِکَ فَضۡلُ اللّٰہِ یُؤۡتِیۡہِ مَنۡ یَّشَآءُ ؕ وَ اللّٰہُ  ذُو الۡفَضۡلِ الۡعَظِیۡمِ ﴿۵﴾ ",
+        "ur": "یہ اللہ کا فضل ہے وہ اُس کو جسے چاہتا ہے عطا کرتا ہے اور اللہ بہت بڑے فضل والا ہے۔",
+        "v5": {
+            "text": "That is Allah’s grace; He bestows it on whom He pleases; and Allah is the Lord of immense grace.[4237]",
+            "notes": [
+                {
+                    "ref": "4237",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse refers to the good fortune of the people among whom the Holy Prophetsa will be raised for the second time in the person of one of his followers—the Promised Messiah.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 62,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 2138,
+                "topic": "Allah: parables set forth by, <i>Amthal</i>",
+                "verses": "13:18, 2:18, 2:27, 2:172, 2:262, 2:265, 7:177, 13:36, 14:19, 14:25-27, 14:46, 16:75-77, 16:113, 18:33, 22:74, 24:36, 25:40, 29:42, 29:44, 30:29, 30:59, 36:14, 39:28, 39:30, 43:9, 47:4, 47:16, 59:22, 66:11-12"
+            },
+            {
+                "id": 2718,
+                "topic": "Animals: <i>Dabbah</i>, <i>An‘am</i>: similitudes",
+                "verses": "2:172, 2:66, 5:61, 7:167, 7:177, 7:180, 25:45, 29:42"
+            },
+            {
+                "id": 2953,
+                "topic": "Ass: <i>Hamir</i>",
+                "verses": "31:20, 2:260, 11:107, 74:51"
+            },
+            {
+                "id": 6696,
+                "topic": "Donkey: <i>Hamir</i>",
+                "verses": "31:20, 2:260, 11:107"
+            },
+            {
+                "id": 8193,
+                "topic": "Guidance: Allah does not give to unjust",
+                "verses": "2:259, 2:265, 3:87, 5:52, 5:68, 5:109, 6:145, 9:19, 9:24, 9:37, 9:80, 9:109, 16:38, 16:108, 28:51, 39:4, 40:29, 46:11, 61:6, 61:8, 63:7"
+            },
+            {
+                "id": 13379,
+                "topic": "Parable of: ass carrying books",
+                "verses": null
+            },
+            {
+                "id": 17761,
+                "topic": "Torah: guidance for Jews",
+                "verses": "45:17, 3:4-5, 3:51, 3:66, 3:94, 5:44-45, 5:67, 5:111, 6:92, 6:155, 17:3, 23:50, 28:44, 32:24, 37:118, 40:54-55, 61:7"
+            },
+            {
+                "id": 18901,
+                "topic": "Wrongdoers: <i>Zalim</i>: are not guided",
+                "verses": "4:76, 2:259, 3:87, 5:52, 6:145, 9:19, 9:109, 31:12, 46:11, 61:8"
+            }
+        ],
+        "ar": "مَثَلُ  الَّذِیۡنَ حُمِّلُوا  التَّوۡرٰٮۃَ  ثُمَّ  لَمۡ یَحۡمِلُوۡہَا کَمَثَلِ  الۡحِمَارِ یَحۡمِلُ اَسۡفَارًا ؕ بِئۡسَ مَثَلُ  الۡقَوۡمِ الَّذِیۡنَ کَذَّبُوۡا بِاٰیٰتِ اللّٰہِ ؕ وَ اللّٰہُ  لَا یَہۡدِی الۡقَوۡمَ  الظّٰلِمِیۡنَ ﴿۶﴾  ",
+        "ur": "ان لوگوں کی مثال جن پر تورات کی ذمہ داری ڈالی گئی پھر اُسے (جیسا کہ حق تھا) انہوں نے اُٹھائے نہ رکھا، گدھے کی سی ہے جو کتابوں کا بوجھ اٹھاتا ہے۔ کیا ہی بُری ہے اُن لوگوں کی مثال جنہوں نے اللہ کی آیات کو جھٹلایا اور اللہ ظالم قوم کو ہدایت نہیں دیتا۔",
+        "v5": {
+            "text": "The likeness of those who were entrusted with the <i>law of</i> Torah, but did not carry out its commandments, is as the likeness of an ass carrying <i>a load of</i> books. Evil is the likeness of the people who reject the Signs of Allah. And Allah guides not the wrongdoing people.[4238]",
+            "notes": [
+                {
+                    "ref": "4238",
+                    "note": "<p><strong>Important Words:</strong></p><p>أسفار (books) is the plural of سفر (<i>sifrun</i>) which is derived from سفر (<i>safara</i>). They say سفر الکتاب i.e. he wrote the book means, a book; a large book; a writing (Lane).</p><p><strong>Commentary:</strong></p><p>The verse contains an implied warning to Muslims not to reject the Promised Messiah like the Jews before them who had rejected the Holy Prophet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 62,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 5455,
+                "topic": "Curse: <i>La‘nah</i>: <i>Mubahalah</i>",
+                "verses": "3:62, 3:65"
+            },
+            {
+                "id": 7731,
+                "topic": "Forge Lies",
+                "verses": "7:38, 3:62, 6:22, 6:94, 10:18, 11:19, 61:8"
+            },
+            {
+                "id": 7844,
+                "topic": "Friends: <i>Auliya’</i>",
+                "verses": "43:68, 4:77, 5:82, 7:4, 7:28, 8:73-74, 9:71, 14:32, 18:103, 46:33"
+            },
+            {
+                "id": 7902,
+                "topic": "Friends: <i>Auliya’</i>: of Allah",
+                "verses": "43:68, 10:63, 11:21, 11:114, 13:17, 17:98, 18:51, 18:103, 25:19, 29:42, 39:4, 42:7, 42:10, 42:47, 45:11, 45:20, 60:2"
+            },
+            {
+                "id": 9550,
+                "topic": "Israelites: belief of",
+                "verses": "3:94, 5:70, 2:63, 4:161, 5:45, 6:147, 16:119, 22:18"
+            },
+            {
+                "id": 12482,
+                "topic": "Muhammad<sup>(sa)</sup>: invoking Allah’s curse",
+                "verses": "3:62"
+            },
+            {
+                "id": 18095,
+                "topic": "Truthful: <i>Sadiq</i>: if you are",
+                "verses": "2:178, 2:24, 2:95, 2:112, 3:94, 3:169, 3:184, 6:41, 6:144, 7:71, 7:107, 7:195, 10:39, 10:49, 11:14, 11:33, 15:8, 21:39, 26:155, 26:188, 27:65, 27:72, 28:50, 32:29, 34:30, 36:49, 40:29, 37:158, 45:26, 46:23, 49:16, 49:18, 56:88, 68:42"
+            }
+        ],
+        "ar": "قُلۡ یٰۤاَیُّہَا  الَّذِیۡنَ ہَادُوۡۤا  اِنۡ  زَعَمۡتُمۡ اَنَّکُمۡ  اَوۡلِیَآءُ  لِلّٰہِ  مِنۡ  دُوۡنِ النَّاسِ فَتَمَنَّوُا الۡمَوۡتَ  اِنۡ کُنۡتُمۡ صٰدِقِیۡنَ ﴿۷﴾ ",
+        "ur": "تو کہہ دے کہ اے لوگو جو یہودی ہوئے ہو! اگر تم یہ گمان کرتے ہو کہ سب لوگوں کے سوا ایک تم ہی اللہ کے دوست ہو تو موت کی تمنّا کرو، اگر تم سچّے ہو۔",
+        "v5": {
+            "text": "Say, ‘O ye who are Jews, if you claim you are the friends of Allah to the exclusion of <i>all</i> other people, then wish for Death, if <i>indeed</i> you are truthful[a].’[4239]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:95."
+                },
+                {
+                    "ref": "4239",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse shows that the Promised Messiah will challenge the Muslim ulema who will reject his claim to مباھله i.e. a prayer contest in which Divine curse is invoked against those who forge lies against God (3:62).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 62,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 7731,
+                "topic": "Forge Lies",
+                "verses": "7:38, 3:62, 6:22, 6:94, 10:18, 11:19, 61:8"
+            },
+            {
+                "id": 12482,
+                "topic": "Muhammad<sup>(sa)</sup>: invoking Allah’s curse",
+                "verses": "3:62"
+            }
+        ],
+        "ar": "وَ لَا یَتَمَنَّوۡنَہٗۤ  اَبَدًۢا  بِمَا قَدَّمَتۡ اَیۡدِیۡہِمۡ ؕ وَ اللّٰہُ  عَلِیۡمٌۢ   بِالظّٰلِمِیۡنَ ﴿۸﴾ ",
+        "ur": "اور وہ ہرگز اس کی تمنّا نہیں کریں گے بسبب اس کے جو اُن کے ہاتھوں نے آگے بھیجا ہے۔ اور اللہ ظالموں کو خوب جانتا ہے۔",
+        "v5": {
+            "text": "[b]But they will never wish for it, because of that which their hands have sent on <i>before them</i>. And Allah knows well those who do wrong.[4240]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "2:96."
+                },
+                {
+                    "ref": "4240",
+                    "note": "<p><strong>Commentary:</strong></p><p>The reference in the verse seems to be to those Muslim ulema whom the Promised Messiah will invite to <i>Mubahalah</i>. Being convinced of the falsity of their position the ulema will refuse to accept the challenge.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 62,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 1495,
+                "topic": "Allah: every soul shall taste death",
+                "verses": "29:58, 2:97, 3:146, 3:186, 4:79, 21:36, 31:35, 33:17"
+            },
+            {
+                "id": 6137,
+                "topic": "Dead, Death: <i>Maut</i>: every soul shall taste of",
+                "verses": "29:58, 2:97, 3:146, 3:155, 3:186, 4:79, 21:35-36, 23:16, 29:43, 31:35, 33:17, 56:61, 80:22"
+            },
+            {
+                "id": 18237,
+                "topic": "Unseen: secret, hidden: Allah alone knows",
+                "verses": "2:4, 27:66-67, 2:34, 5:110, 5:117, 6:60, 6:74, 9:78, 9:94, 10:21, 11:124, 13:10, 16:78, 18:27, 23:93, 32:7, 34:4, 34:49, 35:39, 39:47, 49:19, 53:36, 59:23, 64:19, 72:27"
+            }
+        ],
+        "ar": "قُلۡ  اِنَّ الۡمَوۡتَ الَّذِیۡ تَفِرُّوۡنَ مِنۡہُ  فَاِنَّہٗ مُلٰقِیۡکُمۡ  ثُمَّ  تُرَدُّوۡنَ  اِلٰی عٰلِمِ الۡغَیۡبِ وَ الشَّہَادَۃِ  فَیُنَبِّئُکُمۡ  بِمَا کُنۡتُمۡ تَعۡمَلُوۡنَ ٪﴿۹﴾ ",
+        "ur": "تُو کہہ دے کہ یقیناً وہ موت جس سے تم بھاگ رہے ہو وہ یقیناً تمہیں آ لے گی۔ پھر تم غیب اور حاضر کا دائمی علم رکھنے والے کی طرف لوٹائے جاؤ گے۔ پس وہ تمہیں (اس کی) خبر دے گا جو تم کیا کرتے تھے۔",
+        "v5": {
+            "text": "Say, ‘The Death from which you flee will surely overtake you.[a] Then will you be returned unto Him Who knows the unseen and the seen, and He will inform you of what you had been doing.’",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:97; 4:79; 33:17."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 62,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 2248,
+                "topic": "Allah: remembrance of",
+                "verses": "13:29, 2:153, 2:204, 3:192, 4:104, 7:206, 8:46, 10:13, 24:38, 26:228, 29:46, 33:42, 39:10, 43:37, 57:17, 63:10, 73:9"
+            },
+            {
+                "id": 3913,
+                "topic": "Bai‘: trade",
+                "verses": "2:276, 2:255, 2:283, 9:111, 14:32, 24:38"
+            },
+            {
+                "id": 4072,
+                "topic": "Bargain",
+                "verses": "24:38"
+            },
+            {
+                "id": 5790,
+                "topic": "Friday: <i>Yaumul-Jumu‘ah</i>",
+                "verses": null
+            },
+            {
+                "id": 7833,
+                "topic": "Friday: <i>Yaumul-Jumu‘ah</i>",
+                "verses": null
+            },
+            {
+                "id": 15982,
+                "topic": "Sabbath: As-Sabt",
+                "verses": "2:66-67, 4:48, 4:155, 7:164, 16:125"
+            },
+            {
+                "id": 16089,
+                "topic": "Salah: enjoined",
+                "verses": "2:44, 2:84, 2:111, 2:133, 2:153, 2:154, 4:78, 4:104, 5:56, 6:73, 6:93, 6:163, 8:4, 9:71, 14:32, 20:133, 22:79, 23:3, 23:10, 24:57, 27:4, 31:5, 31:18, 70:24, 98:6"
+            },
+            {
+                "id": 16092,
+                "topic": "Salah: Friday",
+                "verses": null
+            }
+        ],
+        "ar": "یٰۤاَیُّہَا  الَّذِیۡنَ  اٰمَنُوۡۤا اِذَا نُوۡدِیَ لِلصَّلٰوۃِ مِنۡ یَّوۡمِ الۡجُمُعَۃِ  فَاسۡعَوۡا اِلٰی ذِکۡرِ اللّٰہِ  وَ ذَرُوا  الۡبَیۡعَ ؕ ذٰلِکُمۡ خَیۡرٌ  لَّکُمۡ   اِنۡ  کُنۡتُمۡ  تَعۡلَمُوۡنَ ﴿۱۰﴾ ",
+        "ur": "اے وہ لوگو جو ایمان لائے ہو! جب جمعہ کے دن کے ایک حصّہ میں نماز کے لئے بلایا جائے تو اللہ کے ذکر کی طرف جلدی کرتے ہوئے بڑھا کرو اور تجارت چھوڑ دیا کرو۔ یہ تمہارے لئے بہتر ہے اگر تم علم رکھتے ہو۔",
+        "v5": {
+            "text": "O ye who believe! when the call is made for Prayer on Friday, hasten to the remembrance of Allah, and leave off <i>all</i> business. That is better for you, if you only knew.[4241]",
+            "notes": [
+                {
+                    "ref": "4241",
+                    "note": "<p><strong>Commentary:</strong></p><p>In the previous verses mention was made of the Jews who rejected the Holy Prophet’s Message and who profaned their Sabbath and consequently incurred God’s displeasure. In the present verse, however, Muslims have been enjoined to be particularly careful about the obligatory Friday Prayer. Every people has a Sabbath and the Muslim Sabbath is Friday. As soon as call for Prayer is made all business is to cease and the Faithful should attend the mosque to listen to the Imam’s sermon (<i>khutbah</i>), which usually deals with some topical subject concerning the moral and social needs of the community and how to fulfil them.</p><p>As the <i>Surah</i> seems particularly to deal with the time of the Promised Messiah, the call for Friday Prayer may also signify his clarion call to Muslims to listen to his Message.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 62,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 2248,
+                "topic": "Allah: remembrance of",
+                "verses": "13:29, 2:153, 2:204, 3:192, 4:104, 7:206, 8:46, 10:13, 24:38, 26:228, 29:46, 33:42, 39:10, 43:37, 57:17, 63:10, 73:9"
+            },
+            {
+                "id": 4712,
+                "topic": "Bounty: seek Allah’s",
+                "verses": "5:3, 16:15, 17:13, 17:67, 30:24, 35:13, 45:13, 59:9, 73:21"
+            },
+            {
+                "id": 8070,
+                "topic": "Grace: <i>Fadl</i>: bestowed on believers",
+                "verses": "2:65, 3:104, 4:84, 4:114, 4:174, 4:176, 5:55, 14:41, 20:123, 24:11, 24:15, 24:21, 24:22, 27:17, 27:41, 34:11, 37:58, 42:27, 48:30, 49:9, 52:30, 57:22, 59:7, 59:9, 62:5, 68:3"
+            },
+            {
+                "id": 15517,
+                "topic": "Remember: Allah",
+                "verses": "2:153, 2:199, 2:201, 2:204, 2:232, 2:240, 3:42, 3:192, 4:104, 5:8, 5:12, 5:21, 7:70, 7:75, 7:206, 8:46, 13:29, 18:25, 20:15, 20:43, 24:38, 26:228, 29:46, 33:22, 33:36, 33:42, 35:4, 39:24, 43:14, 57:17, 63:10, 73:9, 76:26, 87:16"
+            },
+            {
+                "id": 15982,
+                "topic": "Sabbath: As-Sabt",
+                "verses": "2:66-67, 4:48, 4:155, 7:164, 16:125"
+            },
+            {
+                "id": 16092,
+                "topic": "Salah: Friday",
+                "verses": null
+            },
+            {
+                "id": 17337,
+                "topic": "Success: <i>Falah</i>, believers, obedient, shall achieve",
+                "verses": "3:201, 2:6, 2:190, 3:105, 3:131, 5:36, 5:91, 5:101, 7:9, 7:70, 7:158, 8:46, 9:88, 20:65, 22:78, 23:2, 23:103, 24:32, 24:52, 28:68, 30:39, 31:6, 59:10, 64:17, 87:15, 91:10"
+            }
+        ],
+        "ar": "فَاِذَا  قُضِیَتِ الصَّلٰوۃُ  فَانۡتَشِرُوۡا فِی الۡاَرۡضِ وَ ابۡتَغُوۡا مِنۡ فَضۡلِ اللّٰہِ وَ اذۡکُرُوا اللّٰہَ  کَثِیۡرًا  لَّعَلَّکُمۡ تُفۡلِحُوۡنَ ﴿۱۱﴾ ",
+        "ur": "پس جب نماز ادا کی جاچکی ہو تو زمین میں منتشر ہو جاؤ اور اللہ کے فضل میں سے کچھ تلاش کرو اور اللہ کو بکثرت یاد کرو تاکہ تم کامیاب ہو جاؤ۔",
+        "v5": {
+            "text": "And when the Prayer is finished, then disperse in the land and seek of Allah’s grace, and remember Allah much, that you may prosper[b].[4242]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "3:192; 4:104; 8:46."
+                },
+                {
+                    "ref": "4242",
+                    "note": "<p><strong>Commentary:</strong></p><p>Unlike Jewish or Christian Sabbath, the Muslim Sabbath is not a day of rest. Before the Friday Prayer and after it Muslims are exhorted to follow their daily avocations. The words \"of Allah’s grace,\" have generally been understood to mean \"doing business and earning one’s livelihood.\"</p>"
+                }
+            ]
+        }
+    }
+]

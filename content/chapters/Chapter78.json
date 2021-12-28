@@ -1,0 +1,1306 @@
+[
+    {
+        "ch": 78,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 18944,
+                "topic": "Yaumud-Din: Day of Judgment",
+                "verses": "1:4, 7:188, 15:36, 26:83, 33:64, 37:21, 38:79, 51:13, 56:57, 70:27, 74:47, 79:43, 82:16, 82:18-19, 83:12"
+            }
+        ],
+        "ar": "عَمَّ  یَتَسَآءَلُوۡنَ ۚ﴿۲﴾ ",
+        "ur": "وہ کس کے بارہ میں ایک دوسرے سے سوال کرتے ہیں؟",
+        "v5": {
+            "text": "About what do they question one another?",
+            "notes": null
+        }
+    },
+    {
+        "ch": 78,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 15618,
+                "topic": "Resurrection: day of",
+                "verses": "4:88, 2:213, 3:186, 11:104, 17:52, 17:98, 19:96, 20:16, 20:101-110, 21:48, 22:8, 22:10-11, 32:26, 39:48, 40:60, 68:43-44, 70:43-45, 75:2-14, 78:18-21, 80:34-43, 88:2-17"
+            },
+            {
+                "id": 18944,
+                "topic": "Yaumud-Din: Day of Judgment",
+                "verses": "1:4, 7:188, 15:36, 26:83, 33:64, 37:21, 38:79, 51:13, 56:57, 70:27, 74:47, 79:43, 82:16, 82:18-19, 83:12"
+            }
+        ],
+        "ar": "عَنِ النَّبَاِ  الۡعَظِیۡمِ ۙ﴿۳﴾ ",
+        "ur": "ایک بہت بڑی خبر کے بارہ میں۔",
+        "v5": {
+            "text": "[b]<i>It is</i> about the great Event,[4525]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "38:68."
+                },
+                {
+                    "ref": "4525",
+                    "note": "<p><strong>Important Words:</strong></p><p>النبأ (the great Event) among other things means, an announcement of great utility which results either in great knowledge or predominance of opinion and which inspires awe and makes the heart tremble with fear (Lane, Kulliyyat &amp; Raghib).</p><p><strong>Commentary:</strong></p><p>The addition of the qualifying word العظیم (great) to النبأ which itself means, a great news or event, bespeaks of the tremendous import of the event referred to here. The words النبأ العظیم are taken to signify either the Day of Reckoning or the predominance of the Quran over all revealed Scriptures and that of Islam over other Faiths and religious systems. The disbelievers (the verse purports to say) persuade themselves to believe that the predicted event will never take place. So they ask half-mockingly and half in doubt, when that event, so loudly proclaimed, will happen.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 5812,
+                "topic": "Day of Reckoning: <i>Yaumul-Hisab</i>",
+                "verses": "38:17, 14:42, 38:27, 38:54, 39:25, 39:60, 40:28, 46:21, 58:19, 80:37, 83:6, 111:4"
+            },
+            {
+                "id": 15618,
+                "topic": "Resurrection: day of",
+                "verses": "4:88, 2:213, 3:186, 11:104, 17:52, 17:98, 19:96, 20:16, 20:101-110, 21:48, 22:8, 22:10-11, 32:26, 39:48, 40:60, 68:43-44, 70:43-45, 75:2-14, 78:18-21, 80:34-43, 88:2-17"
+            }
+        ],
+        "ar": "الَّذِیۡ ہُمۡ  فِیۡہِ  مُخۡتَلِفُوۡنَ ؕ﴿۴﴾ ",
+        "ur": "(یہ) وہی (خبر) ہے جس کے متعلق وہ آپس میں اختلاف کر رہے ہیں۔",
+        "v5": {
+            "text": "[c]Concerning which they differ.[4526]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "38:69-70."
+                },
+                {
+                    "ref": "4526",
+                    "note": "<p><strong>Commentary:</strong></p><p>The disbelievers do not believe that there will ever be a Day of Reckoning, or that Islam will ever predominate over other religions. Or the verse may mean that they hold divergent views about these things. Some of them call the Quran a jumble of ancient stories, others dub it as magic, yet others say that it is a forgery or at best the creation of the Holy Prophet’s own heated imagination. About the Holy Prophet also their views differ. Some call him a mad man, others a magician, and yet others a poet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 5,
+        "v_": 4,
+        "topics": [],
+        "ar": "کَلَّا  سَیَعۡلَمُوۡنَ ۙ﴿۵﴾ ",
+        "ur": "خبردار! وہ ضرور جان لیں گے۔",
+        "v5": {
+            "text": "Nay, soon they will come to know.[d]",
+            "notes": [
+                {
+                    "ref": "d",
+                    "note": "102:4-5."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 6,
+        "v_": 5,
+        "topics": [],
+        "ar": "ثُمَّ  کَلَّا  سَیَعۡلَمُوۡنَ ﴿۶﴾ ",
+        "ur": "پھر خبردار! وہ ضرور جان لیں گے۔",
+        "v5": {
+            "text": "Nay, <i>We say it</i> again, they will soon come to know.[4527]",
+            "notes": [
+                {
+                    "ref": "4527",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means that disbelievers are indulging in wild conjectures about the Resurrection, the Quran, and about the Holy Prophet’s future. But time will show that they suffered from illusions, and that the Holy Prophet was bound to succeed in his mission and, as a corollary, that what the Quran has said about the Day of Reckoning is also sure to happen.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 5395,
+                "topic": "Cradle: <i>Mahd</i>, bed, resting place",
+                "verses": "3:47, 2:207, 5:111, 7:42, 13:19, 19:30, 20:54, 38:57, 43:11"
+            },
+            {
+                "id": 6894,
+                "topic": "Earth: <i>Al-Ard</i>: abode on",
+                "verses": "2:30-31, 2:23, 2:37, 4:98, 4:101, 7:25, 11:62, 13:4, 15:20, 27:62, 40:65, 43:11, 50:8, 51:49, 55:11, 67:16, 71:20, 79:31"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            },
+            {
+                "id": 16341,
+                "topic": "Science: mountains",
+                "verses": "21:32, 15:20, 27:62, 31:11, 79:33, 88:20-21"
+            }
+        ],
+        "ar": "اَلَمۡ  نَجۡعَلِ الۡاَرۡضَ مِہٰدًا ۙ﴿۷﴾ ",
+        "ur": "کیا ہم نے زمین کو بچھونا نہیں بنایا؟",
+        "v5": {
+            "text": "[a]Have We not made the earth as a bed,",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:23; 20:54; 27:62; 51:49."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            },
+            {
+                "id": 12198,
+                "topic": "Mountains: <i>Jibal</i>: created for man",
+                "verses": "16:16, 13:4, 15:20, 21:32, 22:19, 24:44, 27:62, 31:11, 35:28, 41:11, 50:8, 77:28, 79:33, 88:20"
+            },
+            {
+                "id": 16341,
+                "topic": "Science: mountains",
+                "verses": "21:32, 15:20, 27:62, 31:11, 79:33, 88:20-21"
+            }
+        ],
+        "ar": "وَّ  الۡجِبَالَ  اَوۡتَادًا ﴿۪ۙ۸﴾ ",
+        "ur": "اور پہاڑوں کو پیوستہ میخوں کی طرح؟",
+        "v5": {
+            "text": "And the mountains as pegs?",
+            "notes": null
+        }
+    },
+    {
+        "ch": 78,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 1949,
+                "topic": "Allah: made for you mates",
+                "verses": "16:73, 4:2, 7:190, 30:22, 35:12, 36:37, 39:7, 42:12, 43:13, 51:50, 53:46, 75:40, 92:4"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            },
+            {
+                "id": 17163,
+                "topic": "Spouse: <i>Zauj</i>: created in pairs",
+                "verses": "2:26, 36:37, 11:41, 13:4, 20:54, 23:28, 37:23, 42:12, 43:13, 51:50, 53:46"
+            }
+        ],
+        "ar": "وَّ  خَلَقۡنٰکُمۡ   اَزۡوَاجًا ۙ﴿۹﴾ ",
+        "ur": "اور تمہیں ہم نے جوڑا جوڑا پیدا کیا۔",
+        "v5": {
+            "text": "[b]And We have created you in pairs,[4528]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "36:37; 51:50; 75:40; 92:4."
+                },
+                {
+                    "ref": "4528",
+                    "note": "<p><strong>Commentary:</strong></p><p>In these verses (vv. 7-9) we are told that God has created the earth and in it all physical needs of man have been provided, and that He has created the mountains which constitute a storehouse of mineral wealth and serve as great reservoirs of water, and that God has created for man his mate in order that his progeny may continue. This shows that man’s life for whose sake all this machinery has been made is not without a definite purpose and that death is not the end of man; it is followed by a better and fuller life where human soul will make everlasting progress.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            },
+            {
+                "id": 16938,
+                "topic": "Sleep: <i>Naum</i>",
+                "verses": "3:56, 2:256, 3:155, 6:97, 25:48, 30:24, 39:43"
+            }
+        ],
+        "ar": "وَّ  جَعَلۡنَا نَوۡمَکُمۡ سُبَاتًا ۙ﴿۱۰﴾ ",
+        "ur": "اور تمہاری نیند کو ہم نے موجبِ تسکین بنایا۔",
+        "v5": {
+            "text": "And We have made your sleep for rest,[4529]",
+            "notes": [
+                {
+                    "ref": "4529",
+                    "note": "<p><strong>Important Words:</strong></p><p>سبات (rest) is derived from سبت which means, he rested; he abstained from work. سبات signifies rest and hence sleep, or light or heavy sleep. It also means, a period; a long period, being syn. with دھر (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>Nations and communities, after undergoing heavy sacrifices are disposed to take rest. Consequently there comes upon them a period of forgetfulness. This period is sometimes very long. Then a Divine Reformer appears and they are required again to make sacrifices for the cause of truth. Thus the circle continues. In fact, سبات (rest) is a great Divine gift. After a day’s hard work, sleep gives rest to man’s jaded nerves and tired limbs, and thus he is refreshed and replenished for the next day’s work.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 7942,
+                "topic": "Garments",
+                "verses": "74:2, 2:188, 7:27-28, 14:51, 16:82, 22:24, 25:48, 33:60, 35:34, 76:13"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            },
+            {
+                "id": 12974,
+                "topic": "Night",
+                "verses": "2:52, 2:188, 7:143, 74:34, 81:18, 84:18, 91:5, 93:3"
+            }
+        ],
+        "ar": "وَّ  جَعَلۡنَا الَّیۡلَ  لِبَاسًا ﴿ۙ۱۱﴾ ",
+        "ur": "اور رات کو ہم نے ایک لباس بنایا۔",
+        "v5": {
+            "text": "[c]And We have made the night as a covering,[4529A]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "6:97; 25:48; 28:74."
+                },
+                {
+                    "ref": "4529A",
+                    "note": "<p><strong>Commentary:</strong></p><p>As it is difficult to distinguish between different things in the darkness of night, similarly, in the period of spiritual darkness, before the advent of a Divine Reformer, good and bad people remain mixed up, and it is after a Reformer’s appearance that the good people are separated from the bad people.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 12,
+        "v_": 11,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            }
+        ],
+        "ar": "وَّ  جَعَلۡنَا النَّہَارَ  مَعَاشًا ﴿۪۱۲﴾ ",
+        "ur": "اور دن کو ہم نے معاش کا ایک ذریعہ بنایا ہے۔",
+        "v5": {
+            "text": "[a]And We have made the day for the pursuits of life.[4530]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "17:13; 28:74."
+                },
+                {
+                    "ref": "4530",
+                    "note": "<p><strong>Commentary:</strong></p><p>Just as man’s body regains new vigour and strength after restful sleep at night, similarly, after a long period of sloth and inertia in relation to spiritual matters a people become invigorated to make new sacrifices when a Divine Reformer appears among them.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 13,
+        "v_": 12,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 5325,
+                "topic": "Cosmology",
+                "verses": "79:28-31, 21:31, 35:42, 50:7, 81:12, 84:4"
+            },
+            {
+                "id": 8652,
+                "topic": "Heaven: <i>Sama’</i>: as a roof",
+                "verses": "21:33, 2:20, 2:23, 13:3, 22:66, 31:11, 40:65, 52:6, 79:29, 88:19"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            },
+            {
+                "id": 16580,
+                "topic": "Seven: or Seventy",
+                "verses": "31:28, 2:30, 2:197, 2:262, 7:156, 9:80, 12:44, 12:47-49, 15:45, 15:88, 18:23, 23:18, 69:8, 69:33"
+            },
+            {
+                "id": 16949,
+                "topic": "Solar System",
+                "verses": "36:41, 2:190, 21:31-34, 30:26, 36:40, 41:13, 55:6, 65:13, 67:4-5, 75:10, 79:28-31, 91:2-7"
+            }
+        ],
+        "ar": "وَّ  بَنَیۡنَا فَوۡقَکُمۡ  سَبۡعًا شِدَادًا ﴿ۙ۱۳﴾ ",
+        "ur": "اور ہم نے تمہارے اُوپر سات بہت مضبوط آسمان بنائے۔",
+        "v5": {
+            "text": "[b]And We have built above you seven strong <i>heavens</i>;[4531]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "23:18."
+                },
+                {
+                    "ref": "4531",
+                    "note": "<p><strong>Commentary:</strong></p><p>The reference in the verse seemingly being to the seven major planets of the solar system, of which the sun is the centre, the verse means that the fact that God has created such a vast, complex and flawless system for the service of man inevitably leads to the conclusion that man has been placed on the earth to serve a specific, albeit a very noble and sublime purpose. Seven heavens may also refer to seven stages of spiritual development of man mentioned in <i>Surah</i> Al-Mu’minun.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 14,
+        "v_": 13,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 5325,
+                "topic": "Cosmology",
+                "verses": "79:28-31, 21:31, 35:42, 50:7, 81:12, 84:4"
+            },
+            {
+                "id": 10358,
+                "topic": "Lamp: <i>Misbah</i>",
+                "verses": "24:36, 25:62, 33:47, 71:17"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            },
+            {
+                "id": 17378,
+                "topic": "Sun: and Moon",
+                "verses": "25:62, 2:190, 6:97, 7:55, 10:6, 13:3, 14:34, 16:13, 21:34, 22:19, 25:46-47, 31:30, 35:14, 36:39-41, 39:6, 41:38, 55:6, 71:17, 75:8-10, 84:17-19, 91:2-3"
+            }
+        ],
+        "ar": "وَّ  جَعَلۡنَا سِرَاجًا وَّہَّاجًا  ﴿۪ۙ۱۴﴾",
+        "ur": "اور ہم نے ایک تیز چمکتا ہوا چراغ بنایا۔",
+        "v5": {
+            "text": "And We have made <i>the sun</i> a bright lamp.[4532]",
+            "notes": [
+                {
+                    "ref": "4532",
+                    "note": "<p><strong>Important Words:</strong></p><p>وھاج (bright) is derived from وھج. They say وھجت النار i.e. the fire burned or blazed. یوم وھج means, a hot day. وھاج means, burning very brightly; very hot; very shining (Lane &amp; Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 15,
+        "v_": 14,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            },
+            {
+                "id": 18489,
+                "topic": "Water: <i>Ma’</i>: sent from heaven",
+                "verses": "16:11-12, 2:23, 2:165, 6:100, 7:58, 8:12, 10:25, 13:18, 14:33, 15:23, 16:66, 18:46, 22:6, 22:64, 23:19, 27:61, 30:25, 32:28, 35:28, 37:68, 38:58, 39:22, 41:40, 43:12, 50:10, 55:45, 88:6"
+            }
+        ],
+        "ar": "وَّ اَنۡزَلۡنَا مِنَ الۡمُعۡصِرٰتِ مَآءً  ثَجَّاجًا ﴿ۙ۱۵﴾ ",
+        "ur": "اور ہم نے لبریز بادلوں سے موسلادھار پانی برسایا۔",
+        "v5": {
+            "text": "[c]And We send down from the dripping clouds water pouring forth abundantly,[4533]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "6:7; 71:12; 80:26."
+                },
+                {
+                    "ref": "4533",
+                    "note": "<p><strong>Important Words:</strong></p><p>المعصرات (the dripping clouds) is derived from عصر which means, he pressed or squeezed the thing so as to force out its juice, etc. he aided or succoured or saved or preserved someone; he did some benefit to someone. They say أعصر السحاب i.e. the clouds were at the point of having rain pressed forth from them by the winds (Lane &amp; Aqrab).</p><p>ثجاج (pouring forth abundantly) is derived from ثج. They say ثج الماء i.e. the water flowed or poured forth vehemently or much. مطر ثجاج means, rain pouring forth vehemently or much (Lane).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 16,
+        "v_": 15,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 5312,
+                "topic": "Corn: <i>Habbah</i>",
+                "verses": "12:44, 2:262, 12:47-50, 13:5, 16:12, 55:13, 80:28"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            },
+            {
+                "id": 18281,
+                "topic": "Vegetation",
+                "verses": "6:100, 7:59, 18:46, 20:54, 22:6, 57:21"
+            }
+        ],
+        "ar": "لِّنُخۡرِجَ بِہٖ حَبًّا وَّ  نَبَاتًا ﴿ۙ۱۶﴾ ",
+        "ur": "تاکہ ہم اُس سے اناج اور نباتات اُگائیں۔",
+        "v5": {
+            "text": "[d]That We may bring forth thereby grain and vegetation,",
+            "notes": [
+                {
+                    "ref": "d",
+                    "note": "80:28-29."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 17,
+        "v_": 16,
+        "topics": [
+            {
+                "id": 1569,
+                "topic": "Allah: favours of",
+                "verses": "31:32, 2:23, 31:32, 2:23, 6:100, 6:142, 7:55, 13:3-5, 13:18, 14:33-35, 15:20-23, 16:6-17, 16:67-70, 16:72-73, 16:79, 16:81-82, 17:21, 20:54-55, 21:32-34, 22:64, 22:66, 23:20-23, 27:62-64, 31:21, 35:13, 35:28, 36:35, 40:62, 40:65, 40:80-81, 43:11-14, 45:13-14, 51:49, 55:17, 56:65, 56:69, 56:72, 67:24, 71:17-21, 77:28"
+            },
+            {
+                "id": 10753,
+                "topic": "Man: abode on earth",
+                "verses": "7:25-26, 2:30, 7:11, 15:20-21, 20:56, 71:12-13, 71:18-19, 80:19-23"
+            },
+            {
+                "id": 13541,
+                "topic": "Paradise: <i>Jannah</i>: earthly",
+                "verses": "2:36, 2:266-267, 6:100, 6:142, 13:5, 17:92, 18:33, 18:34, 18:36, 18:40, 18:41, 25:9, 26:58, 26:135, 26:148, 34:16, 50:10, 55:47, 68:18, 71:13"
+            }
+        ],
+        "ar": "وَّ  جَنّٰتٍ اَلۡفَافًا ﴿ؕ۱۷﴾ ",
+        "ur": "اور گھنے باغات۔",
+        "v5": {
+            "text": "[a]And gardens of luxuriant growth.[4534]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "80:30-31."
+                },
+                {
+                    "ref": "4534",
+                    "note": "<p><strong>Commentary:</strong></p><p>In these verses (7-17) some of the basic Divine bounties on which man’s physical sustenance mainly depends have been mentioned, the implication being that God Who has made such adequate arrangement for the physical sustenance of man could not have omitted to make a similar provision for his spiritual sustenance. The verses also point to a striking parallelism between the physical and the spiritual universes. Just as the sun is the centre of the whole solar system, similarly the Holy Prophet is the pivotal point of the spiritual universe. Like the physical universe the spiritual universe has its \"earth\", \"mountains\", \"rivers\", etc.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 18,
+        "v_": 17,
+        "topics": [
+            {
+                "id": 5773,
+                "topic": "Day of Decision: <i>Yaumul-Fasl</i>",
+                "verses": "44:41, 37:22, 77:14-15, 77:39"
+            },
+            {
+                "id": 15619,
+                "topic": "Resurrection: day of",
+                "verses": "4:88, 2:213, 3:186, 11:104, 17:52, 17:98, 19:96, 20:16, 20:101-110, 21:48, 22:8, 22:10-11, 32:26, 39:48, 40:60, 68:43-44, 70:43-45, 75:2-14, 78:3-4, 80:34-43, 88:2-17"
+            }
+        ],
+        "ar": "اِنَّ  یَوۡمَ  الۡفَصۡلِ کَانَ مِیۡقَاتًا ﴿ۙ۱۸﴾ ",
+        "ur": "یقیناً فیصلے کا دن ایک مقرر ہ وقت ہے۔",
+        "v5": {
+            "text": "Surely, the Day of Decision has an appointed time:[4435]",
+            "notes": [
+                {
+                    "ref": "4435",
+                    "note": "<p><strong>Commentary:</strong></p><p>\"The Day of Decision\" may signify the Day of Resurrection or the day of the final and complete triumph of Truth and the utter defeat, discomfiture and destruction of the forces of darkness—the day of the Fall of Mecca which was the centre and citadel of idolatry in Arabia.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 19,
+        "v_": 18,
+        "topics": [
+            {
+                "id": 9521,
+                "topic": "Islam: triumph of",
+                "verses": "110:2-4, 9:33, 13:42, 17:82, 21:45"
+            },
+            {
+                "id": 15619,
+                "topic": "Resurrection: day of",
+                "verses": "4:88, 2:213, 3:186, 11:104, 17:52, 17:98, 19:96, 20:16, 20:101-110, 21:48, 22:8, 22:10-11, 32:26, 39:48, 40:60, 68:43-44, 70:43-45, 75:2-14, 78:3-4, 80:34-43, 88:2-17"
+            },
+            {
+                "id": 17928,
+                "topic": "Trumpet: <i>Sur</i>",
+                "verses": "23:102, 6:74, 18:100, 20:103, 27:88, 36:52, 39:69, 50:21, 69:14"
+            }
+        ],
+        "ar": "یَّوۡمَ  یُنۡفَخُ فِی الصُّوۡرِ فَتَاۡتُوۡنَ اَفۡوَاجًا ﴿ۙ۱۹﴾ ",
+        "ur": "جس دن صور میں پھونکا جائے گا اور تم فوج در فوج آؤگے۔",
+        "v5": {
+            "text": "[b]The day when the trumpet will be blown; and you will come in large groups;[4536]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "18:100; 20:103; 27:88; 36:52."
+                },
+                {
+                    "ref": "4536",
+                    "note": "<p><strong>Commentary:</strong></p><p>On the day of the Fall of Mecca the Quraish, as if by the blowing of the trumpet, were gathered before the Holy Prophet, before whom they placed their request that their tyrannies and transgressions might be forgiven and they might be accepted into the fold of Islam.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 20,
+        "v_": 19,
+        "topics": [
+            {
+                "id": 5915,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: face of disbelievers on the",
+                "verses": "37:21, 67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:15, 73:19, 75:9-10, 75:25, 77:10-11, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 99:2-7, 101:5"
+            },
+            {
+                "id": 6698,
+                "topic": "Door: <i>Bab</i>",
+                "verses": "2:190, 7:41, 7:162, 12:24, 12:26, 13:24-25, 15:44-45, 16:30, 23:78, 38:50-51, 39:72-73, 40:77, 43:35, 54:12, 57:14"
+            },
+            {
+                "id": 8542,
+                "topic": "Heaven: <i>Sama’</i>",
+                "verses": "2:36, 21:17, 21:31, 22:66, 50:7, 51:8, 51:48, 55:88, 67:4, 81:12"
+            },
+            {
+                "id": 9521,
+                "topic": "Islam: triumph of",
+                "verses": "110:2-4, 9:33, 13:42, 17:82, 21:45"
+            },
+            {
+                "id": 15619,
+                "topic": "Resurrection: day of",
+                "verses": "4:88, 2:213, 3:186, 11:104, 17:52, 17:98, 19:96, 20:16, 20:101-110, 21:48, 22:8, 22:10-11, 32:26, 39:48, 40:60, 68:43-44, 70:43-45, 75:2-14, 78:3-4, 80:34-43, 88:2-17"
+            }
+        ],
+        "ar": "وَّ فُتِحَتِ السَّمَآءُ   فَکَانَتۡ اَبۡوَابًا ﴿ۙ۲۰﴾ ",
+        "ur": "اور آسمان کھول دیا جائے گا پس وہ کئی دروازوں والا ہو جائے گا۔",
+        "v5": {
+            "text": "And the heaven shall be opened and shall become <i>all</i> doors;[4537]",
+            "notes": [
+                {
+                    "ref": "4537",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means that at that time heavenly signs will be shown in large numbers in support of the righteous, and to the confusion of the wrongdoers.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 21,
+        "v_": 20,
+        "topics": [
+            {
+                "id": 5915,
+                "topic": "Day of Requital: Resurrection, <i>Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th</i>: face of disbelievers on the",
+                "verses": "37:21, 67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:15, 73:19, 75:9-10, 75:25, 77:10-11, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 99:2-7, 101:5"
+            },
+            {
+                "id": 9521,
+                "topic": "Islam: triumph of",
+                "verses": "110:2-4, 9:33, 13:42, 17:82, 21:45"
+            },
+            {
+                "id": 12184,
+                "topic": "Mountains: <i>Jibal</i>: chieftains, tribes",
+                "verses": "13:32, 18:48, 19:91, 20:106, 21:80, 27:89, 34:11, 38:19, 52:11, 77:11, 81:4"
+            },
+            {
+                "id": 12212,
+                "topic": "Mountains: <i>Jibal</i>: prophecies of latter days",
+                "verses": "18:48, 20:106, 27:89, 52:11, 56:7, 69:15, 70:10, 73:15, 77:11, 81:4, 101:6"
+            },
+            {
+                "id": 15619,
+                "topic": "Resurrection: day of",
+                "verses": "4:88, 2:213, 3:186, 11:104, 17:52, 17:98, 19:96, 20:16, 20:101-110, 21:48, 22:8, 22:10-11, 32:26, 39:48, 40:60, 68:43-44, 70:43-45, 75:2-14, 78:3-4, 80:34-43, 88:2-17"
+            }
+        ],
+        "ar": "وَّ  سُیِّرَتِ الۡجِبَالُ فَکَانَتۡ  سَرَابًا ﴿ؕ۲۱﴾ ",
+        "ur": "اور پہاڑ چلائے جائیں گے اور وہ نشیب کی طرف متحرک ہو جائیں گے۔",
+        "v5": {
+            "text": "[c]And the mountains shall be made to move and shall become <i>as if they were</i> a mirage.[4538]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "18:48; 52:11; 81:4."
+                },
+                {
+                    "ref": "4538",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse signifies that men of power and position will lose their authority or influence; or that before the onrush of the conquests of Islam, great and firmly established empires will crumble like mounds of loose sand and will disappear so completely that it would seem that their erstwhile existence was only an optical illusion.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 22,
+        "v_": 21,
+        "topics": [
+            {
+                "id": 8726,
+                "topic": "Hell: <i>Jahannam</i>: for disbelievers, hypocrites, idolaters",
+                "verses": "19:69, 29:55, 2:25, 2:40, 2:127, 2:258, 3:11, 3:13, 3:132, 4:141, 4:146, 5:73, 8:37, 19:87, 25:12, 38:60, 41:20, 44:48, 67:7, 79:37, 83:16-18, 88:5, 89:24, 98:7"
+            }
+        ],
+        "ar": "اِنَّ  جَہَنَّمَ  کَانَتۡ مِرۡصَادًا ﴿۪ۙ۲۲﴾ ",
+        "ur": "یقیناً دوزخ گھات میں ہے۔",
+        "v5": {
+            "text": "Surely, Hell lies in ambush,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 78,
+        "v": 23,
+        "v_": 22,
+        "topics": [
+            {
+                "id": 8872,
+                "topic": "Hell: <i>Jahannam</i>: wretched abode",
+                "verses": "19:69, 13:19, 2:207, 14:17-18, 14:30, 15:44-45, 18:30, 25:13-14, 25:66-67, 48:7, 67:8, 74:27-30, 78:25-26, 88:5"
+            }
+        ],
+        "ar": "لِّلطَّاغِیۡنَ مَاٰبًا ﴿ۙ۲۳﴾ ",
+        "ur": "سرکشوں کے لئے لَوٹ کر جانے کی جگہ۔",
+        "v5": {
+            "text": "A home for the rebellious,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 78,
+        "v": 24,
+        "v_": 23,
+        "topics": [
+            {
+                "id": 8843,
+                "topic": "Hell: <i>Jahannam</i>: not eternal",
+                "verses": "19:69, 2:40, 11:107-9, 21:48"
+            }
+        ],
+        "ar": "لّٰبِثِیۡنَ فِیۡہَاۤ  اَحۡقَابًا ﴿ۚ۲۴﴾ ",
+        "ur": "وہ اس میں صدیوں (تک) رہنے والے ہوں گے۔",
+        "v5": {
+            "text": "[a]Who will tarry therein for ages.[4539]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "11:108."
+                },
+                {
+                    "ref": "4539",
+                    "note": "<p><strong>Important Words:</strong></p><p>أحقاب (Ages) is the plural of حقب which means, time; long time; a year or years; seventy years; eighty years or more (Lane &amp; Mufradat).</p><p><strong>Commentary:</strong></p><p>To continue the metaphor, the verse may refer to the long centuries when Islam was in ascendance and its enemies continued to burn in the fire of malice and envy at the uninterrupted progress and prosperity of Muslims.</p><p>As referring to the punishment of Hell, the verse signifies that though its duration will be very, very long yet it will not be eternal, the word أحقابا as shown under Important Words signifying a limited period of time, however, long.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 25,
+        "v_": 24,
+        "topics": [
+            {
+                "id": 6801,
+                "topic": "Drinks",
+                "verses": "2:61, 2:188, 2:250, 2:260, 6:71, 7:32, 9:19, 10:5, 12:42, 14:17, 15:23, 16:11, 16:67-68, 18:30, 19:27, 23:34, 25:50, 26:80, 35:13, 38:43, 38:52, 47:16, 52:20, 56:55-56, 56:69, 69:25, 72:17, 76:6, 76:18, 76:22, 77:28, 77:44, 83:26, 88:6"
+            },
+            {
+                "id": 8705,
+                "topic": "Hell: <i>Jahannam</i>: conditions in",
+                "verses": "19:69, 17:98, 3:107, 3:182, 6:71, 8:51, 10:28, 11:107, 14:17, 14:51, 15:45, 16:30, 18:30, 18:101, 19:72, 21:40, 21:101, 22:20-23, 23:105, 25:35, 26:92, 27:91, 32:21, 37:63, 38:58, 39:61, 39:72-73, 40:72-73, 44:44-47, 44:49, 47:16, 54:49, 55:45, 56:43-45, 56:53-55, 56:94, 67:8, 67:28, 69:33, 69:37, 76:5, 88:6-8, 102:7"
+            },
+            {
+                "id": 8873,
+                "topic": "Hell: <i>Jahannam</i>: wretched abode",
+                "verses": "19:69, 13:19, 2:207, 14:17-18, 14:30, 15:44-45, 18:30, 25:13-14, 25:66-67, 48:7, 67:8, 74:27-30, 78:23, 88:5"
+            }
+        ],
+        "ar": "لَا یَذُوۡقُوۡنَ فِیۡہَا بَرۡدًا  وَّ  لَا  شَرَابًا ﴿ۙ۲۵﴾ ",
+        "ur": "نہ وہ اُس میں کوئی ٹھنڈی چیز چکھیں گے نہ کوئی مشروب۔",
+        "v5": {
+            "text": "They will taste therein neither sleep nor drink,[4540]",
+            "notes": [
+                {
+                    "ref": "4540",
+                    "note": "<p><strong>Important Words:</strong></p><p>برد (sleep) is inf. noun from برد which means, he slept; he died; it became cool, etc. برد (<i>bardun</i>) means, coolness; pleasantness; enjoyment; comfort; ease; sleep (Lane &amp; Aqrab).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 26,
+        "v_": 25,
+        "topics": [
+            {
+                "id": 7945,
+                "topic": "Ghassaq: stinking",
+                "verses": "38:58"
+            },
+            {
+                "id": 8705,
+                "topic": "Hell: <i>Jahannam</i>: conditions in",
+                "verses": "19:69, 17:98, 3:107, 3:182, 6:71, 8:51, 10:28, 11:107, 14:17, 14:51, 15:45, 16:30, 18:30, 18:101, 19:72, 21:40, 21:101, 22:20-23, 23:105, 25:35, 26:92, 27:91, 32:21, 37:63, 38:58, 39:61, 39:72-73, 40:72-73, 44:44-47, 44:49, 47:16, 54:49, 55:45, 56:43-45, 56:53-55, 56:94, 67:8, 67:28, 69:33, 69:37, 76:5, 88:6-8, 102:7"
+            },
+            {
+                "id": 8873,
+                "topic": "Hell: <i>Jahannam</i>: wretched abode",
+                "verses": "19:69, 13:19, 2:207, 14:17-18, 14:30, 15:44-45, 18:30, 25:13-14, 25:66-67, 48:7, 67:8, 74:27-30, 78:23, 88:5"
+            },
+            {
+                "id": 18460,
+                "topic": "Water: <i>Ma’</i>: as punishment",
+                "verses": "38:58, 6:71, 7:51, 10:5, 14:17, 22:20, 37:68, 40:73, 44:47, 44:49, 47:16, 56:43, 56:55, 56:94"
+            }
+        ],
+        "ar": "اِلَّا  حَمِیۡمًا  وَّ  غَسَّاقًا ﴿ۙ۲۶﴾ ",
+        "ur": "سوائے ایک کھولتے ہوئے پانی اور زخموں کی بدبودار دھووَن کے۔",
+        "v5": {
+            "text": "[b]Save boiling water and a stinking fluid, intensely cold—[4541]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "6:71; 69:37."
+                },
+                {
+                    "ref": "4541",
+                    "note": "<p><strong>Important Words:</strong></p><p>غساق (stinking fluid intensely cold) means, ichor; the washings of wounds; intense cold that burns by reason of its coolness; cold and stinking. حمیم و غساق means, boiling fluid and intensely cold and stinking drink (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The turbulent pursuit of evil, and cold indifference towards virtue, of wrongdoers will take the form of boiling water and intensely cold and stinking drink.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 27,
+        "v_": 26,
+        "topics": [],
+        "ar": "جَزَآءً   وِّفَاقًا  ﴿ؕ۲۷﴾",
+        "ur": "یہ ایک مناسب حال جزا ہے۔",
+        "v5": {
+            "text": "A meet requital.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 78,
+        "v": 28,
+        "v_": 27,
+        "topics": [
+            {
+                "id": 15902,
+                "topic": "Rija’: hope, fear",
+                "verses": "10:8, 17:58, 4:105, 29:37, 33:52, 35:30, 45:15, 71:14"
+            }
+        ],
+        "ar": "اِنَّہُمۡ  کَانُوۡا  لَا  یَرۡجُوۡنَ  حِسَابًا ﴿ۙ۲۸﴾ ",
+        "ur": "وہ ہرگز کسی حساب کی توقع نہیں رکھتے تھے۔",
+        "v5": {
+            "text": "Verily, they feared not the reckoning,[4542]",
+            "notes": [
+                {
+                    "ref": "4542",
+                    "note": "<p><strong>Important Words:</strong></p><p>یرجعون (feared) is formed from رجا . They say رجا الشیء i.e. he hoped to get the thing; he feared the thing (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The disbelievers did not believe in the Hereafter where they would be rewarded for their good deeds and had no apprehensions that they would be punished for their evil actions. Thus they lacked both the motives—hope and fear—which prompt a man to do good, and refrain from bad, deeds.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 29,
+        "v_": 28,
+        "topics": [
+            {
+                "id": 16749,
+                "topic": "Signs: rejecters of",
+                "verses": "34:39, 2:40, 2:62, 3:113, 4:57, 6:22, 6:34, 6:40, 6:47, 6:69, 6:110-111, 7:37, 7:73, 7:104, 16:105, 17:60, 40:36, 64:7, 64:11, 68:16, 69:50, 74:17"
+            }
+        ],
+        "ar": "وَّ  کَذَّبُوۡا بِاٰیٰتِنَا کِذَّابًا ﴿ؕ۲۹﴾ ",
+        "ur": "اور اُنہوں نے ہماری آیات کو سختی سے جھٹلا دیا تھا۔",
+        "v5": {
+            "text": "[a]And rejected Our Signs totally.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "2:40; 7:36-37; 22:58; 30:17; 64:11."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 30,
+        "v_": 29,
+        "topics": [
+            {
+                "id": 3391,
+                "topic": "Attributes of Allah: Al-Muhsi (The Counter, Recorder)",
+                "verses": "18:50, 58:7"
+            }
+        ],
+        "ar": "وَ کُلَّ شَیۡءٍ  اَحۡصَیۡنٰہُ  کِتٰبًا ﴿ۙ۳۰﴾ ",
+        "ur": "اور ہر چیز کو ہم نے ایک کتاب کی صورت میں محفوظ کر رکھا ہے۔",
+        "v5": {
+            "text": "[b]And everything have We recorded in a Book.[4543]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "36:13."
+                },
+                {
+                    "ref": "4543",
+                    "note": "<p><strong>Commentary:</strong></p><p>Invention of television, wireless and other kindred instruments has established the fact that not only man’s actions but even his spoken words can be preserved and reproduced. See also 24:25 &amp; 36:66.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 31,
+        "v_": 30,
+        "topics": [],
+        "ar": "فَذُوۡقُوۡا  فَلَنۡ نَّزِیۡدَکُمۡ  اِلَّا عَذَابًا ﴿٪۳۱﴾ ",
+        "ur": "تو چکھو۔ پس ہم ہرگز تمہیں عذاب کے سوا کسی اور چیز میں نہیں بڑھائیں گے۔",
+        "v5": {
+            "text": "‘Taste ye therefore <i>the</i> <i>punishment</i>; We will give you no increase except in torment.’[4544]",
+            "notes": [
+                {
+                    "ref": "4544",
+                    "note": "<p><strong>Commentary:</strong></p><p>Divine punishment will continue to dog the footsteps of disbelievers. Punishments in various forms will be inflicted upon them one after the other. This is the meaning of the words: \"We will give you no increase except in torment.\"</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 32,
+        "v_": 31,
+        "topics": [
+            {
+                "id": 924,
+                "topic": "Afterlife: <i>Akhirah</i>: description of rewards in",
+                "verses": "36:56-59, 15:46-49, 44:52-58, 50:36, 52:18-29, 55:47-77, 56:13-38, 77:42-45, 83:23-29"
+            },
+            {
+                "id": 13518,
+                "topic": "Paradise: <i>Jannah</i>: description of",
+                "verses": "76:12-23, 2:26, 3:134, 7:43-44, 9:72, 13:25, 13:36, 15:46-49, 16:31-32, 18:32, 18:108-109, 19:62-63, 22:24, 25:17, 25:25, 25:76-77, 29:59, 30:16, 34:38, 35:34-36, 36:56-60, 37:41-50, 38:50-53, 39:21, 39:35, 40:41, 41:32, 42:23-28, 43:71-74, 44:52-56, 47:16, 50:36, 52:23, 52:24, 52:28, 55:47-78, 56:13-38, 57:22, 65:12, 69:22-25, 76:6-7, 77:42-43, 83:25-29, 88:11-17"
+            },
+            {
+                "id": 13650,
+                "topic": "Paradise: <i>Jannah</i>: rewards of, for the righteous men and women, the martyrs, the <i>muhajirun</i>, the patient, those who fear Allah, the penitent",
+                "verses": "18:32, 2:26, 3:16, 3:134, 3:196, 3:199, 4:14, 4:58, 5:66, 5:120, 7:44, 9:72, 9:100, 9:111, 10:10, 10:27, 11:109, 13:23-25, 13:36, 15:46-49, 16:33, 19:61-63, 21:102-104, 23:2-12, 25:76-77, 26:91, 32:20, 35:33-34, 35:36, 36:26-27, 37:42-50, 39:21, 40:41, 41:31-33, 43:69-74, 46:14-15, 47:5-7, 47:16, 48:18, 50:32-36, 52:18-28, 55:47-59, 55:63-79, 56:12-39, 56:89-90, 57:13, 57:22, 59:21, 61:12-13, 66:9, 66:12, 74:40-41, 76:6-7, 76:12-23, 77:42-5, 82:14, 83:23, 83:26-29, 88:9-17, 89:28-31"
+            },
+            {
+                "id": 15883,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 83:23, 98:8"
+            },
+            {
+                "id": 17313,
+                "topic": "Success: <i>Fauz</i>, <i>Ghalabah</i>",
+                "verses": "23:2, 3:186, 4:14, 4:74, 5:57, 9:1, 9:20, 9:72, 9:89, 9:100, 9:111, 10:10, 24:53, 33:72, 37:61, 39:62, 40:10, 47:6, 58:23, 59:10, 61:13"
+            },
+            {
+                "id": 17536,
+                "topic": "Taqwa: fear of God",
+                "verses": "2:3, 2:190, 2:197-198, 2:204, 2:213, 2:224, 2:232, 2:234, 2:238, 2:279, 2:283-284, 3:16, 3:51, 3:77, 3:103, 3:131, 3:201, 4:2, 4:10, 4:132, 5:3, 5:5, 5:8-9, 5:12, 5:36, 5:58, 5:89, 5:94, 5:97, 5:113, 6:70, 6:73, 7:27, 7:36, 7:66, 8:2, 8:70, 9:7, 9:108, 9:109, 11:79, 15:70, 20:133, 22:2, 22:33, 22:38, 26:109, 26:133, 26:185, 33:56, 33:71, 43:64, 47:18, 48:27, 49:4, 49:11, 49:13, 57:29, 58:10, 59:8, 59:19, 60:12, 65:2, 65:11, 74:57, 96:13"
+            }
+        ],
+        "ar": "اِنَّ  لِلۡمُتَّقِیۡنَ مَفَازًا ﴿ۙ۳۲﴾ ",
+        "ur": "یقیناً متقیوں کے لئے ایک بہت بڑی کامیابی (مقدر) ہے۔",
+        "v5": {
+            "text": "[c]Verily, for the righteous is a triumph:[4545]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "4:176; 13:30; 14:24; 30:16; 68:35."
+                },
+                {
+                    "ref": "4545",
+                    "note": "<p><strong>Important Words:</strong></p><p>مفاز (triumph) is derived from فاز which means, he gained what he wished or desired; he was successful; he gained the victory. فازبه means he attained, acquired or won it. فاز من مکروه means, he became safe and secure from what he disliked. مفازmeans victory; triumph, a place of safety or security; a cause or means of prosperity or success or of the attainment of that which he deserves; the state of safety. Contrarily it also means, a place of perdition (Lane).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 33,
+        "v_": 32,
+        "topics": [
+            {
+                "id": 924,
+                "topic": "Afterlife: <i>Akhirah</i>: description of rewards in",
+                "verses": "36:56-59, 15:46-49, 44:52-58, 50:36, 52:18-29, 55:47-77, 56:13-38, 77:42-45, 83:23-29"
+            },
+            {
+                "id": 13518,
+                "topic": "Paradise: <i>Jannah</i>: description of",
+                "verses": "76:12-23, 2:26, 3:134, 7:43-44, 9:72, 13:25, 13:36, 15:46-49, 16:31-32, 18:32, 18:108-109, 19:62-63, 22:24, 25:17, 25:25, 25:76-77, 29:59, 30:16, 34:38, 35:34-36, 36:56-60, 37:41-50, 38:50-53, 39:21, 39:35, 40:41, 41:32, 42:23-28, 43:71-74, 44:52-56, 47:16, 50:36, 52:23, 52:24, 52:28, 55:47-78, 56:13-38, 57:22, 65:12, 69:22-25, 76:6-7, 77:42-43, 83:25-29, 88:11-17"
+            },
+            {
+                "id": 13650,
+                "topic": "Paradise: <i>Jannah</i>: rewards of, for the righteous men and women, the martyrs, the <i>muhajirun</i>, the patient, those who fear Allah, the penitent",
+                "verses": "18:32, 2:26, 3:16, 3:134, 3:196, 3:199, 4:14, 4:58, 5:66, 5:120, 7:44, 9:72, 9:100, 9:111, 10:10, 10:27, 11:109, 13:23-25, 13:36, 15:46-49, 16:33, 19:61-63, 21:102-104, 23:2-12, 25:76-77, 26:91, 32:20, 35:33-34, 35:36, 36:26-27, 37:42-50, 39:21, 40:41, 41:31-33, 43:69-74, 46:14-15, 47:5-7, 47:16, 48:18, 50:32-36, 52:18-28, 55:47-59, 55:63-79, 56:12-39, 56:89-90, 57:13, 57:22, 59:21, 61:12-13, 66:9, 66:12, 74:40-41, 76:6-7, 76:12-23, 77:42-5, 82:14, 83:23, 83:26-29, 88:9-17, 89:28-31"
+            },
+            {
+                "id": 15883,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 83:23, 98:8"
+            }
+        ],
+        "ar": "حَدَآئِقَ وَ  اَعۡنَابًا ﴿ۙ۳۳﴾ ",
+        "ur": "باغات ہیں اور انگوروں کی بیلیں۔",
+        "v5": {
+            "text": "Walled gardens and grape-vines,[4546]",
+            "notes": [
+                {
+                    "ref": "4546",
+                    "note": "<p><strong>Commentary:</strong></p><p>حدائق being the plural of حدیقة which means, a garden surrounded by a wall or fence, the verse purports to say that as the righteous believers guarded themselves against sin and vice, their virtuous deeds will take the form of gardens protected by walls in the next life.</p><p>Among the paradisiacal blessings أعناب (grapevines) finds very frequent mention in the Quran. This is because grape is a delicious and substantial food, can be preserved for a long time, and causes intoxication. تقویٰ (righteousness) also possesses all these three characteristics. So grapevine is a fit reward for متقین (the righteous).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 34,
+        "v_": 33,
+        "topics": [
+            {
+                "id": 924,
+                "topic": "Afterlife: <i>Akhirah</i>: description of rewards in",
+                "verses": "36:56-59, 15:46-49, 44:52-58, 50:36, 52:18-29, 55:47-77, 56:13-38, 77:42-45, 83:23-29"
+            },
+            {
+                "id": 13475,
+                "topic": "Paradise: <i>Jannah</i>: chaste companions in",
+                "verses": "2:26, 3:16, 36:57, 37:49-50, 38:53, 44:55, 52:21, 52:25, 55:57, 55:59, 55:71, 55:73, 55:75, 56:18, 56:23-24, 56:35-38, 76:20"
+            },
+            {
+                "id": 13518,
+                "topic": "Paradise: <i>Jannah</i>: description of",
+                "verses": "76:12-23, 2:26, 3:134, 7:43-44, 9:72, 13:25, 13:36, 15:46-49, 16:31-32, 18:32, 18:108-109, 19:62-63, 22:24, 25:17, 25:25, 25:76-77, 29:59, 30:16, 34:38, 35:34-36, 36:56-60, 37:41-50, 38:50-53, 39:21, 39:35, 40:41, 41:32, 42:23-28, 43:71-74, 44:52-56, 47:16, 50:36, 52:23, 52:24, 52:28, 55:47-78, 56:13-38, 57:22, 65:12, 69:22-25, 76:6-7, 77:42-43, 83:25-29, 88:11-17"
+            },
+            {
+                "id": 13650,
+                "topic": "Paradise: <i>Jannah</i>: rewards of, for the righteous men and women, the martyrs, the <i>muhajirun</i>, the patient, those who fear Allah, the penitent",
+                "verses": "18:32, 2:26, 3:16, 3:134, 3:196, 3:199, 4:14, 4:58, 5:66, 5:120, 7:44, 9:72, 9:100, 9:111, 10:10, 10:27, 11:109, 13:23-25, 13:36, 15:46-49, 16:33, 19:61-63, 21:102-104, 23:2-12, 25:76-77, 26:91, 32:20, 35:33-34, 35:36, 36:26-27, 37:42-50, 39:21, 40:41, 41:31-33, 43:69-74, 46:14-15, 47:5-7, 47:16, 48:18, 50:32-36, 52:18-28, 55:47-59, 55:63-79, 56:12-39, 56:89-90, 57:13, 57:22, 59:21, 61:12-13, 66:9, 66:12, 74:40-41, 76:6-7, 76:12-23, 77:42-5, 82:14, 83:23, 83:26-29, 88:9-17, 89:28-31"
+            },
+            {
+                "id": 15883,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 83:23, 98:8"
+            }
+        ],
+        "ar": "وَّکَوَاعِبَ  اَتۡرَابًا ﴿ۙ۳۴﴾ ",
+        "ur": "اور ہم عُمر دوشیزائیں۔",
+        "v5": {
+            "text": "[a]And young maidens of equal age,[4547]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "56:38."
+                },
+                {
+                    "ref": "4547",
+                    "note": "<p><strong>Important Words:</strong></p><p>For أتراب see 56:38.</p><p>کواعب (young maidens) is the plural of کاعب or کاعبة which is derived from کعب. They say کعبت الجاریة i.e. the breasts of the girl began to swell or became prominent. کعب (<i>ka‘bun</i>) means, any joint; nobility; glory; eminence. أعلی الله کعبھم means, may God exalt their glory. ذھب کعبھم means, their glory departed. جاریة کاعب means, a girl whose breasts are beginning to swell (Aqrab &amp; Lane).</p><p><strong>Commentary:</strong></p><p>The righteous will have companions or wives possessing freshness and vigour of youth and enjoying eminent positions, being of noble descent, and fired with high and noble ambitions. Elsewhere (56:35) in the Quran the companions of the righteous have been described as فرش مرفوعة i.e. noble spouses. For a full discussion of the nature and significance of heavenly blessings, see <i>Surahs</i> Tur, Rahman and Waqi‘ah.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 35,
+        "v_": 34,
+        "topics": [
+            {
+                "id": 924,
+                "topic": "Afterlife: <i>Akhirah</i>: description of rewards in",
+                "verses": "36:56-59, 15:46-49, 44:52-58, 50:36, 52:18-29, 55:47-77, 56:13-38, 77:42-45, 83:23-29"
+            },
+            {
+                "id": 13518,
+                "topic": "Paradise: <i>Jannah</i>: description of",
+                "verses": "76:12-23, 2:26, 3:134, 7:43-44, 9:72, 13:25, 13:36, 15:46-49, 16:31-32, 18:32, 18:108-109, 19:62-63, 22:24, 25:17, 25:25, 25:76-77, 29:59, 30:16, 34:38, 35:34-36, 36:56-60, 37:41-50, 38:50-53, 39:21, 39:35, 40:41, 41:32, 42:23-28, 43:71-74, 44:52-56, 47:16, 50:36, 52:23, 52:24, 52:28, 55:47-78, 56:13-38, 57:22, 65:12, 69:22-25, 76:6-7, 77:42-43, 83:25-29, 88:11-17"
+            },
+            {
+                "id": 13650,
+                "topic": "Paradise: <i>Jannah</i>: rewards of, for the righteous men and women, the martyrs, the <i>muhajirun</i>, the patient, those who fear Allah, the penitent",
+                "verses": "18:32, 2:26, 3:16, 3:134, 3:196, 3:199, 4:14, 4:58, 5:66, 5:120, 7:44, 9:72, 9:100, 9:111, 10:10, 10:27, 11:109, 13:23-25, 13:36, 15:46-49, 16:33, 19:61-63, 21:102-104, 23:2-12, 25:76-77, 26:91, 32:20, 35:33-34, 35:36, 36:26-27, 37:42-50, 39:21, 40:41, 41:31-33, 43:69-74, 46:14-15, 47:5-7, 47:16, 48:18, 50:32-36, 52:18-28, 55:47-59, 55:63-79, 56:12-39, 56:89-90, 57:13, 57:22, 59:21, 61:12-13, 66:9, 66:12, 74:40-41, 76:6-7, 76:12-23, 77:42-5, 82:14, 83:23, 83:26-29, 88:9-17, 89:28-31"
+            },
+            {
+                "id": 15883,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 83:23, 98:8"
+            }
+        ],
+        "ar": "وَّ  کَاۡسًا دِہَاقًا ﴿ؕ۳۵﴾ ",
+        "ur": "اور چھلکتے ہوئے پیالے۔",
+        "v5": {
+            "text": "And overflowing cups.[4548]",
+            "notes": [
+                {
+                    "ref": "4548",
+                    "note": "<p><strong>Important Words:</strong></p><p>دھاق (overflowing) is derived from دھق. They say دھق الکأس i.e. he filled the cup. دھق الماء means, he vehemently poured the water. کأس دھاق means, a cup so full as to overflow (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The God-intoxicated pilgrim whose heart is so full of love of God as to overflow with it, will deservedly be given to drink cups, full of beverage that will add to spiritual intoxication which will not abate.</p><p>As life in the Hereafter will be a highly developed spiritual copy of the life of this world, therefore, the pleasures of that life have been described in words which we can understand. Otherwise the Quran says: \"No soul knows what joy of the eyes is kept hidden for them\" (32:18). And the Holy Prophet is reported to have said: \"No eye has seen them, nor has any ear heard of them, nor can any mind conceive them\" (Bukhari, <i>Kitab bad’ al-Khalq</i>).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 36,
+        "v_": 35,
+        "topics": [
+            {
+                "id": 924,
+                "topic": "Afterlife: <i>Akhirah</i>: description of rewards in",
+                "verses": "36:56-59, 15:46-49, 44:52-58, 50:36, 52:18-29, 55:47-77, 56:13-38, 77:42-45, 83:23-29"
+            },
+            {
+                "id": 10350,
+                "topic": "Laghw: vain",
+                "verses": "5:90, 2:226, 19:63, 23:4, 25:73, 28:56, 41:27, 52:24, 56:26, 88:12"
+            },
+            {
+                "id": 13518,
+                "topic": "Paradise: <i>Jannah</i>: description of",
+                "verses": "76:12-23, 2:26, 3:134, 7:43-44, 9:72, 13:25, 13:36, 15:46-49, 16:31-32, 18:32, 18:108-109, 19:62-63, 22:24, 25:17, 25:25, 25:76-77, 29:59, 30:16, 34:38, 35:34-36, 36:56-60, 37:41-50, 38:50-53, 39:21, 39:35, 40:41, 41:32, 42:23-28, 43:71-74, 44:52-56, 47:16, 50:36, 52:23, 52:24, 52:28, 55:47-78, 56:13-38, 57:22, 65:12, 69:22-25, 76:6-7, 77:42-43, 83:25-29, 88:11-17"
+            },
+            {
+                "id": 13650,
+                "topic": "Paradise: <i>Jannah</i>: rewards of, for the righteous men and women, the martyrs, the <i>muhajirun</i>, the patient, those who fear Allah, the penitent",
+                "verses": "18:32, 2:26, 3:16, 3:134, 3:196, 3:199, 4:14, 4:58, 5:66, 5:120, 7:44, 9:72, 9:100, 9:111, 10:10, 10:27, 11:109, 13:23-25, 13:36, 15:46-49, 16:33, 19:61-63, 21:102-104, 23:2-12, 25:76-77, 26:91, 32:20, 35:33-34, 35:36, 36:26-27, 37:42-50, 39:21, 40:41, 41:31-33, 43:69-74, 46:14-15, 47:5-7, 47:16, 48:18, 50:32-36, 52:18-28, 55:47-59, 55:63-79, 56:12-39, 56:89-90, 57:13, 57:22, 59:21, 61:12-13, 66:9, 66:12, 74:40-41, 76:6-7, 76:12-23, 77:42-5, 82:14, 83:23, 83:26-29, 88:9-17, 89:28-31"
+            },
+            {
+                "id": 15883,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 83:23, 98:8"
+            }
+        ],
+        "ar": "لَا یَسۡمَعُوۡنَ فِیۡہَا لَغۡوًا وَّ لَا کِذّٰبًا ﴿ۚ۳۶﴾ ",
+        "ur": "نہ وہ اُس میں کوئی لغو (بات) سُنیں گے اور نہ کوئی ادنیٰ سا جھوٹ۔",
+        "v5": {
+            "text": "[a]Therein they will hear no idle talk nor lying:",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "19:63; 52:24; 56:26."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 37,
+        "v_": 36,
+        "topics": [
+            {
+                "id": 924,
+                "topic": "Afterlife: <i>Akhirah</i>: description of rewards in",
+                "verses": "36:56-59, 15:46-49, 44:52-58, 50:36, 52:18-29, 55:47-77, 56:13-38, 77:42-45, 83:23-29"
+            },
+            {
+                "id": 9672,
+                "topic": "Jaza’: recompense: of believers, of righteous",
+                "verses": "2:63, 2:113, 2:263, 2:278, 3:145-146, 3:149, 3:172-173, 3:180, 3:196, 4:68, 4:75, 4:101, 4:115, 4:147, 4:163, 5:10, 5:86, 6:84, 6:91, 6:136, 7:44, 7:171, 8:29, 9:22, 9:120-21, 10:5, 10:27, 11:116, 12:23, 12:57-58, 12:89, 12:91, 13:23, 13:25, 13:36, 16:32, 16:42, 16:97, 17:10, 18:3, 18:31-32, 18:47, 18:89, 20:77, 24:39, 25:16, 27:90, 28:15, 28:38, 28:55, 28:81, 29:8, 29:28, 29:59, 30:46, 32:18, 33:25, 33:30, 33:32, 33:36, 33:45, 34:5, 34:38, 35:8, 35:34, 36:12, 37:81, 37:106, 37:111, 37:122, 37:132, 39:11, 39:35, 39:36, 39:75, 41:9, 42:27, 46:15, 47:36, 48:11, 48:30, 49:4, 53:32, 53:42, 54:36, 55:61, 56:29, 57:8, 57:12, 57:19-20, 57:28, 64:16, 65:6, 67:13, 68:4, 73:21, 76:13, 76:23, 77:44, 84:26, 95:7, 98:9"
+            },
+            {
+                "id": 13518,
+                "topic": "Paradise: <i>Jannah</i>: description of",
+                "verses": "76:12-23, 2:26, 3:134, 7:43-44, 9:72, 13:25, 13:36, 15:46-49, 16:31-32, 18:32, 18:108-109, 19:62-63, 22:24, 25:17, 25:25, 25:76-77, 29:59, 30:16, 34:38, 35:34-36, 36:56-60, 37:41-50, 38:50-53, 39:21, 39:35, 40:41, 41:32, 42:23-28, 43:71-74, 44:52-56, 47:16, 50:36, 52:23, 52:24, 52:28, 55:47-78, 56:13-38, 57:22, 65:12, 69:22-25, 76:6-7, 77:42-43, 83:25-29, 88:11-17"
+            },
+            {
+                "id": 13650,
+                "topic": "Paradise: <i>Jannah</i>: rewards of, for the righteous men and women, the martyrs, the <i>muhajirun</i>, the patient, those who fear Allah, the penitent",
+                "verses": "18:32, 2:26, 3:16, 3:134, 3:196, 3:199, 4:14, 4:58, 5:66, 5:120, 7:44, 9:72, 9:100, 9:111, 10:10, 10:27, 11:109, 13:23-25, 13:36, 15:46-49, 16:33, 19:61-63, 21:102-104, 23:2-12, 25:76-77, 26:91, 32:20, 35:33-34, 35:36, 36:26-27, 37:42-50, 39:21, 40:41, 41:31-33, 43:69-74, 46:14-15, 47:5-7, 47:16, 48:18, 50:32-36, 52:18-28, 55:47-59, 55:63-79, 56:12-39, 56:89-90, 57:13, 57:22, 59:21, 61:12-13, 66:9, 66:12, 74:40-41, 76:6-7, 76:12-23, 77:42-5, 82:14, 83:23, 83:26-29, 88:9-17, 89:28-31"
+            },
+            {
+                "id": 15372,
+                "topic": "Reckoning: <i>Hisab</i>: count, accountability",
+                "verses": "17:13, 6:53, 6:70, 10:6, 13:19, 13:22, 13:41, 23:118, 24:40, 26:114, 65:9, 69:21, 69:27, 84:9, 88:26-27"
+            },
+            {
+                "id": 15883,
+                "topic": "Righteous: <i>Salihin</i>: rewarded",
+                "verses": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 83:23, 98:8"
+            }
+        ],
+        "ar": "جَزَآءً   مِّنۡ  رَّبِّکَ عَطَآءً  حِسَابًا ﴿ۙ۳۷﴾ ",
+        "ur": "تیرے ربّ کی طرف سے ایک جزا ہے، ایک جچاتلا انعام۔",
+        "v5": {
+            "text": "A recompense from thy Lord—a gift amply sufficient.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 78,
+        "v": 38,
+        "v_": 37,
+        "topics": [
+            {
+                "id": 3819,
+                "topic": "Attributes of Allah: Rabbus-Samawate wal-Ard (Lord of Heavens &amp; earth)",
+                "verses": "19:66, 13:17, 17:103, 18:15, 21:57, 26:25, 37:6, 38:67, 43:83, 44:8, 45:37, 51:24"
+            }
+        ],
+        "ar": "رَّبِّ السَّمٰوٰتِ وَ الۡاَرۡضِ وَ مَا بَیۡنَہُمَا الرَّحۡمٰنِ لَا یَمۡلِکُوۡنَ مِنۡہُ خِطَابًا ﴿ۚ۳۸﴾ ",
+        "ur": "آسمانوں اور زمین اور ہر اس چیز کے ربّ کی طرف سے جو اِن دونوں کے درمیان ہے۔ یعنی رحمان کی طرف سے۔ وہ اُس سے کسی کلام کا اختیار نہیں رکھیں گے۔",
+        "v5": {
+            "text": "[b]Lord of the heavens and the earth and all that is between them, the Gracious <i>God</i>. They shall not have the power to address Him.",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "19:66; 37:6; 38:67; 44:8."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 39,
+        "v_": 38,
+        "topics": [
+            {
+                "id": 3531,
+                "topic": "Attributes of Allah: Ar-Rahman (The Gracious, Beneficent)",
+                "verses": "1:1, 1:3, 12:65, 13:31, 17:111, 19:45, 19:46, 19:59, 19:62, 19:86, 21:113, 25:61, 26:6, 27:31, 36:53, 41:3, 50:34, 55:2, 59:23, 67:30"
+            },
+            {
+                "id": 15599,
+                "topic": "Resurrection: after death",
+                "verses": "23:116, 2:48-49, 5:110, 6:37, 17:50-52, 22:8, 39:68-71, 50:12, 50:21-24, 71:19"
+            },
+            {
+                "id": 15961,
+                "topic": "Rows: <i>Saff</i>",
+                "verses": "61:5, 18:49, 20:65, 37:2, 89:23"
+            },
+            {
+                "id": 17011,
+                "topic": "Soul: <i>Ruh</i>, spirit",
+                "verses": "4:172, 2:49, 3:26, 3:146, 3:186, 6:152, 12:54, 16:3, 17:86, 19:18, 31:29, 50:22, 58:23, 70:5, 75:3, 86:5, 89:28-29, 97:5"
+            }
+        ],
+        "ar": "یَوۡمَ  یَقُوۡمُ الرُّوۡحُ وَ الۡمَلٰٓئِکَۃُ  صَفًّا ؕ٭ۙ  لَّا یَتَکَلَّمُوۡنَ  اِلَّا مَنۡ اَذِنَ لَہُ الرَّحۡمٰنُ وَ  قَالَ صَوَابًا ﴿۳۹﴾ ",
+        "ur": "جس دن روح القدس اور فرشتے صف بصف کھڑے ہوں گے، وہ کلام نہیں کریں گے سوائے اُس کے جسے رحمان اجازت دے گا اور وہ درست بات کہے گا۔",
+        "v5": {
+            "text": "On the day when the Spirit and the angels will stand in rows, [c]they shall not speak, except he whom the Gracious <i>God</i> will permit and who will speak only what is right.[4549]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "11:106; 20:110."
+                },
+                {
+                    "ref": "4549",
+                    "note": "<p><strong>Commentary:</strong></p><p>\"The Spirit\" here may signify the perfect Spirit—the Holy Prophet; and \"the day\" may mean the Day of Resurrection. As applied to the present world, \"the day\" may signify the day of the Fall of Mecca and \"the angels\" may stand for the angelic Companions of the Holy Prophet who were with him on that day. For الروح see 16:3; 19:18; 32:10; 42:53.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 78,
+        "v": 40,
+        "v_": 39,
+        "topics": [
+            {
+                "id": 15599,
+                "topic": "Resurrection: after death",
+                "verses": "23:116, 2:48-49, 5:110, 6:37, 17:50-52, 22:8, 39:68-71, 50:12, 50:21-24, 71:19"
+            }
+        ],
+        "ar": "ذٰلِکَ  الۡیَوۡمُ الۡحَقُّ ۚ فَمَنۡ شَآءَ اتَّخَذَ اِلٰی رَبِّہٖ مَاٰبًا ﴿۴۰﴾ ",
+        "ur": "وہ برحق دن ہے۔ پس جو چاہے اپنے ربّ کی طرف لوٹنے کی جگہ بنائے۔",
+        "v5": {
+            "text": "That day is sure to come. So let him, who will, seek recourse unto his Lord.",
+            "notes": null
+        }
+    }
+]

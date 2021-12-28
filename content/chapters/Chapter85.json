@@ -1,0 +1,638 @@
+[
+    {
+        "ch": 85,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 8598,
+                "topic": "Heaven: <i>Sama’</i>: adorned lower",
+                "verses": "15:17, 25:62, 37:7, 41:13, 50:7, 67:6"
+            },
+            {
+                "id": 10991,
+                "topic": "Mansions: <i>Buruj</i>",
+                "verses": "4:79, 15:17, 25:62, 29:59, 34:38, 39:21"
+            },
+            {
+                "id": 13153,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 92:2-4, 93:2-3, 95:2-4, 100:2, 103:2-3"
+            },
+            {
+                "id": 14489,
+                "topic": "Prophecies in the Holy Qur’an: about: the Promised Messiah<sup>(as)</sup>",
+                "verses": "61:10, 17:87, 53:2, 62:3-5, 81:19, 86:2-5, 99:7"
+            },
+            {
+                "id": 15419,
+                "topic": "Reformers: advent of",
+                "verses": "97:4, 15:19, 19:52, 25:48, 28:60, 30:47, 30:57, 36:52, 45:6, 56:76, 72:10, 77:12, 81:3, 81:19, 91:3, 92:2-3"
+            }
+        ],
+        "ar": "وَ السَّمَآءِ  ذَاتِ الۡبُرُوۡجِ ۙ﴿۲﴾ ",
+        "ur": "قسم ہے برجوں والے آسمان کی۔",
+        "v5": {
+            "text": "By the heaven having mansions <i>of stars</i>[b],[4657]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "15:17; 25:62."
+                },
+                {
+                    "ref": "4657",
+                    "note": "<p><strong>Important Words:</strong></p><p>البروج (mansions of stars) is the plural of برج (<i>burj</i>) which is substantive noun from برج (<i>baraja</i>) which means, it was or became apparent, manifest or conspicuous or it was or became high or elevated. برج means, a tower; a sign of the Zodiac. بروج means, mansions (i.e. courses or stages) of the moon or the stars; or asterisms or constellations. See also 15:17 (Lane).</p><p><strong>Commentary:</strong></p><p>The verse purports to say that just as there are twelve mansions of stars in the physical heaven, similarly there will be twelve Divine Reformers or <i>Mujaddids</i> or twelve mansions in the spiritual firmament of Islam who will keep its light burning after the sun had set, i.e. after the first three best centuries of Islam will have passed resulting in the spread of spiritual darkness over the whole world. These Reformers will bear witness to the truth of Islam, the Quran and that of the Holy Prophet.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 1071,
+                "topic": "Ahmad: the Promised Messiah(as): advent of",
+                "verses": "81:2-30, 11:18, 25:62, 62:4-5, 77:12"
+            },
+            {
+                "id": 5800,
+                "topic": "Promised Day: <i>Yaumul-Mau‘ud</i>",
+                "verses": null
+            },
+            {
+                "id": 13153,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 92:2-4, 93:2-3, 95:2-4, 100:2, 103:2-3"
+            },
+            {
+                "id": 14321,
+                "topic": "Promise: of Allah",
+                "verses": "24:56, 2:269, 3:153, 4:96, 5:10, 8:8, 9:72, 9:111, 13:36, 18:49, 19:62, 19:88, 21:102, 21:104-105, 23:36, 25:16-17, 28:62, 30:7, 33:23, 34:31, 38:54, 39:75, 41:31, 46:17, 47:16, 48:22, 48:30, 50:33, 51:23, 57:11"
+            },
+            {
+                "id": 14489,
+                "topic": "Prophecies in the Holy Qur’an: about: the Promised Messiah<sup>(as)</sup>",
+                "verses": "61:10, 17:87, 53:2, 62:3-5, 81:19, 86:2-5, 99:7"
+            }
+        ],
+        "ar": "وَ الۡیَوۡمِ الۡمَوۡعُوۡدِ ۙ﴿۳﴾ ",
+        "ur": "اور موعود دن کی۔",
+        "v5": {
+            "text": "And <i>by</i> the Promised Day,[4658]",
+            "notes": [
+                {
+                    "ref": "4658",
+                    "note": "<p><strong>Commentary:</strong></p><p>\"The Promised Day\" here signifies the day when the Promised Messiah will be raised to bring about the renaissance of Islam. There have been many such days in the history of Islam which could be called the \"Promised Day,\" namely, the day of the Battle of Badr, the day when the Battle of Ditch came to a glorious end, and the day of the Fall of Mecca. But the Promised Day <i>par excellence</i> was the time of the Second Coming of the Holy Prophet in the person of the Promised Messiah in the 14th Century A.H. when Islam was to receive a new life and to prevail over all other religions.</p><p>The verse may also signify the day when the righteous will enjoy the ecstasy of meeting with their Lord.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 1071,
+                "topic": "Ahmad: the Promised Messiah(as): advent of",
+                "verses": "81:2-30, 11:18, 25:62, 62:4-5, 77:12"
+            },
+            {
+                "id": 10723,
+                "topic": "Mahdi",
+                "verses": "21:74, 75:10"
+            },
+            {
+                "id": 11453,
+                "topic": "Miracles: of Holy Prophet<sup>(sa)</sup>",
+                "verses": "7:108, 17:91-94, 8:18, 9:25-26, 10:21, 13:8, 54:2"
+            },
+            {
+                "id": 13153,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 92:2-4, 93:2-3, 95:2-4, 100:2, 103:2-3"
+            },
+            {
+                "id": 14489,
+                "topic": "Prophecies in the Holy Qur’an: about: the Promised Messiah<sup>(as)</sup>",
+                "verses": "61:10, 17:87, 53:2, 62:3-5, 81:19, 86:2-5, 99:7"
+            },
+            {
+                "id": 18736,
+                "topic": "Witness: Prophets bear",
+                "verses": "4:136, 5:118, 22:79, 28:35, 33:46, 43:89, 46:11, 48:9, 73:16, 83:22"
+            }
+        ],
+        "ar": "وَ شَاہِدٍ وَّ مَشۡہُوۡدٍ ؕ﴿۴﴾ ",
+        "ur": "اور ایک گواہی دینے والے کی اور اُس کی جس کی گواہی دی جائے گی۔",
+        "v5": {
+            "text": "And <i>by</i> the Witness and by him about Whom witness is borne,[4659]",
+            "notes": [
+                {
+                    "ref": "4659",
+                    "note": "<p><strong>Commentary:</strong></p><p>Every Prophet or Divine Reformer is شاھد i.e. bearer of witness, because he is a living witness to the existence of God, and he is also مشھود (about whom witness is borne) because God bears witness to his truth by showing signs and miracles at his hands, and by creating conditions and circumstances which establish the truth of his Message and mission. But here, as the text shows, the شاھد (bearer of witness) is the Promised Messiah and (about whom witness is borne) is the Holy Prophet, and the verse signifies that the Promised Messiah will bear witness to the truth of the Holy Prophet by his speeches, discourses and writings, and by the signs that God will show at his hands. The Promised Messiah will also bear witness to the truth of the Holy Prophet in the sense that in his person the prophecy of the Holy Prophet about the appearance of the Messiah and Mahdi in the 14th century A.H. will be fulfilled. The Promised Messiah will also be مشھودin the sense that the hadith of the Holy Prophet will bear witness to his truth. Thus the Holy Prophet and the Promised Messiah will both be شاھد (bearer of witness) and مشھود (about whom witness is borne).</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 6387,
+                "topic": "Dhu Nuwas",
+                "verses": null
+            },
+            {
+                "id": 7547,
+                "topic": "Fellows of the Trench: <i>Ashabul-’Ukhdud</i>",
+                "verses": null
+            },
+            {
+                "id": 7622,
+                "topic": "Fire: <i>An-Nar</i>: of war, disorder",
+                "verses": "5:65, 2:18"
+            },
+            {
+                "id": 12952,
+                "topic": "Nebuchadnezzar: <i>Bukht Nasr</i>",
+                "verses": "2:260, 17:6, 21:86"
+            },
+            {
+                "id": 14489,
+                "topic": "Prophecies in the Holy Qur’an: about: the Promised Messiah<sup>(as)</sup>",
+                "verses": "61:10, 17:87, 53:2, 62:3-5, 81:19, 86:2-5, 99:7"
+            }
+        ],
+        "ar": "قُتِلَ اَصۡحٰبُ الۡاُخۡدُوۡدِ ۙ﴿۵﴾ ",
+        "ur": "ہلاک کردیئے جائیں گے کھائیوں والے۔",
+        "v5": {
+            "text": "Cursed be the fellows of the trench—[4660]",
+            "notes": [
+                {
+                    "ref": "4660",
+                    "note": "<p><strong>Commentary:</strong></p><p>By some commentators of the Quran the verse is taken to refer to the burning to death of some Christians by the Jewish King, Dhu Nuwas of Yemen; by some others to the casting into a burning furnace of some Israelite leaders by King Nebuchadnezzar of Babylon (Dan. 3:19-22). The verse may also apply to those enemies of truth, who in the time of every Divine Reformer bitterly oppose and persecute believers. But as the context shows, the verse applies particularly to the enemies of the Promised Messiah and the persecutors and tormentors of his righteous followers. The word \"trench\" may possess a prophetical reference to the trenches of modern warfare.</p><p>It is not intended there to refer to any past incident of doubtful authenticity. Nowhere in the Quran has God sworn by past incidents. In v. 3. God swears by the \"Promised Day.\" In the present and the next few verses it is hinted that the followers of the Promised Messiah will have to render great sacrifices to usher in that Great Day.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 7622,
+                "topic": "Fire: <i>An-Nar</i>: of war, disorder",
+                "verses": "5:65, 2:18"
+            },
+            {
+                "id": 7908,
+                "topic": "Fuel",
+                "verses": "2:25, 3:11, 21:99, 66:7, 72:16"
+            }
+        ],
+        "ar": "النَّارِ ذَاتِ الۡوَقُوۡدِ ۙ﴿۶﴾ ",
+        "ur": "یعنی اُس آگ والے جو بہت ایندھن والی ہے۔",
+        "v5": {
+            "text": "The fire <i>fed</i> with fuel—",
+            "notes": null
+        }
+    },
+    {
+        "ch": 85,
+        "v": 7,
+        "v_": 6,
+        "topics": [],
+        "ar": "اِذۡ ہُمۡ عَلَیۡہَا قُعُوۡدٌ ۙ﴿۷﴾ ",
+        "ur": "جب وہ اُس کے گرد بیٹھے ہوں گے۔",
+        "v5": {
+            "text": "As they sat by it,[4661]",
+            "notes": [
+                {
+                    "ref": "4661",
+                    "note": "<p><strong>Commentary:</strong></p><p>These verses (vv. 5-8) show that all the forces of darkness will combine to oppose and persecute the Promised Messiah and his righteous followers, and that the persecution will be severe and continuous. In fact, in these verses a description is given of those enemies of truth who kindle the fire of persecution against righteous believers in all ages and constantly keep it ablaze. Their end is predicted in v. 11.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 8,
+        "v_": 7,
+        "topics": [],
+        "ar": "وَّ ہُمۡ عَلٰی مَا یَفۡعَلُوۡنَ بِالۡمُؤۡمِنِیۡنَ شُہُوۡدٌ  ؕ﴿۸﴾ ",
+        "ur": "اور وہ اُس پر گواہ ہوں گے جو وہ مومنوں سے کریں گے۔",
+        "v5": {
+            "text": "And they were witnesses of what they did to the believers.[4662]",
+            "notes": [
+                {
+                    "ref": "4662",
+                    "note": "<p><strong>Commentary:</strong></p><p>The enemies of truth know in their heart of hearts that their opposition is cruel and unjustified and that the victims of their tyranny are innocent.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 3286,
+                "topic": "Attributes of Allah: Al-Hamid (Praiseworthy)",
+                "verses": "22:65, 2:268, 4:132, 11:74, 14:2, 14:9, 22:25, 31:13, 31:27, 41:43, 42:29, 60:7"
+            },
+            {
+                "id": 13873,
+                "topic": "Persecution",
+                "verses": "2:191-194, 2:215, 2:218, 3:187, 8:40, 9:5, 9:128, 23:95, 29:11, 33:22"
+            }
+        ],
+        "ar": "وَ مَا نَقَمُوۡا مِنۡہُمۡ  اِلَّاۤ  اَنۡ یُّؤۡمِنُوۡا بِاللّٰہِ الۡعَزِیۡزِ  الۡحَمِیۡدِ ۙ﴿۹﴾ ",
+        "ur": "اور وہ اُن سے پرخاش نہیں رکھتے مگر اس بنا پر کہ وہ اللہ، کامل غلبہ رکھنے والے، صاحبِ حمد پر ایمان لے آئے۔",
+        "v5": {
+            "text": "[a]And they hated them not but <i>only</i> because they believed in Allah, the Almighty, the Praiseworthy,[4663]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "5:60; 7:127."
+                },
+                {
+                    "ref": "4663",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse is full of pathos. The only fault of the believers is that they believe in One, Merciful and Almighty God. Is belief in God really such a heinous crime that its holders should be subjected to cruel persecution? These verses may also refer to the persecution of the early Muslims at Mecca. They had done nothing to excite the enmity of their compatriots except that they had given up worshipping idols of wood and stone and instead had believed in God, the Maker of the heavens and earth.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 18728,
+                "topic": "Witness: Allah bears witness",
+                "verses": "4:136, 3:82, 2:205, 3:19, 4:80, 4:167, 10:30, 13:44, 17:97, 29:53, 33:56, 34:48, 41:54, 46:9, 48:29, 58:7, 59:12, 63:2"
+            }
+        ],
+        "ar": "الَّذِیۡ لَہٗ  مُلۡکُ السَّمٰوٰتِ وَ الۡاَرۡضِ ؕ وَ اللّٰہُ  عَلٰی کُلِّ شَیۡءٍ شَہِیۡدٌ ؕ﴿۱۰﴾ ",
+        "ur": "جس کی آسمانوں اور زمین کی بادشاہی ہے اور اللہ ہر چیز پر گواہ ہے۔",
+        "v5": {
+            "text": "To Whom belongs the Kingdom of the heavens and the earth;[b] and Allah is Witness over all things.[4664]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "14:3."
+                },
+                {
+                    "ref": "4664",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse at once holds a message of comfort for the believers and a severe warning to their persecutors. Let the disbelievers, it says, vent their spleen against God’s holy men and persecute them to their heart’s content. God is witness to all their inhumanities and barbarities, and the time is fast approaching when they will be punished for their evil deeds and the kingdom of the earth will be given over to the persecuted believers.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 6428,
+                "topic": "Disbelief: <i>Kufr</i>: Disbeliever, <i>Kuffar</i>",
+                "verses": "2:7-21, 2:35, 3:5, 3:98, 4:151-152, 5:18, 5:37, 5:38, 5:45, 5:73, 7:38, 7:51, 8:56, 9:37, 12:88, 14:3-4, 16:108, 19:72, 38:74-75, 39:33, 39:60, 40:5, 45:12, 47:35, 85:20-21, 98:7, 109:2-7"
+            },
+            {
+                "id": 8796,
+                "topic": "Hell: <i>Jahannam</i>: for those who disobey Allah, for evil-doers",
+                "verses": "19:69, 10:28, 2:82, 2:276, 3:182, 4:11, 4:94, 4:116, 8:38, 11:17, 11:107, 13:26, 14:16-17, 16:30, 17:19, 19:87, 20:75, 21:99, 23:104-105, 27:91, 38:56-57, 39:61, 39:73, 40:44, 40:77, 43:75, 50:25-26, 54:48-49, 55:44, 71:26, 72:16, 82:15, 92:15-16, 101:9-10, 104:3"
+            }
+        ],
+        "ar": "اِنَّ  الَّذِیۡنَ فَتَنُوا الۡمُؤۡمِنِیۡنَ وَ الۡمُؤۡمِنٰتِ ثُمَّ  لَمۡ یَتُوۡبُوۡا فَلَہُمۡ عَذَابُ جَہَنَّمَ وَ لَہُمۡ عَذَابُ الۡحَرِیۡقِ ﴿ؕ۱۱﴾ ",
+        "ur": "یقیناً وہ لوگ جنہوں نے مومن مردوں اور مومن عورتوں کو فتنہ میں ڈالا پھر توبہ نہیں کی تو اُن کے لئے جہنّم کا عذاب ہے اور اُن کے لئے آگ کا عذاب (مقدر) ہے۔",
+        "v5": {
+            "text": "Those who persecute the believing men and the believing women and then repent not, for them is surely the punishment of Hell, and for them is the punishment of burning.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 85,
+        "v": 12,
+        "v_": 11,
+        "topics": [
+            {
+                "id": 510,
+                "topic": "Actions: <i>A‘mal</i>: rewarded",
+                "verses": "28:85, 3:196, 4:41, 4:58, 4:174, 5:10, 7:9, 7:44, 9:121, 11:16, 11:112, 16:98, 17:10, 18:3, 18:47, 18:108-9, 19:77, 20:76-77, 22:15, 22:57, 24:39, 29:8, 29:10, 31:9-10, 32:18, 32:20, 33:30, 34:38, 35:8, 35:11, 35:33, 39:36, 41:9, 42:23-24, 42:27, 43:73-74, 45:31, 46:20, 47:13, 47:36, 48:30, 52:18-21, 65:12, 84:26, 95:7, 98:8-9, 99:8, 101:7-8"
+            },
+            {
+                "id": 12844,
+                "topic": "Nahr: flowing streams",
+                "verses": "2:26, 3:16, 13:36, 98:9"
+            },
+            {
+                "id": 13455,
+                "topic": "Paradise: <i>Jannah</i>: believers who do good works will enter",
+                "verses": "2:26, 2:83, 3:199, 4:58, 4:123, 4:125, 7:43, 10:10, 11:24, 14:24, 15:46, 16:31-32, 18:108, 19:61, 19:64, 20:76-77, 22:15, 22:24, 22:57, 25:16, 29:59, 30:16, 31:9, 32:20, 38:50-51, 40:41, 42:23, 44:52-53, 47:13, 51:16, 54:55, 64:10, 65:12, 68:35, 89:29-31, 98:8-9"
+            }
+        ],
+        "ar": "اِنَّ الَّذِیۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ لَہُمۡ جَنّٰتٌ تَجۡرِیۡ مِنۡ تَحۡتِہَا الۡاَنۡہٰرُ ۬ؕؑ ذٰلِکَ الۡفَوۡزُ الۡکَبِیۡرُ ﴿ؕ۱۲﴾",
+        "ur": "یقیناً وہ لوگ جو ایمان لائے اور نیک اعمال بجا لائے اُن کے لئے ایسی جنّتیں ہیں جن کے دامن میں نہریں بہتی ہیں۔ یہ بہت بڑی کامیابی ہے۔",
+        "v5": {
+            "text": "[a]But those who believe and do good works, for them are Gardens through which streams flow. That is the great triumph.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "11:24; 31:9; 41:9; 98:8-9."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 13,
+        "v_": 12,
+        "topics": [],
+        "ar": "اِنَّ بَطۡشَ رَبِّکَ لَشَدِیۡدٌ ﴿ؕ۱۳﴾ ",
+        "ur": "یقیناً تیرے ربّ کی پکڑ بہت سخت ہے۔",
+        "v5": {
+            "text": "Surely, the grip of thy Lord is severe.[b]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "11:103; 22:3."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 14,
+        "v_": 13,
+        "topics": [
+            {
+                "id": 3098,
+                "topic": "Attributes of Allah: Al-Badi‘ (The Originator)",
+                "verses": "2:118, 6:102, 10:5, 10:35, 21:105, 27:65, 29:20, 30:12, 30:28"
+            },
+            {
+                "id": 3377,
+                "topic": "Attributes of Allah: Al-Mubdi (The Beginner, Originator)",
+                "verses": "10:35, 10:5, 21:105, 27:65, 29:20, 30:12, 30:28"
+            },
+            {
+                "id": 3401,
+                "topic": "Attributes of Allah: Al-Mu‘id (The Reproducer)",
+                "verses": "10:35, 10:5, 21:105, 27:65, 29:20, 30:12, 30:28"
+            }
+        ],
+        "ar": "اِنَّہٗ  ہُوَ  یُبۡدِئُ وَ یُعِیۡدُ ﴿ۚ۱۴﴾ ",
+        "ur": "یقیناً وہی شروع بھی کرتا ہے اور دُہراتا بھی ہے۔",
+        "v5": {
+            "text": "[c]He it is Who originates and reproduces;[4665]",
+            "notes": [
+                {
+                    "ref": "c",
+                    "note": "29:20; 30:12."
+                },
+                {
+                    "ref": "4665",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means that God will punish the cruel and tyrannical persecutors of believers, in this world and in the life to come.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 15,
+        "v_": 14,
+        "topics": [
+            {
+                "id": 3180,
+                "topic": "Attributes of Allah: Al-Ghafur (Most Forgiving)",
+                "verses": "22:61, 2:174, 2:183, 2:193, 2:200, 2:219, 2:226, 2:227, 2:236, 4:24, 4:44, 4:97, 4:100-101, 5:99, 8:70, 9:5, 16:111, 17:26, 17:45, 18:59, 25:7, 25:71, 33:6, 33:25, 33:51, 33:74, 34:16, 35:35, 35:42, 41:33, 42:6, 42:24, 48:15, 58:3, 60:8, 60:13, 64:15"
+            },
+            {
+                "id": 3629,
+                "topic": "Attributes of Allah: Al-Wadud (The Loving)",
+                "verses": "11:91"
+            }
+        ],
+        "ar": "وَ ہُوَ الۡغَفُوۡرُ الۡوَدُوۡدُ ﴿ۙ۱۵﴾ ",
+        "ur": "باوجود اس کے کہ وہ بہت بخشنے والا اور بہت محبت کرنے والا ہے۔",
+        "v5": {
+            "text": "And He is the Most Forgiving, the Loving;",
+            "notes": null
+        }
+    },
+    {
+        "ch": 85,
+        "v": 16,
+        "v_": 15,
+        "topics": [
+            {
+                "id": 2435,
+                "topic": "Allah: throne of",
+                "verses": "20:6, 2:256, 7:55, 9:129, 10:4, 11:8, 13:3, 17:43, 21:23, 23:87, 23:117, 25:60, 32:5, 40:8, 40:16, 57:5, 69:18, 81:21"
+            },
+            {
+                "id": 2909,
+                "topic": "‘Arsh: throne of Allah",
+                "verses": "10:4, 2:256, 7:55, 9:129, 11:8, 13:3, 17:43, 20:6, 21:23, 23:87, 23:117, 25:60, 27:27, 32:5, 39:76, 40:16, 43:83, 53:7, 57:5, 69:18, 81:21"
+            },
+            {
+                "id": 3356,
+                "topic": "Attributes of Allah: Al-Majid (Lord of Honour)",
+                "verses": "11:74, 40:2"
+            },
+            {
+                "id": 3709,
+                "topic": "Attributes of Allah: Dhul-‘Arsh (Lord of the Throne)",
+                "verses": "40:16, 17:43, 21:23, 81:21"
+            }
+        ],
+        "ar": "ذُو الۡعَرۡشِ الۡمَجِیۡدُ ﴿ۙ۱۶﴾ ",
+        "ur": "صاحبِ عرش (اور) صاحبِ مجد ہے۔",
+        "v5": {
+            "text": "The Lord of the Throne, the Lord of honour;[4666]",
+            "notes": [
+                {
+                    "ref": "4666",
+                    "note": "<p><strong>Commentary:</strong></p><p>The word عرش (Throne) signifying regal might, power and sovereignty (Lane), the verse means that God has the power to punish evildoers and to confer the kingdom of the earth on His righteous servants. He can do what He likes.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 17,
+        "v_": 16,
+        "topics": [
+            {
+                "id": 1807,
+                "topic": "Allah: if so willed, <i>Lau sha’allah</i>",
+                "verses": "10:100, 2:221, 2:254, 4:91, 5:49, 6:36, 6:108, 6:113, 6:138, 6:150, 10:17, 11:119, 12:22, 16:94, 22:15, 22:19, 25:46, 42:9, 58:22, 76:31"
+            },
+            {
+                "id": 3733,
+                "topic": "Attributes of Allah: Fa‘-‘al (The Doer)",
+                "verses": "11:108"
+            }
+        ],
+        "ar": "فَعَّالٌ لِّمَا یُرِیۡدُ ﴿ؕ۱۷﴾ ",
+        "ur": "جو چاہتا ہے اُسے ضرور کرکے رہتا ہے۔",
+        "v5": {
+            "text": "[d]Doer of whatever He wills.",
+            "notes": [
+                {
+                    "ref": "d",
+                    "note": "2:254; 22:15."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 18,
+        "v_": 17,
+        "topics": [
+            {
+                "id": 8320,
+                "topic": "Hadith: word, discourse, story",
+                "verses": "4:43, 4:79, 4:88, 4:141, 6:69, 7:186, 18:7, 20:10, 31:7, 33:54, 39:24, 45:7, 51:25, 52:35, 53:60, 56:82, 68:45, 77:51, 79:16, 88:2"
+            }
+        ],
+        "ar": "ہَلۡ  اَتٰٮکَ حَدِیۡثُ الۡجُنُوۡدِ ﴿ۙ۱۸﴾ ",
+        "ur": "کیا تجھ تک لشکروں کی خبر پہنچی ہے؟",
+        "v5": {
+            "text": "[e]Has <i>not</i> the story of the hosts come to thee?",
+            "notes": [
+                {
+                    "ref": "e",
+                    "note": "10:91; 28:40-41; 51:41."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 19,
+        "v_": 18,
+        "topics": [],
+        "ar": "فِرۡعَوۡنَ وَ ثَمُوۡدَ ﴿ؕ۱۹﴾ ",
+        "ur": "فرعون کی اور ثمود کی۔",
+        "v5": {
+            "text": "Of Pharaoh and Thamud?[4667]",
+            "notes": [
+                {
+                    "ref": "4667",
+                    "note": "<p><strong>Commentary:</strong></p><p>The believers are again comforted by this verse and the disbelievers warned. Both of them are told that not only will the followers of the Holy Prophet or, for that matter, the followers of the Promised Messiah, be subjected to persecution, but during the ages the votaries of Satan have harried and harassed men of God and in the long run were themselves destroyed. The cases of Pharaoh’s hosts and of the tribe of Thamud are cited as instances of Divine retribution. These two peoples of antiquity possessed great power and ruled over vast dominions. For the might, majesty and material resources of Pharaoh and the tribe of Thamud see 43:52-55 and 11:62.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 20,
+        "v_": 19,
+        "topics": [
+            {
+                "id": 1450,
+                "topic": "Allah: encompasses the disbelievers",
+                "verses": "2:20, 8:48"
+            },
+            {
+                "id": 6429,
+                "topic": "Disbelief: <i>Kufr</i>: Disbeliever, <i>Kuffar</i>",
+                "verses": "2:7-21, 2:35, 3:5, 3:98, 4:151-152, 5:18, 5:37, 5:38, 5:45, 5:73, 7:38, 7:51, 8:56, 9:37, 12:88, 14:3-4, 16:108, 19:72, 38:74-75, 39:33, 39:60, 40:5, 45:12, 47:35, 85:11, 98:7, 109:2-7"
+            }
+        ],
+        "ar": "بَلِ الَّذِیۡنَ کَفَرُوۡا فِیۡ تَکۡذِیۡبٍ ﴿ۙ۲۰﴾ ",
+        "ur": "بلکہ وہ لوگ جنہوں نے کفر کیا وہ تکذیب ہی میں (لگے) رہتے ہیں۔ ",
+        "v5": {
+            "text": "[a]Nay, but those who disbelieve <i>persist</i> in rejecting <i>the truth</i>.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "84:23."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 85,
+        "v": 21,
+        "v_": 20,
+        "topics": [
+            {
+                "id": 1450,
+                "topic": "Allah: encompasses the disbelievers",
+                "verses": "2:20, 8:48"
+            },
+            {
+                "id": 6429,
+                "topic": "Disbelief: <i>Kufr</i>: Disbeliever, <i>Kuffar</i>",
+                "verses": "2:7-21, 2:35, 3:5, 3:98, 4:151-152, 5:18, 5:37, 5:38, 5:45, 5:73, 7:38, 7:51, 8:56, 9:37, 12:88, 14:3-4, 16:108, 19:72, 38:74-75, 39:33, 39:60, 40:5, 45:12, 47:35, 85:11, 98:7, 109:2-7"
+            }
+        ],
+        "ar": "وَّ اللّٰہُ  مِنۡ  وَّرَآئِہِمۡ  مُّحِیۡطٌ ﴿ۚ۲۱﴾",
+        "ur": "جبکہ اللہ اُن کے آگے پیچھے سے گھیرا ڈالے ہوئے ہے۔",
+        "v5": {
+            "text": "And Allah encompasses <i>them from before them and</i> from behind them.",
+            "notes": null
+        }
+    },
+    {
+        "ch": 85,
+        "v": 22,
+        "v_": 21,
+        "topics": [
+            {
+                "id": 15024,
+                "topic": "Qur’an: collection, protection of",
+                "verses": "75:17-18, 4:83, 5:49, 15:2, 15:10, 15:18-19, 26:194, 26:211-213, 27:2, 37:11, 56:78-79, 87:7-9"
+            },
+            {
+                "id": 17441,
+                "topic": "Tablet: well preserved",
+                "verses": null
+            }
+        ],
+        "ar": "بَلۡ ہُوَ  قُرۡاٰنٌ  مَّجِیۡدٌ ﴿ۙ۲۲﴾ ",
+        "ur": "بلکہ وہ تو ایک صاحبِ مجد قرآن ہے۔",
+        "v5": {
+            "text": "[b]Nay, but it is a glorious Quran,[4668]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "50:2; 56:78."
+                },
+                {
+                    "ref": "4668",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse challenges disbelievers to do their worst to discredit the Quran. The Quran however, will continue to be read and held in high esteem all over the world.</p>"
+                }
+            ]
+        }
+    }
+]

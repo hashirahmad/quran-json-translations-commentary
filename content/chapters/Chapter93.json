@@ -1,0 +1,316 @@
+[
+    {
+        "ch": 93,
+        "v": 1,
+        "v_": 0,
+        "topics": [],
+        "ar": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾",
+        "ur": "اللہ کے نام کے ساتھ جو بے انتہا رحم کرنے والا، بِن مانگے دینے والا (اور) بار بار رحم کرنے والا ہے۔",
+        "v5": {
+            "text": "[a]In the name of Allah, the Gracious, the Merciful.",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "See 1:1."
+                }
+            ]
+        }
+    },
+    {
+        "ch": 93,
+        "v": 2,
+        "v_": 1,
+        "topics": [
+            {
+                "id": 13161,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 85:2-4, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 92:2-4, 95:2-4, 100:2, 103:2-3"
+            },
+            {
+                "id": 14457,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "30:3-5, 2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 94:6-7, 99:2-7, 100:10-12"
+            }
+        ],
+        "ar": "وَ الضُّحٰی ۙ﴿۲﴾ ",
+        "ur": "قَسم ہے دن کی جب وہ خوب روشن ہوچکا ہو۔",
+        "v5": {
+            "text": "By the <i>growing</i> brightness of the Forenoon,[4762]",
+            "notes": [
+                {
+                    "ref": "4762",
+                    "note": "<p><strong>Commentary:</strong></p><p>\"The brightness of the Forenoon\" signifies the rise and progress of Islam. The verse, therefore, purports to say that the phenomenal use of Islam will establish the truth of the Holy Prophet. الضحـیٰ may also refer to the particular forenoon when the Holy Prophet entered Mecca at the head of an army of ten thousand holy warriors and the Ka‘bah was cleared of idols.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 93,
+        "v": 3,
+        "v_": 2,
+        "topics": [
+            {
+                "id": 5676,
+                "topic": "Darkness: spiritual, <i>Zulumat, Lail</i>",
+                "verses": "2:18, 2:20, 2:258, 5:17, 6:2, 6:40, 6:60, 6:123, 10:27, 13:17, 14:2, 14:6, 24:41, 33:44, 35:21, 57:10, 65:12"
+            },
+            {
+                "id": 12978,
+                "topic": "Night",
+                "verses": "2:52, 2:188, 7:143, 74:34, 78:11, 81:18, 84:18, 91:5"
+            },
+            {
+                "id": 13161,
+                "topic": "Oaths: <i>yamin</i>: of Allah",
+                "verses": "4:66, 15:73, 15:93, 16:57, 16:64, 36:3, 37:2-4, 38:2, 43:2-3, 44:2-3, 50:2, 51:2-8, 51:24, 52:2-7, 53:2, 56:76, 68:2, 69:39, 69:40, 70:41, 74:33, 74:35, 75:2-3, 77:2-6, 79:2-6, 81:16-19, 84:17-19, 85:2-4, 86:2, 86:12-13, 89:2-5, 90:2, 90:4, 91:2-8, 92:2-4, 95:2-4, 100:2, 103:2-3"
+            },
+            {
+                "id": 14457,
+                "topic": "Prophecies in the Holy Qur’an: about: Islam",
+                "verses": "30:3-5, 2:116, 8:61, 9:33, 12:103, 16:78, 17:2, 19:41, 22:24, 22:27, 32:6, 33:23, 35:12, 38:2, 41:54, 43:90, 48:29-30, 53:2, 56:4, 58:22, 60:8, 61:10, 70:37-38, 79:2-6, 81:19, 81:24-25, 82:2, 83:30-35, 89:23, 90:2-3, 91:2-5, 94:6-7, 99:2-7, 100:10-12"
+            },
+            {
+                "id": 17671,
+                "topic": "Thaur: cave of",
+                "verses": "9:40, 8:31"
+            }
+        ],
+        "ar": "وَ الَّیۡلِ  اِذَا سَجٰی ۙ﴿۳﴾ ",
+        "ur": "اور رات کی جب وہ خوب تاریک ہوجائے۔",
+        "v5": {
+            "text": "[b]<i>And</i> by the night when its darkness spreads out,[4763]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "81:18"
+                },
+                {
+                    "ref": "4763",
+                    "note": "<p><strong>Important Words:</strong></p><p>سجـیٰ (spreads out). سجا اللیل means, the night was quiet; was or became dark and its darkness extended; was or became continuous; or the night was covered by its darkness (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The verse signifies that the prolonged period of the decline of Islam will also bear witness to the truth of the Holy Prophet in that according to his prophecies the decline will be followed by its renaissance.</p><p>\"The Night\" may also have reference to that particular night when after the fall of darkness the Holy Prophet went out of his house and took refuge in Cave Thaur along with Abu Bakr. In fact the night when the Holy Prophet left Mecca and the day on which Mecca fell, give in a nutshell the various ups and downs of the Holy Prophet’s whole career.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 93,
+        "v": 4,
+        "v_": 3,
+        "topics": [
+            {
+                "id": 12437,
+                "topic": "Muhammad<sup>(sa)</sup>: favours on",
+                "verses": "48:3, 25:11, 94:2-7, 108:2-4"
+            },
+            {
+                "id": 12632,
+                "topic": "Muhammad<sup>(sa)</sup>: protection of",
+                "verses": "5:68, 8:6, 13:12, 33:2, 47:14, 52:49"
+            }
+        ],
+        "ar": "مَا وَدَّعَکَ رَبُّکَ وَ مَا قَلٰی ؕ﴿۴﴾ ",
+        "ur": "تجھے تیرے ربّ نے نہ چھوڑا ہے اور نہ نفرت کی ہے۔",
+        "v5": {
+            "text": "Thy Lord has not forsaken thee, nor is He displeased <i>with thee</i>.[4764]",
+            "notes": [
+                {
+                    "ref": "4764",
+                    "note": "<p><strong>Important Words:</strong></p><p>قلـیٰ (has forsaken). They say قلی الرجل i.e. he hated the man and disliked him so much that he forsook him (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>Every day and night of the Holy Prophet; his great successes and temporary setbacks; his joys and tribulations; his devotions at night and activities in the day, all bear out that God was with him.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 93,
+        "v": 5,
+        "v_": 4,
+        "topics": [
+            {
+                "id": 12437,
+                "topic": "Muhammad<sup>(sa)</sup>: favours on",
+                "verses": "48:3, 25:11, 94:2-7, 108:2-4"
+            },
+            {
+                "id": 12632,
+                "topic": "Muhammad<sup>(sa)</sup>: protection of",
+                "verses": "5:68, 8:6, 13:12, 33:2, 47:14, 52:49"
+            }
+        ],
+        "ar": "وَ  لَلۡاٰخِرَۃُ  خَیۡرٌ لَّکَ مِنَ الۡاُوۡلٰی ؕ﴿۵﴾ ",
+        "ur": "اور یقیناً آخرت تیرے لئے (ہر) پہلی (حالت) سے بہتر ہے۔",
+        "v5": {
+            "text": "Surely <i>every hour</i> [a]that follows is better for thee than <i>the one</i> that precedes.[4765]",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "87:18."
+                },
+                {
+                    "ref": "4765",
+                    "note": "<p><strong>Commentary:</strong></p><p>The verse means that every succeeding moment of the Holy Prophet’s life is better than the one that precedes. To mention a few landmarks in his career, one may observe that he left Mecca with a single Companion, a price having been put on his head. He entered the same town after a brief period of eight years at the head of ten thousand devoted followers. At Badr there were only 313 Muslims with him and at Uhud more than double that number, and in the Battle of the Ditch the number grew to several thousand, till at the last Pilgrimage more than one hundred thousand believers marched under his banner. The successes of the Holy Prophet continued after his death. Islam went from strength to strength till it spread, within a few decades, over a large part of the then known world.</p><p>The reference in the verse may also be to the latter days when the renaissance of Islam was to take place. The verse may also mean that Divine Reformers will continue to appear among Muslims during periods of decline to impart to the Faith a new life and a new vigour.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 93,
+        "v": 6,
+        "v_": 5,
+        "topics": [
+            {
+                "id": 12309,
+                "topic": "Muhammad<sup>(sa)</sup>: and disbelievers",
+                "verses": "15:89-98, 2:7, 2:110, 2:119, 2:192, 2:218, 3:33, 3:128, 3:177, 3:197, 4:91, 4:103, 5:42, 5:55, 6:34, 8:31, 9:2, 9:4, 9:32, 9:40, 9:73, 9:123, 10:66, 11:13, 13:28, 15:3, 16:128, 18:7, 20:134, 22:16, 25:5, 26:4, 27:71, 28:57, 29:51, 35:5, 35:9, 36:77, 41:6, 48:30, 52:34, 66:10, 68:52, 73:11, 94:2-4"
+            },
+            {
+                "id": 12437,
+                "topic": "Muhammad<sup>(sa)</sup>: favours on",
+                "verses": "48:3, 25:11, 94:2-7, 108:2-4"
+            }
+        ],
+        "ar": "وَ  لَسَوۡفَ یُعۡطِیۡکَ رَبُّکَ فَتَرۡضٰی ؕ﴿۶﴾ ",
+        "ur": "اور تیرا ربّ ضرور تجھے عطا کرے گا۔ پس تُو راضی ہو جائے گا۔",
+        "v5": {
+            "text": "And thy Lord will [b]soon give thee and thou wilt be well pleased.[4765A]",
+            "notes": [
+                {
+                    "ref": "b",
+                    "note": "108:2"
+                },
+                {
+                    "ref": "4765A",
+                    "note": "<p><strong>Commentary:</strong></p><p>The <i>Surah</i> being one of the earliest revelations received at a time when those who had responded to the Call of the Holy Prophet could be counted on one’s fingers, the verse under comment contains a message of hope and good cheer wherein the Prophet is told that the time is fast approaching when his cause will triumph and he will be blessed with Divine favours—in this life and the Hereafter—to his heart’s content.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 93,
+        "v": 7,
+        "v_": 6,
+        "topics": [
+            {
+                "id": 83,
+                "topic": "‘Abdul-Muttalib: took charge of Muhammad<sup>(sa)</sup>",
+                "verses": null
+            },
+            {
+                "id": 12437,
+                "topic": "Muhammad<sup>(sa)</sup>: favours on",
+                "verses": "48:3, 25:11, 94:2-7, 108:2-4"
+            }
+        ],
+        "ar": "اَلَمۡ  یَجِدۡکَ یَتِیۡمًا فَاٰوٰی ۪﴿۷﴾ ",
+        "ur": "کیا اُس نے تجھے یتیم نہیں پایا تھا؟ پس پناہ دی۔",
+        "v5": {
+            "text": "Did He not find thee an orphan and give <i>thee</i> shelter?[4766]",
+            "notes": [
+                {
+                    "ref": "4766",
+                    "note": "<p><strong>Important Words:</strong></p><p>یتیم (orphan) is derived from یتم (<i>yatama</i>) which means, he became fatherless, an orphan; was or became unique; incomparable; (Aqrab).</p><p><strong>Commentary:</strong></p><p>The Holy Prophet was an orphan in fact, as well as figuratively. His orphanhood was of the extreme kind. His father died before he was born, leaving no property. His mother died when he was hardly six years old and his grandfather ‘Abdul-Muttalib, who took charge of him after his mother’s death, died two years later, leaving him under the care of his uncle, a man of scanty means. Thus the Prophet was deprived of parental care and love in his early childhood. Yet he received love and affection from his juniors and seniors, his Companions and compatriots in a large measure such that no woman-born had ever received the like of it before or after him or is likely to receive in future.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 93,
+        "v": 8,
+        "v_": 7,
+        "topics": [
+            {
+                "id": 8243,
+                "topic": "Guidance: Allah gives",
+                "verses": "20:51, 2:121, 2:186, 2:214, 3:74, 3:102, 4:69, 5:17, 6:36, 6:72, 6:89, 6:150, 7:44, 7:179, 10:10, 10:26, 10:36, 13:28, 13:32, 14:5, 14:13, 16:10, 16:94, 16:122, 19:77, 22:17, 22:38, 24:36, 24:47, 26:63, 26:79, 28:57, 29:70, 31:5-6, 33:5, 35:9, 37:119, 39:19, 39:24, 39:38, 42:14, 47:18, 48:3, 48:21, 49:18, 64:12, 74:32, 76:4"
+            },
+            {
+                "id": 12437,
+                "topic": "Muhammad<sup>(sa)</sup>: favours on",
+                "verses": "48:3, 25:11, 94:2-7, 108:2-4"
+            },
+            {
+                "id": 12478,
+                "topic": "Muhammad<sup>(sa)</sup>: love and mercy for mankind",
+                "verses": "18:7, 3:160, 9:128, 15:98, 16:76, 18:29, 21:108, 26:4-5, 27:71, 35:9, 36:77, 43:89-90, 80:2-12"
+            }
+        ],
+        "ar": "وَ  وَجَدَکَ ضَآلًّا فَہَدٰی ۪﴿۸﴾ ",
+        "ur": "اور تجھے تلاش میں سرگرداں (نہیں) پایا، پس ہدایت دی۔",
+        "v5": {
+            "text": "And He found thee wandering in search <i>of Him</i> and guided thee <i>unto Himself</i>.[4767]",
+            "notes": [
+                {
+                    "ref": "4767",
+                    "note": "<p><strong>Important Words:</strong></p><p>ضال (wandering) is derived from ضل which means, he erred or went astray; he was perplexed and was unable to see the right course; he was entirely engrossed or was lost in the love of a thing; he wandered in search of a thing and persevered in the search. ضل الماء فی اللبن means, the water became hidden in the milk, etc. (Lane, Aqrab &amp; Mufradat).</p><p><strong>Commentary:</strong></p><p>In view of different meanings of the word ضل given above under Important Words, the verse may be interpreted thus: (1) The Holy Prophet wandered in search of the ways and means to attain to God, and God revealed to him the law which guided him to the desired goal. (2) He was perplexed and did not know how to find the path that led to the attainment of his quest and God guided him to it (42:53). (3) He was entirely lost in the love of God and did not know how to find Him but God led him to Himself (12:9). (4) He was hidden from the eyes of the world. God discovered him and chose him for the task of leading people to Him. Thus the word ضال has not been used in disapprobation but in praise of the Holy Prophet. The word in the sense of 'gone astray' does not and cannot apply to the Holy Prophet since according to another Quranic verse (53:3) he was immune to error or going astray. Moreover, the six concluding verses of the <i>Surah</i> reveal a certain sequence—vv. 7, 8 &amp; 9 standing in close relationship and corresponding to vv. 10, 11 &amp; 12 respectively; the ضال of verse 8 being substituted by سائل of verse 11, explains the significance of the former word which is, \"one who sought God’s help to be guided to Him.\"</p><p>The verse may also be interpreted as: And He found thee lost in thy love for thy people, and provided thee with guidance for them.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 93,
+        "v": 9,
+        "v_": 8,
+        "topics": [
+            {
+                "id": 12437,
+                "topic": "Muhammad<sup>(sa)</sup>: favours on",
+                "verses": "48:3, 25:11, 94:2-7, 108:2-4"
+            }
+        ],
+        "ar": "وَ وَجَدَکَ عَآئِلًا فَاَغۡنٰی ؕ﴿۹﴾ ",
+        "ur": "اور تجھے ایک بڑے کنبہ والا (نہیں) پایا، پس غنی کردیا۔",
+        "v5": {
+            "text": "And He found thee in want and enriched <i>thee</i>.[4768]",
+            "notes": [
+                {
+                    "ref": "4768",
+                    "note": "<p><strong>Important Words:</strong></p><p>عائل (one in want) is derived from عال . They say عال الرجل i.e. the man had a large family to support; he became poor. عال عیاله means, he fed, nourished or supported his family. عال الشیء فلانا means, the thing oppressed or distressed such a one (Lane &amp; Aqrab).</p><p><strong>Commentary:</strong></p><p>The Holy Prophet started life as a poor orphan but ended by being the undisputed master of the whole of Arabia.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "ch": 93,
+        "v": 10,
+        "v_": 9,
+        "topics": [
+            {
+                "id": 13337,
+                "topic": "Orphans: <i>Yatim</i>: treatment of",
+                "verses": "2:84, 2:221, 4:9, 4:37, 4:128, 89:18, 107:3"
+            }
+        ],
+        "ar": "فَاَمَّا  الۡیَتِیۡمَ  فَلَا تَقۡہَرۡ ؕ﴿۱۰﴾ ",
+        "ur": "پس جہاں تک یتیم کا تعلق ہے تو اُس پر سختی نہ کر۔",
+        "v5": {
+            "text": "So the orphan, oppress not,",
+            "notes": null
+        }
+    },
+    {
+        "ch": 93,
+        "v": 11,
+        "v_": 10,
+        "topics": [
+            {
+                "id": 12847,
+                "topic": "Nahr: to chide",
+                "verses": "17:24"
+            },
+            {
+                "id": 17104,
+                "topic": "Spending: <i>Nafaqah</i>: ways of",
+                "verses": "2:216, 2:264-265, 2:272-273, 4:39, 17:27-28, 25:68"
+            }
+        ],
+        "ar": "وَ اَمَّا السَّآئِلَ  فَلَا تَنۡہَرۡ ﴿ؕ۱۱﴾ ",
+        "ur": "اور جہاں تک سوالی کا تعلق ہے تو اُسے مت جھڑک۔",
+        "v5": {
+            "text": "And him who seeks <i>thy help</i>, [a]chide not,",
+            "notes": [
+                {
+                    "ref": "a",
+                    "note": "17:24"
+                }
+            ]
+        }
+    }
+]
