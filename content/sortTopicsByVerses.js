@@ -4,7 +4,7 @@ const topics = require('./json/topics.json')
 
 async function run() {
     const sorted = Object.values(topics).sort(
-        (a, b) => parseFloat(b.maxVerses) - parseFloat(a.maxVerses)
+        (a, b) => parseFloat(a.maxVerses) - parseFloat(b.maxVerses)
     )
     // eslint-disable-next-line no-restricted-syntax
     for (const [key, value] of Object.entries(topics)) {
@@ -16,7 +16,7 @@ async function run() {
             }
         }
     }
-    const filepath = path.join(__dirname, 'sortedTopics.json')
+    const filepath = path.join(__dirname, 'json/sortedTopicsASC.json')
     await jsonfile.writeFile(filepath, sorted, { spaces: 4 })
 }
 
